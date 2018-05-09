@@ -4624,8 +4624,6 @@ hides_and_skins_food_supply_quantity_kg_capita_yr_fle,Hides and skins - Food sup
 hides_and_skins_food_supply_quantity_tonnes_fle,Hides and skins - Food supply quantity (tonnes),tonnes,measure
 hides_and_skins_import_quantity_cle,Hides and skins - Import Quantity,tonnes,measure
 hides_and_skins_losses_cle,Hides and skins - Losses,tonnes,measure
-hides_and_skins_nes_fresh_import_quantity_tcl,"Hides and skins nes, fresh - Import Quantity",tonnes,measure
-hides_and_skins_nes_fresh_import_value_tcl,"Hides and skins nes, fresh - Import Value",1000 US$,measure
 hides_and_skins_other_uses_cle,Hides and skins - Other uses,tonnes,measure
 hides_and_skins_processing_cle,Hides and skins - Processing,tonnes,measure
 hides_and_skins_production_cle,Hides and skins - Production,tonnes,measure
@@ -11071,10 +11069,6 @@ vegetables_and_fruit_primary_gross_production_value_constant_2004_2006_1000_i_vo
 vegetables_and_fruit_primary_net_per_capita_production_index_number_2004_2006_100_pie1,Vegetables and Fruit Primary - Net per capita Production Index Number (2004-2006 = 100),Int. $,measure
 vegetables_and_fruit_primary_net_production_index_number_2004_2006_100_pie1,Vegetables and Fruit Primary - Net Production Index Number (2004-2006 = 100),Int. $,measure
 vegetables_and_fruit_primary_net_production_value_constant_2004_2006_1000_i_vop,Vegetables and Fruit Primary - Net Production Value (constant 2004-2006 1000 I$),1000 Int. $,measure
-vegetables_canned_nes_export_quantity_tcl,"Vegetables, canned nes - Export Quantity",tonnes,measure
-vegetables_canned_nes_export_value_tcl,"Vegetables, canned nes - Export Value",1000 US$,measure
-vegetables_canned_nes_import_quantity_tcl,"Vegetables, canned nes - Import Quantity",tonnes,measure
-vegetables_canned_nes_import_value_tcl,"Vegetables, canned nes - Import Value",1000 US$,measure
 vegetables_dehydrated_export_quantity_tcl,"Vegetables, dehydrated - Export Quantity",tonnes,measure
 vegetables_dehydrated_export_value_tcl,"Vegetables, dehydrated - Export Value",1000 US$,measure
 vegetables_dehydrated_import_quantity_tcl,"Vegetables, dehydrated - Import Quantity",tonnes,measure
