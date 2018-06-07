@@ -11,7 +11,8 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 258,Anguilla,,,AI,AIA,660,True,False,"5200,5848,5206,5852,5803,5000"
 5848,Annex I countries,,,,,,False,True,
 5600,Antarctic Region,,,,,,False,True,
-30,Antarctica,,,AQ,ATA,,True,False,"5600,5000"
+30,Antarctica,,,AQ,ATA,,True,False,"5600,5000,5000"
+30,Antarctica,,,AQ,ATA,10,True,False,"5600,5000,5000"
 8,Antigua and Barbuda,,,AG,ATG,28,True,False,"5200,5206,5852,5205,5817,5849,5803,5000"
 9,Argentina,,,AR,ARG,32,True,False,"5200,5852,5205,5849,5207,5000"
 1,Armenia,1992,,AM,ARM,51,True,False,"5300,5852,5802,5859,5849,5305,5308,5000"
@@ -63,7 +64,8 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 128,"China, Macao SAR",,,MO,MAC,446,True,False,"5300,5852,5302,5307,5849,5000"
 41,"China, mainland",,,CN,CHN,1248,True,False,"5300,5852,5302,5307,5849,5000"
 214,"China, Taiwan Province of",,,TW,TWN,158,True,False,"5300,5852,5302,5307,5849,5000"
-42,Christmas Island,,,CX,CXR,,True,False,"5501,5500,5000"
+42,Christmas Island,,,CX,CXR,,True,False,"5501,5501,5500,5500,5000,5000"
+42,Christmas Island,,,CX,CXR,162,True,False,"5501,5501,5500,5500,5000,5000"
 43,Cocos (Keeling) Islands,,,CC,CCK,166,True,False,"5501,5500,5000"
 44,Colombia,,,CO,COL,170,True,False,"5200,5852,5205,5849,5207,5000"
 45,Comoros,,,KM,COM,174,True,False,"5100,5852,5101,5801,5858,5815,5817,5849,5803,420,5810,5000"
