@@ -9246,8 +9246,6 @@ hazelnuts_shelled_export_quantity_tcl,"Hazelnuts, shelled - Export Quantity",ton
 hazelnuts_shelled_export_value_tcl,"Hazelnuts, shelled - Export Value",1000 US$,measure
 hazelnuts_shelled_import_quantity_tcl,"Hazelnuts, shelled - Import Quantity",tonnes,measure
 hazelnuts_shelled_import_value_tcl,"Hazelnuts, shelled - Import Value",1000 US$,measure
-hides_and_skins_nes_fresh_import_quantity_tcl,"Hides and skins nes, fresh - Import Quantity",tonnes,measure
-hides_and_skins_nes_fresh_import_value_tcl,"Hides and skins nes, fresh - Import Value",1000 US$,measure
 hides_buffalo_dry_salted_export_quantity_tcl,"Hides, buffalo, dry salted - Export Quantity",tonnes,measure
 hides_buffalo_dry_salted_export_value_tcl,"Hides, buffalo, dry salted - Export Value",1000 US$,measure
 hides_buffalo_dry_salted_import_quantity_tcl,"Hides, buffalo, dry salted - Import Quantity",tonnes,measure
@@ -10202,10 +10200,6 @@ vegetables_in_vinegar_export_quantity_tcl,Vegetables in vinegar - Export Quantit
 vegetables_in_vinegar_export_value_tcl,Vegetables in vinegar - Export Value,1000 US$,measure
 vegetables_in_vinegar_import_quantity_tcl,Vegetables in vinegar - Import Quantity,tonnes,measure
 vegetables_in_vinegar_import_value_tcl,Vegetables in vinegar - Import Value,1000 US$,measure
-vegetables_canned_nes_export_quantity_tcl,"Vegetables, canned nes - Export Quantity",tonnes,measure
-vegetables_canned_nes_export_value_tcl,"Vegetables, canned nes - Export Value",1000 US$,measure
-vegetables_canned_nes_import_quantity_tcl,"Vegetables, canned nes - Import Quantity",tonnes,measure
-vegetables_canned_nes_import_value_tcl,"Vegetables, canned nes - Import Value",1000 US$,measure
 vegetables_dehydrated_export_quantity_tcl,"Vegetables, dehydrated - Export Quantity",tonnes,measure
 vegetables_dehydrated_export_value_tcl,"Vegetables, dehydrated - Export Value",1000 US$,measure
 vegetables_dehydrated_import_quantity_tcl,"Vegetables, dehydrated - Import Quantity",tonnes,measure
