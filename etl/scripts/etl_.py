@@ -151,7 +151,7 @@ def process_file(zf, f, domains):
 
         # don't include geos not in geo domain
         # FIXME: automate this
-        df_ = df_[~df_['geo'].isin([57060, 261, 266, 268, 269])]
+        df_ = df_[~df_['geo'].isin([57060, 261, 266, 268, 269, 3698])]
 
         (df_[['geo', 'year', concept_id]]
          .to_csv('../../ddf--datapoints--{}--by--geo--year.csv'.format(concept_id),
