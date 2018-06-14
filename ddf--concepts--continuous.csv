@@ -6641,194 +6641,6 @@ population_est_proj_total_population_both_sexes_pea,Population - Est. & Proj. - 
 population_est_proj_total_population_female_pea,Population - Est. & Proj. - Total Population - Female,1000 persons,measure
 population_est_proj_total_population_male_pea,Population - Est. & Proj. - Total Population - Male,1000 persons,measure
 population_est_proj_urban_population_pea,Population - Est. & Proj. - Urban population,1000 persons,measure
-agave_fibres_nes_producer_price_lcu_tonne_pea1,Agave Fibres Nes - Producer Price (LCU/tonne),LCU,measure
-almonds_with_shell_producer_price_lcu_tonne_pea1,"Almonds, with shell - Producer Price (LCU/tonne)",LCU,measure
-anise_badian_fennel_corian_producer_price_lcu_tonne_pea1,"Anise, badian, fennel, corian. - Producer Price (LCU/tonne)",LCU,measure
-apples_producer_price_lcu_tonne_pea1,Apples - Producer Price (LCU/tonne),LCU,measure
-apricots_producer_price_lcu_tonne_pea1,Apricots - Producer Price (LCU/tonne),LCU,measure
-artichokes_producer_price_lcu_tonne_pea1,Artichokes - Producer Price (LCU/tonne),LCU,measure
-asparagus_producer_price_lcu_tonne_pea1,Asparagus - Producer Price (LCU/tonne),LCU,measure
-ass_live_weight_producer_price_lcu_tonne_pea1,Ass Live Weight - Producer Price (LCU/tonne),LCU,measure
-avocados_producer_price_lcu_tonne_pea1,Avocados - Producer Price (LCU/tonne),LCU,measure
-bananas_producer_price_lcu_tonne_pea1,Bananas - Producer Price (LCU/tonne),LCU,measure
-barley_producer_price_lcu_tonne_pea1,Barley - Producer Price (LCU/tonne),LCU,measure
-beans_dry_producer_price_lcu_tonne_pea1,"Beans, dry - Producer Price (LCU/tonne)",LCU,measure
-beans_green_producer_price_lcu_tonne_pea1,"Beans, green - Producer Price (LCU/tonne)",LCU,measure
-beeswax_producer_price_lcu_tonne_pea1,Beeswax - Producer Price (LCU/tonne),LCU,measure
-berries_nes_producer_price_lcu_tonne_pea1,Berries Nes - Producer Price (LCU/tonne),LCU,measure
-blueberries_producer_price_lcu_tonne_pea1,Blueberries - Producer Price (LCU/tonne),LCU,measure
-brazil_nuts_with_shell_producer_price_lcu_tonne_pea1,"Brazil nuts, with shell - Producer Price (LCU/tonne)",LCU,measure
-broad_beans_horse_beans_dry_producer_price_lcu_tonne_pea1,"Broad beans, horse beans, dry - Producer Price (LCU/tonne)",LCU,measure
-buckwheat_producer_price_lcu_tonne_pea1,Buckwheat - Producer Price (LCU/tonne),LCU,measure
-buffalo_live_weight_producer_price_lcu_tonne_pea1,Buffalo Live Weight - Producer Price (LCU/tonne),LCU,measure
-buffalo_milk_whole_fresh_producer_price_lcu_tonne_pea1,"Buffalo milk, whole, fresh - Producer Price (LCU/tonne)",LCU,measure
-cabbages_and_other_brassicas_producer_price_lcu_tonne_pea1,Cabbages and other brassicas - Producer Price (LCU/tonne),LCU,measure
-camel_live_weight_producer_price_lcu_tonne_pea1,Camel Live Weight - Producer Price (LCU/tonne),LCU,measure
-camel_milk_whole_fresh_producer_price_lcu_tonne_pea1,"Camel milk, whole, fresh - Producer Price (LCU/tonne)",LCU,measure
-canary_seed_producer_price_lcu_tonne_pea1,Canary seed - Producer Price (LCU/tonne),LCU,measure
-carobs_producer_price_lcu_tonne_pea1,Carobs - Producer Price (LCU/tonne),LCU,measure
-carrots_and_turnips_producer_price_lcu_tonne_pea1,Carrots and turnips - Producer Price (LCU/tonne),LCU,measure
-cashew_nuts_with_shell_producer_price_lcu_tonne_pea1,"Cashew nuts, with shell - Producer Price (LCU/tonne)",LCU,measure
-cassava_producer_price_lcu_tonne_pea1,Cassava - Producer Price (LCU/tonne),LCU,measure
-castor_oil_seed_producer_price_lcu_tonne_pea1,Castor oil seed - Producer Price (LCU/tonne),LCU,measure
-cattle_live_weight_producer_price_lcu_tonne_pea1,Cattle Live Weight - Producer Price (LCU/tonne),LCU,measure
-cauliflowers_and_broccoli_producer_price_lcu_tonne_pea1,Cauliflowers and broccoli - Producer Price (LCU/tonne),LCU,measure
-cereals_nes_producer_price_lcu_tonne_pea1,"Cereals, nes - Producer Price (LCU/tonne)",LCU,measure
-cherries_producer_price_lcu_tonne_pea1,Cherries - Producer Price (LCU/tonne),LCU,measure
-chestnuts_producer_price_lcu_tonne_pea1,Chestnuts - Producer Price (LCU/tonne),LCU,measure
-chick_peas_producer_price_lcu_tonne_pea1,Chick peas - Producer Price (LCU/tonne),LCU,measure
-chicken_live_weight_producer_price_lcu_tonne_pea1,Chicken Live Weight - Producer Price (LCU/tonne),LCU,measure
-chicory_roots_producer_price_lcu_tonne_pea1,Chicory roots - Producer Price (LCU/tonne),LCU,measure
-chillies_and_peppers_dry_producer_price_lcu_tonne_pea1,"Chillies and peppers, dry - Producer Price (LCU/tonne)",LCU,measure
-chillies_and_peppers_green_producer_price_lcu_tonne_pea1,"Chillies and peppers, green - Producer Price (LCU/tonne)",LCU,measure
-cinnamon_canella_producer_price_lcu_tonne_pea1,Cinnamon (canella) - Producer Price (LCU/tonne),LCU,measure
-citrus_fruit_nes_producer_price_lcu_tonne_pea1,"Citrus fruit, nes - Producer Price (LCU/tonne)",LCU,measure
-cloves_producer_price_lcu_tonne_pea1,Cloves - Producer Price (LCU/tonne),LCU,measure
-cocoa_beans_producer_price_lcu_tonne_pea1,Cocoa beans - Producer Price (LCU/tonne),LCU,measure
-coconuts_producer_price_lcu_tonne_pea1,Coconuts - Producer Price (LCU/tonne),LCU,measure
-coffee_green_producer_price_lcu_tonne_pea1,"Coffee, green - Producer Price (LCU/tonne)",LCU,measure
-cotton_lint_producer_price_lcu_tonne_pea1,Cotton lint - Producer Price (LCU/tonne),LCU,measure
-cottonseed_producer_price_lcu_tonne_pea1,Cottonseed - Producer Price (LCU/tonne),LCU,measure
-cow_milk_whole_fresh_producer_price_lcu_tonne_pea1,"Cow milk, whole, fresh - Producer Price (LCU/tonne)",LCU,measure
-cow_peas_dry_producer_price_lcu_tonne_pea1,"Cow peas, dry - Producer Price (LCU/tonne)",LCU,measure
-cranberries_producer_price_lcu_tonne_pea1,Cranberries - Producer Price (LCU/tonne),LCU,measure
-cucumbers_and_gherkins_producer_price_lcu_tonne_pea1,Cucumbers and gherkins - Producer Price (LCU/tonne),LCU,measure
-currants_producer_price_lcu_tonne_pea1,Currants - Producer Price (LCU/tonne),LCU,measure
-dates_producer_price_lcu_tonne_pea1,Dates - Producer Price (LCU/tonne),LCU,measure
-duck_live_weight_producer_price_lcu_tonne_pea1,Duck Live Weight - Producer Price (LCU/tonne),LCU,measure
-eggplants_aubergines_producer_price_lcu_tonne_pea1,Eggplants (aubergines) - Producer Price (LCU/tonne),LCU,measure
-fibre_crops_nes_producer_price_lcu_tonne_pea1,Fibre Crops Nes - Producer Price (LCU/tonne),LCU,measure
-figs_producer_price_lcu_tonne_pea1,Figs - Producer Price (LCU/tonne),LCU,measure
-flax_fibre_and_tow_producer_price_lcu_tonne_pea1,Flax fibre and tow - Producer Price (LCU/tonne),LCU,measure
-fonio_producer_price_lcu_tonne_pea1,Fonio - Producer Price (LCU/tonne),LCU,measure
-fruit_fresh_nes_producer_price_lcu_tonne_pea1,Fruit Fresh Nes - Producer Price (LCU/tonne),LCU,measure
-fruit_tropical_fresh_nes_producer_price_lcu_tonne_pea1,"Fruit, tropical fresh nes - Producer Price (LCU/tonne)",LCU,measure
-game_meat_producer_price_lcu_tonne_pea1,Game meat - Producer Price (LCU/tonne),LCU,measure
-garlic_producer_price_lcu_tonne_pea1,Garlic - Producer Price (LCU/tonne),LCU,measure
-ginger_producer_price_lcu_tonne_pea1,Ginger - Producer Price (LCU/tonne),LCU,measure
-goat_live_weight_producer_price_lcu_tonne_pea1,Goat Live Weight - Producer Price (LCU/tonne),LCU,measure
-goat_milk_whole_fresh_producer_price_lcu_tonne_pea1,"Goat milk, whole, fresh - Producer Price (LCU/tonne)",LCU,measure
-goose_live_weight_producer_price_lcu_tonne_pea1,Goose Live Weight - Producer Price (LCU/tonne),LCU,measure
-gooseberries_producer_price_lcu_tonne_pea1,Gooseberries - Producer Price (LCU/tonne),LCU,measure
-grapefruit_inc_pomelos_producer_price_lcu_tonne_pea1,Grapefruit (inc. pomelos) - Producer Price (LCU/tonne),LCU,measure
-grapes_producer_price_lcu_tonne_pea1,Grapes - Producer Price (LCU/tonne),LCU,measure
-groundnuts_with_shell_producer_price_lcu_tonne_pea1,"Groundnuts, with shell - Producer Price (LCU/tonne)",LCU,measure
-gums_natural_producer_price_lcu_tonne_pea1,Gums Natural - Producer Price (LCU/tonne),LCU,measure
-hazelnuts_with_shell_producer_price_lcu_tonne_pea1,"Hazelnuts, with shell - Producer Price (LCU/tonne)",LCU,measure
-hemp_tow_waste_producer_price_lcu_tonne_pea1,Hemp Tow Waste - Producer Price (LCU/tonne),LCU,measure
-hempseed_producer_price_lcu_tonne_pea1,Hempseed - Producer Price (LCU/tonne),LCU,measure
-hen_eggs_in_shell_producer_price_lcu_tonne_pea1,"Hen eggs, in shell - Producer Price (LCU/tonne)",LCU,measure
-honey_natural_producer_price_lcu_tonne_pea1,"Honey, natural - Producer Price (LCU/tonne)",LCU,measure
-hops_producer_price_lcu_tonne_pea1,Hops - Producer Price (LCU/tonne),LCU,measure
-horse_live_weight_producer_price_lcu_tonne_pea1,Horse Live Weight - Producer Price (LCU/tonne),LCU,measure
-jute_producer_price_lcu_tonne_pea1,Jute - Producer Price (LCU/tonne),LCU,measure
-karite_nuts_sheanuts_producer_price_lcu_tonne_pea1,Karite Nuts (Sheanuts) - Producer Price (LCU/tonne),LCU,measure
-kiwi_fruit_producer_price_lcu_tonne_pea1,Kiwi fruit - Producer Price (LCU/tonne),LCU,measure
-kolanuts_producer_price_lcu_tonne_pea1,Kolanuts - Producer Price (LCU/tonne),LCU,measure
-leguminous_vegetables_nes_producer_price_lcu_tonne_pea1,"Leguminous vegetables, nes - Producer Price (LCU/tonne)",LCU,measure
-lemons_and_limes_producer_price_lcu_tonne_pea1,Lemons and limes - Producer Price (LCU/tonne),LCU,measure
-lentils_producer_price_lcu_tonne_pea1,Lentils - Producer Price (LCU/tonne),LCU,measure
-lettuce_and_chicory_producer_price_lcu_tonne_pea1,Lettuce and chicory - Producer Price (LCU/tonne),LCU,measure
-linseed_producer_price_lcu_tonne_pea1,Linseed - Producer Price (LCU/tonne),LCU,measure
-lupins_producer_price_lcu_tonne_pea1,Lupins - Producer Price (LCU/tonne),LCU,measure
-maize_producer_price_lcu_tonne_pea1,Maize - Producer Price (LCU/tonne),LCU,measure
-maize_green_producer_price_lcu_tonne_pea1,"Maize, green - Producer Price (LCU/tonne)",LCU,measure
-mangoes_mangosteens_guavas_producer_price_lcu_tonne_pea1,"Mangoes, mangosteens, guavas - Producer Price (LCU/tonne)",LCU,measure
-manila_fibre_abaca_producer_price_lcu_tonne_pea1,Manila Fibre (Abaca) - Producer Price (LCU/tonne),LCU,measure
-mate_producer_price_lcu_tonne_pea1,Maté - Producer Price (LCU/tonne),LCU,measure
-meat_nes_producer_price_lcu_tonne_pea1,Meat nes - Producer Price (LCU/tonne),LCU,measure
-melonseed_producer_price_lcu_tonne_pea1,Melonseed - Producer Price (LCU/tonne),LCU,measure
-millet_producer_price_lcu_tonne_pea1,Millet - Producer Price (LCU/tonne),LCU,measure
-mixed_grain_producer_price_lcu_tonne_pea1,Mixed grain - Producer Price (LCU/tonne),LCU,measure
-mule_live_weight_producer_price_lcu_tonne_pea1,Mule Live Weight - Producer Price (LCU/tonne),LCU,measure
-mushrooms_and_truffles_producer_price_lcu_tonne_pea1,Mushrooms and truffles - Producer Price (LCU/tonne),LCU,measure
-mustard_seed_producer_price_lcu_tonne_pea1,Mustard seed - Producer Price (LCU/tonne),LCU,measure
-natural_rubber_producer_price_lcu_tonne_pea1,Natural rubber - Producer Price (LCU/tonne),LCU,measure
-nutmeg_mace_and_cardamoms_producer_price_lcu_tonne_pea1,"Nutmeg, mace and cardamoms - Producer Price (LCU/tonne)",LCU,measure
-nuts_nes_producer_price_lcu_tonne_pea1,"Nuts, nes - Producer Price (LCU/tonne)",LCU,measure
-oats_producer_price_lcu_tonne_pea1,Oats - Producer Price (LCU/tonne),LCU,measure
-oil_palm_fruit_producer_price_lcu_tonne_pea1,Oil palm fruit - Producer Price (LCU/tonne),LCU,measure
-oilseeds_nes_producer_price_lcu_tonne_pea1,"Oilseeds, Nes - Producer Price (LCU/tonne)",LCU,measure
-okra_producer_price_lcu_tonne_pea1,Okra - Producer Price (LCU/tonne),LCU,measure
-olives_producer_price_lcu_tonne_pea1,Olives - Producer Price (LCU/tonne),LCU,measure
-onions_inc_shallots_green_producer_price_lcu_tonne_pea1,"Onions (inc. shallots), green - Producer Price (LCU/tonne)",LCU,measure
-onions_dry_producer_price_lcu_tonne_pea1,"Onions, dry - Producer Price (LCU/tonne)",LCU,measure
-oranges_producer_price_lcu_tonne_pea1,Oranges - Producer Price (LCU/tonne),LCU,measure
-other_bastfibres_producer_price_lcu_tonne_pea1,Other Bastfibres - Producer Price (LCU/tonne),LCU,measure
-other_camelids_live_weight_producer_price_lcu_tonne_pea1,Other Camelids Live Weight - Producer Price (LCU/tonne),LCU,measure
-other_poultry_live_weight_producer_price_lcu_tonne_pea1,Other Poultry Live Weight - Producer Price (LCU/tonne),LCU,measure
-other_bird_eggs_in_shell_producer_price_lcu_tonne_pea1,"Other bird eggs,in shell - Producer Price (LCU/tonne)",LCU,measure
-other_melons_inc_cantaloupes_producer_price_lcu_tonne_pea1,Other melons (inc.cantaloupes) - Producer Price (LCU/tonne),LCU,measure
-palm_kernels_producer_price_lcu_tonne_pea1,Palm kernels - Producer Price (LCU/tonne),LCU,measure
-palm_oil_producer_price_lcu_tonne_pea1,Palm oil - Producer Price (LCU/tonne),LCU,measure
-papayas_producer_price_lcu_tonne_pea1,Papayas - Producer Price (LCU/tonne),LCU,measure
-peaches_and_nectarines_producer_price_lcu_tonne_pea1,Peaches and nectarines - Producer Price (LCU/tonne),LCU,measure
-pears_producer_price_lcu_tonne_pea1,Pears - Producer Price (LCU/tonne),LCU,measure
-peas_dry_producer_price_lcu_tonne_pea1,"Peas, dry - Producer Price (LCU/tonne)",LCU,measure
-peas_green_producer_price_lcu_tonne_pea1,"Peas, green - Producer Price (LCU/tonne)",LCU,measure
-pepper_piper_spp_producer_price_lcu_tonne_pea1,Pepper (Piper spp.) - Producer Price (LCU/tonne),LCU,measure
-peppermint_producer_price_lcu_tonne_pea1,Peppermint - Producer Price (LCU/tonne),LCU,measure
-persimmons_producer_price_lcu_tonne_pea1,Persimmons - Producer Price (LCU/tonne),LCU,measure
-pig_live_weight_producer_price_lcu_tonne_pea1,Pig Live Weight - Producer Price (LCU/tonne),LCU,measure
-pigeon_peas_producer_price_lcu_tonne_pea1,Pigeon peas - Producer Price (LCU/tonne),LCU,measure
-pineapples_producer_price_lcu_tonne_pea1,Pineapples - Producer Price (LCU/tonne),LCU,measure
-pistachios_producer_price_lcu_tonne_pea1,Pistachios - Producer Price (LCU/tonne),LCU,measure
-plantains_producer_price_lcu_tonne_pea1,Plantains - Producer Price (LCU/tonne),LCU,measure
-plums_and_sloes_producer_price_lcu_tonne_pea1,Plums and sloes - Producer Price (LCU/tonne),LCU,measure
-popcorn_producer_price_lcu_tonne_pea1,Popcorn - Producer Price (LCU/tonne),LCU,measure
-poppy_seed_producer_price_lcu_tonne_pea1,Poppy seed - Producer Price (LCU/tonne),LCU,measure
-potatoes_producer_price_lcu_tonne_pea1,Potatoes - Producer Price (LCU/tonne),LCU,measure
-pulses_nes_producer_price_lcu_tonne_pea1,"Pulses, nes - Producer Price (LCU/tonne)",LCU,measure
-pumpkins_squash_and_gourds_producer_price_lcu_tonne_pea1,"Pumpkins, squash and gourds - Producer Price (LCU/tonne)",LCU,measure
-pyrethrum_dried_producer_price_lcu_tonne_pea1,"Pyrethrum,Dried - Producer Price (LCU/tonne)",LCU,measure
-quinces_producer_price_lcu_tonne_pea1,Quinces - Producer Price (LCU/tonne),LCU,measure
-quinoa_producer_price_lcu_tonne_pea1,Quinoa - Producer Price (LCU/tonne),LCU,measure
-rabbit_live_weight_producer_price_lcu_tonne_pea1,Rabbit - Live weight - Producer Price (LCU/tonne),LCU,measure
-ramie_producer_price_lcu_tonne_pea1,Ramie - Producer Price (LCU/tonne),LCU,measure
-rapeseed_producer_price_lcu_tonne_pea1,Rapeseed - Producer Price (LCU/tonne),LCU,measure
-raspberries_producer_price_lcu_tonne_pea1,Raspberries - Producer Price (LCU/tonne),LCU,measure
-rice_paddy_producer_price_lcu_tonne_pea1,"Rice, paddy - Producer Price (LCU/tonne)",LCU,measure
-rodents_live_weight_producer_price_lcu_tonne_pea1,Rodents Live Weight - Producer Price (LCU/tonne),LCU,measure
-roots_and_tubers_nes_producer_price_lcu_tonne_pea1,"Roots and Tubers, nes - Producer Price (LCU/tonne)",LCU,measure
-rye_producer_price_lcu_tonne_pea1,Rye - Producer Price (LCU/tonne),LCU,measure
-safflower_seed_producer_price_lcu_tonne_pea1,Safflower seed - Producer Price (LCU/tonne),LCU,measure
-seed_cotton_producer_price_lcu_tonne_pea1,Seed cotton - Producer Price (LCU/tonne),LCU,measure
-sesame_seed_producer_price_lcu_tonne_pea1,Sesame seed - Producer Price (LCU/tonne),LCU,measure
-sheep_live_weight_producer_price_lcu_tonne_pea1,Sheep Live Weight - Producer Price (LCU/tonne),LCU,measure
-sheep_milk_whole_fresh_producer_price_lcu_tonne_pea1,"Sheep milk, whole, fresh - Producer Price (LCU/tonne)",LCU,measure
-silk_worm_cocoons_reelable_producer_price_lcu_tonne_pea1,"Silk-worm cocoons, reelable - Producer Price (LCU/tonne)",LCU,measure
-sisal_producer_price_lcu_tonne_pea1,Sisal - Producer Price (LCU/tonne),LCU,measure
-sorghum_producer_price_lcu_tonne_pea1,Sorghum - Producer Price (LCU/tonne),LCU,measure
-sour_cherries_producer_price_lcu_tonne_pea1,Sour cherries - Producer Price (LCU/tonne),LCU,measure
-soybeans_producer_price_lcu_tonne_pea1,Soybeans - Producer Price (LCU/tonne),LCU,measure
-spices_nes_producer_price_lcu_tonne_pea1,"Spices, nes - Producer Price (LCU/tonne)",LCU,measure
-spinach_producer_price_lcu_tonne_pea1,Spinach - Producer Price (LCU/tonne),LCU,measure
-stillingia_oil_producer_price_lcu_tonne_pea1,Stillingia Oil - Producer Price (LCU/tonne),LCU,measure
-stone_fruit_nes_producer_price_lcu_tonne_pea1,"Stone fruit, nes - Producer Price (LCU/tonne)",LCU,measure
-strawberries_producer_price_lcu_tonne_pea1,Strawberries - Producer Price (LCU/tonne),LCU,measure
-string_beans_producer_price_lcu_tonne_pea1,String beans - Producer Price (LCU/tonne),LCU,measure
-sugar_beet_producer_price_lcu_tonne_pea1,Sugar beet - Producer Price (LCU/tonne),LCU,measure
-sugar_cane_producer_price_lcu_tonne_pea1,Sugar cane - Producer Price (LCU/tonne),LCU,measure
-sunflower_seed_producer_price_lcu_tonne_pea1,Sunflower seed - Producer Price (LCU/tonne),LCU,measure
-sweet_potatoes_producer_price_lcu_tonne_pea1,Sweet potatoes - Producer Price (LCU/tonne),LCU,measure
-tangerines_mandarins_clem_producer_price_lcu_tonne_pea1,"Tangerines, mandarins, clem. - Producer Price (LCU/tonne)",LCU,measure
-taro_cocoyam_producer_price_lcu_tonne_pea1,Taro (cocoyam) - Producer Price (LCU/tonne),LCU,measure
-tea_producer_price_lcu_tonne_pea1,Tea - Producer Price (LCU/tonne),LCU,measure
-tobacco_unmanufactured_producer_price_lcu_tonne_pea1,"Tobacco, unmanufactured - Producer Price (LCU/tonne)",LCU,measure
-tomatoes_producer_price_lcu_tonne_pea1,Tomatoes - Producer Price (LCU/tonne),LCU,measure
-triticale_producer_price_lcu_tonne_pea1,Triticale - Producer Price (LCU/tonne),LCU,measure
-tung_nuts_producer_price_lcu_tonne_pea1,Tung Nuts - Producer Price (LCU/tonne),LCU,measure
-turkey_live_weight_producer_price_lcu_tonne_pea1,Turkey Live Weight - Producer Price (LCU/tonne),LCU,measure
-vanilla_producer_price_lcu_tonne_pea1,Vanilla - Producer Price (LCU/tonne),LCU,measure
-vegetable_tallow_producer_price_lcu_tonne_pea1,Vegetable Tallow - Producer Price (LCU/tonne),LCU,measure
-vegetables_fresh_nes_producer_price_lcu_tonne_pea1,Vegetables fresh nes - Producer Price (LCU/tonne),LCU,measure
-vetches_producer_price_lcu_tonne_pea1,Vetches - Producer Price (LCU/tonne),LCU,measure
-walnuts_with_shell_producer_price_lcu_tonne_pea1,"Walnuts, with shell - Producer Price (LCU/tonne)",LCU,measure
-watermelons_producer_price_lcu_tonne_pea1,Watermelons - Producer Price (LCU/tonne),LCU,measure
-wheat_producer_price_lcu_tonne_pea1,Wheat - Producer Price (LCU/tonne),LCU,measure
-wool_greasy_producer_price_lcu_tonne_pea1,"Wool, greasy - Producer Price (LCU/tonne)",LCU,measure
-yams_producer_price_lcu_tonne_pea1,Yams - Producer Price (LCU/tonne),LCU,measure
-yautia_cocoyam_producer_price_lcu_tonne_pea1,Yautia (cocoyam) - Producer Price (LCU/tonne),LCU,measure
 agave_fibres_nes_producer_price_lcu_tonne_pea2,Agave fibres nes - Producer Price (LCU/tonne),LCU,measure
 agave_fibres_nes_producer_price_slc_tonne_pea2,Agave fibres nes - Producer Price (SLC/tonne),SLC,measure
 agave_fibres_nes_producer_price_usd_tonne_pea2,Agave fibres nes - Producer Price (USD/tonne),USD,measure
@@ -9246,6 +9058,8 @@ hazelnuts_shelled_export_quantity_tcl,"Hazelnuts, shelled - Export Quantity",ton
 hazelnuts_shelled_export_value_tcl,"Hazelnuts, shelled - Export Value",1000 US$,measure
 hazelnuts_shelled_import_quantity_tcl,"Hazelnuts, shelled - Import Quantity",tonnes,measure
 hazelnuts_shelled_import_value_tcl,"Hazelnuts, shelled - Import Value",1000 US$,measure
+hides_and_skins_nes_fresh_import_quantity_tcl,"Hides and skins nes, fresh - Import Quantity",tonnes,measure
+hides_and_skins_nes_fresh_import_value_tcl,"Hides and skins nes, fresh - Import Value",1000 US$,measure
 hides_buffalo_dry_salted_export_quantity_tcl,"Hides, buffalo, dry salted - Export Quantity",tonnes,measure
 hides_buffalo_dry_salted_export_value_tcl,"Hides, buffalo, dry salted - Export Value",1000 US$,measure
 hides_buffalo_dry_salted_import_quantity_tcl,"Hides, buffalo, dry salted - Import Quantity",tonnes,measure
@@ -10200,6 +10014,10 @@ vegetables_in_vinegar_export_quantity_tcl,Vegetables in vinegar - Export Quantit
 vegetables_in_vinegar_export_value_tcl,Vegetables in vinegar - Export Value,1000 US$,measure
 vegetables_in_vinegar_import_quantity_tcl,Vegetables in vinegar - Import Quantity,tonnes,measure
 vegetables_in_vinegar_import_value_tcl,Vegetables in vinegar - Import Value,1000 US$,measure
+vegetables_canned_nes_export_quantity_tcl,"Vegetables, canned nes - Export Quantity",tonnes,measure
+vegetables_canned_nes_export_value_tcl,"Vegetables, canned nes - Export Value",1000 US$,measure
+vegetables_canned_nes_import_quantity_tcl,"Vegetables, canned nes - Import Quantity",tonnes,measure
+vegetables_canned_nes_import_value_tcl,"Vegetables, canned nes - Import Value",1000 US$,measure
 vegetables_dehydrated_export_quantity_tcl,"Vegetables, dehydrated - Export Quantity",tonnes,measure
 vegetables_dehydrated_export_value_tcl,"Vegetables, dehydrated - Export Value",1000 US$,measure
 vegetables_dehydrated_import_quantity_tcl,"Vegetables, dehydrated - Import Quantity",tonnes,measure

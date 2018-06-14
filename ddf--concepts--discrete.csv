@@ -3,6 +3,7 @@ name,string,Name,
 geo,entity_domain,Geo domain,
 country,entity_set,Country,geo
 country_group,entity_set,Country Group,geo
+country_groups,string,Country Groups,
 year,time,Year,
 iso2_code,string,ISO2 Code,
 iso3_code,string,ISO3 Code,
