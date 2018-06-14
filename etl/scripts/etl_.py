@@ -88,7 +88,6 @@ def get_domains(zf):
         datasets.append(d_)
     fns = [x.filename for x in zf.filelist]
     domains = dict(zip(fns, datasets))
-    import ipdb; ipdb.set_trace()
     return domains
 
 
