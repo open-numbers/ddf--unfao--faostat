@@ -1652,126 +1652,6 @@ grassland_organic_soils_area_eac1,Grassland organic soils - Area,ha,measure
 grassland_organic_soils_emissions_co2eq_cultivation_of_organic_soils_eac1,Grassland organic soils - Emissions (CO2eq) (Cultivation of organic soils),gigagrams,measure
 grassland_organic_soils_emissions_n2o_cultivation_of_organic_soils_eac1,Grassland organic soils - Emissions (N2O) (Cultivation of organic soils),gigagrams,measure
 grassland_organic_soils_implied_emission_factor_for_n2o_cultivation_of_organic_soils_eac1,Grassland organic soils - Implied emission factor for N2O (Cultivation of organic soils),kg N2O-N/ha,measure
-coal_consumption_in_agriculture_eae,Coal - Consumption in Agriculture,Terajoule,measure
-coal_emissions_ch4_energy_eae,Coal - Emissions (CH4) (Energy),Gigagrams,measure
-coal_emissions_co2_energy_eae,Coal - Emissions (CO2) (Energy),Gigagrams,measure
-coal_emissions_co2eq_energy_eae,Coal - Emissions (CO2eq) (Energy),Gigagrams,measure
-coal_emissions_co2eq_from_ch4_energy_eae,Coal - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-coal_emissions_co2eq_from_n2o_energy_eae,Coal - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-coal_emissions_n2o_energy_eae,Coal - Emissions (N2O) (Energy),Gigagrams,measure
-coal_implied_emission_factor_for_ch4_eae,Coal - Implied emission factor for CH4,Kg/TJ,measure
-coal_implied_emission_factor_for_co2_eae,Coal - Implied emission factor for CO2,Kg/TJ,measure
-coal_implied_emission_factor_for_n2o_eae,Coal - Implied emission factor for N2O,Kg/TJ,measure
-electricity_emissions_ch4_energy_eae,Electricity - Emissions (CH4) (Energy),Gigagrams,measure
-electricity_emissions_co2_energy_eae,Electricity - Emissions (CO2) (Energy),Gigagrams,measure
-electricity_emissions_co2eq_energy_eae,Electricity - Emissions (CO2eq) (Energy),Gigagrams,measure
-electricity_emissions_co2eq_from_ch4_energy_eae,Electricity - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-electricity_emissions_co2eq_from_n2o_energy_eae,Electricity - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-electricity_emissions_n2o_energy_eae,Electricity - Emissions (N2O) (Energy),Gigagrams,measure
-electricity_implied_emission_factor_for_ch4_eae,Electricity - Implied emission factor for CH4,Kg/TJ,measure
-electricity_implied_emission_factor_for_co2_eae,Electricity - Implied emission factor for CO2,g/kWh,measure
-electricity_implied_emission_factor_for_n2o_eae,Electricity - Implied emission factor for N2O,Kg/TJ,measure
-energy_for_power_irrigation_consumption_in_agriculture_eae,Energy for power irrigation - Consumption in Agriculture,Terajoule,measure
-energy_for_power_irrigation_emissions_ch4_energy_eae,Energy for power irrigation - Emissions (CH4) (Energy),Gigagrams,measure
-energy_for_power_irrigation_emissions_co2_energy_eae,Energy for power irrigation - Emissions (CO2) (Energy),Gigagrams,measure
-energy_for_power_irrigation_emissions_co2eq_energy_eae,Energy for power irrigation - Emissions (CO2eq) (Energy),Gigagrams,measure
-energy_for_power_irrigation_emissions_co2eq_from_ch4_energy_eae,Energy for power irrigation - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-energy_for_power_irrigation_emissions_co2eq_from_n2o_energy_eae,Energy for power irrigation - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-energy_for_power_irrigation_emissions_n2o_energy_eae,Energy for power irrigation - Emissions (N2O) (Energy),Gigagrams,measure
-energy_for_power_irrigation_implied_emission_factor_for_ch4_eae,Energy for power irrigation - Implied emission factor for CH4,Kg/TJ,measure
-energy_for_power_irrigation_implied_emission_factor_for_co2_eae,Energy for power irrigation - Implied emission factor for CO2,g/kWh,measure
-energy_for_power_irrigation_implied_emission_factor_for_n2o_eae,Energy for power irrigation - Implied emission factor for N2O,Kg/TJ,measure
-energy_used_in_fishery_consumption_in_agriculture_eae,Energy used in fishery - Consumption in Agriculture,Terajoule,measure
-energy_used_in_fishery_emissions_ch4_energy_eae,Energy used in fishery - Emissions (CH4) (Energy),Gigagrams,measure
-energy_used_in_fishery_emissions_co2_energy_eae,Energy used in fishery - Emissions (CO2) (Energy),Gigagrams,measure
-energy_used_in_fishery_emissions_co2eq_energy_eae,Energy used in fishery - Emissions (CO2eq) (Energy),Gigagrams,measure
-energy_used_in_fishery_emissions_co2eq_from_ch4_energy_eae,Energy used in fishery - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-energy_used_in_fishery_emissions_co2eq_from_n2o_energy_eae,Energy used in fishery - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-energy_used_in_fishery_emissions_n2o_energy_eae,Energy used in fishery - Emissions (N2O) (Energy),Gigagrams,measure
-fuel_oil_consumption_in_agriculture_eae,Fuel oil - Consumption in Agriculture,Terajoule,measure
-fuel_oil_emissions_ch4_energy_eae,Fuel oil - Emissions (CH4) (Energy),Gigagrams,measure
-fuel_oil_emissions_co2_energy_eae,Fuel oil - Emissions (CO2) (Energy),Gigagrams,measure
-fuel_oil_emissions_co2eq_energy_eae,Fuel oil - Emissions (CO2eq) (Energy),Gigagrams,measure
-fuel_oil_emissions_co2eq_from_ch4_energy_eae,Fuel oil - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-fuel_oil_emissions_co2eq_from_n2o_energy_eae,Fuel oil - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-fuel_oil_emissions_n2o_energy_eae,Fuel oil - Emissions (N2O) (Energy),Gigagrams,measure
-fuel_oil_implied_emission_factor_for_ch4_eae,Fuel oil - Implied emission factor for CH4,Kg/TJ,measure
-fuel_oil_implied_emission_factor_for_co2_eae,Fuel oil - Implied emission factor for CO2,Kg/TJ,measure
-fuel_oil_implied_emission_factor_for_n2o_eae,Fuel oil - Implied emission factor for N2O,Kg/TJ,measure
-fuel_oil_used_in_fisheries_consumption_in_agriculture_eae,Fuel oil used in fisheries - Consumption in Agriculture,Terajoule,measure
-fuel_oil_used_in_fisheries_emissions_ch4_energy_eae,Fuel oil used in fisheries - Emissions (CH4) (Energy),Gigagrams,measure
-fuel_oil_used_in_fisheries_emissions_co2_energy_eae,Fuel oil used in fisheries - Emissions (CO2) (Energy),Gigagrams,measure
-fuel_oil_used_in_fisheries_emissions_co2eq_energy_eae,Fuel oil used in fisheries - Emissions (CO2eq) (Energy),Gigagrams,measure
-fuel_oil_used_in_fisheries_emissions_co2eq_from_ch4_energy_eae,Fuel oil used in fisheries - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-fuel_oil_used_in_fisheries_emissions_co2eq_from_n2o_energy_eae,Fuel oil used in fisheries - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-fuel_oil_used_in_fisheries_emissions_n2o_energy_eae,Fuel oil used in fisheries - Emissions (N2O) (Energy),Gigagrams,measure
-fuel_oil_used_in_fisheries_implied_emission_factor_for_ch4_eae,Fuel oil used in fisheries - Implied emission factor for CH4,Kg/TJ,measure
-fuel_oil_used_in_fisheries_implied_emission_factor_for_co2_eae,Fuel oil used in fisheries - Implied emission factor for CO2,Kg/TJ,measure
-fuel_oil_used_in_fisheries_implied_emission_factor_for_n2o_eae,Fuel oil used in fisheries - Implied emission factor for N2O,Kg/TJ,measure
-gas_diesel_oil_consumption_in_agriculture_eae,Gas-Diesel oil - Consumption in Agriculture,Terajoule,measure
-gas_diesel_oil_emissions_ch4_energy_eae,Gas-Diesel oil - Emissions (CH4) (Energy),Gigagrams,measure
-gas_diesel_oil_emissions_co2_energy_eae,Gas-Diesel oil - Emissions (CO2) (Energy),Gigagrams,measure
-gas_diesel_oil_emissions_co2eq_energy_eae,Gas-Diesel oil - Emissions (CO2eq) (Energy),Gigagrams,measure
-gas_diesel_oil_emissions_co2eq_from_ch4_energy_eae,Gas-Diesel oil - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-gas_diesel_oil_emissions_co2eq_from_n2o_energy_eae,Gas-Diesel oil - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-gas_diesel_oil_emissions_n2o_energy_eae,Gas-Diesel oil - Emissions (N2O) (Energy),Gigagrams,measure
-gas_diesel_oil_implied_emission_factor_for_ch4_eae,Gas-Diesel oil - Implied emission factor for CH4,Kg/TJ,measure
-gas_diesel_oil_implied_emission_factor_for_co2_eae,Gas-Diesel oil - Implied emission factor for CO2,Kg/TJ,measure
-gas_diesel_oil_implied_emission_factor_for_n2o_eae,Gas-Diesel oil - Implied emission factor for N2O,Kg/TJ,measure
-gas_diesel_oils_used_in_fisheries_consumption_in_agriculture_eae,Gas-diesel oils used in fisheries - Consumption in Agriculture,Terajoule,measure
-gas_diesel_oils_used_in_fisheries_emissions_ch4_energy_eae,Gas-diesel oils used in fisheries - Emissions (CH4) (Energy),Gigagrams,measure
-gas_diesel_oils_used_in_fisheries_emissions_co2_energy_eae,Gas-diesel oils used in fisheries - Emissions (CO2) (Energy),Gigagrams,measure
-gas_diesel_oils_used_in_fisheries_emissions_co2eq_energy_eae,Gas-diesel oils used in fisheries - Emissions (CO2eq) (Energy),Gigagrams,measure
-gas_diesel_oils_used_in_fisheries_emissions_co2eq_from_ch4_energy_eae,Gas-diesel oils used in fisheries - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-gas_diesel_oils_used_in_fisheries_emissions_co2eq_from_n2o_energy_eae,Gas-diesel oils used in fisheries - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-gas_diesel_oils_used_in_fisheries_emissions_n2o_energy_eae,Gas-diesel oils used in fisheries - Emissions (N2O) (Energy),Gigagrams,measure
-gas_diesel_oils_used_in_fisheries_implied_emission_factor_for_ch4_eae,Gas-diesel oils used in fisheries - Implied emission factor for CH4,Kg/TJ,measure
-gas_diesel_oils_used_in_fisheries_implied_emission_factor_for_co2_eae,Gas-diesel oils used in fisheries - Implied emission factor for CO2,Kg/TJ,measure
-gas_diesel_oils_used_in_fisheries_implied_emission_factor_for_n2o_eae,Gas-diesel oils used in fisheries - Implied emission factor for N2O,Kg/TJ,measure
-liquefied_petroleum_gas_lpg_consumption_in_agriculture_eae,Liquefied petroleum gas (LPG) - Consumption in Agriculture,Terajoule,measure
-liquefied_petroleum_gas_lpg_emissions_ch4_energy_eae,Liquefied petroleum gas (LPG) - Emissions (CH4) (Energy),Gigagrams,measure
-liquefied_petroleum_gas_lpg_emissions_co2_energy_eae,Liquefied petroleum gas (LPG) - Emissions (CO2) (Energy),Gigagrams,measure
-liquefied_petroleum_gas_lpg_emissions_co2eq_energy_eae,Liquefied petroleum gas (LPG) - Emissions (CO2eq) (Energy),Gigagrams,measure
-liquefied_petroleum_gas_lpg_emissions_co2eq_from_ch4_energy_eae,Liquefied petroleum gas (LPG) - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-liquefied_petroleum_gas_lpg_emissions_co2eq_from_n2o_energy_eae,Liquefied petroleum gas (LPG) - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-liquefied_petroleum_gas_lpg_emissions_n2o_energy_eae,Liquefied petroleum gas (LPG) - Emissions (N2O) (Energy),Gigagrams,measure
-liquefied_petroleum_gas_lpg_implied_emission_factor_for_ch4_eae,Liquefied petroleum gas (LPG) - Implied emission factor for CH4,Kg/TJ,measure
-liquefied_petroleum_gas_lpg_implied_emission_factor_for_co2_eae,Liquefied petroleum gas (LPG) - Implied emission factor for CO2,Kg/TJ,measure
-liquefied_petroleum_gas_lpg_implied_emission_factor_for_n2o_eae,Liquefied petroleum gas (LPG) - Implied emission factor for N2O,Kg/TJ,measure
-motor_gasoline_consumption_in_agriculture_eae,Motor Gasoline - Consumption in Agriculture,Terajoule,measure
-motor_gasoline_emissions_ch4_energy_eae,Motor Gasoline - Emissions (CH4) (Energy),Gigagrams,measure
-motor_gasoline_emissions_co2_energy_eae,Motor Gasoline - Emissions (CO2) (Energy),Gigagrams,measure
-motor_gasoline_emissions_co2eq_energy_eae,Motor Gasoline - Emissions (CO2eq) (Energy),Gigagrams,measure
-motor_gasoline_emissions_co2eq_from_ch4_energy_eae,Motor Gasoline - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-motor_gasoline_emissions_co2eq_from_n2o_energy_eae,Motor Gasoline - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-motor_gasoline_emissions_n2o_energy_eae,Motor Gasoline - Emissions (N2O) (Energy),Gigagrams,measure
-motor_gasoline_implied_emission_factor_for_ch4_eae,Motor Gasoline - Implied emission factor for CH4,Kg/TJ,measure
-motor_gasoline_implied_emission_factor_for_co2_eae,Motor Gasoline - Implied emission factor for CO2,Kg/TJ,measure
-motor_gasoline_implied_emission_factor_for_n2o_eae,Motor Gasoline - Implied emission factor for N2O,Kg/TJ,measure
-natural_gas_including_lng_consumption_in_agriculture_eae,Natural gas (including LNG) - Consumption in Agriculture,Terajoule,measure
-natural_gas_including_lng_emissions_ch4_energy_eae,Natural gas (including LNG) - Emissions (CH4) (Energy),Gigagrams,measure
-natural_gas_including_lng_emissions_co2_energy_eae,Natural gas (including LNG) - Emissions (CO2) (Energy),Gigagrams,measure
-natural_gas_including_lng_emissions_co2eq_energy_eae,Natural gas (including LNG) - Emissions (CO2eq) (Energy),Gigagrams,measure
-natural_gas_including_lng_emissions_co2eq_from_ch4_energy_eae,Natural gas (including LNG) - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-natural_gas_including_lng_emissions_co2eq_from_n2o_energy_eae,Natural gas (including LNG) - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-natural_gas_including_lng_emissions_n2o_energy_eae,Natural gas (including LNG) - Emissions (N2O) (Energy),Gigagrams,measure
-natural_gas_including_lng_implied_emission_factor_for_ch4_eae,Natural gas (including LNG) - Implied emission factor for CH4,Kg/TJ,measure
-natural_gas_including_lng_implied_emission_factor_for_co2_eae,Natural gas (including LNG) - Implied emission factor for CO2,Kg/TJ,measure
-natural_gas_including_lng_implied_emission_factor_for_n2o_eae,Natural gas (including LNG) - Implied emission factor for N2O,Kg/TJ,measure
-total_energy_consumption_in_agriculture_eae,Total Energy - Consumption in Agriculture,Terajoule,measure
-total_energy_emissions_ch4_energy_eae,Total Energy - Emissions (CH4) (Energy),Gigagrams,measure
-total_energy_emissions_co2_energy_eae,Total Energy - Emissions (CO2) (Energy),Gigagrams,measure
-total_energy_emissions_co2eq_energy_eae,Total Energy - Emissions (CO2eq) (Energy),Gigagrams,measure
-total_energy_emissions_co2eq_from_ch4_energy_eae,Total Energy - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-total_energy_emissions_co2eq_from_n2o_energy_eae,Total Energy - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-total_energy_emissions_n2o_energy_eae,Total Energy - Emissions (N2O) (Energy),Gigagrams,measure
-transport_fuel_used_in_agriculture_excl_fishery_consumption_in_agriculture_eae,Transport fuel used in agriculture (excl. fishery) - Consumption in Agriculture,Terajoule,measure
-transport_fuel_used_in_agriculture_excl_fishery_emissions_ch4_energy_eae,Transport fuel used in agriculture (excl. fishery) - Emissions (CH4) (Energy),Gigagrams,measure
-transport_fuel_used_in_agriculture_excl_fishery_emissions_co2_energy_eae,Transport fuel used in agriculture (excl. fishery) - Emissions (CO2) (Energy),Gigagrams,measure
-transport_fuel_used_in_agriculture_excl_fishery_emissions_co2eq_energy_eae,Transport fuel used in agriculture (excl. fishery) - Emissions (CO2eq) (Energy),Gigagrams,measure
-transport_fuel_used_in_agriculture_excl_fishery_emissions_co2eq_from_ch4_energy_eae,Transport fuel used in agriculture (excl. fishery) - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
-transport_fuel_used_in_agriculture_excl_fishery_emissions_co2eq_from_n2o_energy_eae,Transport fuel used in agriculture (excl. fishery) - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
-transport_fuel_used_in_agriculture_excl_fishery_emissions_n2o_energy_eae,Transport fuel used in agriculture (excl. fishery) - Emissions (N2O) (Energy),Gigagrams,measure
 all_animals_emissions_ch4_enteric_eae1,All Animals - Emissions (CH4) (Enteric),gigagrams,measure
 all_animals_emissions_co2eq_enteric_eae1,All Animals - Emissions (CO2eq) (Enteric),gigagrams,measure
 asses_emissions_ch4_enteric_eae1,Asses - Emissions (CH4) (Enteric),gigagrams,measure
@@ -2959,8 +2839,6 @@ nutrient_phosphate_p2o5_total_average_use_per_area_of_cropland_efe,Nutrient phos
 nutrient_potash_k2o_total_average_use_per_area_of_cropland_efe,Nutrient potash K2O (total) - Average use per area of cropland,kg/ha,measure
 artificial_surfaces_including_urban_and_associated_areas_area_from_cci_lc_ele,Artificial surfaces (including urban and associated areas) - Area from CCI_LC,1000 ha,measure
 artificial_surfaces_including_urban_and_associated_areas_area_from_modis_ele,Artificial surfaces (including urban and associated areas) - Area from MODIS,1000 ha,measure
-coastal_water_bodies_and_intertidal_areas_area_from_cci_lc_ele,Coastal water bodies and intertidal areas - Area from CCI_LC,1000 ha,measure
-coastal_water_bodies_and_intertidal_areas_area_from_modis_ele,Coastal water bodies and intertidal areas - Area from MODIS,1000 ha,measure
 grassland_area_from_cci_lc_ele,Grassland - Area from CCI_LC,1000 ha,measure
 grassland_area_from_modis_ele,Grassland - Area from MODIS,1000 ha,measure
 herbaceous_crops_area_from_cci_lc_ele,Herbaceous crops - Area from CCI_LC,1000 ha,measure
@@ -2968,19 +2846,13 @@ herbaceous_crops_area_from_modis_ele,Herbaceous crops - Area from MODIS,1000 ha,
 inland_water_bodies_area_from_cci_lc_ele,Inland water bodies - Area from CCI_LC,1000 ha,measure
 inland_water_bodies_area_from_modis_ele,Inland water bodies - Area from MODIS,1000 ha,measure
 mangroves_area_from_cci_lc_ele,Mangroves - Area from CCI_LC,1000 ha,measure
-mangroves_area_from_modis_ele,Mangroves - Area from MODIS,1000 ha,measure
-multiple_or_layered_crops_area_from_cci_lc_ele,Multiple or layered crops - Area from CCI_LC,1000 ha,measure
-multiple_or_layered_crops_area_from_modis_ele,Multiple or layered crops - Area from MODIS,1000 ha,measure
 permanent_snow_and_glaciers_area_from_cci_lc_ele,Permanent snow and glaciers - Area from CCI_LC,1000 ha,measure
 permanent_snow_and_glaciers_area_from_modis_ele,Permanent snow and glaciers - Area from MODIS,1000 ha,measure
 shrub_covered_areas_area_from_cci_lc_ele,Shrub-covered areas - Area from CCI_LC,1000 ha,measure
 shrub_covered_areas_area_from_modis_ele,Shrub-covered areas - Area from MODIS,1000 ha,measure
 shrubs_and_or_herbaceous_vegetation_aquatic_or_regularly_flooded_area_from_cci_lc_ele,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded - Area from CCI_LC",1000 ha,measure
-shrubs_and_or_herbaceous_vegetation_aquatic_or_regularly_flooded_area_from_modis_ele,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded - Area from MODIS",1000 ha,measure
 sparsely_natural_vegetated_areas_area_from_cci_lc_ele,Sparsely natural vegetated areas - Area from CCI_LC,1000 ha,measure
-sparsely_natural_vegetated_areas_area_from_modis_ele,Sparsely natural vegetated areas - Area from MODIS,1000 ha,measure
 terrestrial_barren_land_area_from_cci_lc_ele,Terrestrial barren land - Area from CCI_LC,1000 ha,measure
-terrestrial_barren_land_area_from_modis_ele,Terrestrial barren land - Area from MODIS,1000 ha,measure
 tree_covered_areas_area_from_cci_lc_ele,Tree-covered areas - Area from CCI_LC,1000 ha,measure
 tree_covered_areas_area_from_modis_ele,Tree-covered areas - Area from MODIS,1000 ha,measure
 woody_crops_area_from_cci_lc_ele,Woody crops - Area from CCI_LC,1000 ha,measure
@@ -7655,7 +7527,6 @@ coconuts_yield_pce1,Coconuts - Yield,hg/ha,measure
 coffee_green_area_harvested_pce1,"Coffee, green - Area harvested",ha,measure
 coffee_green_production_pce1,"Coffee, green - Production",tonnes,measure
 coffee_green_yield_pce1,"Coffee, green - Yield",hg/ha,measure
-coir_area_harvested_pce1,Coir - Area harvested,ha,measure
 coir_production_pce1,Coir - Production,tonnes,measure
 cotton_lint_production_pce1,Cotton lint - Production,tonnes,measure
 cottonseed_area_harvested_pce1,Cottonseed - Area harvested,ha,measure
@@ -8099,150 +7970,6 @@ vegetables_and_fruit_primary_gross_production_index_number_2004_2006_100_pie1,Ve
 vegetables_and_fruit_primary_gross_per_capita_production_index_number_2004_2006_100_pie1,Vegetables and Fruit Primary - Gross per capita Production Index Number (2004-2006 = 100),Int. $,measure
 vegetables_and_fruit_primary_net_production_index_number_2004_2006_100_pie1,Vegetables and Fruit Primary - Net Production Index Number (2004-2006 = 100),Int. $,measure
 vegetables_and_fruit_primary_net_per_capita_production_index_number_2004_2006_100_pie1,Vegetables and Fruit Primary - Net per capita Production Index Number (2004-2006 = 100),Int. $,measure
-beef_and_buffalo_meat_producing_animals_slaughtered_ple,Beef and Buffalo Meat - Producing Animals/Slaughtered,Head,measure
-beef_and_buffalo_meat_production_ple,Beef and Buffalo Meat - Production,tonnes,measure
-beef_and_buffalo_meat_yield_carcass_weight_ple,Beef and Buffalo Meat - Yield/Carcass Weight,hg/An,measure
-beeswax_production_ple,Beeswax - Production,tonnes,measure
-eggs_primary_laying_ple,Eggs Primary - Laying,1000 Head,measure
-eggs_primary_production_ple,Eggs Primary - Production,tonnes,measure
-eggs_primary_seed_ple,Eggs Primary - Seed,tonnes,measure
-eggs_primary_yield_ple,Eggs Primary - Yield,100mg/An,measure
-eggs_hen_in_shell_laying_ple,"Eggs, hen, in shell - Laying",1000 Head,measure
-eggs_hen_in_shell_production_ple,"Eggs, hen, in shell - Production",tonnes,measure
-eggs_hen_in_shell_seed_ple,"Eggs, hen, in shell - Seed",tonnes,measure
-eggs_hen_in_shell_yield_ple,"Eggs, hen, in shell - Yield",100mg/An,measure
-eggs_hen_in_shell_number_production_ple,"Eggs, hen, in shell (number) - Production",1000 No,measure
-eggs_other_bird_in_shell_laying_ple,"Eggs, other bird, in shell - Laying",1000 Head,measure
-eggs_other_bird_in_shell_production_ple,"Eggs, other bird, in shell - Production",tonnes,measure
-eggs_other_bird_in_shell_yield_ple,"Eggs, other bird, in shell - Yield",100mg/An,measure
-eggs_other_bird_in_shell_number_production_ple,"Eggs, other bird, in shell (number) - Production",1000 No,measure
-hair_horse_prod_popultn_ple,"Hair, horse - Prod Popultn",Head,measure
-hair_horse_production_ple,"Hair, horse - Production",tonnes,measure
-hides_buffalo_fresh_producing_animals_slaughtered_ple,"Hides, buffalo, fresh - Producing Animals/Slaughtered",Head,measure
-hides_buffalo_fresh_production_ple,"Hides, buffalo, fresh - Production",tonnes,measure
-hides_buffalo_fresh_yield_ple,"Hides, buffalo, fresh - Yield",hg/An,measure
-hides_cattle_fresh_producing_animals_slaughtered_ple,"Hides, cattle, fresh - Producing Animals/Slaughtered",Head,measure
-hides_cattle_fresh_production_ple,"Hides, cattle, fresh - Production",tonnes,measure
-hides_cattle_fresh_yield_ple,"Hides, cattle, fresh - Yield",hg/An,measure
-honey_natural_production_ple,"Honey, natural - Production",tonnes,measure
-meat_indigenous_ass_yield_carcass_weight_ple,"Meat indigenous, ass - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_bird_nes_yield_carcass_weight_ple,"Meat indigenous, bird nes - Yield/Carcass Weight",0.1g/An,measure
-meat_indigenous_buffalo_yield_carcass_weight_ple,"Meat indigenous, buffalo - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_camel_yield_carcass_weight_ple,"Meat indigenous, camel - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_cattle_yield_carcass_weight_ple,"Meat indigenous, cattle - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_chicken_yield_carcass_weight_ple,"Meat indigenous, chicken - Yield/Carcass Weight",0.1g/An,measure
-meat_indigenous_duck_yield_carcass_weight_ple,"Meat indigenous, duck - Yield/Carcass Weight",0.1g/An,measure
-meat_indigenous_geese_yield_carcass_weight_ple,"Meat indigenous, geese - Yield/Carcass Weight",0.1g/An,measure
-meat_indigenous_goat_yield_carcass_weight_ple,"Meat indigenous, goat - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_horse_yield_carcass_weight_ple,"Meat indigenous, horse - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_mule_yield_carcass_weight_ple,"Meat indigenous, mule - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_other_camelids_yield_carcass_weight_ple,"Meat indigenous, other camelids - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_pig_yield_carcass_weight_ple,"Meat indigenous, pig - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_rabbit_yield_carcass_weight_ple,"Meat indigenous, rabbit - Yield/Carcass Weight",0.1g/An,measure
-meat_indigenous_rodents_yield_carcass_weight_ple,"Meat indigenous, rodents - Yield/Carcass Weight",0.1g/An,measure
-meat_indigenous_sheep_yield_carcass_weight_ple,"Meat indigenous, sheep - Yield/Carcass Weight",hg/An,measure
-meat_indigenous_total_production_ple,"Meat indigenous, total - Production",tonnes,measure
-meat_indigenous_turkey_yield_carcass_weight_ple,"Meat indigenous, turkey - Yield/Carcass Weight",0.1g/An,measure
-meat_poultry_producing_animals_slaughtered_ple,"Meat, Poultry - Producing Animals/Slaughtered",1000 Head,measure
-meat_poultry_production_ple,"Meat, Poultry - Production",tonnes,measure
-meat_poultry_yield_carcass_weight_ple,"Meat, Poultry - Yield/Carcass Weight",0.1g/An,measure
-meat_total_production_ple,"Meat, Total - Production",tonnes,measure
-meat_ass_producing_animals_slaughtered_ple,"Meat, ass - Producing Animals/Slaughtered",Head,measure
-meat_ass_production_ple,"Meat, ass - Production",tonnes,measure
-meat_ass_yield_carcass_weight_ple,"Meat, ass - Yield/Carcass Weight",hg/An,measure
-meat_bird_nes_producing_animals_slaughtered_ple,"Meat, bird nes - Producing Animals/Slaughtered",1000 Head,measure
-meat_bird_nes_production_ple,"Meat, bird nes - Production",tonnes,measure
-meat_bird_nes_yield_carcass_weight_ple,"Meat, bird nes - Yield/Carcass Weight",0.1g/An,measure
-meat_buffalo_producing_animals_slaughtered_ple,"Meat, buffalo - Producing Animals/Slaughtered",Head,measure
-meat_buffalo_production_ple,"Meat, buffalo - Production",tonnes,measure
-meat_buffalo_yield_carcass_weight_ple,"Meat, buffalo - Yield/Carcass Weight",hg/An,measure
-meat_camel_producing_animals_slaughtered_ple,"Meat, camel - Producing Animals/Slaughtered",Head,measure
-meat_camel_production_ple,"Meat, camel - Production",tonnes,measure
-meat_camel_yield_carcass_weight_ple,"Meat, camel - Yield/Carcass Weight",hg/An,measure
-meat_cattle_producing_animals_slaughtered_ple,"Meat, cattle - Producing Animals/Slaughtered",Head,measure
-meat_cattle_production_ple,"Meat, cattle - Production",tonnes,measure
-meat_cattle_yield_carcass_weight_ple,"Meat, cattle - Yield/Carcass Weight",hg/An,measure
-meat_chicken_producing_animals_slaughtered_ple,"Meat, chicken - Producing Animals/Slaughtered",1000 Head,measure
-meat_chicken_production_ple,"Meat, chicken - Production",tonnes,measure
-meat_chicken_yield_carcass_weight_ple,"Meat, chicken - Yield/Carcass Weight",0.1g/An,measure
-meat_duck_producing_animals_slaughtered_ple,"Meat, duck - Producing Animals/Slaughtered",1000 Head,measure
-meat_duck_production_ple,"Meat, duck - Production",tonnes,measure
-meat_duck_yield_carcass_weight_ple,"Meat, duck - Yield/Carcass Weight",0.1g/An,measure
-meat_game_producing_animals_slaughtered_ple,"Meat, game - Producing Animals/Slaughtered",Head,measure
-meat_game_production_ple,"Meat, game - Production",tonnes,measure
-meat_game_yield_carcass_weight_ple,"Meat, game - Yield/Carcass Weight",hg/An,measure
-meat_goat_producing_animals_slaughtered_ple,"Meat, goat - Producing Animals/Slaughtered",Head,measure
-meat_goat_production_ple,"Meat, goat - Production",tonnes,measure
-meat_goat_yield_carcass_weight_ple,"Meat, goat - Yield/Carcass Weight",hg/An,measure
-meat_goose_and_guinea_fowl_producing_animals_slaughtered_ple,"Meat, goose and guinea fowl - Producing Animals/Slaughtered",1000 Head,measure
-meat_goose_and_guinea_fowl_production_ple,"Meat, goose and guinea fowl - Production",tonnes,measure
-meat_goose_and_guinea_fowl_yield_carcass_weight_ple,"Meat, goose and guinea fowl - Yield/Carcass Weight",0.1g/An,measure
-meat_horse_producing_animals_slaughtered_ple,"Meat, horse - Producing Animals/Slaughtered",Head,measure
-meat_horse_production_ple,"Meat, horse - Production",tonnes,measure
-meat_horse_yield_carcass_weight_ple,"Meat, horse - Yield/Carcass Weight",hg/An,measure
-meat_mule_producing_animals_slaughtered_ple,"Meat, mule - Producing Animals/Slaughtered",Head,measure
-meat_mule_production_ple,"Meat, mule - Production",tonnes,measure
-meat_mule_yield_carcass_weight_ple,"Meat, mule - Yield/Carcass Weight",hg/An,measure
-meat_nes_producing_animals_slaughtered_ple,"Meat, nes - Producing Animals/Slaughtered",Head,measure
-meat_nes_production_ple,"Meat, nes - Production",tonnes,measure
-meat_nes_yield_carcass_weight_ple,"Meat, nes - Yield/Carcass Weight",hg/An,measure
-meat_other_camelids_producing_animals_slaughtered_ple,"Meat, other camelids - Producing Animals/Slaughtered",Head,measure
-meat_other_camelids_production_ple,"Meat, other camelids - Production",tonnes,measure
-meat_other_camelids_yield_carcass_weight_ple,"Meat, other camelids - Yield/Carcass Weight",hg/An,measure
-meat_other_rodents_producing_animals_slaughtered_ple,"Meat, other rodents - Producing Animals/Slaughtered",1000 Head,measure
-meat_other_rodents_production_ple,"Meat, other rodents - Production",tonnes,measure
-meat_other_rodents_yield_carcass_weight_ple,"Meat, other rodents - Yield/Carcass Weight",0.1g/An,measure
-meat_pig_producing_animals_slaughtered_ple,"Meat, pig - Producing Animals/Slaughtered",Head,measure
-meat_pig_production_ple,"Meat, pig - Production",tonnes,measure
-meat_pig_yield_carcass_weight_ple,"Meat, pig - Yield/Carcass Weight",hg/An,measure
-meat_rabbit_producing_animals_slaughtered_ple,"Meat, rabbit - Producing Animals/Slaughtered",1000 Head,measure
-meat_rabbit_production_ple,"Meat, rabbit - Production",tonnes,measure
-meat_rabbit_yield_carcass_weight_ple,"Meat, rabbit - Yield/Carcass Weight",0.1g/An,measure
-meat_sheep_producing_animals_slaughtered_ple,"Meat, sheep - Producing Animals/Slaughtered",Head,measure
-meat_sheep_production_ple,"Meat, sheep - Production",tonnes,measure
-meat_sheep_yield_carcass_weight_ple,"Meat, sheep - Yield/Carcass Weight",hg/An,measure
-meat_turkey_producing_animals_slaughtered_ple,"Meat, turkey - Producing Animals/Slaughtered",1000 Head,measure
-meat_turkey_production_ple,"Meat, turkey - Production",tonnes,measure
-meat_turkey_yield_carcass_weight_ple,"Meat, turkey - Yield/Carcass Weight",0.1g/An,measure
-milk_whole_fresh_buffalo_milk_animals_ple,"Milk, whole fresh buffalo - Milk Animals",Head,measure
-milk_whole_fresh_buffalo_production_ple,"Milk, whole fresh buffalo - Production",tonnes,measure
-milk_whole_fresh_buffalo_yield_ple,"Milk, whole fresh buffalo - Yield",hg/An,measure
-milk_whole_fresh_camel_milk_animals_ple,"Milk, whole fresh camel - Milk Animals",Head,measure
-milk_whole_fresh_camel_production_ple,"Milk, whole fresh camel - Production",tonnes,measure
-milk_whole_fresh_camel_yield_ple,"Milk, whole fresh camel - Yield",hg/An,measure
-milk_whole_fresh_cow_milk_animals_ple,"Milk, whole fresh cow - Milk Animals",Head,measure
-milk_whole_fresh_cow_production_ple,"Milk, whole fresh cow - Production",tonnes,measure
-milk_whole_fresh_cow_yield_ple,"Milk, whole fresh cow - Yield",hg/An,measure
-milk_whole_fresh_goat_milk_animals_ple,"Milk, whole fresh goat - Milk Animals",Head,measure
-milk_whole_fresh_goat_production_ple,"Milk, whole fresh goat - Production",tonnes,measure
-milk_whole_fresh_goat_yield_ple,"Milk, whole fresh goat - Yield",hg/An,measure
-milk_whole_fresh_sheep_milk_animals_ple,"Milk, whole fresh sheep - Milk Animals",Head,measure
-milk_whole_fresh_sheep_production_ple,"Milk, whole fresh sheep - Production",tonnes,measure
-milk_whole_fresh_sheep_yield_ple,"Milk, whole fresh sheep - Yield",hg/An,measure
-milk_total_milk_animals_ple,"Milk,Total - Milk Animals",Head,measure
-milk_total_production_ple,"Milk,Total - Production",tonnes,measure
-milk_total_yield_ple,"Milk,Total - Yield",hg/An,measure
-offals_nes_production_ple,"Offals, nes - Production",tonnes,measure
-sheep_and_goat_meat_producing_animals_slaughtered_ple,Sheep and Goat Meat - Producing Animals/Slaughtered,Head,measure
-sheep_and_goat_meat_production_ple,Sheep and Goat Meat - Production,tonnes,measure
-sheep_and_goat_meat_yield_carcass_weight_ple,Sheep and Goat Meat - Yield/Carcass Weight,hg/An,measure
-silk_worm_cocoons_reelable_prod_popultn_ple,"Silk-worm cocoons, reelable - Prod Popultn",Head,measure
-silk_worm_cocoons_reelable_production_ple,"Silk-worm cocoons, reelable - Production",tonnes,measure
-skins_furs_production_ple,"Skins, furs - Production",tonnes,measure
-skins_goat_fresh_producing_animals_slaughtered_ple,"Skins, goat, fresh - Producing Animals/Slaughtered",Head,measure
-skins_goat_fresh_production_ple,"Skins, goat, fresh - Production",tonnes,measure
-skins_goat_fresh_yield_ple,"Skins, goat, fresh - Yield",hg/An,measure
-skins_sheep_fresh_producing_animals_slaughtered_ple,"Skins, sheep, fresh - Producing Animals/Slaughtered",Head,measure
-skins_sheep_fresh_production_ple,"Skins, sheep, fresh - Production",tonnes,measure
-skins_sheep_fresh_yield_ple,"Skins, sheep, fresh - Yield",hg/An,measure
-skins_sheep_with_wool_producing_animals_slaughtered_ple,"Skins, sheep, with wool - Producing Animals/Slaughtered",Head,measure
-skins_sheep_with_wool_production_ple,"Skins, sheep, with wool - Production",tonnes,measure
-skins_sheep_with_wool_yield_ple,"Skins, sheep, with wool - Yield",hg/An,measure
-snails_not_sea_producing_animals_slaughtered_ple,"Snails, not sea - Producing Animals/Slaughtered",Head,measure
-snails_not_sea_production_ple,"Snails, not sea - Production",tonnes,measure
-wool_greasy_prod_popultn_ple,"Wool, greasy - Prod Popultn",Head,measure
-wool_greasy_production_ple,"Wool, greasy - Production",tonnes,measure
-wool_greasy_yield_ple,"Wool, greasy - Yield",hg,measure
 butter_and_ghee_production_ple1,Butter and Ghee - Production,tonnes,measure
 butter_and_ghee_sheep_milk_production_ple1,"Butter and ghee, sheep milk - Production",tonnes,measure
 butter_of_goat_mlk_production_ple1,Butter of goat mlk - Production,tonnes,measure
@@ -8423,7 +8150,6 @@ bovine_meat_export_quantity_tcl,Bovine Meat - Export Quantity,tonnes,measure
 bovine_meat_export_value_tcl,Bovine Meat - Export Value,1000 US$,measure
 bovine_meat_import_quantity_tcl,Bovine Meat - Import Quantity,tonnes,measure
 bovine_meat_import_value_tcl,Bovine Meat - Import Value,1000 US$,measure
-bran_buckwheat_export_quantity_tcl,"Bran, buckwheat - Export Quantity",tonnes,measure
 bran_buckwheat_export_value_tcl,"Bran, buckwheat - Export Value",1000 US$,measure
 bran_buckwheat_import_quantity_tcl,"Bran, buckwheat - Import Quantity",tonnes,measure
 bran_buckwheat_import_value_tcl,"Bran, buckwheat - Import Value",1000 US$,measure
@@ -9058,8 +8784,6 @@ hazelnuts_shelled_export_quantity_tcl,"Hazelnuts, shelled - Export Quantity",ton
 hazelnuts_shelled_export_value_tcl,"Hazelnuts, shelled - Export Value",1000 US$,measure
 hazelnuts_shelled_import_quantity_tcl,"Hazelnuts, shelled - Import Quantity",tonnes,measure
 hazelnuts_shelled_import_value_tcl,"Hazelnuts, shelled - Import Value",1000 US$,measure
-hides_and_skins_nes_fresh_import_quantity_tcl,"Hides and skins nes, fresh - Import Quantity",tonnes,measure
-hides_and_skins_nes_fresh_import_value_tcl,"Hides and skins nes, fresh - Import Value",1000 US$,measure
 hides_buffalo_dry_salted_export_quantity_tcl,"Hides, buffalo, dry salted - Export Quantity",tonnes,measure
 hides_buffalo_dry_salted_export_value_tcl,"Hides, buffalo, dry salted - Export Value",1000 US$,measure
 hides_buffalo_dry_salted_import_quantity_tcl,"Hides, buffalo, dry salted - Import Quantity",tonnes,measure
@@ -10014,10 +9738,6 @@ vegetables_in_vinegar_export_quantity_tcl,Vegetables in vinegar - Export Quantit
 vegetables_in_vinegar_export_value_tcl,Vegetables in vinegar - Export Value,1000 US$,measure
 vegetables_in_vinegar_import_quantity_tcl,Vegetables in vinegar - Import Quantity,tonnes,measure
 vegetables_in_vinegar_import_value_tcl,Vegetables in vinegar - Import Value,1000 US$,measure
-vegetables_canned_nes_export_quantity_tcl,"Vegetables, canned nes - Export Quantity",tonnes,measure
-vegetables_canned_nes_export_value_tcl,"Vegetables, canned nes - Export Value",1000 US$,measure
-vegetables_canned_nes_import_quantity_tcl,"Vegetables, canned nes - Import Quantity",tonnes,measure
-vegetables_canned_nes_import_value_tcl,"Vegetables, canned nes - Import Value",1000 US$,measure
 vegetables_dehydrated_export_quantity_tcl,"Vegetables, dehydrated - Export Quantity",tonnes,measure
 vegetables_dehydrated_export_value_tcl,"Vegetables, dehydrated - Export Value",1000 US$,measure
 vegetables_dehydrated_import_quantity_tcl,"Vegetables, dehydrated - Import Quantity",tonnes,measure
@@ -10190,9 +9910,13 @@ cattle_export_quantity_tle,Cattle - Export Quantity,Head,measure
 cattle_export_value_tle,Cattle - Export Value,1000 US$,measure
 cattle_import_quantity_tle,Cattle - Import Quantity,Head,measure
 cattle_import_value_tle,Cattle - Import Value,1000 US$,measure
+chickens_export_quantity_tle,Chickens - Export Quantity,1000 Head,measure
 chickens_export_value_tle,Chickens - Export Value,1000 US$,measure
+chickens_import_quantity_tle,Chickens - Import Quantity,1000 Head,measure
 chickens_import_value_tle,Chickens - Import Value,1000 US$,measure
+ducks_export_quantity_tle,Ducks - Export Quantity,1000 Head,measure
 ducks_export_value_tle,Ducks - Export Value,1000 US$,measure
+ducks_import_quantity_tle,Ducks - Import Quantity,1000 Head,measure
 ducks_import_value_tle,Ducks - Import Value,1000 US$,measure
 food_excl_fish_export_value_tle,Food Excl Fish - Export Value,1000 US$,measure
 food_excl_fish_import_value_tle,Food Excl Fish - Import Value,1000 US$,measure
@@ -10210,7 +9934,9 @@ mules_export_quantity_tle,Mules - Export Quantity,Head,measure
 mules_export_value_tle,Mules - Export Value,1000 US$,measure
 mules_import_quantity_tle,Mules - Import Quantity,Head,measure
 mules_import_value_tle,Mules - Import Value,1000 US$,measure
+pigeons_other_birds_export_quantity_tle,"Pigeons, other birds - Export Quantity",1000 Head,measure
 pigeons_other_birds_export_value_tle,"Pigeons, other birds - Export Value",1000 US$,measure
+pigeons_other_birds_import_quantity_tle,"Pigeons, other birds - Import Quantity",1000 Head,measure
 pigeons_other_birds_import_value_tle,"Pigeons, other birds - Import Value",1000 US$,measure
 pigs_export_quantity_tle,Pigs - Export Quantity,Head,measure
 pigs_export_value_tle,Pigs - Export Value,1000 US$,measure
@@ -10234,7 +9960,9 @@ sheep_and_goats_import_quantity_tle,Sheep and Goats - Import Quantity,Head,measu
 sheep_and_goats_import_value_tle,Sheep and Goats - Import Value,1000 US$,measure
 total_merchandise_trade_export_value_tle,Total Merchandise Trade - Export Value,1000 US$,measure
 total_merchandise_trade_import_value_tle,Total Merchandise Trade - Import Value,1000 US$,measure
+turkeys_export_quantity_tle,Turkeys - Export Quantity,1000 Head,measure
 turkeys_export_value_tle,Turkeys - Export Value,1000 US$,measure
+turkeys_import_quantity_tle,Turkeys - Import Quantity,1000 Head,measure
 turkeys_import_value_tle,Turkeys - Import Value,1000 US$,measure
 agave_fibres_nes_gross_production_value_constant_2004_2006_1000_i_vop,Agave fibres nes - Gross Production Value (constant 2004-2006 1000 I$),1000 Int. $,measure
 agave_fibres_nes_gross_production_value_constant_2004_2006_million_slc_vop,Agave fibres nes - Gross Production Value (constant 2004-2006 million SLC),SLC,measure

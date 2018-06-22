@@ -126,13 +126,21 @@ def process_file(zf, f, domains):
             indicator = ' - '.join(g)
         concept_id = to_concept_id(indicator+' '+domains[f])
 
+        df_.columns = ['geo', 'year', concept_id, 'unit', 'flag']
+
+        df_ = df_.dropna(subset=[concept_id])
+
+        # don't include geos not in geo domain
+        # FIXME: automate this
+        df_ = df_[~df_['geo'].isin([57060, 261, 266, 268, 269, 3698])]
+
         if df_.empty:  # no content
             continue
-        if len(df_['Unit'].unique()) > 1:
+        if len(df_['unit'].unique()) > 1:
             print('unit not unique:', concept_id, df_['Unit'].unique())
             continue  # don't proceed these indicators
 
-        unit = df_['Unit'].unique()[0]
+        unit = df_['unit'].unique()[0]
         #print(indicator)
         concs.append({
             'name': indicator,
@@ -140,18 +148,12 @@ def process_file(zf, f, domains):
             'unit': unit
         })
 
-        df_.columns = ['geo', 'year', concept_id, 'unit', 'flag']
-
         df_['flag'] = df_['flag'].fillna('_')
         df_['flag'] = df_['flag'].astype(flag_cat)
         df_ = df_.sort_values(by='flag').drop_duplicates(subset=['geo', 'year'], keep='first')
 
         if df_[df_.duplicated(subset=['geo', 'year'])].shape[0] > 0:
             print('duplicated found in {}'.format(concept_id))
-
-        # don't include geos not in geo domain
-        # FIXME: automate this
-        df_ = df_[~df_['geo'].isin([57060, 261, 266, 268, 269, 3698])]
 
         (df_[['geo', 'year', concept_id]]
          .to_csv('../../ddf--datapoints--{}--by--geo--year.csv'.format(concept_id),
@@ -190,7 +192,7 @@ def process_area_and_groups():
     areagroupDf = pd.DataFrame.from_records(areagroup['data'])
 
     area_to_group = (areagroupDf.groupby('Country Code')['Country Group Code']
-                    .agg(lambda xs: ','.join(xs.values))
+                    .agg(lambda xs: ','.join(set(xs.values.tolist())))
                     .reset_index())
 
     areaDf['is--country'] = 'FALSE'
