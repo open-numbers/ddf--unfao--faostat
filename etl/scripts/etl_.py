@@ -137,7 +137,7 @@ def process_file(zf, f, domains):
         if df_.empty:  # no content
             continue
         if len(df_['unit'].unique()) > 1:
-            print('unit not unique:', concept_id, df_['Unit'].unique())
+            print('unit not unique:', concept_id, df_['unit'].unique())
             continue  # don't proceed these indicators
 
         unit = df_['unit'].unique()[0]
