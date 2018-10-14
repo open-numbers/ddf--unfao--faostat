@@ -6083,48 +6083,53 @@ phosphate_fertilizers_export_value_ife3,Phosphate fertilizers - Export Value,100
 phosphate_fertilizers_import_value_ife3,Phosphate fertilizers - Import Value,1000 US$,measure
 potash_fertilizers_export_value_ife3,Potash fertilizers - Export Value,1000 US$,measure
 potash_fertilizers_import_value_ife3,Potash fertilizers - Import Value,1000 US$,measure
-agricultural_area_area_ile,Agricultural area - Area,1000 ha,measure
-agricultural_area_actually_irrigated_area_ile,Agricultural area actually irrigated - Area,1000 ha,measure
-agricultural_area_certified_organic_area_ile,Agricultural area certified organic - Area,1000 ha,measure
-agricultural_area_in_conversion_to_organic_area_ile,Agricultural area in conversion to organic - Area,1000 ha,measure
-agricultural_area_organic_total_area_ile,"Agricultural area organic, total - Area",1000 ha,measure
+agricultural_land_area_ile,Agricultural land - Area,1000 ha,measure
+agriculture_area_ile,Agriculture - Area,1000 ha,measure
+agriculture_area_actually_irrigated_area_ile,Agriculture area actually irrigated - Area,1000 ha,measure
+agriculture_area_certified_organic_area_ile,Agriculture area certified organic - Area,1000 ha,measure
+agriculture_area_under_organic_agric_area_ile,Agriculture area under organic agric. - Area,1000 ha,measure
 arable_land_area_ile,Arable land - Area,1000 ha,measure
-arable_land_and_permanent_crops_area_ile,Arable land and Permanent crops - Area,1000 ha,measure
-arable_land_area_certified_organic_area_ile,Arable land area certified organic - Area,1000 ha,measure
-arable_land_area_in_conversion_to_organic_area_ile,Arable land area in conversion to organic - Area,1000 ha,measure
-arable_land_organic_total_area_ile,"Arable land organic, total - Area",1000 ha,measure
-area_of_arable_land_and_permanent_crops_under_protective_cover_area_ile,Area of arable land and permanent crops under protective cover - Area,1000 ha,measure
+coastal_waters_area_ile,Coastal waters - Area,1000 ha,measure
+coastal_waters_used_for_aquac_or_holding_facilities_area_ile,Coastal waters used for aquac. or holding facilities - Area,1000 ha,measure
+coastal_waters_used_for_capture_fisheries_area_ile,Coastal waters used for capture fisheries - Area,1000 ha,measure
 country_area_area_ile,Country area - Area,1000 ha,measure
-fallow_land_temporary_area_ile,Fallow land (temporary) - Area,1000 ha,measure
-forest_area_ile,Forest - Area,1000 ha,measure
-forest_carbon_stock_in_living_biomass_ile,Forest - Carbon stock in living biomass,million tonnes,measure
-inland_water_area_ile,Inland water - Area,1000 ha,measure
+cropland_area_ile,Cropland - Area,1000 ha,measure
+cropland_area_actually_irrigated_area_ile,Cropland area actually irrigated - Area,1000 ha,measure
+cropland_area_certified_organic_area_ile,Cropland area certified organic - Area,1000 ha,measure
+cropland_area_under_conservation_tillage_area_ile,Cropland area under conservation tillage - Area,1000 ha,measure
+cropland_area_under_conventional_tillage_area_ile,Cropland area under conventional tillage - Area,1000 ha,measure
+cropland_area_under_organic_agric_area_ile,Cropland area under organic agric. - Area,1000 ha,measure
+cropland_area_under_zero_or_no_tillage_area_ile,Cropland area under zero or no tillage - Area,1000 ha,measure
+eez_used_for_aquac_or_holding_facilities_area_ile,EEZ used for aquac. or holding facilities - Area,1000 ha,measure
+eez_used_for_capture_fisheries_area_ile,EEZ used for capture fisheries - Area,1000 ha,measure
+exclusive_economic_zone_eez_area_ile,Exclusive Economic Zone (EEZ) - Area,1000 ha,measure
+farm_buildings_farmyards_area_ile,Farm buildings & farmyards - Area,1000 ha,measure
+forest_land_area_ile,Forest land - Area,1000 ha,measure
+forest_land_carbon_stock_in_living_biomass_ile,Forest land - Carbon stock in living biomass,million tonnes,measure
+forestry_area_ile,Forestry - Area,1000 ha,measure
+forestry_area_actually_irrigated_area_ile,Forestry area actually irrigated - Area,1000 ha,measure
+inland_waters_area_ile,Inland waters - Area,1000 ha,measure
+inland_waters_used_for_aquac_or_holding_facilities_area_ile,Inland waters used for aquac. or holding facilities - Area,1000 ha,measure
+inland_waters_used_for_capture_fisheries_area_ile,Inland waters used for capture fisheries - Area,1000 ha,measure
 land_area_area_ile,Land area - Area,1000 ha,measure
+land_area_actually_irrigated_area_ile,Land area actually irrigated - Area,1000 ha,measure
+land_area_equipped_for_irrigation_area_ile,Land area equipped for irrigation - Area,1000 ha,measure
+land_under_perm_meadows_and_pastures_area_ile,Land under perm. meadows and pastures - Area,1000 ha,measure
+land_under_permanent_crops_area_ile,Land under permanent crops - Area,1000 ha,measure
+land_under_protective_cover_area_ile,Land under protective cover - Area,1000 ha,measure
+land_under_temp_meadows_and_pastures_area_ile,Land under temp. meadows and pastures - Area,1000 ha,measure
+land_under_temporary_crops_area_ile,Land under temporary crops - Area,1000 ha,measure
+land_used_for_aquaculture_area_ile,Land used for aquaculture - Area,1000 ha,measure
+land_with_temporary_fallow_area_ile,Land with temporary fallow - Area,1000 ha,measure
 other_land_area_ile,Other land - Area,1000 ha,measure
 other_naturally_regenerated_forest_area_ile,Other naturally regenerated forest - Area,1000 ha,measure
-perm_crops_actually_irrigated_area_ile,Perm. crops actually irrigated - Area,1000 ha,measure
-perm_crops_non_irrigated_area_ile,Perm. crops non-irrigated - Area,1000 ha,measure
 perm_meadows_pastures_cultivated_area_ile,Perm. meadows & pastures - Cultivated - Area,1000 ha,measure
 perm_meadows_pastures_nat_growing_area_ile,Perm. meadows & pastures - Nat. growing - Area,1000 ha,measure
-perm_meadows_pastures_cult_non_irrig_area_ile,Perm. meadows & pastures Cult. non-irrig - Area,1000 ha,measure
-perm_meadows_and_pastures_cult_actually_irrig_area_ile,Perm. meadows and pastures - Cult. & actually irrig - Area,1000 ha,measure
-permanent_crops_area_ile,Permanent crops - Area,1000 ha,measure
-permanent_crops_area_certified_organic_area_ile,Permanent crops area certified organic - Area,1000 ha,measure
-permanent_crops_area_in_conversion_to_organic_area_ile,Permanent crops area in conversion to organic - Area,1000 ha,measure
-permanent_crops_organic_total_area_ile,"Permanent crops organic, total - Area",1000 ha,measure
-permanent_meadows_and_pastures_area_ile,Permanent meadows and pastures - Area,1000 ha,measure
-permanent_meadows_and_pastures_area_certified_organic_area_ile,Permanent meadows and pastures area certified organic - Area,1000 ha,measure
-permanent_meadows_and_pastures_area_in_conversion_to_organic_area_ile,Permanent meadows and pastures area in conversion to organic - Area,1000 ha,measure
-permanent_meadows_and_pastures_organic_total_area_ile,"Permanent meadows and pastures organic, total - Area",1000 ha,measure
-planted_forest_area_ile,Planted forest - Area,1000 ha,measure
-primary_forest_area_ile,Primary forest - Area,1000 ha,measure
-temp_crops_actually_irrigated_area_ile,Temp. crops actually irrigated - Area,1000 ha,measure
-temp_crops_non_irrigated_area_ile,Temp. crops non-irrigated - Area,1000 ha,measure
-temp_meadows_pastures_non_irrig_area_ile,Temp. meadows & pastures non-irrig. - Area,1000 ha,measure
-temp_meadows_and_pastures_actually_irrigated_area_ile,Temp. meadows and pastures actually irrigated - Area,1000 ha,measure
-temporary_crops_area_ile,Temporary crops - Area,1000 ha,measure
-temporary_meadows_and_pastures_area_ile,Temporary meadows and pastures - Area,1000 ha,measure
-total_area_equipped_for_irrigation_area_ile,Total area equipped for irrigation - Area,1000 ha,measure
+perm_meadows_pastures_area_actually_irrig_area_ile,Perm. meadows & pastures area actually irrig. - Area,1000 ha,measure
+perm_meadows_pastures_area_certified_organic_area_ile,Perm. meadows & pastures area certified organic - Area,1000 ha,measure
+perm_meadows_pastures_area_under_organic_agric_area_ile,Perm. meadows & pastures area under organic agric. - Area,1000 ha,measure
+planted_forest_area_ile,Planted Forest - Area,1000 ha,measure
+primary_forest_area_ile,Primary Forest - Area,1000 ha,measure
 2_4_5_t_and_its_salts_and_esters_export_quantity_ipt,"2,4,5-T and its salts and esters - Export Quantity",tonnes,measure
 2_4_5_t_and_its_salts_and_esters_export_value_ipt,"2,4,5-T and its salts and esters - Export Value",1000 US$,measure
 2_4_5_t_and_its_salts_and_esters_import_quantity_ipt,"2,4,5-T and its salts and esters - Import Quantity",tonnes,measure
@@ -6280,30 +6285,30 @@ triazoles_diazoles_sdtrf_use_ipu,Triazoles diazoles-SdTrF - Use,tonnes of active
 triazoles_diazoles_use_ipu,"Triazoles, Diazoles - Use",tonnes of active ingredients,measure
 uracil_use_ipu,Uracil - Use,tonnes of active ingredients,measure
 urea_derivates_use_ipu,Urea derivates - Use,tonnes of active ingredients,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_ice,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_ice,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_2005_prices_ice,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_us_ice,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_us_2005_prices_ice,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_2005_prices_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$, 2005 prices",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_2005_prices_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index, 2005 prices",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_2005_prices_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$, 2005 prices",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_2005_prices_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added, 2005 prices",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_2005_prices_ice,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_us_ice,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_us_2005_prices_ice,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
+consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
+consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
+gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
+gross_capital_stocks_agriculture_forestry_and_fishing_value_us_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+gross_capital_stocks_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$, 2005 prices",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index, 2005 prices",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$, 2005 prices",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added, 2005 prices",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
+net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
+net_capital_stocks_agriculture_forestry_and_fishing_value_us_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+net_capital_stocks_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
 agriculture_forestry_fishing_central_government_agriculture_orientation_index_ic,"Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",index,measure
 agriculture_forestry_fishing_central_government_annual_growth_us_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth US$",%,measure
 agriculture_forestry_fishing_central_government_annual_growth_us_2005_prices_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth US$, 2005 prices",%,measure
@@ -6336,12 +6341,12 @@ value_added_agriculture_forestry_and_fishing_annual_growth_us_2005_prices_ic,"Va
 value_added_agriculture_forestry_and_fishing_share_of_total_ic,"Value Added (Agriculture, Forestry and Fishing) - Share of Total",%,measure
 value_added_agriculture_forestry_and_fishing_value_us_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$",millions,measure
 value_added_agriculture_forestry_and_fishing_value_us_2005_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
-credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
-credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice1,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",,measure
-credit_to_agriculture_forestry_and_fishing_value_local_currency_ice1,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
-credit_to_agriculture_forestry_and_fishing_value_us_ice1,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
-total_credit_value_local_currency_ice1,Total Credit - Value Local Currency,millions,measure
-total_credit_value_us_ice1,Total Credit - Value US$,millions,measure
+credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice2,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
+credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice2,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",,measure
+credit_to_agriculture_forestry_and_fishing_value_local_currency_ice2,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
+credit_to_agriculture_forestry_and_fishing_value_us_ice2,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
+total_credit_value_local_currency_ice2,Total Credit - Value Local Currency,millions,measure
+total_credit_value_us_ice2,Total Credit - Value US$,millions,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_share_of_total_fdi_inflows_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Share of Total FDI inflows",%,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2005_prices_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2005 prices",millions,measure
