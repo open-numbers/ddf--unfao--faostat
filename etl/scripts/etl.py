@@ -2,6 +2,7 @@
 
 import zipfile
 from io import BytesIO
+from tempfile import mkdtemp, mktemp
 
 import numpy as np
 import pandas as pd
@@ -12,6 +13,7 @@ from ddf_utils.str import to_concept_id
 
 source_file = '../source/FAOSTAT.zip'
 out_dir = '../../'
+
 
 def scan_skip_files(zf):
     """reads a zipfile object and then reads all zipfiles inside,
@@ -25,21 +27,18 @@ def scan_skip_files(zf):
         # so we skip them.
         if ('Security' in fn or 'Survey' in fn or 'Monthly' in fn or 'Archive' in fn):
             skips.append(fn)
-            #print("skipping file: ", fn)
             continue
         if fn in ['Producción_Cultivos_S_Todos_los_Datos.zip',  # not in English
                   'Employment_Indicators_E_All_Data_(Normalized).zip',   # different layout
                   'Food_Aid_Shipments_WFP_E_All_Data_(Normalized).zip',  # different layout
                   'Environment_Temperature_change_E_All_Data_(Normalized).zip']:  # monthly
             skips.append(fn)
-            #print("skipping file: ", fn)
             continue
         b = BytesIO(zf.read(fn))
         try:
-            a = next(pd.read_csv(b, encoding='latin1', compression='zip', chunksize=1))
+            next(pd.read_csv(b, encoding='latin1', compression='zip', chunksize=1))
         except NotImplementedError:
             skips.append(fn)
-            #print("skipping file: ", fn)
     return skips
 
 
@@ -95,15 +94,19 @@ def process_file(zf, f, domains):
     """process a file in zf, create datapoints files and return all concepts"""
     concs = []
     flag_cat = ordered_flag_category()
-    b = BytesIO(zf.read(f))
-    df = pd.read_csv(b, encoding='latin1', compression='zip')
+    # file_contents = zf.read(f)
+    tmpfile = mktemp()
+    with open(tmpfile, 'wb') as tf:
+        with zf.open(f) as z:
+            # print(tmpfile)
+            tf.write(z.read())
+            tf.flush()
+    df = pd.read_csv(tmpfile, encoding='latin1', compression='zip')
 
     try:
         df['Year'].astype('int')
     except ValueError:
         raise ValueError('Can not convert year to int')
-
-    #print(df.columns)
 
     if 'Element' in df.columns:
         group = df.groupby(['Item', 'Element'])
@@ -124,7 +127,7 @@ def process_file(zf, f, domains):
             indicator = g
         else:
             indicator = ' - '.join(g)
-        concept_id = to_concept_id(indicator+' '+domains[f])
+        concept_id = to_concept_id(indicator + ' ' + domains[f])
 
         df_.columns = ['geo', 'year', concept_id, 'unit', 'flag']
 
@@ -141,7 +144,6 @@ def process_file(zf, f, domains):
             continue  # don't proceed these indicators
 
         unit = df_['unit'].unique()[0]
-        #print(indicator)
         concs.append({
             'name': indicator,
             'concept': concept_id,
@@ -192,15 +194,14 @@ def process_area_and_groups():
     areagroupDf = pd.DataFrame.from_records(areagroup['data'])
 
     area_to_group = (areagroupDf.groupby('Country Code')['Country Group Code']
-                    .agg(lambda xs: ','.join(set(xs.values.tolist())))
-                    .reset_index())
+                     .agg(lambda xs: ','.join(set(xs.values.tolist())))
+                     .reset_index())
 
     areaDf['is--country'] = 'FALSE'
     areaDf['is--country_group'] = 'FALSE'
     areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Code'].values), 'is--country'] = 'TRUE'
     areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Group Code'].values), 'is--country_group'] = 'TRUE'
 
-    entity_cols = areaDf.columns
     areaDf.columns = ['name', 'geo', 'end_year',
                       'iso2_code', 'iso3_code', 'm49_code',
                       'start_year', 'is--country', 'is--country_group']
