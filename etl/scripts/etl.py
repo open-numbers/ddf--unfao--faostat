@@ -9,7 +9,7 @@ import pandas as pd
 import requests as r
 from pandas.api.types import CategoricalDtype
 
-from ddf_utils.str import to_concept_id
+from ddf_utils.str import to_concept_id, format_float_digits
 
 source_file = '../source/FAOSTAT.zip'
 out_dir = '../../'
@@ -158,9 +158,9 @@ def process_file(zf, f, domains):
         if df_[df_.duplicated(subset=['geo', 'year'])].shape[0] > 0:
             print('duplicated found in {}'.format(concept_id))
 
-        (df_[['geo', 'year', concept_id]]
-         .to_csv('../../ddf--datapoints--{}--by--geo--year.csv'.format(concept_id),
-                 index=False))
+	df_serve = df_[['geo', 'year', concept_id]]
+	df_serve[concept_id] = df_serve[concept_id].map(format_float_digits)
+	df_serve.to_csv('../../ddf--datapoints--{}--by--geo--year.csv'.format(concept_id), index=False)
 
     return concs
 
