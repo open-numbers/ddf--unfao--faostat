@@ -31,6 +31,7 @@ def scan_skip_files(zf):
         if fn in ['Producción_Cultivos_S_Todos_los_Datos.zip',  # not in English
                   'Employment_Indicators_E_All_Data_(Normalized).zip',   # different layout
                   'Food_Aid_Shipments_WFP_E_All_Data_(Normalized).zip',  # different layout
+                  'Trade_DetailedTradeMatrix_E_All_Data_(Normalized).zip',  # different layout
                   'Environment_Temperature_change_E_All_Data_(Normalized).zip']:  # monthly
             skips.append(fn)
             continue
