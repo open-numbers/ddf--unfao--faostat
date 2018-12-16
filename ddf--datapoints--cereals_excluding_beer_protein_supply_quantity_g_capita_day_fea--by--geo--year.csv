@@ -34,7 +34,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 197,2005,21.28
 197,2006,21.66
 197,2007,22.98
-197,2008,23.0
+197,2008,23
 197,2009,23.29
 197,2002,22.7
 199,2010,26.39
@@ -98,7 +98,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 186,1992,28.95
 186,1993,31.22
 272,2008,27.42
-186,1994,25.0
+186,1994,25
 195,2006,33.89
 195,2004,32.65
 195,1988,38.33
@@ -129,7 +129,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 197,1979,24.59
 197,1980,23.05
 197,1973,24.75
-197,1981,23.0
+197,1981,23
 197,1983,21.82
 197,1984,21.64
 197,1985,21.94
@@ -183,7 +183,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 203,1972,24.92
 203,1970,25.71
 202,2007,40.95
-202,2008,40.0
+202,2008,40
 202,2009,39.6
 202,2010,40.93
 202,2011,41.3
@@ -376,7 +376,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 244,1973,8.31
 244,1974,9.13
 244,1975,9.47
-244,1976,10.0
+244,1976,10
 244,1977,8.6
 244,1978,9.27
 244,1979,9.19
@@ -552,7 +552,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 194,2003,39.15
 194,2004,39.18
 194,2005,38.43
-194,2006,39.0
+194,2006,39
 194,2007,40.47
 194,2008,40.07
 194,2009,39.83
@@ -604,7 +604,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 244,1998,12.19
 244,1999,13.16
 244,2000,14.34
-193,1968,22.0
+193,1968,22
 38,1978,30.73
 193,1969,19.41
 193,1971,18.67
@@ -841,7 +841,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 222,1994,50.69
 222,1984,51.11
 222,1986,52.04
-222,1987,52.0
+222,1987,52
 222,1988,53.19
 222,1989,52.56
 222,1990,52.13
@@ -929,7 +929,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 220,1962,26.75
 220,1963,26.28
 220,1964,26.41
-220,1985,22.0
+220,1985,22
 216,1966,29.66
 220,1986,25.95
 220,1988,26.09
@@ -1261,7 +1261,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 210,1994,20.34
 210,1995,22.01
 210,1996,22.1
-210,1997,22.0
+210,1997,22
 210,1998,22.22
 210,1999,23.16
 210,2000,23.01
@@ -1303,7 +1303,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 156,1972,18.91
 156,1973,19.27
 156,1974,19.66
-156,1975,21.0
+156,1975,21
 156,1976,20.62
 156,1977,21.69
 156,1970,19.35
@@ -1400,7 +1400,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 151,2009,24.51
 151,1991,21.41
 151,1989,18.68
-151,1973,22.0
+151,1973,22
 151,1974,23.24
 151,1975,23.07
 151,1976,24.14
@@ -1485,7 +1485,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 158,2008,33.9
 158,2009,34.13
 158,2010,34.67
-158,2011,34.0
+158,2011,34
 158,2012,34.51
 158,2013,34.7
 159,1971,22.48
@@ -1535,7 +1535,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 159,2005,31.39
 159,2006,30.42
 159,2007,30.92
-159,2008,31.0
+159,2008,31
 159,2009,31.98
 159,2010,31.79
 158,2006,33.62
@@ -1555,7 +1555,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 157,2009,30.28
 157,2010,30.13
 157,2011,30.95
-157,2012,31.0
+157,2012,31
 157,2013,31.25
 158,1961,24.84
 157,2007,30.4
@@ -1692,7 +1692,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 28,1987,24.55
 28,1988,23.86
 28,1989,23.41
-28,1990,27.0
+28,1990,27
 28,1991,27.31
 28,1992,27.45
 28,1993,27.65
@@ -1709,7 +1709,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 143,1988,55.96
 143,1989,53.41
 143,1990,58.34
-143,1991,57.0
+143,1991,57
 143,1992,52.93
 143,1985,53.71
 143,1993,52.4
@@ -1767,7 +1767,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 143,2006,57.65
 143,2007,56.94
 143,2008,57.62
-143,2009,57.0
+143,2009,57
 143,2010,56.93
 143,2011,57.11
 143,2012,56.81
@@ -1798,7 +1798,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 150,1975,19.54
 150,1976,20.58
 150,1977,19.49
-150,1978,19.0
+150,1978,19
 150,1979,19.68
 150,1980,18.22
 150,1973,20.03
@@ -1807,7 +1807,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 150,1961,25.24
 149,1998,37.84
 149,1999,38.24
-149,2000,37.0
+149,2000,37
 149,2001,37.1
 149,2002,36.9
 149,2003,37.27
@@ -1860,7 +1860,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 150,1997,18.74
 150,1998,18.17
 150,1999,16.1
-150,2000,16.0
+150,2000,16
 150,2001,17.04
 149,1997,38.44
 149,1996,37.79
@@ -1940,7 +1940,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 149,1967,30.86
 149,1968,32.34
 149,1969,32.41
-149,1970,32.0
+149,1970,32
 149,1971,31.94
 149,1972,30.89
 149,1973,32.01
@@ -2108,7 +2108,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 174,1968,33.5
 174,1990,29.07
 146,1996,32.98
-146,1997,35.0
+146,1997,35
 146,1998,34.93
 184,1973,10.05
 184,1974,9.13
@@ -2312,7 +2312,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 165,1994,33.26
 166,1970,21.9
 166,1971,22.79
-166,1972,18.0
+166,1972,18
 166,1994,22.95
 166,1995,20.25
 166,1996,19.9
@@ -2381,7 +2381,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 162,1986,24.93
 162,1987,25.92
 162,1988,25.74
-162,1999,29.0
+162,1999,29
 162,1989,26.4
 162,1991,27.01
 162,1992,26.93
@@ -2414,7 +2414,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 165,1964,31.69
 165,1963,27.54
 165,1962,28.48
-221,1998,24.0
+221,1998,24
 221,1999,24.34
 221,2000,23.61
 221,2001,22.72
@@ -2426,7 +2426,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 221,2007,24.43
 221,2008,23.87
 221,2009,25.35
-221,2010,26.0
+221,2010,26
 221,2011,27.56
 221,2012,26.6
 221,2013,27.74
@@ -2450,7 +2450,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 171,1969,18.95
 171,1970,18.51
 171,1971,19.66
-171,1972,21.0
+171,1972,21
 171,1965,19.97
 171,1973,19.78
 170,2008,26.56
@@ -2560,7 +2560,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 170,1970,17.62
 170,1971,19.92
 170,1972,21.13
-170,1973,19.0
+170,1973,19
 170,1974,19.55
 170,1975,23.08
 170,1976,20.42
@@ -2597,7 +2597,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 169,2000,18.96
 223,2002,56.35
 223,2003,55.41
-223,2004,55.0
+223,2004,55
 5305,1991,47.99
 5305,1992,46.64
 5305,1993,45.48
@@ -2637,7 +2637,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5305,1979,46.46
 5305,2008,43.53
 5305,2009,43.49
-5305,2010,43.0
+5305,2010,43
 5400,1979,33.2
 5400,1980,33.24
 5400,1981,32.86
@@ -2774,7 +2774,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5402,2005,27.15
 5402,2006,27.35
 5402,2007,27.6
-5402,2008,28.0
+5402,2008,28
 5402,2009,28.01
 5402,2002,27.34
 5402,2010,28.09
@@ -2822,7 +2822,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5403,1978,36.92
 5403,1961,40.36
 5403,1962,41.54
-5403,1963,40.0
+5403,1963,40
 5403,1964,39.72
 5403,1965,39.7
 5403,1966,39.69
@@ -2858,7 +2858,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5401,1980,39.63
 5401,1981,39.23
 5401,1974,40.9
-5401,1982,39.0
+5401,1982,39
 5401,1964,45.87
 5401,1962,46.99
 5400,1999,29.77
@@ -2870,7 +2870,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5400,2005,30.01
 5401,1963,46.53
 5400,2006,29.99
-5400,2008,30.0
+5400,2008,30
 5400,2009,29.93
 5400,2010,30.26
 5400,2011,30.11
@@ -3125,7 +3125,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5302,2006,33.41
 5302,2007,33.02
 5303,1976,30.25
-5303,1977,33.0
+5303,1977,33
 5303,1978,34.27
 5303,1979,32.6
 5303,1980,32.43
@@ -3213,7 +3213,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5301,2005,38.24
 5301,2006,38.26
 5301,2007,36.97
-5301,2000,40.0
+5301,2000,40
 5301,2008,37.47
 5301,2010,37.98
 5301,2011,36.43
@@ -3239,7 +3239,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5300,2012,33.08
 5300,2013,33.22
 5301,1992,43.63
-5301,1993,44.0
+5301,1993,44
 5301,1994,44.18
 5301,1995,43.89
 5301,1996,44.02
@@ -3297,7 +3297,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5802,1991,29.23
 5802,1999,32.24
 5802,2001,32.09
-5802,2002,32.0
+5802,2002,32
 5802,2003,32.7
 5802,2004,32.69
 5802,2005,32.95
@@ -3410,7 +3410,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5802,2010,33.87
 5802,2011,33.77
 5815,2008,32.28
-5815,2009,32.0
+5815,2009,32
 5815,2010,32.3
 5815,2011,32.05
 5815,2012,31.31
@@ -3875,7 +3875,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5503,1969,14.72
 5502,2012,21.09
 5502,2011,21.68
-5502,2010,22.0
+5502,2010,22
 5502,1993,21.85
 5502,1994,22.64
 5502,1995,21.79
@@ -3893,7 +3893,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5502,2007,22.36
 5502,2008,22.53
 5502,2009,21.98
-5502,1991,21.0
+5502,1991,21
 5203,2009,23.92
 5203,2008,24.22
 5203,2007,24.54
@@ -4156,7 +4156,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 236,2005,25.56
 236,2006,24.1
 236,2007,25.06
-236,2000,23.0
+236,2000,23
 236,1990,22.89
 236,1989,21.44
 236,1988,26.36
@@ -4252,7 +4252,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 230,2006,33.95
 230,1996,35.33
 230,1998,35.76
-230,1999,35.0
+230,1999,35
 230,2000,35.25
 230,2001,36.33
 230,2002,36.99
@@ -4357,7 +4357,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 226,2002,11.38
 226,2003,11.72
 226,2004,12.01
-226,2005,13.0
+226,2005,13
 226,2006,12.39
 226,1999,11.25
 226,1989,10.19
@@ -4516,7 +4516,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 215,1972,14.89
 215,1980,26.24
 215,1982,25.11
-215,1983,23.0
+215,1983,23
 215,1984,24.03
 215,1985,25.82
 215,1986,25.42
@@ -4648,7 +4648,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5102,1987,16.86
 5102,1969,21.33
 5102,1967,20.24
-5101,2004,26.0
+5101,2004,26
 5101,2005,26.8
 5101,2006,26.89
 5101,2007,26.51
@@ -4718,7 +4718,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5200,2009,24.98
 5200,2002,24.69
 5200,2010,25.09
-5200,2012,25.0
+5200,2012,25
 5200,2013,25.15
 5203,1961,19.44
 5203,1962,18.9
@@ -4746,7 +4746,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5200,1997,25.01
 5200,1998,24.83
 5200,1991,24.58
-5203,1967,19.0
+5203,1967,19
 5203,1968,18.7
 5203,1969,18.77
 5203,1991,23.7
@@ -4757,7 +4757,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5203,1996,25.33
 5203,1997,25.66
 5203,1990,23.58
-5203,1998,25.0
+5203,1998,25
 5203,2000,25.2
 5203,2001,24.57
 5203,2002,23.97
@@ -4950,7 +4950,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 351,1974,28.72
 351,1975,29.42
 181,1971,39.95
-351,1996,39.0
+351,1996,39
 181,1970,40.66
 181,1968,42.41
 251,1964,38.98
@@ -5048,8 +5048,8 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5100,2007,33.45
 5100,2008,33.6
 5100,2009,34.05
-5100,2010,34.0
-5100,2011,34.0
+5100,2010,34
+5100,2011,34
 5100,2004,33.01
 5100,2012,33.58
 5100,1994,33.46
@@ -5060,7 +5060,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5100,1979,30.07
 5100,1980,30.96
 5100,1981,30.81
-5100,1982,31.0
+5100,1982,31
 5100,1993,32.91
 5100,1983,30.57
 5100,1985,31.74
@@ -5085,7 +5085,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5101,1991,24.05
 5101,1993,23.78
 5101,1994,24.71
-5101,1995,25.0
+5101,1995,25
 5101,1996,25.65
 5101,1997,25.42
 5101,1998,25.56
@@ -5124,13 +5124,13 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5000,1974,29.57
 5000,1967,29.4
 5000,1975,30.06
-5000,1977,30.0
+5000,1977,30
 5000,1978,31.04
 5000,1979,30.97
 5000,1980,31.33
 5000,1981,31.61
 5000,1982,31.99
-5000,1983,33.0
+5000,1983,33
 5000,1976,29.58
 5000,1966,29.32
 5000,1965,29.08
@@ -5162,8 +5162,8 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5000,2012,31.68
 5000,2013,31.8
 5100,1961,28.65
-5100,1962,29.0
-5000,2008,32.0
+5100,1962,29
+5000,2008,32
 5100,1963,28.94
 5100,1965,28.81
 5100,1966,28.12
@@ -5197,7 +5197,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 5817,2012,33.28
 143,1964,42.32
 143,1962,38.81
-41,2009,34.0
+41,2009,34
 41,2010,34.25
 41,2011,34.52
 41,2012,34.08
@@ -5290,7 +5290,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 128,1990,21.42
 128,1991,20.14
 128,1992,20.61
-128,1993,20.0
+128,1993,20
 128,1994,17.63
 128,1995,17.53
 128,1996,18.89
@@ -5361,7 +5361,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 44,1963,16.21
 46,2012,14.35
 46,2013,13.67
-48,1961,19.0
+48,1961,19
 48,1962,19.79
 48,1963,19.45
 48,1964,20.49
@@ -5599,7 +5599,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 37,1984,9.15
 37,1985,9.28
 33,1981,17.47
-37,2006,13.0
+37,2006,13
 33,1980,19.78
 33,1978,19.17
 32,1974,22.71
@@ -5607,7 +5607,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 32,1976,22.58
 32,1977,22.64
 32,1978,22.51
-32,1979,23.0
+32,1979,23
 32,1980,22.02
 32,1973,22.25
 32,1981,20.59
@@ -5695,7 +5695,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 96,1962,25.6
 96,1963,24.19
 96,1964,25.06
-96,1965,24.0
+96,1965,24
 96,1966,23.01
 96,1967,23.92
 96,1968,24.06
@@ -6220,7 +6220,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 50,1987,24.59
 50,1980,21.66
 50,1988,24.3
-50,1990,22.0
+50,1990,22
 50,1991,21.92
 50,1992,22.56
 50,1993,22.42
@@ -6246,10 +6246,10 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 50,1972,22.17
 50,1973,25.64
 50,1974,24.3
-50,1975,24.0
+50,1975,24
 50,1976,24.27
 49,1972,23.02
-50,1997,21.0
+50,1997,21
 49,1971,25.48
 49,1969,20.07
 107,1987,22.3
@@ -6351,7 +6351,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 116,2012,27.82
 116,2005,28.67
 116,2013,27.42
-116,1995,29.0
+116,1995,29
 116,1993,32.94
 116,1977,30.42
 116,1978,30.11
@@ -6512,7 +6512,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 11,2008,27.63
 11,2009,27.07
 11,2010,26.37
-11,2003,28.0
+11,2003,28
 11,2011,26.79
 11,1993,21.19
 11,1991,22.21
@@ -6643,7 +6643,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 10,1990,23.68
 10,1991,23.46
 10,1992,21.69
-10,1993,22.0
+10,1993,22
 10,1994,23.86
 10,1995,27.61
 10,1996,24.73
@@ -6803,7 +6803,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 16,1969,33.47
 16,1970,35.13
 16,1971,32.26
-16,1972,30.0
+16,1972,30
 16,1973,33.29
 16,1974,34.04
 16,1975,31.85
@@ -6813,7 +6813,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 16,1979,34.35
 16,1980,34.3
 16,1981,33.26
-16,1982,34.0
+16,1982,34
 16,1983,34.66
 16,1984,34.41
 16,2006,36.65
@@ -6838,7 +6838,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 4,1972,34.49
 4,1965,29.77
 4,1973,35.33
-3,2008,35.0
+3,2008,35
 3,2006,34.3
 3,1990,47.18
 3,1991,46.16
@@ -6943,7 +6943,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 2,2001,34.78
 3,1970,42.44
 3,1971,42.33
-3,1972,45.0
+3,1972,45
 3,1973,45.25
 3,1974,46.03
 3,1975,45.97
@@ -6999,11 +6999,11 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 9,1975,24.99
 9,1976,24.93
 9,1969,24.28
-9,1977,25.0
+9,1977,25
 8,2012,14.93
 8,2010,17.38
 8,1994,16.97
-8,1995,17.0
+8,1995,17
 8,1996,16.01
 8,1997,16.17
 8,1998,16.59
@@ -7385,7 +7385,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 115,1981,30.6
 115,1982,31.7
 35,1978,31.62
-35,1977,27.0
+35,1977,27
 35,1976,27.38
 35,1975,25.98
 233,1971,26.74
@@ -7569,7 +7569,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 15,1983,24.07
 15,1976,24.02
 15,1984,25.46
-15,1966,25.0
+15,1966,25
 15,1964,26.44
 255,2001,23.32
 255,2002,23.5
@@ -7666,7 +7666,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 19,2005,22.54
 19,2006,23.97
 19,2007,23.82
-19,2008,23.0
+19,2008,23
 19,2009,23.84
 19,2002,22.95
 80,2009,37.27
@@ -7727,7 +7727,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 17,1997,14.05
 17,1998,13.61
 17,1999,14.96
-17,2000,14.0
+17,2000,14
 17,2001,13.79
 17,1994,14.73
 17,1984,20.14
@@ -7792,7 +7792,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 19,1968,19.81
 19,1969,18.1
 17,2004,13.83
-60,2009,30.0
+60,2009,30
 60,2010,31.19
 60,2011,30.56
 118,1976,26.01
@@ -7988,10 +7988,10 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 121,1975,30.34
 121,1977,30.02
 121,1978,29.94
-121,1979,29.0
+121,1979,29
 121,1980,29.34
 121,1981,29.01
-121,1982,30.0
+121,1982,30
 121,1983,29.72
 121,1976,29.92
 121,2005,28.2
@@ -8445,7 +8445,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 122,1994,50.99
 122,1995,47.87
 136,1962,29.53
-136,1963,29.0
+136,1963,29
 136,1964,29.28
 136,1965,27.97
 136,1966,28.55
@@ -8465,7 +8465,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 134,2013,31.66
 134,2011,32.43
 134,1995,32.54
-134,1996,32.0
+134,1996,32
 134,1997,32.53
 134,1998,33.03
 134,1999,32.63
@@ -8708,7 +8708,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 137,1988,29.41
 137,1987,30.03
 137,1970,29.85
-137,1971,30.0
+137,1971,30
 137,1972,29.41
 137,1973,29.28
 137,1974,29.67
@@ -8771,7 +8771,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 133,1963,29.31
 256,2008,23.68
 256,2009,24.77
-256,2010,25.0
+256,2010,25
 256,2011,24.86
 256,2012,25.05
 256,2013,24.7
@@ -8940,7 +8940,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 132,1965,16.49
 131,2011,26.86
 132,1966,17.07
-132,1968,17.0
+132,1968,17
 132,1969,16.86
 132,1970,16.65
 132,1971,17.2
@@ -8986,7 +8986,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 132,2012,23.65
 132,2013,23.45
 133,1961,29.58
-133,1962,30.0
+133,1962,30
 132,2008,21.28
 132,1998,22.19
 132,1997,22.2
@@ -9355,7 +9355,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 84,1961,42.37
 81,2007,16.02
 81,1997,12.83
-81,1996,13.0
+81,1996,13
 81,1995,14.87
 81,1978,9.81
 81,1979,10.78
@@ -9438,7 +9438,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 66,1993,28.57
 66,2001,29.45
 66,1983,23.68
-66,1981,16.0
+66,1981,16
 66,1965,29.02
 66,1966,24.84
 66,1967,24.72
@@ -9560,7 +9560,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 62,1975,26.22
 62,1974,26.3
 62,1973,26.28
-238,2009,37.0
+238,2009,37
 238,2010,36.38
 238,2011,36.5
 238,2012,36.11
@@ -9682,7 +9682,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 67,2012,30.88
 67,2011,29.46
 67,2010,30.27
-67,1993,22.0
+67,1993,22
 67,1994,21.58
 67,1995,23.41
 67,1996,23.42
@@ -9729,7 +9729,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 68,1984,25.1
 68,1985,25.09
 68,1986,25.14
-68,1987,25.0
+68,1987,25
 68,1988,25.64
 68,1989,25.56
 68,1990,25.03
@@ -9897,7 +9897,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 99,1985,17.55
 99,1986,18.84
 99,1987,21.67
-99,1988,25.0
+99,1988,25
 99,1989,26.95
 99,1990,25.8
 99,1991,26.73
@@ -9921,7 +9921,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 103,2000,35.58
 103,2001,36.38
 103,2002,37.88
-103,2003,39.0
+103,2003,39
 103,1996,32.54
 103,2004,38.38
 103,1986,57.39
@@ -9999,7 +9999,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 102,1969,36.37
 102,1970,37.1
 102,1971,35.6
-102,1972,38.0
+102,1972,38
 102,1973,42.09
 102,1974,41.03
 102,1975,38.84
@@ -10123,7 +10123,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 91,1976,27.09
 91,1977,27.96
 91,1978,28.26
-91,1979,27.0
+91,1979,27
 91,1980,27.57
 91,1973,25.59
 91,1963,25.8
@@ -10196,7 +10196,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 90,1993,26.81
 90,1994,27.31
 90,1995,26.52
-90,1996,26.0
+90,1996,26
 90,1989,29.9
 90,1997,25.54
 90,1999,25.64
@@ -10317,7 +10317,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 91,2008,28.11
 91,2009,28.12
 91,2010,27.66
-91,2011,28.0
+91,2011,28
 91,2012,28.1
 91,2005,27.72
 91,2013,28.1
@@ -10346,7 +10346,7 @@ geo,year,cereals_excluding_beer_protein_supply_quantity_g_capita_day_fea
 91,1996,27.62
 91,1997,27.17
 91,1998,28.21
-91,1999,28.0
+91,1999,28
 91,2000,26.8
 91,2001,27.56
 93,1969,20.88

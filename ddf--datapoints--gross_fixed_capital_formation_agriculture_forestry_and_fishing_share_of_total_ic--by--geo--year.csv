@@ -160,7 +160,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 162,2002,2.43
 162,2003,2.2
 162,2004,1.9
-162,2005,2.0
+162,2005,2
 162,2006,1.95
 162,2007,1.67
 159,2013,8.01
@@ -188,7 +188,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 158,2012,3.11
 158,2013,2.94
 158,2004,9.51
-168,2014,5.0
+168,2014,5
 168,2015,12.52
 169,2001,5.17
 146,2002,3.12
@@ -242,7 +242,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 184,2005,8.88
 184,2006,8.35
 184,2007,6.41
-184,2008,6.0
+184,2008,6
 184,2009,5.09
 184,2010,4.86
 184,2011,4.93
@@ -372,7 +372,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 173,2014,4.97
 174,2001,2.67
 174,2002,3.01
-174,2003,3.0
+174,2003,3
 174,2004,3.12
 174,2005,2.64
 174,2006,2.57
@@ -627,7 +627,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 148,2014,0.8
 148,2015,0.77
 149,2001,8.45
-149,2002,8.0
+149,2002,8
 149,2003,6.3
 149,2004,6.28
 149,2005,6.51
@@ -644,7 +644,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 150,2001,3.24
 149,2007,5.47
 147,2001,8.85
-148,2010,1.0
+148,2010,1
 148,2008,1.22
 147,2003,8.81
 147,2004,5.99
@@ -759,7 +759,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 141,2011,3.55
 141,2012,3.19
 141,2013,11.75
-141,2014,14.0
+141,2014,14
 141,2015,16.42
 273,2001,7.84
 141,2007,7.09
@@ -989,7 +989,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 155,2002,16.75
 155,2003,17.55
 155,2004,13.94
-155,2005,13.0
+155,2005,13
 236,2003,4.18
 155,2006,10.66
 155,2008,7.93
@@ -1110,7 +1110,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 234,2009,7.77
 234,2010,8.5
 234,2011,9.55
-234,2002,5.0
+234,2002,5
 234,2012,9.59
 234,2014,9.07
 234,2015,8.5
@@ -1185,7 +1185,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 195,2014,0.56
 272,2001,17.34
 272,2002,10.88
-272,2003,9.0
+272,2003,9
 272,2004,8.26
 272,2005,7.4
 272,2006,6.59
@@ -1331,7 +1331,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 192,2014,0.07
 192,2015,0.07
 193,2001,4.57
-193,2002,5.0
+193,2002,5
 193,2003,5.1
 193,2004,5.18
 193,2005,4.84
@@ -1412,12 +1412,12 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 210,2005,2.2
 211,2014,0.8
 211,2012,0.7
-210,2007,2.0
+210,2007,2
 210,2008,2.17
 210,2009,2.28
 210,2010,2.35
 210,2011,2.3
-210,2012,2.0
+210,2012,2
 210,2013,1.75
 210,2014,1.68
 210,2015,1.67
@@ -1590,7 +1590,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 37,2005,2.16
 36,2011,0.16
 37,2006,2.49
-37,2008,2.0
+37,2008,2
 37,2009,1.85
 37,2010,1.79
 37,2011,1.65
@@ -1714,7 +1714,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 27,2010,4.28
 27,2011,6.31
 27,2012,6.02
-27,2013,6.0
+27,2013,6
 27,2014,7.22
 27,2015,5.92
 233,2001,9.18
@@ -1942,7 +1942,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 8,2009,0.56
 8,2010,0.73
 8,2011,1.02
-8,2012,1.0
+8,2012,1
 8,2013,0.95
 8,2014,0.78
 8,2015,0.82
@@ -1965,7 +1965,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 11,2004,2.93
 11,2005,3.04
 11,2006,2.81
-11,2007,3.0
+11,2007,3
 11,2008,3.22
 11,2009,3.4
 11,2010,3.5
@@ -1979,7 +1979,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 52,2003,1.09
 52,2004,0.86
 52,2005,0.7
-52,2006,1.0
+52,2006,1
 52,2007,3.3
 52,2008,3.4
 11,2014,2.67
@@ -2051,7 +2051,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 3,2001,8.18
 3,2002,8.2
 3,2003,7.95
-3,2004,8.0
+3,2004,8
 3,2005,7.55
 3,2006,6.97
 2,2012,4.08
@@ -2181,7 +2181,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 18,2007,5.19
 18,2008,4.14
 18,2009,3.88
-18,2010,3.0
+18,2010,3
 18,2011,2.78
 18,2012,2.78
 18,2013,3.84
@@ -2510,7 +2510,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 113,2002,15.69
 113,2003,3.13
 118,2009,0.22
-113,2004,3.0
+113,2004,3
 275,2012,7.28
 275,2010,6.59
 83,2005,2.97
@@ -2627,7 +2627,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 106,2014,3.26
 106,2015,3.25
 109,2001,1.12
-109,2002,1.0
+109,2002,1
 109,2003,0.94
 106,2009,3.22
 83,2002,3.38
@@ -2695,10 +2695,10 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 60,2006,8.84
 60,2007,10.21
 60,2008,11.85
-60,2009,13.0
+60,2009,13
 60,2010,13.37
 60,2011,12.05
-60,2012,12.0
+60,2012,12
 60,2013,10.71
 59,2009,2.1
 59,2008,2.67
@@ -2765,7 +2765,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 61,2012,0.36
 61,2014,0.59
 61,2015,0.37
-178,2001,3.0
+178,2001,3
 178,2002,1.64
 178,2003,1.28
 178,2004,1.42
@@ -2806,7 +2806,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 50,2013,0.31
 50,2014,0.82
 50,2015,0.85
-167,2001,3.0
+167,2001,3
 167,2002,2.85
 167,2003,2.1
 250,2001,6.49
@@ -2950,7 +2950,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 84,2003,3.33
 84,2004,3.41
 84,2005,4.24
-84,2006,3.0
+84,2006,3
 84,2007,3.62
 84,2008,4.47
 85,2006,2.43
@@ -3054,7 +3054,7 @@ geo,year,gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of
 70,2005,1.31
 70,2006,1.37
 70,2007,1.18
-70,2008,1.0
+70,2008,1
 70,2009,1.1
 70,2010,1.09
 70,2011,1.36

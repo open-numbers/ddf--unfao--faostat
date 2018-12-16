@@ -87,7 +87,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_import_value
 120,2013,2679.341
 120,2012,1284.291
 121,2014,0.649
-129,2015,1.0
+129,2015,1
 129,2016,0.679
 130,2014,0.467
 143,2015,2.445
@@ -140,7 +140,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_import_value
 216,2015,46.351
 216,2014,177.898
 216,2013,139.287
-216,2012,109.0
+216,2012,109
 211,2016,112.711
 211,2015,348.166
 211,2014,313.533
@@ -176,7 +176,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_import_value
 225,2015,3.716
 225,2014,3.653
 225,2013,0.409
-225,2012,1.0
+225,2012,1
 230,2015,6.221
 38,2015,1.518
 113,2016,0.143
@@ -384,7 +384,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_import_value
 97,2015,62.156
 97,2014,128.565
 97,2013,130.569
-97,2012,178.0
+97,2012,178
 95,2016,15.325
 95,2014,12.466
 95,2012,4.597
@@ -417,11 +417,11 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_import_value
 106,2014,1821.006
 106,2013,1337.875
 106,2012,1101.795
-105,2016,130.0
-105,2015,228.0
-105,2014,33.0
-105,2013,46.0
-105,2012,49.0
+105,2016,130
+105,2015,228
+105,2014,33
+105,2013,46
+105,2012,49
 89,2014,137.55
 167,2015,321.787
 89,2013,168.44
@@ -432,7 +432,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_import_value
 63,2015,6.549
 63,2014,1.899
 63,2013,6.66
-63,2012,9.0
+63,2012,9
 60,2016,3.948
 60,2015,4.795
 60,2014,2.01

@@ -469,7 +469,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 226,2009,3.83
 155,2011,2.14
 155,2010,2.19
-155,2009,2.0
+155,2009,2
 155,2008,1.89
 155,2007,2.13
 155,2006,2.47
@@ -600,7 +600,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 193,2009,3.95
 193,2008,7.48
 193,2007,6.79
-244,2017,7.0
+244,2017,7
 244,2016,2.35
 244,2015,3.61
 244,2013,2.39
@@ -646,7 +646,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 146,2011,4.14
 146,2010,4.45
 146,2009,5.93
-146,2008,7.0
+146,2008,7
 146,2007,8.06
 146,2006,5.63
 146,2005,6.35
@@ -768,7 +768,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 48,2010,6.21
 107,2009,2.43
 98,2009,3.65
-98,2010,4.0
+98,2010,4
 98,2011,3.91
 50,2013,2.29
 50,2012,2.08
@@ -880,7 +880,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 59,2008,1.76
 59,2007,2.39
 56,2013,2.22
-56,2012,2.0
+56,2012,2
 56,2011,2.1
 56,2003,5.72
 250,2012,6.16
@@ -993,7 +993,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 3,2011,2.02
 3,2010,2.07
 7,2001,1.23
-7,2012,1.0
+7,2012,1
 7,2013,1.26
 7,2014,0.8
 9,2016,0.64
@@ -1034,7 +1034,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 27,2004,2.64
 27,2003,2.96
 27,2002,2.85
-27,2001,2.0
+27,2001,2
 21,2017,0.99
 21,2016,1.19
 27,2007,2.52
@@ -1081,8 +1081,8 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 18,2010,10.99
 18,2009,11.18
 53,2010,1.61
-255,2016,0.0
-255,2015,0.0
+255,2016,0
+255,2015,0
 19,2008,6.04
 33,2011,1.46
 19,2009,6.26
@@ -1097,7 +1097,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 20,2013,3.05
 20,2012,3.17
 20,2011,2.88
-20,2010,3.0
+20,2010,3
 20,2009,4.26
 20,2008,3.4
 20,2007,3.65
@@ -1140,7 +1140,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 97,2014,1.65
 97,2013,1.21
 97,2012,1.48
-60,2011,1.0
+60,2011,1
 97,2010,1.4
 97,2016,1.44
 89,2014,3.42
@@ -1293,7 +1293,7 @@ geo,year,agriculture_forestry_fishing_central_government_share_of_total_outlays_
 66,2013,4.92
 66,2014,4.17
 68,2004,0.76
-66,2015,5.0
+66,2015,5
 67,2001,5.78
 67,2002,5.6
 67,2003,5.55

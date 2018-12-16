@@ -268,7 +268,7 @@ geo,year,open_shrubland_implied_emission_factor_for_n2o_burning_savanna_eab1
 182,1995,0.2155
 182,1998,0.2136
 182,1999,0.2649
-182,2000,0.0
+182,2000,0
 182,2030,0.2155
 182,2050,0.2155
 174,2030,0.21
@@ -2842,7 +2842,7 @@ geo,year,open_shrubland_implied_emission_factor_for_n2o_burning_savanna_eab1
 72,1996,0.1862
 72,1997,0.206
 72,1998,0.2097
-72,1999,0.0
+72,1999,0
 72,2000,0.2143
 72,2030,0.205
 72,2050,0.205

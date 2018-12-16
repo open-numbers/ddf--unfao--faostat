@@ -120,7 +120,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_export_quant
 84,2013,7.475
 54,2016,0.03
 84,2014,17.25
-98,2014,0.0
+98,2014,0
 33,2015,14.809
 9,2013,2.065
 9,2014,2.076
@@ -151,7 +151,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_export_quant
 138,2013,0.12
 126,2014,0.01
 138,2014,0.11
-141,2016,0.0
+141,2016,0
 143,2015,0.36
 143,2016,0.47
 150,2012,6.078
@@ -170,7 +170,7 @@ geo,year,compounds_of_mercury_chemically_defined_excluding_amalgams_export_quant
 101,2016,17.234
 104,2012,0.015
 118,2013,0.006
-104,2014,0.0
+104,2014,0
 106,2013,3.645
 106,2014,0.058
 106,2015,0.058

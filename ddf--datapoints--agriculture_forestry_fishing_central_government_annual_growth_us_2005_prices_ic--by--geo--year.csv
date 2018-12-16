@@ -170,7 +170,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 150,2007,1.86
 150,2005,-13.2
 134,2004,37.89
-134,2003,21.0
+134,2003,21
 134,2002,13.43
 133,2009,-35.31
 133,2008,8.46
@@ -227,7 +227,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 129,2003,122.03
 129,2002,-68.79
 256,2015,6.31
-256,2014,2.0
+256,2014,2
 130,2010,-6.7
 132,2004,-5.54
 130,2011,-4.88
@@ -332,10 +332,10 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 273,2012,2.14
 273,2011,-11.84
 273,2010,-13.23
-273,2009,-9.0
+273,2009,-9
 273,2008,49.11
 143,2007,-3.23
-183,2012,-19.0
+183,2012,-19
 183,2013,-6.13
 183,2014,2.75
 223,2011,10.61
@@ -379,7 +379,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 223,2014,7.38
 230,2008,8.91
 220,2012,14.72
-220,2010,-23.0
+220,2010,-23
 216,2011,-48.39
 216,2010,-14.61
 216,2009,9.04
@@ -457,7 +457,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 251,2010,-16.59
 251,2009,45.23
 251,2008,4.36
-251,2007,26.0
+251,2007,26
 251,2006,22.98
 251,2005,21.73
 251,2003,43.78
@@ -613,7 +613,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 203,2015,14.81
 209,2012,35.19
 210,2003,0.4
-211,2006,-1.0
+211,2006,-1
 211,2005,-4.1
 211,2004,-1.35
 211,2003,-3.27
@@ -639,7 +639,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 25,2015,15.35
 25,2014,-22.49
 25,2013,7.19
-25,2012,46.0
+25,2012,46
 198,2015,30.28
 198,2014,-22.5
 198,2013,6.12
@@ -653,7 +653,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 198,2005,-23.59
 202,2004,-16.8
 202,2005,30.37
-202,2006,18.0
+202,2006,18
 202,2007,30.81
 203,2011,20.41
 203,2010,-9.97
@@ -729,7 +729,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 21,2013,-2.86
 21,2012,55.48
 21,2011,-2.88
-21,2010,-26.0
+21,2010,-26
 20,2015,16.96
 20,2014,26.93
 20,2013,-10.15
@@ -751,7 +751,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 233,2008,166.64
 233,2007,-55.92
 233,2006,157.24
-233,2005,14.0
+233,2005,14
 27,2015,37.28
 27,2014,0.19
 27,2013,-5.12
@@ -1067,7 +1067,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 101,2006,47.5
 101,2005,-60.42
 100,2013,2.2
-100,2012,0.0
+100,2012,0
 100,2011,-7.87
 100,2010,5.25
 100,2009,-21.45
@@ -1168,7 +1168,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 119,2013,-23.37
 119,2012,42.21
 119,2011,-66.8
-119,2010,19.0
+119,2010,19
 119,2009,-32.18
 100,2005,14.57
 119,2008,71.87
@@ -1282,7 +1282,7 @@ geo,year,agriculture_forestry_fishing_central_government_annual_growth_us_2005_p
 175,2012,-73.32
 175,2011,-13.39
 175,2010,21.1
-89,2015,-50.0
+89,2015,-50
 89,2014,29.16
 89,2013,-11.78
 89,2012,31.65

@@ -32,7 +32,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 173,2002,1821.42
 173,2001,2368.74
 173,2007,3470.69
-165,2004,428.0
+165,2004,428
 165,2003,171.45
 165,2002,147.15
 162,2013,2644.58
@@ -262,7 +262,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 256,2016,180.82
 256,2015,215.18
 256,2014,198.5
-256,2013,206.0
+256,2013,206
 134,2003,56.47
 137,2014,73.38
 134,2012,55.85
@@ -371,7 +371,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 251,2001,25.56
 251,2002,31.25
 251,2003,44.94
-251,2004,97.0
+251,2004,97
 251,2005,118.07
 181,2009,21.98
 181,2008,316.2
@@ -537,7 +537,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 202,2006,1929.15
 202,2005,1762.05
 202,2004,1421.53
-202,2003,1588.0
+202,2003,1588
 202,2002,1364.36
 202,2001,1339.64
 202,2007,2280.66
@@ -745,7 +745,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 11,2015,1484.06
 11,2014,1621.88
 11,2013,1698.21
-11,2012,1664.0
+11,2012,1664
 11,2011,1687.27
 11,2010,1784.83
 11,2009,1882.36
@@ -799,7 +799,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 19,2012,143.74
 19,2013,167.31
 19,2014,202.87
-20,2002,149.0
+20,2002,149
 20,2003,165.72
 20,2004,148.4
 20,2005,108.72
@@ -950,7 +950,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 67,2005,2729.73
 67,2006,2818.35
 67,2007,2625.28
-67,2008,2509.0
+67,2008,2509
 67,2009,2490.68
 67,2010,2560.11
 67,2011,2569.22
@@ -1015,7 +1015,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 175,2011,12.44
 175,2012,3.32
 175,2013,5.33
-175,2014,4.0
+175,2014,4
 175,2015,6.55
 97,2001,1868.47
 97,2002,2655.19
@@ -1037,7 +1037,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 84,2012,302.01
 84,2011,282.5
 175,2010,14.36
-84,2009,1216.0
+84,2009,1216
 79,2002,9243.21
 79,2003,8924.13
 79,2004,8651.9
@@ -1050,7 +1050,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 79,2011,7280.57
 84,2010,378.79
 79,2012,7402.42
-79,2013,7342.0
+79,2013,7342
 79,2014,7215.07
 79,2015,6817.96
 12,2007,15.08
@@ -1132,7 +1132,7 @@ geo,year,agriculture_forestry_fishing_general_government_value_us_2010_prices_ig
 68,2016,5462.53
 57,2013,721.22
 57,2012,1667.81
-57,2011,1806.0
+57,2011,1806
 57,2010,1961.85
 57,2009,2164.08
 57,2008,1905.05

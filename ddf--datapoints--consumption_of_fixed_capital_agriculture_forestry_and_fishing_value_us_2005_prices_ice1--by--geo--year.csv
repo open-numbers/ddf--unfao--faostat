@@ -62,10 +62,10 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 28,2007,153.14
 28,2008,171.01
 148,2015,0.33
-144,2005,21.0
+144,2005,21
 149,1990,89.82
 149,1992,90.36
-153,2000,8.0
+153,2000,8
 153,2001,8.16
 153,2002,8.31
 153,2003,8.44
@@ -142,7 +142,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 273,1995,29.2
 273,1996,28.6
 273,1997,28.25
-273,1998,28.0
+273,1998,28
 141,1991,34.06
 273,1999,27.8
 273,2001,27.43
@@ -185,7 +185,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 145,2004,4.72
 145,2005,4.8
 145,2006,4.89
-145,2007,5.0
+145,2007,5
 145,2008,5.13
 145,2009,5.26
 145,2010,5.37
@@ -408,7 +408,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 299,1998,14.64
 299,2000,18.54
 299,2001,19.56
-299,2002,20.0
+299,2002,20
 299,2003,20.36
 299,2004,20.91
 299,2005,21.69
@@ -558,7 +558,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 83,1994,2.1
 83,1995,2.08
 83,1996,2.04
-83,1997,2.0
+83,1997,2
 83,1998,1.96
 83,1999,1.94
 83,2000,1.92
@@ -591,7 +591,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 122,2009,8.85
 122,2010,9.16
 122,2011,9.59
-122,2012,10.0
+122,2012,10
 122,2013,10.41
 122,2014,10.89
 122,2015,11.38
@@ -681,8 +681,8 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 103,1993,151.65
 103,1994,152.97
 102,2007,1447.68
-102,1991,1179.0
-102,1990,1162.0
+102,1991,1179
+102,1990,1162
 101,2015,5861.14
 97,1994,1626.75
 99,2015,121.04
@@ -856,7 +856,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 137,2008,40.23
 137,2009,41.39
 137,2010,41.66
-137,2011,42.0
+137,2011,42
 137,2012,42.53
 137,2013,45.14
 137,2014,48.05
@@ -1031,7 +1031,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 131,1991,735.91
 131,1992,783.19
 131,1993,841.25
-131,1994,914.0
+131,1994,914
 131,1995,1004.4
 131,1996,1101.41
 131,1997,1197.07
@@ -1156,7 +1156,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 213,2006,234.72
 213,2007,235.12
 213,2008,236.73
-213,2009,240.0
+213,2009,240
 213,2010,248.07
 213,2011,259.69
 213,2012,272.76
@@ -1182,7 +1182,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 216,2000,1921.39
 216,2001,1926.48
 216,2002,1937.96
-216,2003,1967.0
+216,2003,1967
 216,2004,2015.47
 216,2005,2070.61
 216,2006,2130.11
@@ -1536,7 +1536,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 234,2010,218.83
 234,2008,155.36
 215,2006,190.42
-215,2007,200.0
+215,2007,200
 215,2008,214.04
 215,2009,232.21
 215,2010,252.38
@@ -1547,7 +1547,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 215,2015,388.63
 231,2015,41992.05
 234,1990,26.89
-234,1991,27.0
+234,1991,27
 234,1992,29.44
 234,1993,34.15
 234,1994,40.08
@@ -1608,7 +1608,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 244,2004,6.12
 244,2005,6.08
 244,2006,6.05
-244,2007,6.0
+244,2007,6
 244,2008,5.92
 244,2009,5.81
 244,2010,5.67
@@ -1651,7 +1651,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 196,1992,4.43
 196,1993,4.6
 196,1994,4.82
-196,1995,5.0
+196,1995,5
 196,1996,5.16
 196,1997,5.4
 196,1998,5.61
@@ -1674,8 +1674,8 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 194,2000,624.55
 194,2001,611.02
 194,2010,703.93
-194,2011,441.0
-194,2012,440.0
+194,2011,441
+194,2012,440
 194,2013,442.58
 194,2014,450.23
 194,2015,463.85
@@ -1722,7 +1722,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 188,2000,2.14
 188,2001,2.09
 188,2002,2.04
-188,2003,2.0
+188,2003,2
 188,2004,1.97
 188,2005,1.94
 188,2006,1.9
@@ -1908,7 +1908,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 211,2014,1000.57
 211,2015,995.61
 212,1990,231.09
-212,1991,247.0
+212,1991,247
 212,1992,263.39
 212,1993,280.28
 212,1994,295.23
@@ -1944,7 +1944,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 209,2010,41.68
 209,2011,41.86
 209,2012,42.04
-209,2013,42.0
+209,2013,42
 209,2014,41.57
 209,2015,41.34
 211,1990,1161.18
@@ -1955,7 +1955,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 211,1995,1179.2
 211,1996,1172.86
 211,1997,1164.58
-211,1998,1158.0
+211,1998,1158
 211,2000,1144.51
 212,2007,497.06
 203,2001,4855.01
@@ -1967,7 +1967,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 200,1994,52.23
 200,1995,50.99
 200,1996,49.91
-200,1997,49.0
+200,1997,49
 200,1998,47.92
 200,1999,46.74
 200,2000,45.64
@@ -2431,7 +2431,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 58,2013,379.44
 58,2014,381.98
 58,2015,385.93
-59,1990,210.0
+59,1990,210
 59,1991,216.69
 59,1992,224.45
 59,1993,233.39
@@ -2487,7 +2487,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 250,1996,180.17
 250,1997,176.78
 250,1998,179.65
-250,1999,183.0
+250,1999,183
 250,2000,179.95
 250,2001,171.84
 250,2002,164.45
@@ -2519,7 +2519,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 16,2012,335.95
 16,2011,305.31
 72,2006,0.91
-72,2007,1.0
+72,2007,1
 72,2008,1.1
 72,2009,1.18
 72,2010,1.23
@@ -2741,7 +2741,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 35,2007,8.55
 35,2008,9.04
 35,2009,9.53
-35,2010,10.0
+35,2010,10
 35,2011,10.45
 35,2012,10.91
 35,2013,11.36
@@ -2826,7 +2826,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 44,1992,567.34
 44,1993,578.35
 44,1994,588.97
-44,1995,598.0
+44,1995,598
 239,2000,0.77
 239,1999,0.77
 239,1998,0.76
@@ -2852,7 +2852,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 21,2006,8663.55
 21,2005,8686.81
 20,2009,11.32
-20,2008,11.0
+20,2008,11
 20,2007,10.69
 20,2006,10.77
 20,2005,11.27
@@ -3161,7 +3161,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 81,2015,583.34
 84,1990,608.99
 84,1991,595.28
-81,1994,655.0
+81,1994,655
 81,1993,680.91
 81,1992,704.1
 81,1991,717.65
@@ -3172,7 +3172,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 22,2011,1.09
 22,2010,1.07
 22,2009,1.03
-22,2008,1.0
+22,2008,1
 22,2007,0.97
 22,2006,0.95
 22,2005,0.92
@@ -3273,7 +3273,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 6,1990,0.52
 4,2015,51.72
 93,2010,38.26
-93,2009,39.0
+93,2009,39
 93,2008,39.87
 93,2007,40.8
 91,2009,15.84
@@ -3455,7 +3455,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 7,1994,215.44
 7,1993,221.58
 6,2004,0.85
-7,1992,225.0
+7,1992,225
 7,1990,214.37
 6,2015,1.23
 6,2014,1.22
@@ -3520,7 +3520,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 73,1997,33.2
 238,2015,558.09
 73,1998,31.8
-73,2000,29.0
+73,2000,29
 73,2001,28.2
 73,2002,27.75
 73,2003,27.92
@@ -3551,7 +3551,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 75,1990,5.14
 74,2015,41.84
 74,2014,41.97
-74,2013,42.0
+74,2013,42
 12,2003,10.4
 12,2004,10.68
 12,2005,10.93
@@ -3594,7 +3594,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 70,1999,15.33
 70,2001,15.93
 74,1997,41.68
-74,1998,43.0
+74,1998,43
 74,1999,43.78
 74,2000,43.9
 74,2001,43.73
@@ -3890,7 +3890,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 38,2012,220.87
 80,2014,117.99
 1,2004,152.51
-20,1990,6.0
+20,1990,6
 20,1991,6.59
 20,1992,7.56
 20,1993,7.88
@@ -3930,7 +3930,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 230,1999,1683.85
 230,1998,1851.01
 230,1997,2095.8
-230,1996,1946.0
+230,1996,1946
 10,2013,8038.58
 10,2012,7947.46
 10,2011,7904.03
@@ -4001,7 +4001,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 231,2008,33297.71
 231,2007,32038.91
 231,2006,31415.31
-231,2005,30791.0
+231,2005,30791
 231,2004,29831.42
 231,2003,29072.73
 231,2002,28518.89
@@ -4040,7 +4040,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 154,2012,77.47
 255,1997,884.57
 255,1996,894.69
-255,1995,927.0
+255,1995,927
 11,2010,1932.59
 11,2011,1889.21
 11,2012,1932.05
@@ -4098,7 +4098,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 17,2000,1.55
 17,1999,1.75
 17,1998,1.8
-17,2004,1.0
+17,2004,1
 11,2014,1986.52
 202,1998,1478.69
 202,1996,1316.23
@@ -4262,7 +4262,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 134,2015,12.4
 134,2014,12.67
 134,2013,12.82
-134,2012,13.0
+134,2012,13
 134,2011,14.49
 134,2010,15.08
 134,2009,16.75
@@ -4382,7 +4382,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 118,1992,24.15
 108,2014,697.38
 104,1992,1412.48
-104,1991,1476.0
+104,1991,1476
 104,1990,1473.41
 95,2000,63.24
 95,2001,32.54
@@ -4429,7 +4429,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 104,2008,1119.33
 104,2007,988.76
 104,2006,967.62
-104,2005,954.0
+104,2005,954
 104,2004,950.3
 104,2003,1004.76
 104,2002,1110.06
@@ -4475,7 +4475,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 100,2000,6359.64
 100,1999,6233.25
 100,1998,5910.01
-100,1997,5605.0
+100,1997,5605
 100,1996,4873.95
 100,1995,4890.89
 95,2013,32.73
@@ -4724,7 +4724,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 169,2004,50.23
 169,2003,44.05
 169,2002,37.7
-169,2001,37.0
+169,2001,37
 169,2000,41.28
 169,1999,39.72
 169,1998,42.7
@@ -4954,7 +4954,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 141,2000,6.8
 141,1999,6.31
 141,1998,11.02
-141,1997,16.0
+141,1997,16
 141,2009,5.17
 59,2003,235.36
 59,2002,261.85
@@ -4996,7 +4996,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 162,1991,1701.63
 162,1990,1730.26
 159,2015,34.88
-159,2014,33.0
+159,2014,33
 159,2013,32.11
 159,2012,31.22
 159,2011,29.62
@@ -5066,7 +5066,7 @@ geo,year,consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_
 167,2002,672.05
 156,2003,1016.52
 156,2001,938.39
-156,2000,910.0
+156,2000,910
 156,1999,886.23
 156,1998,891.18
 156,1997,897.79

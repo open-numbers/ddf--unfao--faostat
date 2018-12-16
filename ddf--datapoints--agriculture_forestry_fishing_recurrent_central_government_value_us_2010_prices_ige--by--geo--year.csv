@@ -2,7 +2,7 @@ geo,year,agriculture_forestry_fishing_recurrent_central_government_value_us_2010
 3,2010,39.14
 166,2008,54.87
 166,2009,46.26
-166,2010,58.0
+166,2010,58
 166,2011,52.67
 166,2012,53.03
 166,2013,50.92
@@ -29,7 +29,7 @@ geo,year,agriculture_forestry_fishing_recurrent_central_government_value_us_2010
 221,2005,71.88
 221,2006,67.82
 221,2007,71.38
-173,2008,4262.0
+173,2008,4262
 221,2008,51.34
 221,2010,64.5
 221,2011,57.28
@@ -54,7 +54,7 @@ geo,year,agriculture_forestry_fishing_recurrent_central_government_value_us_2010
 188,2002,1.18
 188,2011,1.53
 191,2015,5.54
-191,2016,5.0
+191,2016,5
 244,2010,4.31
 244,2011,4.9
 244,2012,4.5
@@ -216,7 +216,7 @@ geo,year,agriculture_forestry_fishing_recurrent_central_government_value_us_2010
 216,2013,3524.14
 210,2009,846.88
 220,2015,88.69
-225,2012,4.0
+225,2012,4
 225,2013,6.08
 237,2011,79.62
 237,2012,82.52
@@ -373,7 +373,7 @@ geo,year,agriculture_forestry_fishing_recurrent_central_government_value_us_2010
 233,2008,0.85
 20,2012,119.14
 20,2013,118.87
-20,2014,121.0
+20,2014,121
 20,2015,112.92
 20,2016,121.25
 21,2009,617.11
@@ -618,7 +618,7 @@ geo,year,agriculture_forestry_fishing_recurrent_central_government_value_us_2010
 73,2014,103.45
 73,2015,86.82
 73,2016,99.55
-84,2009,8.0
+84,2009,8
 84,2010,13.24
 84,2011,1.31
 84,2012,1.32
@@ -648,8 +648,8 @@ geo,year,agriculture_forestry_fishing_recurrent_central_government_value_us_2010
 67,2010,2406.48
 67,2011,2431.07
 67,2002,2145.79
-84,2015,0.0
-84,2016,0.0
+84,2015,0
+84,2016,0
 86,2012,2.59
 89,2013,120.67
 89,2014,169.1

@@ -31,7 +31,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 193,1987,52.92
 193,1988,37.77
 193,1989,43.84
-193,1990,45.0
+193,1990,45
 193,1991,59.48
 193,1992,74.18
 193,1993,73.69
@@ -125,7 +125,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 191,1997,69.48
 191,1998,80.49
 191,1999,80.34
-191,2000,86.0
+191,2000,86
 191,2001,89.25
 191,2002,93.41
 191,2003,97.97
@@ -239,7 +239,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 196,2003,94.57
 196,2004,104.85
 196,2005,97.15
-196,2006,98.0
+196,2006,98
 196,2007,100.43
 197,1976,101.54
 196,1986,91.01
@@ -281,9 +281,9 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 197,1989,103.34
 197,1990,95.97
 197,1991,96.7
-197,1992,98.0
+197,1992,98
 197,1993,95.38
-197,1994,101.0
+197,1994,101
 197,1995,101.46
 197,1996,102.16
 197,1997,103.09
@@ -342,7 +342,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 195,2014,126.59
 195,2015,123.96
 195,2016,128.05
-272,2006,100.0
+272,2006,100
 196,1962,96.69
 196,1963,99.35
 196,1964,95.18
@@ -398,7 +398,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 183,2010,94.19
 183,2011,103.41
 183,2012,84.65
-183,2013,100.0
+183,2013,100
 183,2014,94.01
 183,2015,92.12
 183,2016,87.97
@@ -493,7 +493,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 183,1979,116.75
 182,1965,39.29
 182,1966,39.78
-182,1967,38.0
+182,1967,38
 182,1968,36.83
 182,1969,37.91
 182,1970,37.64
@@ -677,7 +677,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 190,2015,115.76
 190,2016,117.58
 191,1961,60.74
-191,1962,63.0
+191,1962,63
 191,1963,71.36
 191,1964,70.67
 191,1965,71.74
@@ -689,7 +689,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 189,1984,382.63
 189,1983,345.86
 188,1969,64.83
-188,1970,66.0
+188,1970,66
 188,1971,66.81
 188,1972,67.3
 188,1973,67.08
@@ -703,8 +703,8 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 188,1981,75.16
 188,1982,77.94
 188,1983,80.77
-188,1984,81.0
-188,1985,84.0
+188,1984,81
+188,1985,84
 188,1986,87.93
 188,1987,88.93
 188,1988,93.42
@@ -798,7 +798,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 209,2006,92.88
 209,1997,95.41
 209,2007,98.33
-209,2009,94.0
+209,2009,94
 209,2010,108.75
 209,2011,111.22
 209,2012,113.69
@@ -925,7 +925,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 206,1995,58.13
 206,1996,61.18
 206,1997,62.79
-206,1998,65.0
+206,1998,65
 206,1999,67.55
 206,2000,71.35
 206,2001,74.36
@@ -950,7 +950,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 209,1962,89.85
 209,1963,89.31
 209,1964,96.33
-209,1965,101.0
+209,1965,101
 209,1966,104.17
 209,1967,143.12
 209,1968,151.66
@@ -966,7 +966,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 207,1985,90.06
 207,1986,84.07
 207,1987,101.84
-207,1988,118.0
+207,1988,118
 207,1989,110.27
 207,1990,119.02
 207,1991,135.76
@@ -1240,7 +1240,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 201,1993,125.27
 201,1984,121.03
 201,1994,123.7
-201,1996,117.0
+201,1996,117
 201,1997,111.21
 201,1998,104.93
 201,1999,104.22
@@ -1308,7 +1308,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 200,1976,717.24
 200,1977,638.26
 200,1978,578.99
-200,1979,514.0
+200,1979,514
 200,1980,494.13
 200,1981,521.16
 200,1982,495.11
@@ -1399,10 +1399,10 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 38,1984,130.79
 38,1975,125.71
 38,1963,73.62
-38,1962,69.0
+38,1962,69
 38,1961,71.68
 203,1996,88.85
-203,1997,97.0
+203,1997,97
 203,1998,92.62
 203,1999,101.13
 203,2000,102.96
@@ -1455,7 +1455,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 38,1991,98.04
 38,1992,98.95
 38,1993,107.21
-38,1994,109.0
+38,1994,109
 38,1995,110.54
 38,1996,105.29
 38,1997,104.31
@@ -1726,7 +1726,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 150,1999,98.79
 150,2000,96.82
 150,2001,93.72
-150,2002,95.0
+150,2002,95
 150,2003,95.64
 150,2004,104.17
 150,2005,98.56
@@ -1790,7 +1790,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 159,1980,84.03
 159,1981,82.37
 159,1982,81.44
-159,1973,90.0
+159,1973,90
 159,1961,88.44
 158,2016,172.21
 158,2015,163.59
@@ -1825,7 +1825,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 159,2015,97.99
 159,2016,96.14
 160,1961,13.21
-160,1962,11.0
+160,1962,11
 160,1963,12.17
 160,1964,15.22
 159,2011,91.48
@@ -1844,7 +1844,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 159,2009,95.96
 159,2008,95.01
 159,1987,82.63
-159,1988,83.0
+159,1988,83
 159,1989,90.85
 159,1990,84.14
 159,1991,87.16
@@ -1895,7 +1895,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 156,2007,103.12
 156,2008,107.67
 156,2009,106.17
-156,2010,107.0
+156,2010,107
 156,2011,107.5
 156,2012,101.55
 156,2013,105.89
@@ -2069,7 +2069,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 141,2014,167.11
 141,2015,113.61
 141,2016,146.03
-273,2006,100.0
+273,2006,100
 273,2007,63.43
 273,2008,73.78
 273,2009,74.91
@@ -2121,7 +2121,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 142,1999,75.59
 142,2000,89.47
 142,2001,98.64
-142,2002,103.0
+142,2002,103
 142,2003,102.94
 142,2004,100.82
 142,2005,99.27
@@ -2260,7 +2260,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 148,2006,101.56
 148,1984,79.58
 147,1991,27.46
-147,1990,31.0
+147,1990,31
 147,1989,31.42
 28,1975,52.66
 28,1976,53.13
@@ -2284,7 +2284,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 28,1994,65.28
 28,1985,58.66
 28,1973,54.37
-28,1972,54.0
+28,1972,54
 28,1971,52.33
 144,2006,110.41
 144,2007,117.1
@@ -2330,10 +2330,10 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 147,1984,35.56
 147,1985,34.4
 147,1986,33.1
-147,1987,33.0
+147,1987,33
 147,1988,31.56
-147,1967,35.0
-144,2004,90.0
+147,1967,35
+144,2004,90
 147,1966,35.92
 147,1964,36.6
 28,1999,81.84
@@ -2479,7 +2479,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 170,2001,89.66
 170,2002,90.7
 170,2003,94.24
-170,1994,65.0
+170,1994,65
 170,1982,54.43
 170,1981,53.18
 170,1980,51.79
@@ -2525,11 +2525,11 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 171,1991,107.21
 171,1992,106.69
 171,1993,105.71
-171,1994,106.0
+171,1994,106
 171,1995,103.25
 171,1996,112.53
 171,1997,102.59
-171,1976,78.0
+171,1976,78
 174,1984,93.88
 171,1975,76.09
 171,1973,64.86
@@ -2703,7 +2703,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 174,2008,90.96
 177,1977,142.69
 177,1978,140.88
-177,1979,145.0
+177,1979,145
 177,1980,139.97
 177,2006,93.55
 177,2007,97.43
@@ -2895,7 +2895,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 160,1995,63.77
 160,1996,66.3
 160,1997,69.65
-160,1998,73.0
+160,1998,73
 160,1999,76.52
 160,2000,80.35
 162,1969,207.86
@@ -2932,7 +2932,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 162,1975,189.26
 162,1976,201.58
 162,1977,194.36
-162,1978,219.0
+162,1978,219
 162,1979,192.89
 162,1980,223.65
 162,1981,220.79
@@ -3013,7 +3013,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 169,1990,127.69
 169,2000,96.64
 169,2002,99.41
-169,2003,106.0
+169,2003,106
 169,2004,100.29
 169,2005,98.29
 169,2006,101.42
@@ -3082,7 +3082,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 165,1991,86.98
 165,1992,88.61
 165,1993,95.73
-165,1994,101.0
+165,1994,101
 165,1995,103.42
 165,1996,104.3
 165,1997,103.63
@@ -3237,7 +3237,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5303,2006,106.74
 5303,2007,113.54
 5303,2008,113.05
-5303,2009,113.0
+5303,2009,113
 5303,2010,120.04
 5303,2011,123.86
 5303,2012,127.74
@@ -3338,7 +3338,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5302,1967,21.38
 5302,1968,22.11
 5302,1969,21.99
-5302,1970,19.0
+5302,1970,19
 5302,1971,20.06
 5302,1972,19.4
 5301,2006,109.24
@@ -3384,7 +3384,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5400,1986,118.08
 5400,1987,110.48
 5400,1988,108.72
-5400,1989,111.0
+5400,1989,111
 5400,1990,108.54
 5400,1991,99.17
 5400,1992,100.28
@@ -3587,7 +3587,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5200,1987,86.79
 5200,1988,86.61
 5200,1989,89.15
-5200,2014,102.0
+5200,2014,102
 5200,1968,76.86
 5200,2015,101.39
 5203,1961,78.86
@@ -3704,13 +3704,13 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5105,2012,103.47
 5105,2013,101.07
 5105,2014,101.32
-5105,2015,101.0
+5105,2015,101
 5105,2016,101.04
 5200,1961,71.84
 5200,1962,73.82
 5200,1963,71.8
 5200,1964,72.24
-5105,1999,100.0
+5105,1999,100
 5203,2007,97.08
 5105,1998,98.93
 5105,1996,97.36
@@ -3858,7 +3858,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5204,1998,88.53
 5204,1999,92.02
 5204,1990,78.05
-5204,1978,72.0
+5204,1978,72
 5204,1977,66.28
 5204,1976,63.61
 5203,2011,94.59
@@ -3911,7 +3911,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5203,2009,99.75
 5206,1971,70.4
 5206,1969,70.71
-5204,2004,98.0
+5204,2004,98
 5204,2005,98.96
 5204,2006,103.03
 5204,2007,103.97
@@ -3973,7 +3973,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5706,2014,96.08
 5706,2015,99.09
 5706,2016,98.21
-5801,1961,100.0
+5801,1961,100
 5801,1962,102.01
 5801,1963,100.87
 5801,1964,103.01
@@ -4115,7 +4115,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5504,2016,96.92
 5706,1961,88.82
 5706,1962,100.31
-5706,1963,97.0
+5706,1963,97
 5706,1964,102.92
 5706,1965,100.58
 5706,1966,102.21
@@ -4226,14 +4226,14 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5817,1988,83.47
 5817,1989,83.51
 5817,1990,84.25
-5817,1968,86.0
+5817,1968,86
 5815,1975,82.72
 5815,1974,82.43
 5815,1973,80.89
 5802,2015,114.93
 5802,2016,115.74
 5803,1961,80.98
-5803,1962,82.0
+5803,1962,82
 5803,1963,80.81
 5803,1964,80.62
 5803,1965,83.61
@@ -4326,7 +4326,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5803,2002,96.23
 5803,2003,106.27
 5803,2005,99.94
-5503,2016,101.0
+5503,2016,101
 5503,2015,100.59
 5503,2014,111.17
 5404,1972,114.06
@@ -4460,7 +4460,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5402,1966,103.04
 5402,1967,104.51
 5402,1968,110.65
-5402,1969,116.0
+5402,1969,116
 5402,1970,121.84
 5402,1971,118.42
 5402,1972,112.29
@@ -4485,7 +4485,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5403,1984,96.45
 5403,1985,93.14
 5403,1986,97.51
-5403,1987,98.0
+5403,1987,98
 5403,1988,89.18
 5403,1989,95.78
 5403,1990,95.66
@@ -4495,7 +4495,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5403,1994,91.31
 5403,1995,85.69
 5403,1996,97.24
-5403,1997,92.0
+5403,1997,92
 5403,1998,94.27
 5403,1977,82.45
 5500,1985,76.26
@@ -4595,11 +4595,11 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5503,2011,107.25
 5503,2012,107.47
 5503,2013,108.49
-5503,2004,98.0
+5503,2004,98
 5503,1992,73.57
 5503,1991,73.58
 5503,1990,97.62
-5503,1969,105.0
+5503,1969,105
 5503,1970,103.81
 5503,1971,103.61
 5503,1972,106.68
@@ -4846,7 +4846,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 213,1993,54.52
 213,1992,59.21
 223,1996,95.66
-223,1997,91.0
+223,1997,91
 223,1998,97.87
 223,1999,99.64
 223,2000,99.17
@@ -5022,7 +5022,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 225,2001,155.54
 225,2002,137.42
 225,2003,115.23
-225,2004,118.0
+225,2004,118
 225,2005,103.2
 225,2006,78.8
 225,2007,67.13
@@ -5091,7 +5091,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 223,1995,94.17
 229,1990,145.07
 229,1988,138.96
-229,1967,119.0
+229,1967,119
 229,1968,129.59
 229,1969,141.26
 229,1970,146.45
@@ -5170,7 +5170,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 218,2001,80.38
 218,2002,84.23
 218,2003,89.5
-218,2004,95.0
+218,2004,95
 218,2005,100.89
 218,2006,104.1
 218,2007,106.38
@@ -5205,7 +5205,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 218,1987,56.85
 218,1988,57.94
 218,1989,59.04
-218,1990,55.0
+218,1990,55
 218,1991,76.25
 218,1992,77.28
 218,1993,78.46
@@ -5263,7 +5263,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 176,1984,136.91
 176,1985,124.57
 176,1986,118.76
-176,2012,128.0
+176,2012,128
 176,2013,122.14
 176,2014,118.46
 176,2015,117.78
@@ -5353,7 +5353,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 222,1967,61.47
 222,1968,55.41
 222,1969,56.12
-222,1970,54.0
+222,1970,54
 222,1971,62.4
 222,1972,64.21
 222,1973,63.74
@@ -5366,7 +5366,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 223,1973,74.68
 223,1974,76.78
 223,1975,77.03
-223,1976,79.0
+223,1976,79
 223,1977,78.05
 223,1978,83.02
 223,1979,86.36
@@ -5427,7 +5427,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 219,2005,99.67
 219,2006,100.21
 219,2007,105.96
-219,2008,98.0
+219,2008,98
 219,2009,97.82
 219,2010,97.36
 219,2011,97.3
@@ -5439,7 +5439,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 219,1968,147.3
 219,1969,93.01
 219,1970,87.77
-219,1971,79.0
+219,1971,79
 219,1972,76.91
 219,1973,76.34
 219,1974,78.54
@@ -5638,7 +5638,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 251,1983,145.21
 251,1984,144.13
 251,1985,143.2
-251,1986,143.0
+251,1986,143
 251,1987,142.15
 251,1988,142.63
 251,1989,141.88
@@ -5680,7 +5680,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5000,1962,63.96
 181,1997,86.97
 5100,2005,99.12
-181,1996,89.0
+181,1996,89
 181,1994,94.24
 181,1973,100.49
 181,1974,100.12
@@ -5700,7 +5700,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 181,1988,90.86
 181,1989,92.68
 181,1990,96.82
-181,1991,96.0
+181,1991,96
 181,1992,80.82
 181,1993,90.87
 181,1995,87.78
@@ -5740,7 +5740,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5102,2002,92.59
 5102,2003,93.34
 5102,2004,93.78
-5102,2005,102.0
+5102,2005,102
 5102,2006,104.21
 5102,2007,108.3
 5102,2008,112.44
@@ -5753,7 +5753,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5102,2015,131.3
 5102,2016,133.67
 5103,1985,61.35
-5102,1995,105.0
+5102,1995,105
 5103,1986,66.76
 5103,1988,63.79
 5103,2014,105.91
@@ -5762,7 +5762,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5104,1961,81.5
 5104,1962,79.47
 5104,1963,85.07
-5104,1964,88.0
+5104,1964,88
 5104,1965,93.66
 5104,1966,91.69
 5103,2013,107.91
@@ -5793,7 +5793,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5103,1999,84.12
 5103,2000,84.4
 5103,2001,81.72
-5103,2002,86.0
+5103,2002,86
 5103,2003,91.64
 5103,2004,96.27
 5103,2005,97.62
@@ -5869,7 +5869,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5102,1983,132.98
 5102,1984,127.5
 5102,1985,131.03
-5102,1986,129.0
+5102,1986,129
 5102,1987,119.3
 5102,1988,116.12
 5102,1989,118.03
@@ -5884,7 +5884,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5101,2004,98.88
 5101,2005,98.62
 5101,2006,102.5
-5101,2007,100.0
+5101,2007,100
 5101,2008,87.2
 5101,2009,93.22
 5101,2010,93.79
@@ -5973,7 +5973,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 236,2000,123.77
 236,2001,117.36
 236,2002,109.71
-236,1993,113.0
+236,1993,113
 236,1981,116.26
 236,1980,117.66
 236,1979,120.62
@@ -5984,7 +5984,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 236,1962,125.71
 236,1963,131.99
 236,1964,129.17
-236,1965,132.0
+236,1965,132
 236,1966,128.46
 236,1967,124.62
 236,1968,131.03
@@ -5995,7 +5995,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 236,1973,117.03
 236,1974,118.76
 236,1975,114.2
-236,1976,115.0
+236,1976,115
 236,1977,122.08
 236,1978,123.13
 155,2012,86.48
@@ -6155,7 +6155,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 249,2014,93.45
 249,2015,92.51
 249,2016,95.24
-251,1961,146.0
+251,1961,146
 251,1962,146.98
 251,1963,145.1
 251,1964,143.73
@@ -6254,7 +6254,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 243,1972,121.85
 243,1973,122.83
 243,1974,123.1
-243,1975,122.0
+243,1975,122
 243,1976,120.11
 243,1977,116.18
 243,1978,119.88
@@ -6294,7 +6294,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 243,1962,110.03
 243,1963,108.39
 243,1964,107.73
-243,1966,108.0
+243,1966,108
 141,1986,91.91
 141,1985,91.66
 141,1984,82.66
@@ -6311,7 +6311,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 41,1996,53.61
 41,1998,59.93
 41,1999,66.15
-41,2000,77.0
+41,2000,77
 41,2001,81.77
 41,2002,87.88
 41,2003,91.9
@@ -6458,7 +6458,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 96,2003,97.82
 96,2005,99.71
 96,2006,101.04
-96,2007,101.0
+96,2007,101
 96,2008,99.83
 96,2009,98.56
 96,2010,96.84
@@ -6544,7 +6544,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 46,1981,89.86
 46,1983,84.56
 46,2009,99.05
-46,2010,96.0
+46,2010,96
 46,2011,93.65
 46,2012,92.33
 46,2013,90.84
@@ -6663,7 +6663,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 45,1985,101.83
 45,1986,101.38
 45,1965,112.3
-351,1975,15.0
+351,1975,15
 45,1964,106.18
 45,1962,105.49
 44,1997,82.34
@@ -6705,7 +6705,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 33,1992,96.13
 33,1993,94.06
 33,1994,103.87
-33,1995,105.0
+33,1995,105
 33,1996,100.95
 33,1997,99.34
 33,1998,99.56
@@ -6889,7 +6889,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 36,2000,115.74
 36,2002,108.76
 39,2015,77.42
-39,2016,75.0
+39,2016,75
 40,1961,51.73
 40,1962,54.78
 40,1963,49.33
@@ -7045,7 +7045,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 39,1972,181.1
 39,1973,167.93
 39,1974,176.15
-39,1975,177.0
+39,1975,177
 39,1976,179.42
 39,1977,176.79
 39,1978,179.76
@@ -7319,7 +7319,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 58,2012,100.02
 58,2013,87.38
 58,2014,97.52
-58,2015,99.0
+58,2015,99
 58,2016,88.73
 59,1961,43.38
 59,1962,45.92
@@ -7541,7 +7541,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 49,1968,17.55
 49,1969,12.28
 49,1970,10.35
-49,1971,13.0
+49,1971,13
 49,1972,14.18
 49,1973,18.41
 49,1974,24.83
@@ -7806,7 +7806,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 49,1987,36.76
 49,1988,43.94
 49,1989,36.27
-49,1990,37.0
+49,1990,37
 49,1991,36.32
 49,1992,40.53
 49,1993,29.46
@@ -7993,7 +7993,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 10,1974,63.68
 10,1962,73.46
 10,1961,67.97
-1,2016,124.0
+1,2016,124
 1,1995,51.82
 1,1996,54.2
 1,1997,40.83
@@ -8163,7 +8163,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 14,1997,98.68
 14,1998,104.38
 14,1976,46.88
-16,1983,76.0
+16,1983,76
 16,1982,76.89
 16,1981,77.9
 13,1967,352.05
@@ -8197,7 +8197,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 12,2002,91.63
 12,2003,96.25
 12,2004,101.55
-12,2005,98.0
+12,2005,98
 12,2006,100.45
 12,2007,105.04
 12,2008,103.3
@@ -8378,7 +8378,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 2,1999,123.39
 2,2000,119.36
 2,2001,117.14
-2,2002,112.0
+2,2002,112
 2,2003,108.73
 2,2004,96.55
 2,2005,101.79
@@ -8552,7 +8552,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 9,1985,92.46
 9,1986,91.24
 9,1987,114.36
-9,1988,105.0
+9,1988,105
 9,1989,95.57
 9,1990,88.8
 9,1991,89.45
@@ -8594,7 +8594,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 5,1998,114.66
 5,1999,113.83
 5,2000,117.59
-5,2001,122.0
+5,2001,122
 5,2002,125.51
 5,2003,98.54
 5,2004,98.7
@@ -9059,7 +9059,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 53,2000,97.46
 53,2001,89.54
 53,2002,103.37
-53,2003,95.0
+53,2003,95
 53,2004,99.58
 53,2005,107.88
 53,1996,108.08
@@ -9068,7 +9068,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 53,2009,95.96
 53,2010,105.55
 53,2011,98.53
-53,2012,136.0
+53,2012,136
 53,2013,135.4
 53,2014,139.75
 53,2015,121.97
@@ -9225,7 +9225,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 17,2010,113.33
 23,2001,99.34
 23,1999,86.74
-23,1978,31.0
+23,1978,31
 23,1979,28.86
 23,1980,42.15
 23,1981,40.17
@@ -9304,7 +9304,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 20,1996,115.4
 20,1997,104.02
 20,1998,87.78
-20,1999,95.0
+20,1999,95
 20,2000,101.91
 20,2001,98.71
 20,2002,98.32
@@ -9353,7 +9353,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 18,1985,38.67
 18,1986,41.29
 18,1987,62.68
-18,1988,59.0
+18,1988,59
 18,1989,58.37
 18,1990,61.9
 18,1991,64.19
@@ -9761,7 +9761,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 119,2005,112.23
 119,2006,103.81
 119,2007,87.3
-119,1998,67.0
+119,1998,67
 120,2011,144.01
 120,2010,118.91
 120,2009,105.09
@@ -9800,8 +9800,8 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 121,1988,159.69
 121,1989,168.67
 121,1990,179.21
-121,1991,212.0
-121,1992,206.0
+121,1991,212
+121,1992,206
 121,1993,196.92
 121,1994,195.02
 121,1995,209.54
@@ -9956,7 +9956,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 104,1992,95.97
 104,1993,99.68
 104,1994,107.25
-104,1995,100.0
+104,1995,100
 104,1996,106.83
 104,1987,66.64
 104,1975,61.06
@@ -9990,7 +9990,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 105,1970,125.17
 105,1971,137.03
 105,1972,140.58
-105,1973,141.0
+105,1973,141
 105,1974,134.52
 105,1975,133.32
 105,1976,129.86
@@ -10071,7 +10071,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 112,1975,57.9
 112,1976,42.73
 112,1977,55.48
-112,1978,90.0
+112,1978,90
 112,1979,69.59
 112,1980,75.78
 112,1981,84.84
@@ -10120,7 +10120,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 108,1999,54.49
 108,2000,72.97
 108,2001,80.83
-108,2002,87.0
+108,2002,87
 108,2003,88.16
 108,2004,99.94
 108,2005,104.78
@@ -10134,7 +10134,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 112,2015,93.64
 112,1966,187.97
 112,1965,233.05
-112,1964,257.0
+112,1964,257
 109,2006,100.23
 109,2007,94.46
 109,2008,84.12
@@ -10219,7 +10219,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 110,1981,141.54
 110,1982,145.64
 110,1983,142.54
-110,1984,135.0
+110,1984,135
 110,1985,138.16
 110,1986,138.94
 110,1987,140.85
@@ -10274,7 +10274,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 134,2008,103.93
 134,2009,95.65
 134,2010,99.89
-134,2011,100.0
+134,2011,100
 134,2012,96.07
 134,2013,97.6
 134,2014,103.59
@@ -10312,7 +10312,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 135,1990,108.96
 135,1991,99.71
 135,1992,104.47
-135,1993,97.0
+135,1993,97
 135,1994,83.08
 135,1995,97.2
 135,1996,120.7
@@ -10391,7 +10391,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 134,1977,80.55
 134,1978,74.33
 134,1979,82.4
-134,1980,86.0
+134,1980,86
 134,1981,87.4
 134,1982,89.55
 134,1983,95.22
@@ -10463,7 +10463,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 138,1973,60.69
 138,1974,59.21
 138,1975,56.79
-138,1976,57.0
+138,1976,57
 138,1977,60.34
 138,1978,67.83
 138,1979,66.8
@@ -10621,7 +10621,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 137,1989,55.4
 137,1990,65.47
 137,1991,62.67
-137,1992,70.0
+137,1992,70
 137,1993,86.62
 137,1994,81.06
 137,1996,98.29
@@ -10708,7 +10708,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 126,2007,82.18
 126,2008,104.79
 126,2009,103.56
-126,2010,75.0
+126,2010,75
 126,2011,104.6
 126,2012,101.12
 126,2013,100.69
@@ -10795,7 +10795,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 125,1971,57.12
 125,1972,56.02
 125,1973,86.43
-125,1974,54.0
+125,1974,54
 124,2009,102.18
 129,1975,211.25
 124,2008,100.69
@@ -11085,7 +11085,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 79,1962,126.13
 79,1963,152.16
 79,1964,127.99
-79,1965,114.0
+79,1965,114
 79,1966,136.45
 79,1967,145.2
 79,1968,147.18
@@ -11177,7 +11177,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 74,1995,113.1
 74,1996,118.39
 74,1997,117.7
-74,1998,119.0
+74,1998,119
 74,1989,128.56
 74,1999,113.45
 74,2001,109.8
@@ -11279,7 +11279,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 86,1979,188.46
 86,1989,156.01
 86,1991,160.23
-86,1992,148.0
+86,1992,148
 86,1993,140.65
 86,1994,138.83
 86,1995,134.15
@@ -11301,7 +11301,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 86,1962,155.74
 86,1963,168.06
 86,1964,153.28
-86,1965,198.0
+86,1965,198
 86,1966,199.96
 86,1967,223.26
 86,1968,229.21
@@ -11362,7 +11362,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 79,1994,100.68
 79,1995,96.36
 81,1964,75.47
-81,1965,78.0
+81,1965,78
 81,1966,78.64
 81,1967,83.96
 81,1993,74.7
@@ -11455,7 +11455,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 63,1994,125.87
 63,1995,142.91
 63,1996,93.61
-63,1997,119.0
+63,1997,119
 63,1998,92.3
 63,1999,90.65
 63,2000,129.4
@@ -11498,7 +11498,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 238,2013,106.57
 238,2014,104.86
 238,2015,100.36
-238,2016,102.0
+238,2016,102
 66,1961,57.33
 66,1962,51.87
 66,1963,59.61
@@ -11724,7 +11724,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 67,1979,108.89
 67,1980,107.67
 67,1981,114.41
-67,1982,124.0
+67,1982,124
 67,1983,128.58
 67,1984,114.54
 67,1985,83.98
@@ -11752,7 +11752,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 66,2014,98.71
 66,2015,98.3
 66,2016,92.06
-67,1961,80.0
+67,1961,80
 67,1962,70.81
 67,1963,68.17
 67,1988,87.86
@@ -11816,7 +11816,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 99,1966,21.93
 99,1967,21.45
 99,1968,19.95
-99,1969,20.0
+99,1969,20
 99,1970,19.08
 99,1961,17.29
 99,1971,22.56
@@ -11887,7 +11887,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 99,1988,29.81
 99,1989,31.39
 99,1990,28.34
-99,1991,29.0
+99,1991,29
 99,1992,49.23
 99,1993,57.57
 99,1994,62.13
@@ -12480,7 +12480,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 93,1961,150.5
 93,1962,152.23
 93,1963,155.18
-93,1964,158.0
+93,1964,158
 93,1965,159.11
 93,1966,161.02
 93,1967,163.16
@@ -12494,7 +12494,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 93,1975,173.97
 93,1976,175.18
 93,1977,172.64
-91,2011,101.0
+91,2011,101
 91,1962,46.57
 91,1961,44.69
 175,2016,100.18
@@ -12507,7 +12507,7 @@ geo,year,vegetables_and_fruit_primary_net_per_capita_production_index_number_200
 90,2008,93.5
 90,2009,92.92
 90,2010,93.9
-90,2001,99.0
+90,2001,99
 90,2011,93.39
 90,2013,90.22
 90,2014,88.26

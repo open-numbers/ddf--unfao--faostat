@@ -28,7 +28,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 165,2004,10.68
 165,2003,15.51
 165,2002,15.42
-165,2001,15.0
+165,2001,15
 221,2015,0.31
 221,2014,0.32
 221,2013,0.3
@@ -59,7 +59,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 149,2006,2.59
 149,2005,2.77
 149,2004,3.03
-149,2003,3.0
+149,2003,3
 149,2001,2.45
 147,2015,4.61
 147,2014,5.1
@@ -253,7 +253,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 108,2015,5.43
 114,2002,8.62
 113,2006,3.27
-113,2005,2.0
+113,2005,2
 113,2004,1.95
 113,2003,2.85
 113,2002,2.6
@@ -281,7 +281,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 143,2007,4.74
 143,2006,5.74
 142,2015,0.06
-142,2014,0.0
+142,2014,0
 142,2011,0.42
 142,2010,0.01
 142,2009,0.05
@@ -307,7 +307,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 144,2012,5.15
 144,2011,5.38
 144,2010,6.67
-144,2009,7.0
+144,2009,7
 144,2008,8.05
 144,2007,9.42
 144,2006,6.39
@@ -358,7 +358,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 133,2012,5.66
 133,2011,4.94
 133,2008,4.95
-133,2007,38.0
+133,2007,38
 133,2006,19.23
 133,2005,9.67
 133,2004,5.55
@@ -400,7 +400,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 230,2014,7.1
 230,2013,6.29
 230,2012,6.09
-230,2011,6.0
+230,2011,6
 230,2008,6.59
 230,2007,3.94
 230,2006,4.92
@@ -475,7 +475,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 155,2004,4.74
 155,2003,4.57
 234,2015,15.48
-234,2014,17.0
+234,2014,17
 234,2013,14.75
 234,2012,12.42
 249,2004,1.19
@@ -551,8 +551,8 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 112,2001,2.13
 176,2014,4.69
 176,2012,0.47
-195,2011,2.0
-195,2009,2.0
+195,2011,2
+195,2009,2
 195,2008,2.25
 195,2007,2.25
 195,2006,2.51
@@ -604,7 +604,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 188,2005,17.87
 188,2004,18.71
 188,2003,20.78
-188,2002,20.0
+188,2002,20
 188,2001,17.25
 184,2014,3.01
 184,2013,3.26
@@ -848,7 +848,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 115,2011,8.88
 35,2001,5.41
 115,2012,9.63
-115,2014,10.0
+115,2014,10
 48,2003,5.17
 48,2002,6.38
 48,2001,7.82
@@ -922,7 +922,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 1,2001,15.96
 9,2015,9.04
 9,2014,9.39
-9,2013,10.0
+9,2013,10
 9,2012,10.2
 9,2011,10.9
 9,2010,10.4
@@ -945,7 +945,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 22,2009,0.23
 22,2008,0.2
 22,2007,0.35
-22,2006,0.0
+22,2006,0
 22,2005,0.01
 22,2004,0.01
 22,2003,0.25
@@ -1217,7 +1217,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 103,2008,6.87
 105,2014,0.67
 106,2008,3.89
-109,2012,2.0
+109,2012,2
 109,2011,2.02
 109,2010,1.8
 109,2009,2.29
@@ -1320,7 +1320,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 58,2010,7.5
 58,2009,6.1
 58,2008,6.11
-56,2015,4.0
+56,2015,4
 56,2014,4.88
 56,2013,5.34
 56,2012,5.01
@@ -1461,7 +1461,7 @@ geo,year,credit_to_agriculture_forestry_and_fishing_share_of_total_ic
 63,2010,3.37
 63,2009,3.02
 63,2008,3.18
-63,2007,3.0
+63,2007,3
 63,2006,3.36
 63,2005,3.82
 63,2004,3.05

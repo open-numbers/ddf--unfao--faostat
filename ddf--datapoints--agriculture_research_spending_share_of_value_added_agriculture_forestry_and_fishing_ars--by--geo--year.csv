@@ -109,7 +109,7 @@ geo,year,agriculture_research_spending_share_of_value_added_agriculture_forestry
 131,2008,1.04
 131,2009,1.26
 131,2010,0.99
-133,2000,1.0
+133,2000,1
 133,2001,1.04
 133,2002,0.9
 133,2003,0.58
@@ -134,7 +134,7 @@ geo,year,agriculture_research_spending_share_of_value_added_agriculture_forestry
 129,2010,0.16
 129,2011,0.16
 130,2000,0.89
-130,2001,1.0
+130,2001,1
 130,2002,0.81
 130,2003,0.68
 130,2004,0.73
@@ -465,8 +465,8 @@ geo,year,agriculture_research_spending_share_of_value_added_agriculture_forestry
 46,2002,0.54
 46,2004,0.69
 46,2005,0.9
-46,2006,1.0
-46,2007,1.0
+46,2006,1
+46,2007,1
 46,2008,1.16
 46,2009,0.94
 46,2010,0.89

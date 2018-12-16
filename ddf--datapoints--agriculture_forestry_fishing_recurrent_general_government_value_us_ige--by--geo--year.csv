@@ -58,7 +58,7 @@ geo,year,agriculture_forestry_fishing_recurrent_general_government_value_us_ige
 146,2017,80.91
 146,2016,56.33
 146,2015,20.37
-146,2014,37.0
+146,2014,37
 146,2013,30.72
 146,2012,31.76
 146,2011,29.36
@@ -336,7 +336,7 @@ geo,year,agriculture_forestry_fishing_recurrent_general_government_value_us_ige
 1,2012,34.25
 1,2011,39.24
 1,2010,35.4
-1,2009,45.0
+1,2009,45
 7,2017,89.27
 7,2016,156.43
 7,2015,200.97
@@ -392,9 +392,9 @@ geo,year,agriculture_forestry_fishing_recurrent_general_government_value_us_ige
 10,2004,2990.99
 10,2003,2642.82
 18,2016,33.93
-58,2009,169.0
+58,2009,169
 58,2005,42.39
-58,2011,83.0
+58,2011,83
 105,2014,276.54
 105,2013,299.49
 105,2012,253.16
@@ -475,9 +475,9 @@ geo,year,agriculture_forestry_fishing_recurrent_general_government_value_us_ige
 97,2002,1200.93
 63,2009,156.28
 63,2007,168.76
-58,2012,113.0
-58,2013,99.0
-58,2014,102.0
+58,2012,113
+58,2013,99
+58,2014,102
 58,2015,106.86
 58,2016,93.44
 60,2013,6.25
@@ -494,8 +494,8 @@ geo,year,agriculture_forestry_fishing_recurrent_general_government_value_us_ige
 67,2009,2379.68
 84,2013,1.33
 175,2009,9.66
-84,2016,0.0
-84,2015,0.0
+84,2016,0
+84,2015,0
 84,2014,1.33
 175,2010,11.49
 84,2012,1.28
