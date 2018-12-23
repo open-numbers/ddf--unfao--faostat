@@ -2701,17 +2701,14 @@ cropland_organic_soils_implied_emission_factor_for_c_cropland_elu1,Cropland orga
 cropland_organic_soils_net_emissions_removal_co2eq_cropland_elu1,Cropland organic soils - Net emissions/removal (CO2eq) (Cropland),gigagrams,measure
 cropland_organic_soils_net_emissions_removals_co2_cropland_elu1,Cropland organic soils - Net emissions/removals (CO2) (Cropland),gigagrams,measure
 cropland_organic_soils_net_stock_change_c_cropland_elu1,Cropland organic soils - Net stock change (C) (Cropland),gigagrams,measure
-forest_area_elu2,Forest - Area,1000 Ha,measure
-forest_implied_emission_factor_for_co2_elu2,Forest - Implied emission factor for CO2,tonnes CO2/ha,measure
-forest_net_emissions_removal_co2eq_forest_land_elu2,Forest - Net emissions/removal (CO2eq) (Forest land),Gigagrams,measure
-forest_net_emissions_removals_co2_forest_land_elu2,Forest - Net emissions/removals (CO2) (Forest land),Gigagrams,measure
-forest_land_area_elu2,Forest land - Area,1000 Ha,measure
-forest_land_net_emissions_removal_co2eq_forest_land_elu2,Forest land - Net emissions/removal (CO2eq) (Forest land),Gigagrams,measure
-forest_land_net_emissions_removals_co2_forest_land_elu2,Forest land - Net emissions/removals (CO2) (Forest land),Gigagrams,measure
-net_forest_conversion_area_elu2,Net Forest conversion - Area,1000 Ha,measure
+forest_land_area_elu2,Forest land - Area,1000 ha,measure
+forest_land_implied_emission_factor_for_co2_elu2,Forest land - Implied emission factor for CO2,tonnes CO2/ha,measure
+forest_land_net_emissions_removal_co2eq_forest_land_elu2,Forest land - Net emissions/removal (CO2eq) (Forest land),gigagrams,measure
+forest_land_net_emissions_removals_co2_forest_land_elu2,Forest land - Net emissions/removals (CO2) (Forest land),gigagrams,measure
+net_forest_conversion_area_elu2,Net Forest conversion - Area,1000 ha,measure
 net_forest_conversion_implied_emission_factor_for_co2_elu2,Net Forest conversion - Implied emission factor for CO2,tonnes CO2/ha,measure
-net_forest_conversion_net_emissions_removal_co2eq_forest_land_elu2,Net Forest conversion - Net emissions/removal (CO2eq) (Forest land),Gigagrams,measure
-net_forest_conversion_net_emissions_removals_co2_forest_land_elu2,Net Forest conversion - Net emissions/removals (CO2) (Forest land),Gigagrams,measure
+net_forest_conversion_net_emissions_removal_co2eq_forest_land_elu2,Net Forest conversion - Net emissions/removal (CO2eq) (Forest land),gigagrams,measure
+net_forest_conversion_net_emissions_removals_co2_forest_land_elu2,Net Forest conversion - Net emissions/removals (CO2) (Forest land),gigagrams,measure
 grassland_organic_soils_area_elu3,Grassland organic soils - Area,ha,measure
 grassland_organic_soils_implied_emission_factor_for_c_grassland_elu3,Grassland organic soils - Implied emission factor for C (Grassland),tonnes C/ha,measure
 grassland_organic_soils_net_emissions_removal_co2eq_grassland_elu3,Grassland organic soils - Net emissions/removal (CO2eq) (Grassland),gigagrams,measure
@@ -6313,10 +6310,10 @@ net_capital_stocks_agriculture_forestry_and_fishing_value_us_ice1,"Net Capital S
 net_capital_stocks_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
 agriculture_forestry_fishing_central_government_agriculture_orientation_index_ic,"Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",index,measure
 agriculture_forestry_fishing_central_government_annual_growth_us_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth US$",%,measure
-agriculture_forestry_fishing_central_government_annual_growth_us_2005_prices_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth US$, 2005 prices",%,measure
+agriculture_forestry_fishing_central_government_annual_growth_us_2010_prices_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth, US$, 2010 prices",%,measure
 agriculture_forestry_fishing_central_government_share_of_total_ic,"Agriculture, forestry, fishing (Central Government) - Share of Total",%,measure
 agriculture_forestry_fishing_central_government_value_us_ic,"Agriculture, forestry, fishing (Central Government) - Value US$",millions,measure
-agriculture_forestry_fishing_central_government_value_us_2005_prices_ic,"Agriculture, forestry, fishing (Central Government) - Value US$, 2005 prices",millions,measure
+agriculture_forestry_fishing_central_government_value_us_2010_prices_ic,"Agriculture, forestry, fishing (Central Government) - Value US$, 2010 prices",millions,measure
 credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ic,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
 credit_to_agriculture_forestry_and_fishing_annual_growth_us_ic,"Credit to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
 credit_to_agriculture_forestry_and_fishing_share_of_total_ic,"Credit to Agriculture, Forestry and Fishing - Share of Total",%,measure
@@ -6326,23 +6323,21 @@ dfa_commitment_to_agriculture_forestry_and_fishing_annual_growth_us_ic,"DFA Comm
 dfa_commitment_to_agriculture_forestry_and_fishing_share_of_total_ic,"DFA Commitment to Agriculture, Forestry and Fishing - Share of Total",%,measure
 dfa_commitment_to_agriculture_forestry_and_fishing_value_us_ic,"DFA Commitment to Agriculture, Forestry and Fishing - Value US$",millions,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_ic,"FDI inflows to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_2005_prices_ic,"FDI inflows to Agriculture, Forestry and Fishing - Annual growth US$, 2005 prices",%,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_share_of_total_ic,"FDI inflows to Agriculture, Forestry and Fishing - Share of Total",%,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_ic,"FDI inflows to Agriculture, Forestry and Fishing - Annual growth, US$, 2010 prices",%,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ic,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2005_prices_ic,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2005 prices",millions,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ic,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
 gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ic,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",index,measure
 gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_total_ic,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Total",%,measure
 gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ic,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_2005_prices_ic,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
 gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_ic,"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio",,measure
-gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_2005_prices_ic,"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio, 2005 prices",,measure
+gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_2010_prices_ic,"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio, 2010 prices",,measure
 gross_fixed_capital_formation_to_gdp_ratio_ratio_ic,Gross Fixed Capital Formation to GDP ratio - Ratio,,measure
-gross_fixed_capital_formation_to_gdp_ratio_ratio_2005_prices_ic,"Gross Fixed Capital Formation to GDP ratio - Ratio, 2005 prices",,measure
+gross_fixed_capital_formation_to_gdp_ratio_ratio_2010_prices_ic,"Gross Fixed Capital Formation to GDP ratio - Ratio, 2010 prices",,measure
 value_added_agriculture_forestry_and_fishing_annual_growth_us_ic,"Value Added (Agriculture, Forestry and Fishing) - Annual growth US$",%,measure
-value_added_agriculture_forestry_and_fishing_annual_growth_us_2005_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Annual growth US$, 2005 prices",%,measure
+value_added_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Annual growth, US$, 2010 prices",%,measure
 value_added_agriculture_forestry_and_fishing_share_of_total_ic,"Value Added (Agriculture, Forestry and Fishing) - Share of Total",%,measure
 value_added_agriculture_forestry_and_fishing_value_us_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-value_added_agriculture_forestry_and_fishing_value_us_2005_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
+value_added_agriculture_forestry_and_fishing_value_us_2010_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",millions,measure
 credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice2,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
 credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice2,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",,measure
 credit_to_agriculture_forestry_and_fishing_value_local_currency_ice2,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
@@ -7598,13 +7593,12 @@ cauliflowers_and_broccoli_area_harvested_pce1,Cauliflowers and broccoli - Area h
 cauliflowers_and_broccoli_production_pce1,Cauliflowers and broccoli - Production,tonnes,measure
 cauliflowers_and_broccoli_yield_pce1,Cauliflowers and broccoli - Yield,hg/ha,measure
 cereals_rice_milled_eqv_area_harvested_pce1,Cereals (Rice Milled Eqv) - Area harvested,ha,measure
-cereals_rice_milled_eqv_feed_pce1,Cereals (Rice Milled Eqv) - Feed,tonnes,measure
+cereals_rice_milled_eqv_production_pce1,Cereals (Rice Milled Eqv) - Production,tonnes,measure
+cereals_rice_milled_eqv_yield_pce1,Cereals (Rice Milled Eqv) - Yield,hg/ha,measure
 cereals_nes_area_harvested_pce1,"Cereals, nes - Area harvested",ha,measure
-cereals_nes_feed_pce1,"Cereals, nes - Feed",tonnes,measure
 cereals_nes_production_pce1,"Cereals, nes - Production",tonnes,measure
 cereals_nes_yield_pce1,"Cereals, nes - Yield",hg/ha,measure
 cereals_total_area_harvested_pce1,"Cereals,Total - Area harvested",ha,measure
-cereals_total_feed_pce1,"Cereals,Total - Feed",tonnes,measure
 cereals_total_production_pce1,"Cereals,Total - Production",tonnes,measure
 cereals_total_yield_pce1,"Cereals,Total - Yield",hg/ha,measure
 cherries_area_harvested_pce1,Cherries - Area harvested,ha,measure
@@ -7638,7 +7632,6 @@ cloves_area_harvested_pce1,Cloves - Area harvested,ha,measure
 cloves_production_pce1,Cloves - Production,tonnes,measure
 cloves_yield_pce1,Cloves - Yield,hg/ha,measure
 coarse_grain_total_area_harvested_pce1,"Coarse Grain, Total - Area harvested",ha,measure
-coarse_grain_total_feed_pce1,"Coarse Grain, Total - Feed",tonnes,measure
 coarse_grain_total_production_pce1,"Coarse Grain, Total - Production",tonnes,measure
 coarse_grain_total_yield_pce1,"Coarse Grain, Total - Yield",hg/ha,measure
 cocoa_beans_area_harvested_pce1,"Cocoa, beans - Area harvested",ha,measure
@@ -7651,6 +7644,7 @@ coffee_green_area_harvested_pce1,"Coffee, green - Area harvested",ha,measure
 coffee_green_production_pce1,"Coffee, green - Production",tonnes,measure
 coffee_green_yield_pce1,"Coffee, green - Yield",hg/ha,measure
 coir_production_pce1,Coir - Production,tonnes,measure
+cotton_lint_area_harvested_pce1,Cotton lint - Area harvested,ha,measure
 cotton_lint_production_pce1,Cotton lint - Production,tonnes,measure
 cottonseed_area_harvested_pce1,Cottonseed - Area harvested,ha,measure
 cottonseed_production_pce1,Cottonseed - Production,tonnes,measure
@@ -7672,7 +7666,9 @@ dates_yield_pce1,Dates - Yield,hg/ha,measure
 eggplants_aubergines_area_harvested_pce1,Eggplants (aubergines) - Area harvested,ha,measure
 eggplants_aubergines_production_pce1,Eggplants (aubergines) - Production,tonnes,measure
 eggplants_aubergines_yield_pce1,Eggplants (aubergines) - Yield,hg/ha,measure
+fibre_crops_primary_area_harvested_pce1,Fibre Crops Primary - Area harvested,ha,measure
 fibre_crops_primary_production_pce1,Fibre Crops Primary - Production,tonnes,measure
+fibre_crops_primary_yield_pce1,Fibre Crops Primary - Yield,hg/ha,measure
 fibre_crops_nes_area_harvested_pce1,Fibre crops nes - Area harvested,ha,measure
 fibre_crops_nes_production_pce1,Fibre crops nes - Production,tonnes,measure
 fibre_crops_nes_yield_pce1,Fibre crops nes - Yield,hg/ha,measure
@@ -7776,7 +7772,6 @@ lupins_area_harvested_pce1,Lupins - Area harvested,ha,measure
 lupins_production_pce1,Lupins - Production,tonnes,measure
 lupins_yield_pce1,Lupins - Yield,hg/ha,measure
 maize_area_harvested_pce1,Maize - Area harvested,ha,measure
-maize_feed_pce1,Maize - Feed,tonnes,measure
 maize_production_pce1,Maize - Production,tonnes,measure
 maize_yield_pce1,Maize - Yield,hg/ha,measure
 maize_green_area_harvested_pce1,"Maize, green - Area harvested",ha,measure
@@ -7819,8 +7814,12 @@ oil_palm_fruit_area_harvested_pce1,Oil palm fruit - Area harvested,ha,measure
 oil_palm_fruit_production_pce1,Oil palm fruit - Production,tonnes,measure
 oil_palm_fruit_yield_pce1,Oil palm fruit - Yield,hg/ha,measure
 oil_palm_production_pce1,"Oil, palm - Production",tonnes,measure
+oilcrops_cake_equivalent_area_harvested_pce1,"Oilcrops, Cake Equivalent - Area harvested",ha,measure
 oilcrops_cake_equivalent_production_pce1,"Oilcrops, Cake Equivalent - Production",tonnes,measure
+oilcrops_cake_equivalent_yield_pce1,"Oilcrops, Cake Equivalent - Yield",hg/ha,measure
+oilcrops_oil_equivalent_area_harvested_pce1,"Oilcrops, Oil Equivalent - Area harvested",ha,measure
 oilcrops_oil_equivalent_production_pce1,"Oilcrops, Oil Equivalent - Production",tonnes,measure
+oilcrops_oil_equivalent_yield_pce1,"Oilcrops, Oil Equivalent - Yield",hg/ha,measure
 oilseeds_nes_area_harvested_pce1,Oilseeds nes - Area harvested,ha,measure
 oilseeds_nes_production_pce1,Oilseeds nes - Production,tonnes,measure
 oilseeds_nes_yield_pce1,Oilseeds nes - Yield,hg/ha,measure
@@ -7839,6 +7838,7 @@ onions_shallots_green_yield_pce1,"Onions, shallots, green - Yield",hg/ha,measure
 oranges_area_harvested_pce1,Oranges - Area harvested,ha,measure
 oranges_production_pce1,Oranges - Production,tonnes,measure
 oranges_yield_pce1,Oranges - Yield,hg/ha,measure
+palm_kernels_area_harvested_pce1,Palm kernels - Area harvested,ha,measure
 palm_kernels_production_pce1,Palm kernels - Production,tonnes,measure
 papayas_area_harvested_pce1,Papayas - Area harvested,ha,measure
 papayas_production_pce1,Papayas - Production,tonnes,measure
@@ -8096,14 +8096,14 @@ vegetables_and_fruit_primary_net_per_capita_production_index_number_2004_2006_10
 beef_and_buffalo_meat_producing_animals_slaughtered_ple,Beef and Buffalo Meat - Producing Animals/Slaughtered,Head,measure
 beef_and_buffalo_meat_production_ple,Beef and Buffalo Meat - Production,tonnes,measure
 beef_and_buffalo_meat_yield_carcass_weight_ple,Beef and Buffalo Meat - Yield/Carcass Weight,hg/An,measure
+beeswax_prod_popultn_ple,Beeswax - Prod Popultn,No,measure
 beeswax_production_ple,Beeswax - Production,tonnes,measure
+beeswax_yield_ple,Beeswax - Yield,hg,measure
 eggs_primary_laying_ple,Eggs Primary - Laying,1000 Head,measure
 eggs_primary_production_ple,Eggs Primary - Production,tonnes,measure
-eggs_primary_seed_ple,Eggs Primary - Seed,tonnes,measure
 eggs_primary_yield_ple,Eggs Primary - Yield,100mg/An,measure
 eggs_hen_in_shell_laying_ple,"Eggs, hen, in shell - Laying",1000 Head,measure
 eggs_hen_in_shell_production_ple,"Eggs, hen, in shell - Production",tonnes,measure
-eggs_hen_in_shell_seed_ple,"Eggs, hen, in shell - Seed",tonnes,measure
 eggs_hen_in_shell_yield_ple,"Eggs, hen, in shell - Yield",100mg/An,measure
 eggs_hen_in_shell_number_production_ple,"Eggs, hen, in shell (number) - Production",1000 No,measure
 eggs_other_bird_in_shell_laying_ple,"Eggs, other bird, in shell - Laying",1000 Head,measure
@@ -8117,7 +8117,9 @@ hides_buffalo_fresh_yield_ple,"Hides, buffalo, fresh - Yield",hg/An,measure
 hides_cattle_fresh_producing_animals_slaughtered_ple,"Hides, cattle, fresh - Producing Animals/Slaughtered",Head,measure
 hides_cattle_fresh_production_ple,"Hides, cattle, fresh - Production",tonnes,measure
 hides_cattle_fresh_yield_ple,"Hides, cattle, fresh - Yield",hg/An,measure
+honey_natural_prod_popultn_ple,"Honey, natural - Prod Popultn",No,measure
 honey_natural_production_ple,"Honey, natural - Production",tonnes,measure
+honey_natural_yield_ple,"Honey, natural - Yield",hg,measure
 meat_indigenous_ass_yield_carcass_weight_ple,"Meat indigenous, ass - Yield/Carcass Weight",hg/An,measure
 meat_indigenous_bird_nes_yield_carcass_weight_ple,"Meat indigenous, bird nes - Yield/Carcass Weight",0.1g/An,measure
 meat_indigenous_buffalo_yield_carcass_weight_ple,"Meat indigenous, buffalo - Yield/Carcass Weight",hg/An,measure
@@ -8220,7 +8222,6 @@ sheep_and_goat_meat_producing_animals_slaughtered_ple,Sheep and Goat Meat - Prod
 sheep_and_goat_meat_production_ple,Sheep and Goat Meat - Production,tonnes,measure
 sheep_and_goat_meat_yield_carcass_weight_ple,Sheep and Goat Meat - Yield/Carcass Weight,hg/An,measure
 silk_worm_cocoons_reelable_production_ple,"Silk-worm cocoons, reelable - Production",tonnes,measure
-skins_furs_production_ple,"Skins, furs - Production",tonnes,measure
 skins_goat_fresh_producing_animals_slaughtered_ple,"Skins, goat, fresh - Producing Animals/Slaughtered",Head,measure
 skins_goat_fresh_production_ple,"Skins, goat, fresh - Production",tonnes,measure
 skins_goat_fresh_yield_ple,"Skins, goat, fresh - Yield",hg/An,measure
