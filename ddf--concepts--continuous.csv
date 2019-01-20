@@ -5892,6 +5892,11 @@ wood_chips_and_particles_export_value_fea1,Wood chips and particles - Export Val
 wood_chips_and_particles_import_quantity_fea1,Wood chips and particles - Import Quantity,m3,measure
 wood_chips_and_particles_import_value_fea1,Wood chips and particles - Import Value,1000 US$,measure
 wood_chips_and_particles_production_fea1,Wood chips and particles - Production,m3,measure
+wood_chips_particles_and_residues_export_quantity_fea1,"Wood chips, particles and residues - Export Quantity",m3,measure
+wood_chips_particles_and_residues_export_value_fea1,"Wood chips, particles and residues - Export Value",1000 US$,measure
+wood_chips_particles_and_residues_import_quantity_fea1,"Wood chips, particles and residues - Import Quantity",m3,measure
+wood_chips_particles_and_residues_import_value_fea1,"Wood chips, particles and residues - Import Value",1000 US$,measure
+wood_chips_particles_and_residues_production_fea1,"Wood chips, particles and residues - Production",m3,measure
 wood_fuel_export_quantity_fea1,Wood fuel - Export Quantity,m3,measure
 wood_fuel_export_value_fea1,Wood fuel - Export Value,1000 US$,measure
 wood_fuel_import_quantity_fea1,Wood fuel - Import Quantity,m3,measure
@@ -5901,13 +5906,26 @@ wood_fuel_all_species_export_import_export_quantity_fea1,"Wood fuel, all species
 wood_fuel_all_species_export_import_export_value_fea1,"Wood fuel, all species (export/import) - Export Value",1000 US$,measure
 wood_fuel_all_species_export_import_import_quantity_fea1,"Wood fuel, all species (export/import) - Import Quantity",m3,measure
 wood_fuel_all_species_export_import_import_value_fea1,"Wood fuel, all species (export/import) - Import Value",1000 US$,measure
-wood_fuel_coniferous_production_production_fea1,"Wood fuel, coniferous (production) - Production",m3,measure
-wood_fuel_non_coniferous_production_production_fea1,"Wood fuel, non-coniferous (production) - Production",m3,measure
+wood_fuel_coniferous_export_quantity_fea1,"Wood fuel, coniferous - Export Quantity",m3,measure
+wood_fuel_coniferous_export_value_fea1,"Wood fuel, coniferous - Export Value",1000 US$,measure
+wood_fuel_coniferous_import_quantity_fea1,"Wood fuel, coniferous - Import Quantity",m3,measure
+wood_fuel_coniferous_import_value_fea1,"Wood fuel, coniferous - Import Value",1000 US$,measure
+wood_fuel_coniferous_production_fea1,"Wood fuel, coniferous - Production",m3,measure
+wood_fuel_non_coniferous_export_quantity_fea1,"Wood fuel, non-coniferous - Export Quantity",m3,measure
+wood_fuel_non_coniferous_export_value_fea1,"Wood fuel, non-coniferous - Export Value",1000 US$,measure
+wood_fuel_non_coniferous_import_quantity_fea1,"Wood fuel, non-coniferous - Import Quantity",m3,measure
+wood_fuel_non_coniferous_import_value_fea1,"Wood fuel, non-coniferous - Import Value",1000 US$,measure
+wood_fuel_non_coniferous_production_fea1,"Wood fuel, non-coniferous - Production",m3,measure
 wood_pellets_export_quantity_fea1,Wood pellets - Export Quantity,tonnes,measure
 wood_pellets_export_value_fea1,Wood pellets - Export Value,1000 US$,measure
 wood_pellets_import_quantity_fea1,Wood pellets - Import Quantity,tonnes,measure
 wood_pellets_import_value_fea1,Wood pellets - Import Value,1000 US$,measure
 wood_pellets_production_fea1,Wood pellets - Production,tonnes,measure
+wood_pellets_and_other_agglomerates_export_quantity_fea1,Wood pellets and other agglomerates - Export Quantity,tonnes,measure
+wood_pellets_and_other_agglomerates_export_value_fea1,Wood pellets and other agglomerates - Export Value,1000 US$,measure
+wood_pellets_and_other_agglomerates_import_quantity_fea1,Wood pellets and other agglomerates - Import Quantity,tonnes,measure
+wood_pellets_and_other_agglomerates_import_value_fea1,Wood pellets and other agglomerates - Import Value,1000 US$,measure
+wood_pellets_and_other_agglomerates_production_fea1,Wood pellets and other agglomerates - Production,tonnes,measure
 wood_pulp_export_quantity_fea1,Wood pulp - Export Quantity,tonnes,measure
 wood_pulp_export_value_fea1,Wood pulp - Export Value,1000 US$,measure
 wood_pulp_import_quantity_fea1,Wood pulp - Import Quantity,tonnes,measure
