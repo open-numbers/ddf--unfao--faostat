@@ -6255,53 +6255,53 @@ tributyltin_compounds_export_quantity_ipt,Tributyltin compounds - Export Quantit
 tributyltin_compounds_export_value_ipt,Tributyltin compounds - Export Value,1000 US$,measure
 tributyltin_compounds_import_quantity_ipt,Tributyltin compounds - Import Quantity,tonnes,measure
 tributyltin_compounds_import_value_ipt,Tributyltin compounds - Import Value,1000 US$,measure
-amides_use_ipu,Amides - Use,tonnes of active ingredients,measure
-anticoagulants_use_ipu,Anticoagulants - Use,tonnes of active ingredients,measure
-benzimidazoles_use_ipu,Benzimidazoles - Use,tonnes of active ingredients,measure
-benzimidazoles_seedtrf_use_ipu,Benzimidazoles-SeedTrF - Use,tonnes of active ingredients,measure
-bipiridils_use_ipu,Bipiridils - Use,tonnes of active ingredients,measure
-botanic_prod_biologsdtrf_use_ipu,Botanic prod&biologSdTrF - Use,tonnes of active ingredients,measure
-botanic_produc_biologic_use_ipu,Botanic.Produc&Biologic. - Use,tonnes of active ingredients,measure
-carbamates_herbicides_use_ipu,Carbamates Herbicides - Use,tonnes of active ingredients,measure
-carbamates_insecticides_use_ipu,Carbamates Insecticides - Use,tonnes of active ingredients,measure
-carbamates_insect_sdtr_use_ipu,Carbamates-insect-SdTr - Use,tonnes of active ingredients,measure
-chlorinated_hydrocarbons_use_ipu,Chlorinated Hydrocarbons - Use,tonnes of active ingredients,measure
-cyanide_generators_use_ipu,Cyanide Generators - Use,tonnes of active ingredients,measure
-diazines_morpholines_use_ipu,"Diazines, Morpholines - Use",tonnes of active ingredients,measure
-dinitroanilines_use_ipu,Dinitroanilines - Use,tonnes of active ingredients,measure
-disinfectants_use_ipu,Disinfectants - Use,tonnes of active ingredients,measure
-dithiocarbamates_use_ipu,Dithiocarbamates - Use,tonnes of active ingredients,measure
-dithiocarbamates_seedtrf_use_ipu,Dithiocarbamates-SeedTrF - Use,tonnes of active ingredients,measure
-fungicides_bactericides_use_ipu,Fungicides&Bactericides - Use,tonnes of active ingredients,measure
-herbicides_use_ipu,Herbicides - Use,tonnes of active ingredients,measure
-hypercalcaemics_use_ipu,Hypercalcaemics - Use,tonnes of active ingredients,measure
-inorganics_use_ipu,Inorganics - Use,tonnes of active ingredients,measure
-insecticides_use_ipu,Insecticides - Use,tonnes of active ingredients,measure
-mineral_oils_use_ipu,Mineral Oils - Use,tonnes of active ingredients,measure
-narcotics_use_ipu,Narcotics - Use,tonnes of active ingredients,measure
-organo_phosphates_use_ipu,Organo-Phosphates - Use,tonnes of active ingredients,measure
-organo_phospates_sdtr_in_use_ipu,Organo-phospates-SdTr In - Use,tonnes of active ingredients,measure
-other_fungicides_use_ipu,Other Fungicides - Use,tonnes of active ingredients,measure
-other_herbicides_use_ipu,Other Herbicides - Use,tonnes of active ingredients,measure
-other_insecticides_use_ipu,Other Insecticides - Use,tonnes of active ingredients,measure
-other_pesticides_nes_use_ipu,Other Pesticides nes - Use,tonnes of active ingredients,measure
-other_rodenticides_use_ipu,Other Rodenticides - Use,tonnes of active ingredients,measure
-others_seedtreat_ins_use_ipu,Others-SeedTreat Ins - Use,tonnes of active ingredients,measure
-others_seedtreatfung_use_ipu,Others-SeedTreatFung - Use,tonnes of active ingredients,measure
-pesticides_total_use_ipu,Pesticides (total) - Use,tonnes of active ingredients,measure
-phenoxy_hormone_products_use_ipu,Phenoxy Hormone Products - Use,tonnes of active ingredients,measure
-plant_growth_regulators_use_ipu,Plant Growth Regulators - Use,tonnes of active ingredients,measure
-pyrethroids_use_ipu,Pyrethroids - Use,tonnes of active ingredients,measure
-pyrethroids_seedtr_ins_use_ipu,Pyrethroids-SeedTr Ins - Use,tonnes of active ingredients,measure
-rodenticides_use_ipu,Rodenticides - Use,tonnes of active ingredients,measure
-seed_treatm_fungicides_use_ipu,Seed Treatm Fungicides - Use,tonnes of active ingredients,measure
-seed_treatm_insecticides_use_ipu,Seed Treatm Insecticides - Use,tonnes of active ingredients,measure
-sulfonyl_ureas_use_ipu,Sulfonyl Ureas - Use,tonnes of active ingredients,measure
-triazines_use_ipu,Triazines - Use,tonnes of active ingredients,measure
-triazoles_diazoles_sdtrf_use_ipu,Triazoles diazoles-SdTrF - Use,tonnes of active ingredients,measure
-triazoles_diazoles_use_ipu,"Triazoles, Diazoles - Use",tonnes of active ingredients,measure
-uracil_use_ipu,Uracil - Use,tonnes of active ingredients,measure
-urea_derivates_use_ipu,Urea derivates - Use,tonnes of active ingredients,measure
+amides_agricultural_use_ipu,Amides - Agricultural Use,tonnes,measure
+anticoagulants_agricultural_use_ipu,Anticoagulants - Agricultural Use,tonnes,measure
+benzimidazoles_agricultural_use_ipu,Benzimidazoles - Agricultural Use,tonnes,measure
+benzimidazoles_seedtrf_agricultural_use_ipu,Benzimidazoles-SeedTrF - Agricultural Use,tonnes,measure
+bipiridils_agricultural_use_ipu,Bipiridils - Agricultural Use,tonnes,measure
+botanic_prod_biologsdtrf_agricultural_use_ipu,Botanic prod&biologSdTrF - Agricultural Use,tonnes,measure
+botanic_produc_biologic_agricultural_use_ipu,Botanic.Produc&Biologic. - Agricultural Use,tonnes,measure
+carbamates_herbicides_agricultural_use_ipu,Carbamates Herbicides - Agricultural Use,tonnes,measure
+carbamates_insecticides_agricultural_use_ipu,Carbamates Insecticides - Agricultural Use,tonnes,measure
+carbamates_insect_sdtr_agricultural_use_ipu,Carbamates-insect-SdTr - Agricultural Use,tonnes,measure
+chlorinated_hydrocarbons_agricultural_use_ipu,Chlorinated Hydrocarbons - Agricultural Use,tonnes,measure
+cyanide_generators_agricultural_use_ipu,Cyanide Generators - Agricultural Use,tonnes,measure
+diazines_morpholines_agricultural_use_ipu,"Diazines, Morpholines - Agricultural Use",tonnes,measure
+dinitroanilines_agricultural_use_ipu,Dinitroanilines - Agricultural Use,tonnes,measure
+disinfectants_agricultural_use_ipu,Disinfectants - Agricultural Use,tonnes,measure
+dithiocarbamates_agricultural_use_ipu,Dithiocarbamates - Agricultural Use,tonnes,measure
+dithiocarbamates_seedtrf_agricultural_use_ipu,Dithiocarbamates-SeedTrF - Agricultural Use,tonnes,measure
+fungicides_bactericides_agricultural_use_ipu,Fungicides&Bactericides - Agricultural Use,tonnes,measure
+herbicides_agricultural_use_ipu,Herbicides - Agricultural Use,tonnes,measure
+hypercalcaemics_agricultural_use_ipu,Hypercalcaemics - Agricultural Use,tonnes,measure
+inorganics_agricultural_use_ipu,Inorganics - Agricultural Use,tonnes,measure
+insecticides_agricultural_use_ipu,Insecticides - Agricultural Use,tonnes,measure
+mineral_oils_agricultural_use_ipu,Mineral Oils - Agricultural Use,tonnes,measure
+narcotics_agricultural_use_ipu,Narcotics - Agricultural Use,tonnes,measure
+organo_phosphates_agricultural_use_ipu,Organo-Phosphates - Agricultural Use,tonnes,measure
+organo_phospates_sdtr_in_agricultural_use_ipu,Organo-phospates-SdTr In - Agricultural Use,tonnes,measure
+other_fungicides_agricultural_use_ipu,Other Fungicides - Agricultural Use,tonnes,measure
+other_herbicides_agricultural_use_ipu,Other Herbicides - Agricultural Use,tonnes,measure
+other_insecticides_agricultural_use_ipu,Other Insecticides - Agricultural Use,tonnes,measure
+other_pesticides_nes_agricultural_use_ipu,Other Pesticides nes - Agricultural Use,tonnes,measure
+other_rodenticides_agricultural_use_ipu,Other Rodenticides - Agricultural Use,tonnes,measure
+others_seedtreat_ins_agricultural_use_ipu,Others-SeedTreat Ins - Agricultural Use,tonnes,measure
+others_seedtreatfung_agricultural_use_ipu,Others-SeedTreatFung - Agricultural Use,tonnes,measure
+pesticides_total_agricultural_use_ipu,Pesticides (total) - Agricultural Use,tonnes,measure
+phenoxy_hormone_products_agricultural_use_ipu,Phenoxy Hormone Products - Agricultural Use,tonnes,measure
+plant_growth_regulators_agricultural_use_ipu,Plant Growth Regulators - Agricultural Use,tonnes,measure
+pyrethroids_agricultural_use_ipu,Pyrethroids - Agricultural Use,tonnes,measure
+pyrethroids_seedtr_ins_agricultural_use_ipu,Pyrethroids-SeedTr Ins - Agricultural Use,tonnes,measure
+rodenticides_agricultural_use_ipu,Rodenticides - Agricultural Use,tonnes,measure
+seed_treatm_fungicides_agricultural_use_ipu,Seed Treatm Fungicides - Agricultural Use,tonnes,measure
+seed_treatm_insecticides_agricultural_use_ipu,Seed Treatm Insecticides - Agricultural Use,tonnes,measure
+sulfonyl_ureas_agricultural_use_ipu,Sulfonyl Ureas - Agricultural Use,tonnes,measure
+triazines_agricultural_use_ipu,Triazines - Agricultural Use,tonnes,measure
+triazoles_diazoles_sdtrf_agricultural_use_ipu,Triazoles diazoles-SdTrF - Agricultural Use,tonnes,measure
+triazoles_diazoles_agricultural_use_ipu,"Triazoles, Diazoles - Agricultural Use",tonnes,measure
+uracil_agricultural_use_ipu,Uracil - Agricultural Use,tonnes,measure
+urea_derivates_agricultural_use_ipu,Urea derivates - Agricultural Use,tonnes,measure
 consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
 consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
 consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$",millions,measure
