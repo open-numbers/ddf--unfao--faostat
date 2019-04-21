@@ -3227,46 +3227,46 @@ turkeys_manure_left_on_pasture_that_leaches_n_content_ele2,Turkeys - Manure left
 turkeys_manure_left_on_pasture_that_volatilises_n_content_ele2,Turkeys - Manure left on pasture that volatilises (N content),kg,measure
 turkeys_manure_treated_n_content_ele2,Turkeys - Manure treated (N content),kg,measure
 turkeys_stocks_ele2,Turkeys - Stocks,Head,measure
-asses_density_of_livestock_in_the_agricultural_area_ele3,Asses - Density of livestock in the agricultural area,LSU/ha,measure
+asses_livestock_units_per_agricultural_land_area_ele3,Asses - Livestock units per agricultural land area,LSU/ha,measure
 asses_share_in_total_livestock_ele3,Asses - Share in total livestock,% of total LSU,measure
 asses_stocks_ele3,Asses - Stocks,Livestock units (LSU),measure
-buffaloes_density_of_livestock_in_the_agricultural_area_ele3,Buffaloes - Density of livestock in the agricultural area,LSU/ha,measure
+buffaloes_livestock_units_per_agricultural_land_area_ele3,Buffaloes - Livestock units per agricultural land area,LSU/ha,measure
 buffaloes_share_in_total_livestock_ele3,Buffaloes - Share in total livestock,% of total LSU,measure
 buffaloes_stocks_ele3,Buffaloes - Stocks,Livestock units (LSU),measure
-camels_density_of_livestock_in_the_agricultural_area_ele3,Camels - Density of livestock in the agricultural area,LSU/ha,measure
+camels_livestock_units_per_agricultural_land_area_ele3,Camels - Livestock units per agricultural land area,LSU/ha,measure
 camels_share_in_total_livestock_ele3,Camels - Share in total livestock,% of total LSU,measure
 camels_stocks_ele3,Camels - Stocks,Livestock units (LSU),measure
-cattle_density_of_livestock_in_the_agricultural_area_ele3,Cattle - Density of livestock in the agricultural area,LSU/ha,measure
+cattle_livestock_units_per_agricultural_land_area_ele3,Cattle - Livestock units per agricultural land area,LSU/ha,measure
 cattle_share_in_total_livestock_ele3,Cattle - Share in total livestock,% of total LSU,measure
 cattle_stocks_ele3,Cattle - Stocks,Livestock units (LSU),measure
-cattle_and_buffaloes_density_of_livestock_in_the_agricultural_area_ele3,Cattle and Buffaloes - Density of livestock in the agricultural area,LSU/ha,measure
+cattle_and_buffaloes_livestock_units_per_agricultural_land_area_ele3,Cattle and Buffaloes - Livestock units per agricultural land area,LSU/ha,measure
 cattle_and_buffaloes_share_in_total_livestock_ele3,Cattle and Buffaloes - Share in total livestock,% of total LSU,measure
 cattle_and_buffaloes_stocks_ele3,Cattle and Buffaloes - Stocks,Livestock units (LSU),measure
-chickens_density_of_livestock_in_the_agricultural_area_ele3,Chickens - Density of livestock in the agricultural area,LSU/ha,measure
+chickens_livestock_units_per_agricultural_land_area_ele3,Chickens - Livestock units per agricultural land area,LSU/ha,measure
 chickens_share_in_total_livestock_ele3,Chickens - Share in total livestock,% of total LSU,measure
 chickens_stocks_ele3,Chickens - Stocks,Livestock units (LSU),measure
-equidae_density_of_livestock_in_the_agricultural_area_ele3,Equidae - Density of livestock in the agricultural area,LSU/ha,measure
+equidae_livestock_units_per_agricultural_land_area_ele3,Equidae - Livestock units per agricultural land area,LSU/ha,measure
 equidae_share_in_total_livestock_ele3,Equidae - Share in total livestock,% of total LSU,measure
 equidae_stocks_ele3,Equidae - Stocks,Livestock units (LSU),measure
-goats_density_of_livestock_in_the_agricultural_area_ele3,Goats - Density of livestock in the agricultural area,LSU/ha,measure
+goats_livestock_units_per_agricultural_land_area_ele3,Goats - Livestock units per agricultural land area,LSU/ha,measure
 goats_share_in_total_livestock_ele3,Goats - Share in total livestock,% of total LSU,measure
 goats_stocks_ele3,Goats - Stocks,Livestock units (LSU),measure
-horses_density_of_livestock_in_the_agricultural_area_ele3,Horses - Density of livestock in the agricultural area,LSU/ha,measure
+horses_livestock_units_per_agricultural_land_area_ele3,Horses - Livestock units per agricultural land area,LSU/ha,measure
 horses_share_in_total_livestock_ele3,Horses - Share in total livestock,% of total LSU,measure
 horses_stocks_ele3,Horses - Stocks,Livestock units (LSU),measure
-major_livestock_types_density_of_livestock_in_the_agricultural_area_ele3,Major livestock types - Density of livestock in the agricultural area,LSU/ha,measure
+major_livestock_types_livestock_units_per_agricultural_land_area_ele3,Major livestock types - Livestock units per agricultural land area,LSU/ha,measure
 major_livestock_types_share_in_total_livestock_ele3,Major livestock types - Share in total livestock,% of total LSU,measure
 major_livestock_types_stocks_ele3,Major livestock types - Stocks,Livestock units (LSU),measure
-mules_density_of_livestock_in_the_agricultural_area_ele3,Mules - Density of livestock in the agricultural area,LSU/ha,measure
+mules_livestock_units_per_agricultural_land_area_ele3,Mules - Livestock units per agricultural land area,LSU/ha,measure
 mules_share_in_total_livestock_ele3,Mules - Share in total livestock,% of total LSU,measure
 mules_stocks_ele3,Mules - Stocks,Livestock units (LSU),measure
-pigs_density_of_livestock_in_the_agricultural_area_ele3,Pigs - Density of livestock in the agricultural area,LSU/ha,measure
+pigs_livestock_units_per_agricultural_land_area_ele3,Pigs - Livestock units per agricultural land area,LSU/ha,measure
 pigs_share_in_total_livestock_ele3,Pigs - Share in total livestock,% of total LSU,measure
 pigs_stocks_ele3,Pigs - Stocks,Livestock units (LSU),measure
-sheep_density_of_livestock_in_the_agricultural_area_ele3,Sheep - Density of livestock in the agricultural area,LSU/ha,measure
+sheep_livestock_units_per_agricultural_land_area_ele3,Sheep - Livestock units per agricultural land area,LSU/ha,measure
 sheep_share_in_total_livestock_ele3,Sheep - Share in total livestock,% of total LSU,measure
 sheep_stocks_ele3,Sheep - Stocks,Livestock units (LSU),measure
-sheep_and_goats_density_of_livestock_in_the_agricultural_area_ele3,Sheep and Goats - Density of livestock in the agricultural area,LSU/ha,measure
+sheep_and_goats_livestock_units_per_agricultural_land_area_ele3,Sheep and Goats - Livestock units per agricultural land area,LSU/ha,measure
 sheep_and_goats_share_in_total_livestock_ele3,Sheep and Goats - Share in total livestock,% of total LSU,measure
 sheep_and_goats_stocks_ele3,Sheep and Goats - Stocks,Livestock units (LSU),measure
 pesticides_total_use_per_area_of_cropland_epe,Pesticides (total) - Use per area of cropland,kg/ha,measure
