@@ -1843,7 +1843,9 @@ all_animals_emissions_co2eq_manure_applied_eam,All Animals - Emissions (CO2eq) (
 all_animals_emissions_n2o_manure_applied_eam,All Animals - Emissions (N2O) (Manure applied),gigagrams,measure
 all_animals_indirect_emissions_co2eq_manure_applied_eam,All Animals - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 all_animals_indirect_emissions_n2o_manure_applied_eam,All Animals - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-all_animals_manure_n_content_manure_applied_eam,All Animals - Manure (N content) (Manure applied),kg,measure
+all_animals_manure_applied_to_soils_n_content_eam,All Animals - Manure applied to soils (N content),kg,measure
+all_animals_manure_applied_to_soils_that_leaches_n_content_eam,All Animals - Manure applied to soils that leaches (N content),kg,measure
+all_animals_manure_applied_to_soils_that_volatilises_n_content_eam,All Animals - Manure applied to soils that volatilises (N content),kg,measure
 asses_direct_emissions_co2eq_manure_applied_eam,Asses - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 asses_direct_emissions_n2o_manure_applied_eam,Asses - Direct emissions (N2O) (Manure applied),gigagrams,measure
 asses_emissions_co2eq_manure_applied_eam,Asses - Emissions (CO2eq) (Manure applied),gigagrams,measure
@@ -1851,7 +1853,9 @@ asses_emissions_n2o_manure_applied_eam,Asses - Emissions (N2O) (Manure applied),
 asses_implied_emission_factor_for_n2o_manure_applied_eam,Asses - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 asses_indirect_emissions_co2eq_manure_applied_eam,Asses - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 asses_indirect_emissions_n2o_manure_applied_eam,Asses - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-asses_manure_n_content_manure_applied_eam,Asses - Manure (N content) (Manure applied),kg,measure
+asses_manure_applied_to_soils_n_content_eam,Asses - Manure applied to soils (N content),kg,measure
+asses_manure_applied_to_soils_that_leaches_n_content_eam,Asses - Manure applied to soils that leaches (N content),kg,measure
+asses_manure_applied_to_soils_that_volatilises_n_content_eam,Asses - Manure applied to soils that volatilises (N content),kg,measure
 asses_stocks_eam,Asses - Stocks,Head,measure
 buffaloes_direct_emissions_co2eq_manure_applied_eam,Buffaloes - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 buffaloes_direct_emissions_n2o_manure_applied_eam,Buffaloes - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1860,7 +1864,9 @@ buffaloes_emissions_n2o_manure_applied_eam,Buffaloes - Emissions (N2O) (Manure a
 buffaloes_implied_emission_factor_for_n2o_manure_applied_eam,Buffaloes - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 buffaloes_indirect_emissions_co2eq_manure_applied_eam,Buffaloes - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 buffaloes_indirect_emissions_n2o_manure_applied_eam,Buffaloes - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-buffaloes_manure_n_content_manure_applied_eam,Buffaloes - Manure (N content) (Manure applied),kg,measure
+buffaloes_manure_applied_to_soils_n_content_eam,Buffaloes - Manure applied to soils (N content),kg,measure
+buffaloes_manure_applied_to_soils_that_leaches_n_content_eam,Buffaloes - Manure applied to soils that leaches (N content),kg,measure
+buffaloes_manure_applied_to_soils_that_volatilises_n_content_eam,Buffaloes - Manure applied to soils that volatilises (N content),kg,measure
 buffaloes_stocks_eam,Buffaloes - Stocks,Head,measure
 camels_direct_emissions_co2eq_manure_applied_eam,Camels - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 camels_direct_emissions_n2o_manure_applied_eam,Camels - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1869,7 +1875,9 @@ camels_emissions_n2o_manure_applied_eam,Camels - Emissions (N2O) (Manure applied
 camels_implied_emission_factor_for_n2o_manure_applied_eam,Camels - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 camels_indirect_emissions_co2eq_manure_applied_eam,Camels - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 camels_indirect_emissions_n2o_manure_applied_eam,Camels - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-camels_manure_n_content_manure_applied_eam,Camels - Manure (N content) (Manure applied),kg,measure
+camels_manure_applied_to_soils_n_content_eam,Camels - Manure applied to soils (N content),kg,measure
+camels_manure_applied_to_soils_that_leaches_n_content_eam,Camels - Manure applied to soils that leaches (N content),kg,measure
+camels_manure_applied_to_soils_that_volatilises_n_content_eam,Camels - Manure applied to soils that volatilises (N content),kg,measure
 camels_stocks_eam,Camels - Stocks,Head,measure
 camels_and_llamas_direct_emissions_co2eq_manure_applied_eam,Camels and Llamas - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 camels_and_llamas_direct_emissions_n2o_manure_applied_eam,Camels and Llamas - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1877,7 +1885,9 @@ camels_and_llamas_emissions_co2eq_manure_applied_eam,Camels and Llamas - Emissio
 camels_and_llamas_emissions_n2o_manure_applied_eam,Camels and Llamas - Emissions (N2O) (Manure applied),gigagrams,measure
 camels_and_llamas_indirect_emissions_co2eq_manure_applied_eam,Camels and Llamas - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 camels_and_llamas_indirect_emissions_n2o_manure_applied_eam,Camels and Llamas - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-camels_and_llamas_manure_n_content_manure_applied_eam,Camels and Llamas - Manure (N content) (Manure applied),kg,measure
+camels_and_llamas_manure_applied_to_soils_n_content_eam,Camels and Llamas - Manure applied to soils (N content),kg,measure
+camels_and_llamas_manure_applied_to_soils_that_leaches_n_content_eam,Camels and Llamas - Manure applied to soils that leaches (N content),kg,measure
+camels_and_llamas_manure_applied_to_soils_that_volatilises_n_content_eam,Camels and Llamas - Manure applied to soils that volatilises (N content),kg,measure
 camels_and_llamas_stocks_eam,Camels and Llamas - Stocks,Head,measure
 cattle_direct_emissions_co2eq_manure_applied_eam,Cattle - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 cattle_direct_emissions_n2o_manure_applied_eam,Cattle - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1885,7 +1895,9 @@ cattle_emissions_co2eq_manure_applied_eam,Cattle - Emissions (CO2eq) (Manure app
 cattle_emissions_n2o_manure_applied_eam,Cattle - Emissions (N2O) (Manure applied),gigagrams,measure
 cattle_indirect_emissions_co2eq_manure_applied_eam,Cattle - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 cattle_indirect_emissions_n2o_manure_applied_eam,Cattle - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-cattle_manure_n_content_manure_applied_eam,Cattle - Manure (N content) (Manure applied),kg,measure
+cattle_manure_applied_to_soils_n_content_eam,Cattle - Manure applied to soils (N content),kg,measure
+cattle_manure_applied_to_soils_that_leaches_n_content_eam,Cattle - Manure applied to soils that leaches (N content),kg,measure
+cattle_manure_applied_to_soils_that_volatilises_n_content_eam,Cattle - Manure applied to soils that volatilises (N content),kg,measure
 cattle_stocks_eam,Cattle - Stocks,Head,measure
 cattle_dairy_direct_emissions_co2eq_manure_applied_eam,"Cattle, dairy - Direct emissions (CO2eq) (Manure applied)",gigagrams,measure
 cattle_dairy_direct_emissions_n2o_manure_applied_eam,"Cattle, dairy - Direct emissions (N2O) (Manure applied)",gigagrams,measure
@@ -1894,7 +1906,9 @@ cattle_dairy_emissions_n2o_manure_applied_eam,"Cattle, dairy - Emissions (N2O) (
 cattle_dairy_implied_emission_factor_for_n2o_manure_applied_eam,"Cattle, dairy - Implied emission factor for N2O (Manure applied)",kg N2O-N/kg N,measure
 cattle_dairy_indirect_emissions_co2eq_manure_applied_eam,"Cattle, dairy - Indirect emissions (CO2eq) (Manure applied)",gigagrams,measure
 cattle_dairy_indirect_emissions_n2o_manure_applied_eam,"Cattle, dairy - Indirect emissions (N2O) (Manure applied)",gigagrams,measure
-cattle_dairy_manure_n_content_manure_applied_eam,"Cattle, dairy - Manure (N content) (Manure applied)",kg,measure
+cattle_dairy_manure_applied_to_soils_n_content_eam,"Cattle, dairy - Manure applied to soils (N content)",kg,measure
+cattle_dairy_manure_applied_to_soils_that_leaches_n_content_eam,"Cattle, dairy - Manure applied to soils that leaches (N content)",kg,measure
+cattle_dairy_manure_applied_to_soils_that_volatilises_n_content_eam,"Cattle, dairy - Manure applied to soils that volatilises (N content)",kg,measure
 cattle_dairy_stocks_eam,"Cattle, dairy - Stocks",Head,measure
 cattle_non_dairy_direct_emissions_co2eq_manure_applied_eam,"Cattle, non-dairy - Direct emissions (CO2eq) (Manure applied)",gigagrams,measure
 cattle_non_dairy_direct_emissions_n2o_manure_applied_eam,"Cattle, non-dairy - Direct emissions (N2O) (Manure applied)",gigagrams,measure
@@ -1903,7 +1917,9 @@ cattle_non_dairy_emissions_n2o_manure_applied_eam,"Cattle, non-dairy - Emissions
 cattle_non_dairy_implied_emission_factor_for_n2o_manure_applied_eam,"Cattle, non-dairy - Implied emission factor for N2O (Manure applied)",kg N2O-N/kg N,measure
 cattle_non_dairy_indirect_emissions_co2eq_manure_applied_eam,"Cattle, non-dairy - Indirect emissions (CO2eq) (Manure applied)",gigagrams,measure
 cattle_non_dairy_indirect_emissions_n2o_manure_applied_eam,"Cattle, non-dairy - Indirect emissions (N2O) (Manure applied)",gigagrams,measure
-cattle_non_dairy_manure_n_content_manure_applied_eam,"Cattle, non-dairy - Manure (N content) (Manure applied)",kg,measure
+cattle_non_dairy_manure_applied_to_soils_n_content_eam,"Cattle, non-dairy - Manure applied to soils (N content)",kg,measure
+cattle_non_dairy_manure_applied_to_soils_that_leaches_n_content_eam,"Cattle, non-dairy - Manure applied to soils that leaches (N content)",kg,measure
+cattle_non_dairy_manure_applied_to_soils_that_volatilises_n_content_eam,"Cattle, non-dairy - Manure applied to soils that volatilises (N content)",kg,measure
 cattle_non_dairy_stocks_eam,"Cattle, non-dairy - Stocks",Head,measure
 chickens_direct_emissions_co2eq_manure_applied_eam,Chickens - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 chickens_direct_emissions_n2o_manure_applied_eam,Chickens - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1911,7 +1927,9 @@ chickens_emissions_co2eq_manure_applied_eam,Chickens - Emissions (CO2eq) (Manure
 chickens_emissions_n2o_manure_applied_eam,Chickens - Emissions (N2O) (Manure applied),gigagrams,measure
 chickens_indirect_emissions_co2eq_manure_applied_eam,Chickens - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 chickens_indirect_emissions_n2o_manure_applied_eam,Chickens - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-chickens_manure_n_content_manure_applied_eam,Chickens - Manure (N content) (Manure applied),kg,measure
+chickens_manure_applied_to_soils_n_content_eam,Chickens - Manure applied to soils (N content),kg,measure
+chickens_manure_applied_to_soils_that_leaches_n_content_eam,Chickens - Manure applied to soils that leaches (N content),kg,measure
+chickens_manure_applied_to_soils_that_volatilises_n_content_eam,Chickens - Manure applied to soils that volatilises (N content),kg,measure
 chickens_stocks_eam,Chickens - Stocks,Head,measure
 chickens_broilers_direct_emissions_co2eq_manure_applied_eam,"Chickens, broilers - Direct emissions (CO2eq) (Manure applied)",gigagrams,measure
 chickens_broilers_direct_emissions_n2o_manure_applied_eam,"Chickens, broilers - Direct emissions (N2O) (Manure applied)",gigagrams,measure
@@ -1920,7 +1938,9 @@ chickens_broilers_emissions_n2o_manure_applied_eam,"Chickens, broilers - Emissio
 chickens_broilers_implied_emission_factor_for_n2o_manure_applied_eam,"Chickens, broilers - Implied emission factor for N2O (Manure applied)",kg N2O-N/kg N,measure
 chickens_broilers_indirect_emissions_co2eq_manure_applied_eam,"Chickens, broilers - Indirect emissions (CO2eq) (Manure applied)",gigagrams,measure
 chickens_broilers_indirect_emissions_n2o_manure_applied_eam,"Chickens, broilers - Indirect emissions (N2O) (Manure applied)",gigagrams,measure
-chickens_broilers_manure_n_content_manure_applied_eam,"Chickens, broilers - Manure (N content) (Manure applied)",kg,measure
+chickens_broilers_manure_applied_to_soils_n_content_eam,"Chickens, broilers - Manure applied to soils (N content)",kg,measure
+chickens_broilers_manure_applied_to_soils_that_leaches_n_content_eam,"Chickens, broilers - Manure applied to soils that leaches (N content)",kg,measure
+chickens_broilers_manure_applied_to_soils_that_volatilises_n_content_eam,"Chickens, broilers - Manure applied to soils that volatilises (N content)",kg,measure
 chickens_broilers_stocks_eam,"Chickens, broilers - Stocks",Head,measure
 chickens_layers_direct_emissions_co2eq_manure_applied_eam,"Chickens, layers - Direct emissions (CO2eq) (Manure applied)",gigagrams,measure
 chickens_layers_direct_emissions_n2o_manure_applied_eam,"Chickens, layers - Direct emissions (N2O) (Manure applied)",gigagrams,measure
@@ -1929,7 +1949,9 @@ chickens_layers_emissions_n2o_manure_applied_eam,"Chickens, layers - Emissions (
 chickens_layers_implied_emission_factor_for_n2o_manure_applied_eam,"Chickens, layers - Implied emission factor for N2O (Manure applied)",kg N2O-N/kg N,measure
 chickens_layers_indirect_emissions_co2eq_manure_applied_eam,"Chickens, layers - Indirect emissions (CO2eq) (Manure applied)",gigagrams,measure
 chickens_layers_indirect_emissions_n2o_manure_applied_eam,"Chickens, layers - Indirect emissions (N2O) (Manure applied)",gigagrams,measure
-chickens_layers_manure_n_content_manure_applied_eam,"Chickens, layers - Manure (N content) (Manure applied)",kg,measure
+chickens_layers_manure_applied_to_soils_n_content_eam,"Chickens, layers - Manure applied to soils (N content)",kg,measure
+chickens_layers_manure_applied_to_soils_that_leaches_n_content_eam,"Chickens, layers - Manure applied to soils that leaches (N content)",kg,measure
+chickens_layers_manure_applied_to_soils_that_volatilises_n_content_eam,"Chickens, layers - Manure applied to soils that volatilises (N content)",kg,measure
 chickens_layers_stocks_eam,"Chickens, layers - Stocks",Head,measure
 ducks_direct_emissions_co2eq_manure_applied_eam,Ducks - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 ducks_direct_emissions_n2o_manure_applied_eam,Ducks - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1938,7 +1960,9 @@ ducks_emissions_n2o_manure_applied_eam,Ducks - Emissions (N2O) (Manure applied),
 ducks_implied_emission_factor_for_n2o_manure_applied_eam,Ducks - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 ducks_indirect_emissions_co2eq_manure_applied_eam,Ducks - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 ducks_indirect_emissions_n2o_manure_applied_eam,Ducks - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-ducks_manure_n_content_manure_applied_eam,Ducks - Manure (N content) (Manure applied),kg,measure
+ducks_manure_applied_to_soils_n_content_eam,Ducks - Manure applied to soils (N content),kg,measure
+ducks_manure_applied_to_soils_that_leaches_n_content_eam,Ducks - Manure applied to soils that leaches (N content),kg,measure
+ducks_manure_applied_to_soils_that_volatilises_n_content_eam,Ducks - Manure applied to soils that volatilises (N content),kg,measure
 ducks_stocks_eam,Ducks - Stocks,Head,measure
 goats_direct_emissions_co2eq_manure_applied_eam,Goats - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 goats_direct_emissions_n2o_manure_applied_eam,Goats - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1947,7 +1971,9 @@ goats_emissions_n2o_manure_applied_eam,Goats - Emissions (N2O) (Manure applied),
 goats_implied_emission_factor_for_n2o_manure_applied_eam,Goats - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 goats_indirect_emissions_co2eq_manure_applied_eam,Goats - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 goats_indirect_emissions_n2o_manure_applied_eam,Goats - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-goats_manure_n_content_manure_applied_eam,Goats - Manure (N content) (Manure applied),kg,measure
+goats_manure_applied_to_soils_n_content_eam,Goats - Manure applied to soils (N content),kg,measure
+goats_manure_applied_to_soils_that_leaches_n_content_eam,Goats - Manure applied to soils that leaches (N content),kg,measure
+goats_manure_applied_to_soils_that_volatilises_n_content_eam,Goats - Manure applied to soils that volatilises (N content),kg,measure
 goats_stocks_eam,Goats - Stocks,Head,measure
 horses_direct_emissions_co2eq_manure_applied_eam,Horses - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 horses_direct_emissions_n2o_manure_applied_eam,Horses - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1956,7 +1982,9 @@ horses_emissions_n2o_manure_applied_eam,Horses - Emissions (N2O) (Manure applied
 horses_implied_emission_factor_for_n2o_manure_applied_eam,Horses - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 horses_indirect_emissions_co2eq_manure_applied_eam,Horses - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 horses_indirect_emissions_n2o_manure_applied_eam,Horses - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-horses_manure_n_content_manure_applied_eam,Horses - Manure (N content) (Manure applied),kg,measure
+horses_manure_applied_to_soils_n_content_eam,Horses - Manure applied to soils (N content),kg,measure
+horses_manure_applied_to_soils_that_leaches_n_content_eam,Horses - Manure applied to soils that leaches (N content),kg,measure
+horses_manure_applied_to_soils_that_volatilises_n_content_eam,Horses - Manure applied to soils that volatilises (N content),kg,measure
 horses_stocks_eam,Horses - Stocks,Head,measure
 llamas_direct_emissions_co2eq_manure_applied_eam,Llamas - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 llamas_direct_emissions_n2o_manure_applied_eam,Llamas - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1965,7 +1993,9 @@ llamas_emissions_n2o_manure_applied_eam,Llamas - Emissions (N2O) (Manure applied
 llamas_implied_emission_factor_for_n2o_manure_applied_eam,Llamas - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 llamas_indirect_emissions_co2eq_manure_applied_eam,Llamas - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 llamas_indirect_emissions_n2o_manure_applied_eam,Llamas - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-llamas_manure_n_content_manure_applied_eam,Llamas - Manure (N content) (Manure applied),kg,measure
+llamas_manure_applied_to_soils_n_content_eam,Llamas - Manure applied to soils (N content),kg,measure
+llamas_manure_applied_to_soils_that_leaches_n_content_eam,Llamas - Manure applied to soils that leaches (N content),kg,measure
+llamas_manure_applied_to_soils_that_volatilises_n_content_eam,Llamas - Manure applied to soils that volatilises (N content),kg,measure
 llamas_stocks_eam,Llamas - Stocks,Head,measure
 mules_direct_emissions_co2eq_manure_applied_eam,Mules - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 mules_direct_emissions_n2o_manure_applied_eam,Mules - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1974,7 +2004,9 @@ mules_emissions_n2o_manure_applied_eam,Mules - Emissions (N2O) (Manure applied),
 mules_implied_emission_factor_for_n2o_manure_applied_eam,Mules - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 mules_indirect_emissions_co2eq_manure_applied_eam,Mules - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 mules_indirect_emissions_n2o_manure_applied_eam,Mules - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-mules_manure_n_content_manure_applied_eam,Mules - Manure (N content) (Manure applied),kg,measure
+mules_manure_applied_to_soils_n_content_eam,Mules - Manure applied to soils (N content),kg,measure
+mules_manure_applied_to_soils_that_leaches_n_content_eam,Mules - Manure applied to soils that leaches (N content),kg,measure
+mules_manure_applied_to_soils_that_volatilises_n_content_eam,Mules - Manure applied to soils that volatilises (N content),kg,measure
 mules_stocks_eam,Mules - Stocks,Head,measure
 mules_and_asses_direct_emissions_co2eq_manure_applied_eam,Mules and Asses - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 mules_and_asses_direct_emissions_n2o_manure_applied_eam,Mules and Asses - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1982,7 +2014,9 @@ mules_and_asses_emissions_co2eq_manure_applied_eam,Mules and Asses - Emissions (
 mules_and_asses_emissions_n2o_manure_applied_eam,Mules and Asses - Emissions (N2O) (Manure applied),gigagrams,measure
 mules_and_asses_indirect_emissions_co2eq_manure_applied_eam,Mules and Asses - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 mules_and_asses_indirect_emissions_n2o_manure_applied_eam,Mules and Asses - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-mules_and_asses_manure_n_content_manure_applied_eam,Mules and Asses - Manure (N content) (Manure applied),kg,measure
+mules_and_asses_manure_applied_to_soils_n_content_eam,Mules and Asses - Manure applied to soils (N content),kg,measure
+mules_and_asses_manure_applied_to_soils_that_leaches_n_content_eam,Mules and Asses - Manure applied to soils that leaches (N content),kg,measure
+mules_and_asses_manure_applied_to_soils_that_volatilises_n_content_eam,Mules and Asses - Manure applied to soils that volatilises (N content),kg,measure
 mules_and_asses_stocks_eam,Mules and Asses - Stocks,Head,measure
 poultry_birds_direct_emissions_co2eq_manure_applied_eam,Poultry Birds - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 poultry_birds_direct_emissions_n2o_manure_applied_eam,Poultry Birds - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1990,7 +2024,9 @@ poultry_birds_emissions_co2eq_manure_applied_eam,Poultry Birds - Emissions (CO2e
 poultry_birds_emissions_n2o_manure_applied_eam,Poultry Birds - Emissions (N2O) (Manure applied),gigagrams,measure
 poultry_birds_indirect_emissions_co2eq_manure_applied_eam,Poultry Birds - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 poultry_birds_indirect_emissions_n2o_manure_applied_eam,Poultry Birds - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-poultry_birds_manure_n_content_manure_applied_eam,Poultry Birds - Manure (N content) (Manure applied),kg,measure
+poultry_birds_manure_applied_to_soils_n_content_eam,Poultry Birds - Manure applied to soils (N content),kg,measure
+poultry_birds_manure_applied_to_soils_that_leaches_n_content_eam,Poultry Birds - Manure applied to soils that leaches (N content),kg,measure
+poultry_birds_manure_applied_to_soils_that_volatilises_n_content_eam,Poultry Birds - Manure applied to soils that volatilises (N content),kg,measure
 poultry_birds_stocks_eam,Poultry Birds - Stocks,Head,measure
 sheep_direct_emissions_co2eq_manure_applied_eam,Sheep - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 sheep_direct_emissions_n2o_manure_applied_eam,Sheep - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -1999,7 +2035,9 @@ sheep_emissions_n2o_manure_applied_eam,Sheep - Emissions (N2O) (Manure applied),
 sheep_implied_emission_factor_for_n2o_manure_applied_eam,Sheep - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 sheep_indirect_emissions_co2eq_manure_applied_eam,Sheep - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 sheep_indirect_emissions_n2o_manure_applied_eam,Sheep - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-sheep_manure_n_content_manure_applied_eam,Sheep - Manure (N content) (Manure applied),kg,measure
+sheep_manure_applied_to_soils_n_content_eam,Sheep - Manure applied to soils (N content),kg,measure
+sheep_manure_applied_to_soils_that_leaches_n_content_eam,Sheep - Manure applied to soils that leaches (N content),kg,measure
+sheep_manure_applied_to_soils_that_volatilises_n_content_eam,Sheep - Manure applied to soils that volatilises (N content),kg,measure
 sheep_stocks_eam,Sheep - Stocks,Head,measure
 sheep_and_goats_direct_emissions_co2eq_manure_applied_eam,Sheep and Goats - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 sheep_and_goats_direct_emissions_n2o_manure_applied_eam,Sheep and Goats - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -2007,7 +2045,9 @@ sheep_and_goats_emissions_co2eq_manure_applied_eam,Sheep and Goats - Emissions (
 sheep_and_goats_emissions_n2o_manure_applied_eam,Sheep and Goats - Emissions (N2O) (Manure applied),gigagrams,measure
 sheep_and_goats_indirect_emissions_co2eq_manure_applied_eam,Sheep and Goats - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 sheep_and_goats_indirect_emissions_n2o_manure_applied_eam,Sheep and Goats - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-sheep_and_goats_manure_n_content_manure_applied_eam,Sheep and Goats - Manure (N content) (Manure applied),kg,measure
+sheep_and_goats_manure_applied_to_soils_n_content_eam,Sheep and Goats - Manure applied to soils (N content),kg,measure
+sheep_and_goats_manure_applied_to_soils_that_leaches_n_content_eam,Sheep and Goats - Manure applied to soils that leaches (N content),kg,measure
+sheep_and_goats_manure_applied_to_soils_that_volatilises_n_content_eam,Sheep and Goats - Manure applied to soils that volatilises (N content),kg,measure
 sheep_and_goats_stocks_eam,Sheep and Goats - Stocks,Head,measure
 swine_direct_emissions_co2eq_manure_applied_eam,Swine - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 swine_direct_emissions_n2o_manure_applied_eam,Swine - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -2015,7 +2055,9 @@ swine_emissions_co2eq_manure_applied_eam,Swine - Emissions (CO2eq) (Manure appli
 swine_emissions_n2o_manure_applied_eam,Swine - Emissions (N2O) (Manure applied),gigagrams,measure
 swine_indirect_emissions_co2eq_manure_applied_eam,Swine - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 swine_indirect_emissions_n2o_manure_applied_eam,Swine - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-swine_manure_n_content_manure_applied_eam,Swine - Manure (N content) (Manure applied),kg,measure
+swine_manure_applied_to_soils_n_content_eam,Swine - Manure applied to soils (N content),kg,measure
+swine_manure_applied_to_soils_that_leaches_n_content_eam,Swine - Manure applied to soils that leaches (N content),kg,measure
+swine_manure_applied_to_soils_that_volatilises_n_content_eam,Swine - Manure applied to soils that volatilises (N content),kg,measure
 swine_stocks_eam,Swine - Stocks,Head,measure
 swine_breeding_direct_emissions_co2eq_manure_applied_eam,"Swine, breeding - Direct emissions (CO2eq) (Manure applied)",gigagrams,measure
 swine_breeding_direct_emissions_n2o_manure_applied_eam,"Swine, breeding - Direct emissions (N2O) (Manure applied)",gigagrams,measure
@@ -2024,7 +2066,9 @@ swine_breeding_emissions_n2o_manure_applied_eam,"Swine, breeding - Emissions (N2
 swine_breeding_implied_emission_factor_for_n2o_manure_applied_eam,"Swine, breeding - Implied emission factor for N2O (Manure applied)",kg N2O-N/kg N,measure
 swine_breeding_indirect_emissions_co2eq_manure_applied_eam,"Swine, breeding - Indirect emissions (CO2eq) (Manure applied)",gigagrams,measure
 swine_breeding_indirect_emissions_n2o_manure_applied_eam,"Swine, breeding - Indirect emissions (N2O) (Manure applied)",gigagrams,measure
-swine_breeding_manure_n_content_manure_applied_eam,"Swine, breeding - Manure (N content) (Manure applied)",kg,measure
+swine_breeding_manure_applied_to_soils_n_content_eam,"Swine, breeding - Manure applied to soils (N content)",kg,measure
+swine_breeding_manure_applied_to_soils_that_leaches_n_content_eam,"Swine, breeding - Manure applied to soils that leaches (N content)",kg,measure
+swine_breeding_manure_applied_to_soils_that_volatilises_n_content_eam,"Swine, breeding - Manure applied to soils that volatilises (N content)",kg,measure
 swine_breeding_stocks_eam,"Swine, breeding - Stocks",Head,measure
 swine_market_direct_emissions_co2eq_manure_applied_eam,"Swine, market - Direct emissions (CO2eq) (Manure applied)",gigagrams,measure
 swine_market_direct_emissions_n2o_manure_applied_eam,"Swine, market - Direct emissions (N2O) (Manure applied)",gigagrams,measure
@@ -2033,7 +2077,9 @@ swine_market_emissions_n2o_manure_applied_eam,"Swine, market - Emissions (N2O) (
 swine_market_implied_emission_factor_for_n2o_manure_applied_eam,"Swine, market - Implied emission factor for N2O (Manure applied)",kg N2O-N/kg N,measure
 swine_market_indirect_emissions_co2eq_manure_applied_eam,"Swine, market - Indirect emissions (CO2eq) (Manure applied)",gigagrams,measure
 swine_market_indirect_emissions_n2o_manure_applied_eam,"Swine, market - Indirect emissions (N2O) (Manure applied)",gigagrams,measure
-swine_market_manure_n_content_manure_applied_eam,"Swine, market - Manure (N content) (Manure applied)",kg,measure
+swine_market_manure_applied_to_soils_n_content_eam,"Swine, market - Manure applied to soils (N content)",kg,measure
+swine_market_manure_applied_to_soils_that_leaches_n_content_eam,"Swine, market - Manure applied to soils that leaches (N content)",kg,measure
+swine_market_manure_applied_to_soils_that_volatilises_n_content_eam,"Swine, market - Manure applied to soils that volatilises (N content)",kg,measure
 swine_market_stocks_eam,"Swine, market - Stocks",Head,measure
 turkeys_direct_emissions_co2eq_manure_applied_eam,Turkeys - Direct emissions (CO2eq) (Manure applied),gigagrams,measure
 turkeys_direct_emissions_n2o_manure_applied_eam,Turkeys - Direct emissions (N2O) (Manure applied),gigagrams,measure
@@ -2042,7 +2088,9 @@ turkeys_emissions_n2o_manure_applied_eam,Turkeys - Emissions (N2O) (Manure appli
 turkeys_implied_emission_factor_for_n2o_manure_applied_eam,Turkeys - Implied emission factor for N2O (Manure applied),kg N2O-N/kg N,measure
 turkeys_indirect_emissions_co2eq_manure_applied_eam,Turkeys - Indirect emissions (CO2eq) (Manure applied),gigagrams,measure
 turkeys_indirect_emissions_n2o_manure_applied_eam,Turkeys - Indirect emissions (N2O) (Manure applied),gigagrams,measure
-turkeys_manure_n_content_manure_applied_eam,Turkeys - Manure (N content) (Manure applied),kg,measure
+turkeys_manure_applied_to_soils_n_content_eam,Turkeys - Manure applied to soils (N content),kg,measure
+turkeys_manure_applied_to_soils_that_leaches_n_content_eam,Turkeys - Manure applied to soils that leaches (N content),kg,measure
+turkeys_manure_applied_to_soils_that_volatilises_n_content_eam,Turkeys - Manure applied to soils that volatilises (N content),kg,measure
 turkeys_stocks_eam,Turkeys - Stocks,Head,measure
 all_animals_direct_emissions_co2eq_manure_on_pasture_eam1,All Animals - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 all_animals_direct_emissions_n2o_manure_on_pasture_eam1,All Animals - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2052,9 +2100,9 @@ all_animals_indirect_emissions_co2eq_manure_on_pasture_eam1,All Animals - Indire
 all_animals_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,All Animals - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 all_animals_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,All Animals - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 all_animals_indirect_emissions_n2o_manure_on_pasture_eam1,All Animals - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-all_animals_manure_n_content_that_leaches_manure_on_pasture_eam1,All Animals - Manure (N content that leaches) (Manure on pasture),kg,measure
-all_animals_manure_n_content_that_volatilises_manure_on_pasture_eam1,All Animals - Manure (N content that volatilises) (Manure on pasture),kg,measure
-all_animals_manure_n_content_manure_on_pasture_eam1,All Animals - Manure (N content) (Manure on pasture),kg,measure
+all_animals_manure_left_on_pasture_n_content_eam1,All Animals - Manure left on pasture (N content),kg,measure
+all_animals_manure_left_on_pasture_that_leaches_n_content_eam1,All Animals - Manure left on pasture that leaches (N content),kg,measure
+all_animals_manure_left_on_pasture_that_volatilises_n_content_eam1,All Animals - Manure left on pasture that volatilises (N content),kg,measure
 asses_direct_emissions_co2eq_manure_on_pasture_eam1,Asses - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 asses_direct_emissions_n2o_manure_on_pasture_eam1,Asses - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
 asses_emissions_co2eq_manure_on_pasture_eam1,Asses - Emissions (CO2eq) (Manure on pasture),gigagrams,measure
@@ -2064,9 +2112,9 @@ asses_indirect_emissions_co2eq_manure_on_pasture_eam1,Asses - Indirect emissions
 asses_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Asses - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 asses_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Asses - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 asses_indirect_emissions_n2o_manure_on_pasture_eam1,Asses - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-asses_manure_n_content_that_leaches_manure_on_pasture_eam1,Asses - Manure (N content that leaches) (Manure on pasture),kg,measure
-asses_manure_n_content_that_volatilises_manure_on_pasture_eam1,Asses - Manure (N content that volatilises) (Manure on pasture),kg,measure
-asses_manure_n_content_manure_on_pasture_eam1,Asses - Manure (N content) (Manure on pasture),kg,measure
+asses_manure_left_on_pasture_n_content_eam1,Asses - Manure left on pasture (N content),kg,measure
+asses_manure_left_on_pasture_that_leaches_n_content_eam1,Asses - Manure left on pasture that leaches (N content),kg,measure
+asses_manure_left_on_pasture_that_volatilises_n_content_eam1,Asses - Manure left on pasture that volatilises (N content),kg,measure
 asses_stocks_eam1,Asses - Stocks,Head,measure
 buffaloes_direct_emissions_co2eq_manure_on_pasture_eam1,Buffaloes - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 buffaloes_direct_emissions_n2o_manure_on_pasture_eam1,Buffaloes - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2077,9 +2125,9 @@ buffaloes_indirect_emissions_co2eq_manure_on_pasture_eam1,Buffaloes - Indirect e
 buffaloes_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Buffaloes - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 buffaloes_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Buffaloes - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 buffaloes_indirect_emissions_n2o_manure_on_pasture_eam1,Buffaloes - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-buffaloes_manure_n_content_that_leaches_manure_on_pasture_eam1,Buffaloes - Manure (N content that leaches) (Manure on pasture),kg,measure
-buffaloes_manure_n_content_that_volatilises_manure_on_pasture_eam1,Buffaloes - Manure (N content that volatilises) (Manure on pasture),kg,measure
-buffaloes_manure_n_content_manure_on_pasture_eam1,Buffaloes - Manure (N content) (Manure on pasture),kg,measure
+buffaloes_manure_left_on_pasture_n_content_eam1,Buffaloes - Manure left on pasture (N content),kg,measure
+buffaloes_manure_left_on_pasture_that_leaches_n_content_eam1,Buffaloes - Manure left on pasture that leaches (N content),kg,measure
+buffaloes_manure_left_on_pasture_that_volatilises_n_content_eam1,Buffaloes - Manure left on pasture that volatilises (N content),kg,measure
 buffaloes_stocks_eam1,Buffaloes - Stocks,Head,measure
 camels_direct_emissions_co2eq_manure_on_pasture_eam1,Camels - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 camels_direct_emissions_n2o_manure_on_pasture_eam1,Camels - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2090,9 +2138,9 @@ camels_indirect_emissions_co2eq_manure_on_pasture_eam1,Camels - Indirect emissio
 camels_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Camels - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 camels_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Camels - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 camels_indirect_emissions_n2o_manure_on_pasture_eam1,Camels - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-camels_manure_n_content_that_leaches_manure_on_pasture_eam1,Camels - Manure (N content that leaches) (Manure on pasture),kg,measure
-camels_manure_n_content_that_volatilises_manure_on_pasture_eam1,Camels - Manure (N content that volatilises) (Manure on pasture),kg,measure
-camels_manure_n_content_manure_on_pasture_eam1,Camels - Manure (N content) (Manure on pasture),kg,measure
+camels_manure_left_on_pasture_n_content_eam1,Camels - Manure left on pasture (N content),kg,measure
+camels_manure_left_on_pasture_that_leaches_n_content_eam1,Camels - Manure left on pasture that leaches (N content),kg,measure
+camels_manure_left_on_pasture_that_volatilises_n_content_eam1,Camels - Manure left on pasture that volatilises (N content),kg,measure
 camels_stocks_eam1,Camels - Stocks,Head,measure
 camels_and_llamas_direct_emissions_co2eq_manure_on_pasture_eam1,Camels and Llamas - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 camels_and_llamas_direct_emissions_n2o_manure_on_pasture_eam1,Camels and Llamas - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2102,9 +2150,9 @@ camels_and_llamas_indirect_emissions_co2eq_manure_on_pasture_eam1,Camels and Lla
 camels_and_llamas_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Camels and Llamas - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 camels_and_llamas_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Camels and Llamas - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 camels_and_llamas_indirect_emissions_n2o_manure_on_pasture_eam1,Camels and Llamas - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-camels_and_llamas_manure_n_content_that_leaches_manure_on_pasture_eam1,Camels and Llamas - Manure (N content that leaches) (Manure on pasture),kg,measure
-camels_and_llamas_manure_n_content_that_volatilises_manure_on_pasture_eam1,Camels and Llamas - Manure (N content that volatilises) (Manure on pasture),kg,measure
-camels_and_llamas_manure_n_content_manure_on_pasture_eam1,Camels and Llamas - Manure (N content) (Manure on pasture),kg,measure
+camels_and_llamas_manure_left_on_pasture_n_content_eam1,Camels and Llamas - Manure left on pasture (N content),kg,measure
+camels_and_llamas_manure_left_on_pasture_that_leaches_n_content_eam1,Camels and Llamas - Manure left on pasture that leaches (N content),kg,measure
+camels_and_llamas_manure_left_on_pasture_that_volatilises_n_content_eam1,Camels and Llamas - Manure left on pasture that volatilises (N content),kg,measure
 camels_and_llamas_stocks_eam1,Camels and Llamas - Stocks,Head,measure
 cattle_direct_emissions_co2eq_manure_on_pasture_eam1,Cattle - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 cattle_direct_emissions_n2o_manure_on_pasture_eam1,Cattle - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2114,9 +2162,9 @@ cattle_indirect_emissions_co2eq_manure_on_pasture_eam1,Cattle - Indirect emissio
 cattle_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Cattle - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 cattle_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Cattle - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 cattle_indirect_emissions_n2o_manure_on_pasture_eam1,Cattle - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-cattle_manure_n_content_that_leaches_manure_on_pasture_eam1,Cattle - Manure (N content that leaches) (Manure on pasture),kg,measure
-cattle_manure_n_content_that_volatilises_manure_on_pasture_eam1,Cattle - Manure (N content that volatilises) (Manure on pasture),kg,measure
-cattle_manure_n_content_manure_on_pasture_eam1,Cattle - Manure (N content) (Manure on pasture),kg,measure
+cattle_manure_left_on_pasture_n_content_eam1,Cattle - Manure left on pasture (N content),kg,measure
+cattle_manure_left_on_pasture_that_leaches_n_content_eam1,Cattle - Manure left on pasture that leaches (N content),kg,measure
+cattle_manure_left_on_pasture_that_volatilises_n_content_eam1,Cattle - Manure left on pasture that volatilises (N content),kg,measure
 cattle_stocks_eam1,Cattle - Stocks,Head,measure
 cattle_dairy_direct_emissions_co2eq_manure_on_pasture_eam1,"Cattle, dairy - Direct emissions (CO2eq) (Manure on pasture)",gigagrams,measure
 cattle_dairy_direct_emissions_n2o_manure_on_pasture_eam1,"Cattle, dairy - Direct emissions (N2O) (Manure on pasture)",gigagrams,measure
@@ -2127,9 +2175,9 @@ cattle_dairy_indirect_emissions_co2eq_manure_on_pasture_eam1,"Cattle, dairy - In
 cattle_dairy_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,"Cattle, dairy - Indirect emissions (N2O that leaches) (Manure on pasture)",gigagrams,measure
 cattle_dairy_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,"Cattle, dairy - Indirect emissions (N2O that volatilises) (Manure on pasture)",gigagrams,measure
 cattle_dairy_indirect_emissions_n2o_manure_on_pasture_eam1,"Cattle, dairy - Indirect emissions (N2O) (Manure on pasture)",gigagrams,measure
-cattle_dairy_manure_n_content_that_leaches_manure_on_pasture_eam1,"Cattle, dairy - Manure (N content that leaches) (Manure on pasture)",kg,measure
-cattle_dairy_manure_n_content_that_volatilises_manure_on_pasture_eam1,"Cattle, dairy - Manure (N content that volatilises) (Manure on pasture)",kg,measure
-cattle_dairy_manure_n_content_manure_on_pasture_eam1,"Cattle, dairy - Manure (N content) (Manure on pasture)",kg,measure
+cattle_dairy_manure_left_on_pasture_n_content_eam1,"Cattle, dairy - Manure left on pasture (N content)",kg,measure
+cattle_dairy_manure_left_on_pasture_that_leaches_n_content_eam1,"Cattle, dairy - Manure left on pasture that leaches (N content)",kg,measure
+cattle_dairy_manure_left_on_pasture_that_volatilises_n_content_eam1,"Cattle, dairy - Manure left on pasture that volatilises (N content)",kg,measure
 cattle_dairy_stocks_eam1,"Cattle, dairy - Stocks",Head,measure
 cattle_non_dairy_direct_emissions_co2eq_manure_on_pasture_eam1,"Cattle, non-dairy - Direct emissions (CO2eq) (Manure on pasture)",gigagrams,measure
 cattle_non_dairy_direct_emissions_n2o_manure_on_pasture_eam1,"Cattle, non-dairy - Direct emissions (N2O) (Manure on pasture)",gigagrams,measure
@@ -2140,9 +2188,9 @@ cattle_non_dairy_indirect_emissions_co2eq_manure_on_pasture_eam1,"Cattle, non-da
 cattle_non_dairy_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,"Cattle, non-dairy - Indirect emissions (N2O that leaches) (Manure on pasture)",gigagrams,measure
 cattle_non_dairy_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,"Cattle, non-dairy - Indirect emissions (N2O that volatilises) (Manure on pasture)",gigagrams,measure
 cattle_non_dairy_indirect_emissions_n2o_manure_on_pasture_eam1,"Cattle, non-dairy - Indirect emissions (N2O) (Manure on pasture)",gigagrams,measure
-cattle_non_dairy_manure_n_content_that_leaches_manure_on_pasture_eam1,"Cattle, non-dairy - Manure (N content that leaches) (Manure on pasture)",kg,measure
-cattle_non_dairy_manure_n_content_that_volatilises_manure_on_pasture_eam1,"Cattle, non-dairy - Manure (N content that volatilises) (Manure on pasture)",kg,measure
-cattle_non_dairy_manure_n_content_manure_on_pasture_eam1,"Cattle, non-dairy - Manure (N content) (Manure on pasture)",kg,measure
+cattle_non_dairy_manure_left_on_pasture_n_content_eam1,"Cattle, non-dairy - Manure left on pasture (N content)",kg,measure
+cattle_non_dairy_manure_left_on_pasture_that_leaches_n_content_eam1,"Cattle, non-dairy - Manure left on pasture that leaches (N content)",kg,measure
+cattle_non_dairy_manure_left_on_pasture_that_volatilises_n_content_eam1,"Cattle, non-dairy - Manure left on pasture that volatilises (N content)",kg,measure
 cattle_non_dairy_stocks_eam1,"Cattle, non-dairy - Stocks",Head,measure
 chickens_direct_emissions_co2eq_manure_on_pasture_eam1,Chickens - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 chickens_direct_emissions_n2o_manure_on_pasture_eam1,Chickens - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2152,9 +2200,9 @@ chickens_indirect_emissions_co2eq_manure_on_pasture_eam1,Chickens - Indirect emi
 chickens_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Chickens - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 chickens_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Chickens - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 chickens_indirect_emissions_n2o_manure_on_pasture_eam1,Chickens - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-chickens_manure_n_content_that_leaches_manure_on_pasture_eam1,Chickens - Manure (N content that leaches) (Manure on pasture),kg,measure
-chickens_manure_n_content_that_volatilises_manure_on_pasture_eam1,Chickens - Manure (N content that volatilises) (Manure on pasture),kg,measure
-chickens_manure_n_content_manure_on_pasture_eam1,Chickens - Manure (N content) (Manure on pasture),kg,measure
+chickens_manure_left_on_pasture_n_content_eam1,Chickens - Manure left on pasture (N content),kg,measure
+chickens_manure_left_on_pasture_that_leaches_n_content_eam1,Chickens - Manure left on pasture that leaches (N content),kg,measure
+chickens_manure_left_on_pasture_that_volatilises_n_content_eam1,Chickens - Manure left on pasture that volatilises (N content),kg,measure
 chickens_stocks_eam1,Chickens - Stocks,Head,measure
 chickens_broilers_direct_emissions_co2eq_manure_on_pasture_eam1,"Chickens, broilers - Direct emissions (CO2eq) (Manure on pasture)",gigagrams,measure
 chickens_broilers_direct_emissions_n2o_manure_on_pasture_eam1,"Chickens, broilers - Direct emissions (N2O) (Manure on pasture)",gigagrams,measure
@@ -2165,9 +2213,9 @@ chickens_broilers_indirect_emissions_co2eq_manure_on_pasture_eam1,"Chickens, bro
 chickens_broilers_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,"Chickens, broilers - Indirect emissions (N2O that leaches) (Manure on pasture)",gigagrams,measure
 chickens_broilers_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,"Chickens, broilers - Indirect emissions (N2O that volatilises) (Manure on pasture)",gigagrams,measure
 chickens_broilers_indirect_emissions_n2o_manure_on_pasture_eam1,"Chickens, broilers - Indirect emissions (N2O) (Manure on pasture)",gigagrams,measure
-chickens_broilers_manure_n_content_that_leaches_manure_on_pasture_eam1,"Chickens, broilers - Manure (N content that leaches) (Manure on pasture)",kg,measure
-chickens_broilers_manure_n_content_that_volatilises_manure_on_pasture_eam1,"Chickens, broilers - Manure (N content that volatilises) (Manure on pasture)",kg,measure
-chickens_broilers_manure_n_content_manure_on_pasture_eam1,"Chickens, broilers - Manure (N content) (Manure on pasture)",kg,measure
+chickens_broilers_manure_left_on_pasture_n_content_eam1,"Chickens, broilers - Manure left on pasture (N content)",kg,measure
+chickens_broilers_manure_left_on_pasture_that_leaches_n_content_eam1,"Chickens, broilers - Manure left on pasture that leaches (N content)",kg,measure
+chickens_broilers_manure_left_on_pasture_that_volatilises_n_content_eam1,"Chickens, broilers - Manure left on pasture that volatilises (N content)",kg,measure
 chickens_broilers_stocks_eam1,"Chickens, broilers - Stocks",Head,measure
 chickens_layers_direct_emissions_co2eq_manure_on_pasture_eam1,"Chickens, layers - Direct emissions (CO2eq) (Manure on pasture)",gigagrams,measure
 chickens_layers_direct_emissions_n2o_manure_on_pasture_eam1,"Chickens, layers - Direct emissions (N2O) (Manure on pasture)",gigagrams,measure
@@ -2178,9 +2226,9 @@ chickens_layers_indirect_emissions_co2eq_manure_on_pasture_eam1,"Chickens, layer
 chickens_layers_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,"Chickens, layers - Indirect emissions (N2O that leaches) (Manure on pasture)",gigagrams,measure
 chickens_layers_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,"Chickens, layers - Indirect emissions (N2O that volatilises) (Manure on pasture)",gigagrams,measure
 chickens_layers_indirect_emissions_n2o_manure_on_pasture_eam1,"Chickens, layers - Indirect emissions (N2O) (Manure on pasture)",gigagrams,measure
-chickens_layers_manure_n_content_that_leaches_manure_on_pasture_eam1,"Chickens, layers - Manure (N content that leaches) (Manure on pasture)",kg,measure
-chickens_layers_manure_n_content_that_volatilises_manure_on_pasture_eam1,"Chickens, layers - Manure (N content that volatilises) (Manure on pasture)",kg,measure
-chickens_layers_manure_n_content_manure_on_pasture_eam1,"Chickens, layers - Manure (N content) (Manure on pasture)",kg,measure
+chickens_layers_manure_left_on_pasture_n_content_eam1,"Chickens, layers - Manure left on pasture (N content)",kg,measure
+chickens_layers_manure_left_on_pasture_that_leaches_n_content_eam1,"Chickens, layers - Manure left on pasture that leaches (N content)",kg,measure
+chickens_layers_manure_left_on_pasture_that_volatilises_n_content_eam1,"Chickens, layers - Manure left on pasture that volatilises (N content)",kg,measure
 chickens_layers_stocks_eam1,"Chickens, layers - Stocks",Head,measure
 ducks_direct_emissions_co2eq_manure_on_pasture_eam1,Ducks - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 ducks_direct_emissions_n2o_manure_on_pasture_eam1,Ducks - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2191,9 +2239,9 @@ ducks_indirect_emissions_co2eq_manure_on_pasture_eam1,Ducks - Indirect emissions
 ducks_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Ducks - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 ducks_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Ducks - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 ducks_indirect_emissions_n2o_manure_on_pasture_eam1,Ducks - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-ducks_manure_n_content_that_leaches_manure_on_pasture_eam1,Ducks - Manure (N content that leaches) (Manure on pasture),kg,measure
-ducks_manure_n_content_that_volatilises_manure_on_pasture_eam1,Ducks - Manure (N content that volatilises) (Manure on pasture),kg,measure
-ducks_manure_n_content_manure_on_pasture_eam1,Ducks - Manure (N content) (Manure on pasture),kg,measure
+ducks_manure_left_on_pasture_n_content_eam1,Ducks - Manure left on pasture (N content),kg,measure
+ducks_manure_left_on_pasture_that_leaches_n_content_eam1,Ducks - Manure left on pasture that leaches (N content),kg,measure
+ducks_manure_left_on_pasture_that_volatilises_n_content_eam1,Ducks - Manure left on pasture that volatilises (N content),kg,measure
 ducks_stocks_eam1,Ducks - Stocks,Head,measure
 goats_direct_emissions_co2eq_manure_on_pasture_eam1,Goats - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 goats_direct_emissions_n2o_manure_on_pasture_eam1,Goats - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2204,9 +2252,9 @@ goats_indirect_emissions_co2eq_manure_on_pasture_eam1,Goats - Indirect emissions
 goats_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Goats - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 goats_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Goats - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 goats_indirect_emissions_n2o_manure_on_pasture_eam1,Goats - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-goats_manure_n_content_that_leaches_manure_on_pasture_eam1,Goats - Manure (N content that leaches) (Manure on pasture),kg,measure
-goats_manure_n_content_that_volatilises_manure_on_pasture_eam1,Goats - Manure (N content that volatilises) (Manure on pasture),kg,measure
-goats_manure_n_content_manure_on_pasture_eam1,Goats - Manure (N content) (Manure on pasture),kg,measure
+goats_manure_left_on_pasture_n_content_eam1,Goats - Manure left on pasture (N content),kg,measure
+goats_manure_left_on_pasture_that_leaches_n_content_eam1,Goats - Manure left on pasture that leaches (N content),kg,measure
+goats_manure_left_on_pasture_that_volatilises_n_content_eam1,Goats - Manure left on pasture that volatilises (N content),kg,measure
 goats_stocks_eam1,Goats - Stocks,Head,measure
 horses_direct_emissions_co2eq_manure_on_pasture_eam1,Horses - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 horses_direct_emissions_n2o_manure_on_pasture_eam1,Horses - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2217,9 +2265,9 @@ horses_indirect_emissions_co2eq_manure_on_pasture_eam1,Horses - Indirect emissio
 horses_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Horses - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 horses_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Horses - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 horses_indirect_emissions_n2o_manure_on_pasture_eam1,Horses - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-horses_manure_n_content_that_leaches_manure_on_pasture_eam1,Horses - Manure (N content that leaches) (Manure on pasture),kg,measure
-horses_manure_n_content_that_volatilises_manure_on_pasture_eam1,Horses - Manure (N content that volatilises) (Manure on pasture),kg,measure
-horses_manure_n_content_manure_on_pasture_eam1,Horses - Manure (N content) (Manure on pasture),kg,measure
+horses_manure_left_on_pasture_n_content_eam1,Horses - Manure left on pasture (N content),kg,measure
+horses_manure_left_on_pasture_that_leaches_n_content_eam1,Horses - Manure left on pasture that leaches (N content),kg,measure
+horses_manure_left_on_pasture_that_volatilises_n_content_eam1,Horses - Manure left on pasture that volatilises (N content),kg,measure
 horses_stocks_eam1,Horses - Stocks,Head,measure
 llamas_direct_emissions_co2eq_manure_on_pasture_eam1,Llamas - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 llamas_direct_emissions_n2o_manure_on_pasture_eam1,Llamas - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2230,9 +2278,9 @@ llamas_indirect_emissions_co2eq_manure_on_pasture_eam1,Llamas - Indirect emissio
 llamas_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Llamas - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 llamas_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Llamas - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 llamas_indirect_emissions_n2o_manure_on_pasture_eam1,Llamas - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-llamas_manure_n_content_that_leaches_manure_on_pasture_eam1,Llamas - Manure (N content that leaches) (Manure on pasture),kg,measure
-llamas_manure_n_content_that_volatilises_manure_on_pasture_eam1,Llamas - Manure (N content that volatilises) (Manure on pasture),kg,measure
-llamas_manure_n_content_manure_on_pasture_eam1,Llamas - Manure (N content) (Manure on pasture),kg,measure
+llamas_manure_left_on_pasture_n_content_eam1,Llamas - Manure left on pasture (N content),kg,measure
+llamas_manure_left_on_pasture_that_leaches_n_content_eam1,Llamas - Manure left on pasture that leaches (N content),kg,measure
+llamas_manure_left_on_pasture_that_volatilises_n_content_eam1,Llamas - Manure left on pasture that volatilises (N content),kg,measure
 llamas_stocks_eam1,Llamas - Stocks,Head,measure
 mules_direct_emissions_co2eq_manure_on_pasture_eam1,Mules - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 mules_direct_emissions_n2o_manure_on_pasture_eam1,Mules - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2243,9 +2291,9 @@ mules_indirect_emissions_co2eq_manure_on_pasture_eam1,Mules - Indirect emissions
 mules_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Mules - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 mules_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Mules - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 mules_indirect_emissions_n2o_manure_on_pasture_eam1,Mules - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-mules_manure_n_content_that_leaches_manure_on_pasture_eam1,Mules - Manure (N content that leaches) (Manure on pasture),kg,measure
-mules_manure_n_content_that_volatilises_manure_on_pasture_eam1,Mules - Manure (N content that volatilises) (Manure on pasture),kg,measure
-mules_manure_n_content_manure_on_pasture_eam1,Mules - Manure (N content) (Manure on pasture),kg,measure
+mules_manure_left_on_pasture_n_content_eam1,Mules - Manure left on pasture (N content),kg,measure
+mules_manure_left_on_pasture_that_leaches_n_content_eam1,Mules - Manure left on pasture that leaches (N content),kg,measure
+mules_manure_left_on_pasture_that_volatilises_n_content_eam1,Mules - Manure left on pasture that volatilises (N content),kg,measure
 mules_stocks_eam1,Mules - Stocks,Head,measure
 mules_and_asses_direct_emissions_co2eq_manure_on_pasture_eam1,Mules and Asses - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 mules_and_asses_direct_emissions_n2o_manure_on_pasture_eam1,Mules and Asses - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2255,9 +2303,9 @@ mules_and_asses_indirect_emissions_co2eq_manure_on_pasture_eam1,Mules and Asses 
 mules_and_asses_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Mules and Asses - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 mules_and_asses_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Mules and Asses - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 mules_and_asses_indirect_emissions_n2o_manure_on_pasture_eam1,Mules and Asses - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-mules_and_asses_manure_n_content_that_leaches_manure_on_pasture_eam1,Mules and Asses - Manure (N content that leaches) (Manure on pasture),kg,measure
-mules_and_asses_manure_n_content_that_volatilises_manure_on_pasture_eam1,Mules and Asses - Manure (N content that volatilises) (Manure on pasture),kg,measure
-mules_and_asses_manure_n_content_manure_on_pasture_eam1,Mules and Asses - Manure (N content) (Manure on pasture),kg,measure
+mules_and_asses_manure_left_on_pasture_n_content_eam1,Mules and Asses - Manure left on pasture (N content),kg,measure
+mules_and_asses_manure_left_on_pasture_that_leaches_n_content_eam1,Mules and Asses - Manure left on pasture that leaches (N content),kg,measure
+mules_and_asses_manure_left_on_pasture_that_volatilises_n_content_eam1,Mules and Asses - Manure left on pasture that volatilises (N content),kg,measure
 mules_and_asses_stocks_eam1,Mules and Asses - Stocks,Head,measure
 poultry_birds_direct_emissions_co2eq_manure_on_pasture_eam1,Poultry Birds - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 poultry_birds_direct_emissions_n2o_manure_on_pasture_eam1,Poultry Birds - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2267,9 +2315,9 @@ poultry_birds_indirect_emissions_co2eq_manure_on_pasture_eam1,Poultry Birds - In
 poultry_birds_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Poultry Birds - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 poultry_birds_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Poultry Birds - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 poultry_birds_indirect_emissions_n2o_manure_on_pasture_eam1,Poultry Birds - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-poultry_birds_manure_n_content_that_leaches_manure_on_pasture_eam1,Poultry Birds - Manure (N content that leaches) (Manure on pasture),kg,measure
-poultry_birds_manure_n_content_that_volatilises_manure_on_pasture_eam1,Poultry Birds - Manure (N content that volatilises) (Manure on pasture),kg,measure
-poultry_birds_manure_n_content_manure_on_pasture_eam1,Poultry Birds - Manure (N content) (Manure on pasture),kg,measure
+poultry_birds_manure_left_on_pasture_n_content_eam1,Poultry Birds - Manure left on pasture (N content),kg,measure
+poultry_birds_manure_left_on_pasture_that_leaches_n_content_eam1,Poultry Birds - Manure left on pasture that leaches (N content),kg,measure
+poultry_birds_manure_left_on_pasture_that_volatilises_n_content_eam1,Poultry Birds - Manure left on pasture that volatilises (N content),kg,measure
 poultry_birds_stocks_eam1,Poultry Birds - Stocks,Head,measure
 sheep_direct_emissions_co2eq_manure_on_pasture_eam1,Sheep - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 sheep_direct_emissions_n2o_manure_on_pasture_eam1,Sheep - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2280,9 +2328,9 @@ sheep_indirect_emissions_co2eq_manure_on_pasture_eam1,Sheep - Indirect emissions
 sheep_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Sheep - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 sheep_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Sheep - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 sheep_indirect_emissions_n2o_manure_on_pasture_eam1,Sheep - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-sheep_manure_n_content_that_leaches_manure_on_pasture_eam1,Sheep - Manure (N content that leaches) (Manure on pasture),kg,measure
-sheep_manure_n_content_that_volatilises_manure_on_pasture_eam1,Sheep - Manure (N content that volatilises) (Manure on pasture),kg,measure
-sheep_manure_n_content_manure_on_pasture_eam1,Sheep - Manure (N content) (Manure on pasture),kg,measure
+sheep_manure_left_on_pasture_n_content_eam1,Sheep - Manure left on pasture (N content),kg,measure
+sheep_manure_left_on_pasture_that_leaches_n_content_eam1,Sheep - Manure left on pasture that leaches (N content),kg,measure
+sheep_manure_left_on_pasture_that_volatilises_n_content_eam1,Sheep - Manure left on pasture that volatilises (N content),kg,measure
 sheep_stocks_eam1,Sheep - Stocks,Head,measure
 sheep_and_goats_direct_emissions_co2eq_manure_on_pasture_eam1,Sheep and Goats - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 sheep_and_goats_direct_emissions_n2o_manure_on_pasture_eam1,Sheep and Goats - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2292,9 +2340,9 @@ sheep_and_goats_indirect_emissions_co2eq_manure_on_pasture_eam1,Sheep and Goats 
 sheep_and_goats_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Sheep and Goats - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 sheep_and_goats_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Sheep and Goats - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 sheep_and_goats_indirect_emissions_n2o_manure_on_pasture_eam1,Sheep and Goats - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-sheep_and_goats_manure_n_content_that_leaches_manure_on_pasture_eam1,Sheep and Goats - Manure (N content that leaches) (Manure on pasture),kg,measure
-sheep_and_goats_manure_n_content_that_volatilises_manure_on_pasture_eam1,Sheep and Goats - Manure (N content that volatilises) (Manure on pasture),kg,measure
-sheep_and_goats_manure_n_content_manure_on_pasture_eam1,Sheep and Goats - Manure (N content) (Manure on pasture),kg,measure
+sheep_and_goats_manure_left_on_pasture_n_content_eam1,Sheep and Goats - Manure left on pasture (N content),kg,measure
+sheep_and_goats_manure_left_on_pasture_that_leaches_n_content_eam1,Sheep and Goats - Manure left on pasture that leaches (N content),kg,measure
+sheep_and_goats_manure_left_on_pasture_that_volatilises_n_content_eam1,Sheep and Goats - Manure left on pasture that volatilises (N content),kg,measure
 sheep_and_goats_stocks_eam1,Sheep and Goats - Stocks,Head,measure
 swine_direct_emissions_co2eq_manure_on_pasture_eam1,Swine - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 swine_direct_emissions_n2o_manure_on_pasture_eam1,Swine - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2304,9 +2352,9 @@ swine_indirect_emissions_co2eq_manure_on_pasture_eam1,Swine - Indirect emissions
 swine_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Swine - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 swine_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Swine - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 swine_indirect_emissions_n2o_manure_on_pasture_eam1,Swine - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-swine_manure_n_content_that_leaches_manure_on_pasture_eam1,Swine - Manure (N content that leaches) (Manure on pasture),kg,measure
-swine_manure_n_content_that_volatilises_manure_on_pasture_eam1,Swine - Manure (N content that volatilises) (Manure on pasture),kg,measure
-swine_manure_n_content_manure_on_pasture_eam1,Swine - Manure (N content) (Manure on pasture),kg,measure
+swine_manure_left_on_pasture_n_content_eam1,Swine - Manure left on pasture (N content),kg,measure
+swine_manure_left_on_pasture_that_leaches_n_content_eam1,Swine - Manure left on pasture that leaches (N content),kg,measure
+swine_manure_left_on_pasture_that_volatilises_n_content_eam1,Swine - Manure left on pasture that volatilises (N content),kg,measure
 swine_stocks_eam1,Swine - Stocks,Head,measure
 swine_breeding_direct_emissions_co2eq_manure_on_pasture_eam1,"Swine, breeding - Direct emissions (CO2eq) (Manure on pasture)",gigagrams,measure
 swine_breeding_direct_emissions_n2o_manure_on_pasture_eam1,"Swine, breeding - Direct emissions (N2O) (Manure on pasture)",gigagrams,measure
@@ -2316,9 +2364,9 @@ swine_breeding_indirect_emissions_co2eq_manure_on_pasture_eam1,"Swine, breeding 
 swine_breeding_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,"Swine, breeding - Indirect emissions (N2O that leaches) (Manure on pasture)",gigagrams,measure
 swine_breeding_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,"Swine, breeding - Indirect emissions (N2O that volatilises) (Manure on pasture)",gigagrams,measure
 swine_breeding_indirect_emissions_n2o_manure_on_pasture_eam1,"Swine, breeding - Indirect emissions (N2O) (Manure on pasture)",gigagrams,measure
-swine_breeding_manure_n_content_that_leaches_manure_on_pasture_eam1,"Swine, breeding - Manure (N content that leaches) (Manure on pasture)",kg,measure
-swine_breeding_manure_n_content_that_volatilises_manure_on_pasture_eam1,"Swine, breeding - Manure (N content that volatilises) (Manure on pasture)",kg,measure
-swine_breeding_manure_n_content_manure_on_pasture_eam1,"Swine, breeding - Manure (N content) (Manure on pasture)",kg,measure
+swine_breeding_manure_left_on_pasture_n_content_eam1,"Swine, breeding - Manure left on pasture (N content)",kg,measure
+swine_breeding_manure_left_on_pasture_that_leaches_n_content_eam1,"Swine, breeding - Manure left on pasture that leaches (N content)",kg,measure
+swine_breeding_manure_left_on_pasture_that_volatilises_n_content_eam1,"Swine, breeding - Manure left on pasture that volatilises (N content)",kg,measure
 swine_breeding_stocks_eam1,"Swine, breeding - Stocks",Head,measure
 swine_market_direct_emissions_co2eq_manure_on_pasture_eam1,"Swine, market - Direct emissions (CO2eq) (Manure on pasture)",gigagrams,measure
 swine_market_direct_emissions_n2o_manure_on_pasture_eam1,"Swine, market - Direct emissions (N2O) (Manure on pasture)",gigagrams,measure
@@ -2328,9 +2376,9 @@ swine_market_indirect_emissions_co2eq_manure_on_pasture_eam1,"Swine, market - In
 swine_market_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,"Swine, market - Indirect emissions (N2O that leaches) (Manure on pasture)",gigagrams,measure
 swine_market_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,"Swine, market - Indirect emissions (N2O that volatilises) (Manure on pasture)",gigagrams,measure
 swine_market_indirect_emissions_n2o_manure_on_pasture_eam1,"Swine, market - Indirect emissions (N2O) (Manure on pasture)",gigagrams,measure
-swine_market_manure_n_content_that_leaches_manure_on_pasture_eam1,"Swine, market - Manure (N content that leaches) (Manure on pasture)",kg,measure
-swine_market_manure_n_content_that_volatilises_manure_on_pasture_eam1,"Swine, market - Manure (N content that volatilises) (Manure on pasture)",kg,measure
-swine_market_manure_n_content_manure_on_pasture_eam1,"Swine, market - Manure (N content) (Manure on pasture)",kg,measure
+swine_market_manure_left_on_pasture_n_content_eam1,"Swine, market - Manure left on pasture (N content)",kg,measure
+swine_market_manure_left_on_pasture_that_leaches_n_content_eam1,"Swine, market - Manure left on pasture that leaches (N content)",kg,measure
+swine_market_manure_left_on_pasture_that_volatilises_n_content_eam1,"Swine, market - Manure left on pasture that volatilises (N content)",kg,measure
 swine_market_stocks_eam1,"Swine, market - Stocks",Head,measure
 turkeys_direct_emissions_co2eq_manure_on_pasture_eam1,Turkeys - Direct emissions (CO2eq) (Manure on pasture),gigagrams,measure
 turkeys_direct_emissions_n2o_manure_on_pasture_eam1,Turkeys - Direct emissions (N2O) (Manure on pasture),gigagrams,measure
@@ -2341,9 +2389,9 @@ turkeys_indirect_emissions_co2eq_manure_on_pasture_eam1,Turkeys - Indirect emiss
 turkeys_indirect_emissions_n2o_that_leaches_manure_on_pasture_eam1,Turkeys - Indirect emissions (N2O that leaches) (Manure on pasture),gigagrams,measure
 turkeys_indirect_emissions_n2o_that_volatilises_manure_on_pasture_eam1,Turkeys - Indirect emissions (N2O that volatilises) (Manure on pasture),gigagrams,measure
 turkeys_indirect_emissions_n2o_manure_on_pasture_eam1,Turkeys - Indirect emissions (N2O) (Manure on pasture),gigagrams,measure
-turkeys_manure_n_content_that_leaches_manure_on_pasture_eam1,Turkeys - Manure (N content that leaches) (Manure on pasture),kg,measure
-turkeys_manure_n_content_that_volatilises_manure_on_pasture_eam1,Turkeys - Manure (N content that volatilises) (Manure on pasture),kg,measure
-turkeys_manure_n_content_manure_on_pasture_eam1,Turkeys - Manure (N content) (Manure on pasture),kg,measure
+turkeys_manure_left_on_pasture_n_content_eam1,Turkeys - Manure left on pasture (N content),kg,measure
+turkeys_manure_left_on_pasture_that_leaches_n_content_eam1,Turkeys - Manure left on pasture that leaches (N content),kg,measure
+turkeys_manure_left_on_pasture_that_volatilises_n_content_eam1,Turkeys - Manure left on pasture that volatilises (N content),kg,measure
 turkeys_stocks_eam1,Turkeys - Stocks,Head,measure
 all_animals_direct_emissions_co2eq_manure_management_eam2,All Animals - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 all_animals_direct_emissions_n2o_manure_management_eam2,All Animals - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2354,7 +2402,7 @@ all_animals_emissions_co2eq_from_n2o_manure_management_eam2,All Animals - Emissi
 all_animals_emissions_n2o_manure_management_eam2,All Animals - Emissions (N2O) (Manure management),gigagrams,measure
 all_animals_indirect_emissions_co2eq_manure_management_eam2,All Animals - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 all_animals_indirect_emissions_n2o_manure_management_eam2,All Animals - Indirect emissions (N2O) (Manure management),gigagrams,measure
-all_animals_manure_n_content_manure_management_eam2,All Animals - Manure (N content) (Manure management),kg,measure
+all_animals_manure_treated_n_content_eam2,All Animals - Manure treated (N content),kg,measure
 asses_direct_emissions_co2eq_manure_management_eam2,Asses - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 asses_direct_emissions_n2o_manure_management_eam2,Asses - Direct emissions (N2O) (Manure management),gigagrams,measure
 asses_emissions_ch4_manure_management_eam2,Asses - Emissions (CH4) (Manure management),gigagrams,measure
@@ -2366,7 +2414,7 @@ asses_implied_emission_factor_for_ch4_manure_management_eam2,Asses - Implied emi
 asses_implied_emission_factor_for_n2o_manure_management_eam2,Asses - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 asses_indirect_emissions_co2eq_manure_management_eam2,Asses - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 asses_indirect_emissions_n2o_manure_management_eam2,Asses - Indirect emissions (N2O) (Manure management),gigagrams,measure
-asses_manure_n_content_manure_management_eam2,Asses - Manure (N content) (Manure management),kg,measure
+asses_manure_treated_n_content_eam2,Asses - Manure treated (N content),kg,measure
 asses_stocks_eam2,Asses - Stocks,Head,measure
 buffaloes_direct_emissions_co2eq_manure_management_eam2,Buffaloes - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 buffaloes_direct_emissions_n2o_manure_management_eam2,Buffaloes - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2379,7 +2427,7 @@ buffaloes_implied_emission_factor_for_ch4_manure_management_eam2,Buffaloes - Imp
 buffaloes_implied_emission_factor_for_n2o_manure_management_eam2,Buffaloes - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 buffaloes_indirect_emissions_co2eq_manure_management_eam2,Buffaloes - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 buffaloes_indirect_emissions_n2o_manure_management_eam2,Buffaloes - Indirect emissions (N2O) (Manure management),gigagrams,measure
-buffaloes_manure_n_content_manure_management_eam2,Buffaloes - Manure (N content) (Manure management),kg,measure
+buffaloes_manure_treated_n_content_eam2,Buffaloes - Manure treated (N content),kg,measure
 buffaloes_stocks_eam2,Buffaloes - Stocks,Head,measure
 camels_direct_emissions_co2eq_manure_management_eam2,Camels - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 camels_direct_emissions_n2o_manure_management_eam2,Camels - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2392,7 +2440,7 @@ camels_implied_emission_factor_for_ch4_manure_management_eam2,Camels - Implied e
 camels_implied_emission_factor_for_n2o_manure_management_eam2,Camels - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 camels_indirect_emissions_co2eq_manure_management_eam2,Camels - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 camels_indirect_emissions_n2o_manure_management_eam2,Camels - Indirect emissions (N2O) (Manure management),gigagrams,measure
-camels_manure_n_content_manure_management_eam2,Camels - Manure (N content) (Manure management),kg,measure
+camels_manure_treated_n_content_eam2,Camels - Manure treated (N content),kg,measure
 camels_stocks_eam2,Camels - Stocks,Head,measure
 camels_and_llamas_direct_emissions_co2eq_manure_management_eam2,Camels and Llamas - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 camels_and_llamas_direct_emissions_n2o_manure_management_eam2,Camels and Llamas - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2403,7 +2451,7 @@ camels_and_llamas_emissions_co2eq_from_n2o_manure_management_eam2,Camels and Lla
 camels_and_llamas_emissions_n2o_manure_management_eam2,Camels and Llamas - Emissions (N2O) (Manure management),gigagrams,measure
 camels_and_llamas_indirect_emissions_co2eq_manure_management_eam2,Camels and Llamas - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 camels_and_llamas_indirect_emissions_n2o_manure_management_eam2,Camels and Llamas - Indirect emissions (N2O) (Manure management),gigagrams,measure
-camels_and_llamas_manure_n_content_manure_management_eam2,Camels and Llamas - Manure (N content) (Manure management),kg,measure
+camels_and_llamas_manure_treated_n_content_eam2,Camels and Llamas - Manure treated (N content),kg,measure
 camels_and_llamas_stocks_eam2,Camels and Llamas - Stocks,Head,measure
 cattle_direct_emissions_co2eq_manure_management_eam2,Cattle - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 cattle_direct_emissions_n2o_manure_management_eam2,Cattle - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2414,7 +2462,7 @@ cattle_emissions_co2eq_from_n2o_manure_management_eam2,Cattle - Emissions (CO2eq
 cattle_emissions_n2o_manure_management_eam2,Cattle - Emissions (N2O) (Manure management),gigagrams,measure
 cattle_indirect_emissions_co2eq_manure_management_eam2,Cattle - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 cattle_indirect_emissions_n2o_manure_management_eam2,Cattle - Indirect emissions (N2O) (Manure management),gigagrams,measure
-cattle_manure_n_content_manure_management_eam2,Cattle - Manure (N content) (Manure management),kg,measure
+cattle_manure_treated_n_content_eam2,Cattle - Manure treated (N content),kg,measure
 cattle_stocks_eam2,Cattle - Stocks,Head,measure
 cattle_dairy_direct_emissions_co2eq_manure_management_eam2,"Cattle, dairy - Direct emissions (CO2eq) (Manure management)",gigagrams,measure
 cattle_dairy_direct_emissions_n2o_manure_management_eam2,"Cattle, dairy - Direct emissions (N2O) (Manure management)",gigagrams,measure
@@ -2427,7 +2475,7 @@ cattle_dairy_implied_emission_factor_for_ch4_manure_management_eam2,"Cattle, dai
 cattle_dairy_implied_emission_factor_for_n2o_manure_management_eam2,"Cattle, dairy - Implied emission factor for N2O (Manure management)",kg N2O-N/kg N,measure
 cattle_dairy_indirect_emissions_co2eq_manure_management_eam2,"Cattle, dairy - Indirect emissions (CO2eq) (Manure management)",gigagrams,measure
 cattle_dairy_indirect_emissions_n2o_manure_management_eam2,"Cattle, dairy - Indirect emissions (N2O) (Manure management)",gigagrams,measure
-cattle_dairy_manure_n_content_manure_management_eam2,"Cattle, dairy - Manure (N content) (Manure management)",kg,measure
+cattle_dairy_manure_treated_n_content_eam2,"Cattle, dairy - Manure treated (N content)",kg,measure
 cattle_dairy_stocks_eam2,"Cattle, dairy - Stocks",Head,measure
 cattle_non_dairy_direct_emissions_co2eq_manure_management_eam2,"Cattle, non-dairy - Direct emissions (CO2eq) (Manure management)",gigagrams,measure
 cattle_non_dairy_direct_emissions_n2o_manure_management_eam2,"Cattle, non-dairy - Direct emissions (N2O) (Manure management)",gigagrams,measure
@@ -2440,7 +2488,7 @@ cattle_non_dairy_implied_emission_factor_for_ch4_manure_management_eam2,"Cattle,
 cattle_non_dairy_implied_emission_factor_for_n2o_manure_management_eam2,"Cattle, non-dairy - Implied emission factor for N2O (Manure management)",kg N2O-N/kg N,measure
 cattle_non_dairy_indirect_emissions_co2eq_manure_management_eam2,"Cattle, non-dairy - Indirect emissions (CO2eq) (Manure management)",gigagrams,measure
 cattle_non_dairy_indirect_emissions_n2o_manure_management_eam2,"Cattle, non-dairy - Indirect emissions (N2O) (Manure management)",gigagrams,measure
-cattle_non_dairy_manure_n_content_manure_management_eam2,"Cattle, non-dairy - Manure (N content) (Manure management)",kg,measure
+cattle_non_dairy_manure_treated_n_content_eam2,"Cattle, non-dairy - Manure treated (N content)",kg,measure
 cattle_non_dairy_stocks_eam2,"Cattle, non-dairy - Stocks",Head,measure
 chickens_direct_emissions_co2eq_manure_management_eam2,Chickens - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 chickens_direct_emissions_n2o_manure_management_eam2,Chickens - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2451,7 +2499,7 @@ chickens_emissions_co2eq_from_n2o_manure_management_eam2,Chickens - Emissions (C
 chickens_emissions_n2o_manure_management_eam2,Chickens - Emissions (N2O) (Manure management),gigagrams,measure
 chickens_indirect_emissions_co2eq_manure_management_eam2,Chickens - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 chickens_indirect_emissions_n2o_manure_management_eam2,Chickens - Indirect emissions (N2O) (Manure management),gigagrams,measure
-chickens_manure_n_content_manure_management_eam2,Chickens - Manure (N content) (Manure management),kg,measure
+chickens_manure_treated_n_content_eam2,Chickens - Manure treated (N content),kg,measure
 chickens_stocks_eam2,Chickens - Stocks,Head,measure
 chickens_broilers_direct_emissions_co2eq_manure_management_eam2,"Chickens, broilers - Direct emissions (CO2eq) (Manure management)",gigagrams,measure
 chickens_broilers_direct_emissions_n2o_manure_management_eam2,"Chickens, broilers - Direct emissions (N2O) (Manure management)",gigagrams,measure
@@ -2464,7 +2512,7 @@ chickens_broilers_implied_emission_factor_for_ch4_manure_management_eam2,"Chicke
 chickens_broilers_implied_emission_factor_for_n2o_manure_management_eam2,"Chickens, broilers - Implied emission factor for N2O (Manure management)",kg N2O-N/kg N,measure
 chickens_broilers_indirect_emissions_co2eq_manure_management_eam2,"Chickens, broilers - Indirect emissions (CO2eq) (Manure management)",gigagrams,measure
 chickens_broilers_indirect_emissions_n2o_manure_management_eam2,"Chickens, broilers - Indirect emissions (N2O) (Manure management)",gigagrams,measure
-chickens_broilers_manure_n_content_manure_management_eam2,"Chickens, broilers - Manure (N content) (Manure management)",kg,measure
+chickens_broilers_manure_treated_n_content_eam2,"Chickens, broilers - Manure treated (N content)",kg,measure
 chickens_broilers_stocks_eam2,"Chickens, broilers - Stocks",Head,measure
 chickens_layers_direct_emissions_co2eq_manure_management_eam2,"Chickens, layers - Direct emissions (CO2eq) (Manure management)",gigagrams,measure
 chickens_layers_direct_emissions_n2o_manure_management_eam2,"Chickens, layers - Direct emissions (N2O) (Manure management)",gigagrams,measure
@@ -2477,7 +2525,7 @@ chickens_layers_implied_emission_factor_for_ch4_manure_management_eam2,"Chickens
 chickens_layers_implied_emission_factor_for_n2o_manure_management_eam2,"Chickens, layers - Implied emission factor for N2O (Manure management)",kg N2O-N/kg N,measure
 chickens_layers_indirect_emissions_co2eq_manure_management_eam2,"Chickens, layers - Indirect emissions (CO2eq) (Manure management)",gigagrams,measure
 chickens_layers_indirect_emissions_n2o_manure_management_eam2,"Chickens, layers - Indirect emissions (N2O) (Manure management)",gigagrams,measure
-chickens_layers_manure_n_content_manure_management_eam2,"Chickens, layers - Manure (N content) (Manure management)",kg,measure
+chickens_layers_manure_treated_n_content_eam2,"Chickens, layers - Manure treated (N content)",kg,measure
 chickens_layers_stocks_eam2,"Chickens, layers - Stocks",Head,measure
 ducks_direct_emissions_co2eq_manure_management_eam2,Ducks - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 ducks_direct_emissions_n2o_manure_management_eam2,Ducks - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2490,7 +2538,7 @@ ducks_implied_emission_factor_for_ch4_manure_management_eam2,Ducks - Implied emi
 ducks_implied_emission_factor_for_n2o_manure_management_eam2,Ducks - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 ducks_indirect_emissions_co2eq_manure_management_eam2,Ducks - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 ducks_indirect_emissions_n2o_manure_management_eam2,Ducks - Indirect emissions (N2O) (Manure management),gigagrams,measure
-ducks_manure_n_content_manure_management_eam2,Ducks - Manure (N content) (Manure management),kg,measure
+ducks_manure_treated_n_content_eam2,Ducks - Manure treated (N content),kg,measure
 ducks_stocks_eam2,Ducks - Stocks,Head,measure
 goats_direct_emissions_co2eq_manure_management_eam2,Goats - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 goats_direct_emissions_n2o_manure_management_eam2,Goats - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2503,7 +2551,7 @@ goats_implied_emission_factor_for_ch4_manure_management_eam2,Goats - Implied emi
 goats_implied_emission_factor_for_n2o_manure_management_eam2,Goats - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 goats_indirect_emissions_co2eq_manure_management_eam2,Goats - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 goats_indirect_emissions_n2o_manure_management_eam2,Goats - Indirect emissions (N2O) (Manure management),gigagrams,measure
-goats_manure_n_content_manure_management_eam2,Goats - Manure (N content) (Manure management),kg,measure
+goats_manure_treated_n_content_eam2,Goats - Manure treated (N content),kg,measure
 goats_stocks_eam2,Goats - Stocks,Head,measure
 horses_direct_emissions_co2eq_manure_management_eam2,Horses - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 horses_direct_emissions_n2o_manure_management_eam2,Horses - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2516,7 +2564,7 @@ horses_implied_emission_factor_for_ch4_manure_management_eam2,Horses - Implied e
 horses_implied_emission_factor_for_n2o_manure_management_eam2,Horses - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 horses_indirect_emissions_co2eq_manure_management_eam2,Horses - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 horses_indirect_emissions_n2o_manure_management_eam2,Horses - Indirect emissions (N2O) (Manure management),gigagrams,measure
-horses_manure_n_content_manure_management_eam2,Horses - Manure (N content) (Manure management),kg,measure
+horses_manure_treated_n_content_eam2,Horses - Manure treated (N content),kg,measure
 horses_stocks_eam2,Horses - Stocks,Head,measure
 llamas_direct_emissions_co2eq_manure_management_eam2,Llamas - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 llamas_direct_emissions_n2o_manure_management_eam2,Llamas - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2529,7 +2577,7 @@ llamas_implied_emission_factor_for_ch4_manure_management_eam2,Llamas - Implied e
 llamas_implied_emission_factor_for_n2o_manure_management_eam2,Llamas - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 llamas_indirect_emissions_co2eq_manure_management_eam2,Llamas - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 llamas_indirect_emissions_n2o_manure_management_eam2,Llamas - Indirect emissions (N2O) (Manure management),gigagrams,measure
-llamas_manure_n_content_manure_management_eam2,Llamas - Manure (N content) (Manure management),kg,measure
+llamas_manure_treated_n_content_eam2,Llamas - Manure treated (N content),kg,measure
 llamas_stocks_eam2,Llamas - Stocks,Head,measure
 mules_direct_emissions_co2eq_manure_management_eam2,Mules - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 mules_direct_emissions_n2o_manure_management_eam2,Mules - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2542,7 +2590,7 @@ mules_implied_emission_factor_for_ch4_manure_management_eam2,Mules - Implied emi
 mules_implied_emission_factor_for_n2o_manure_management_eam2,Mules - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 mules_indirect_emissions_co2eq_manure_management_eam2,Mules - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 mules_indirect_emissions_n2o_manure_management_eam2,Mules - Indirect emissions (N2O) (Manure management),gigagrams,measure
-mules_manure_n_content_manure_management_eam2,Mules - Manure (N content) (Manure management),kg,measure
+mules_manure_treated_n_content_eam2,Mules - Manure treated (N content),kg,measure
 mules_stocks_eam2,Mules - Stocks,Head,measure
 mules_and_asses_direct_emissions_co2eq_manure_management_eam2,Mules and Asses - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 mules_and_asses_direct_emissions_n2o_manure_management_eam2,Mules and Asses - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2553,7 +2601,7 @@ mules_and_asses_emissions_co2eq_from_n2o_manure_management_eam2,Mules and Asses 
 mules_and_asses_emissions_n2o_manure_management_eam2,Mules and Asses - Emissions (N2O) (Manure management),gigagrams,measure
 mules_and_asses_indirect_emissions_co2eq_manure_management_eam2,Mules and Asses - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 mules_and_asses_indirect_emissions_n2o_manure_management_eam2,Mules and Asses - Indirect emissions (N2O) (Manure management),gigagrams,measure
-mules_and_asses_manure_n_content_manure_management_eam2,Mules and Asses - Manure (N content) (Manure management),kg,measure
+mules_and_asses_manure_treated_n_content_eam2,Mules and Asses - Manure treated (N content),kg,measure
 mules_and_asses_stocks_eam2,Mules and Asses - Stocks,Head,measure
 poultry_birds_direct_emissions_co2eq_manure_management_eam2,Poultry Birds - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 poultry_birds_direct_emissions_n2o_manure_management_eam2,Poultry Birds - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2564,7 +2612,7 @@ poultry_birds_emissions_co2eq_from_n2o_manure_management_eam2,Poultry Birds - Em
 poultry_birds_emissions_n2o_manure_management_eam2,Poultry Birds - Emissions (N2O) (Manure management),gigagrams,measure
 poultry_birds_indirect_emissions_co2eq_manure_management_eam2,Poultry Birds - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 poultry_birds_indirect_emissions_n2o_manure_management_eam2,Poultry Birds - Indirect emissions (N2O) (Manure management),gigagrams,measure
-poultry_birds_manure_n_content_manure_management_eam2,Poultry Birds - Manure (N content) (Manure management),kg,measure
+poultry_birds_manure_treated_n_content_eam2,Poultry Birds - Manure treated (N content),kg,measure
 poultry_birds_stocks_eam2,Poultry Birds - Stocks,Head,measure
 sheep_direct_emissions_co2eq_manure_management_eam2,Sheep - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 sheep_direct_emissions_n2o_manure_management_eam2,Sheep - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2577,7 +2625,7 @@ sheep_implied_emission_factor_for_ch4_manure_management_eam2,Sheep - Implied emi
 sheep_implied_emission_factor_for_n2o_manure_management_eam2,Sheep - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 sheep_indirect_emissions_co2eq_manure_management_eam2,Sheep - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 sheep_indirect_emissions_n2o_manure_management_eam2,Sheep - Indirect emissions (N2O) (Manure management),gigagrams,measure
-sheep_manure_n_content_manure_management_eam2,Sheep - Manure (N content) (Manure management),kg,measure
+sheep_manure_treated_n_content_eam2,Sheep - Manure treated (N content),kg,measure
 sheep_stocks_eam2,Sheep - Stocks,Head,measure
 sheep_and_goats_direct_emissions_co2eq_manure_management_eam2,Sheep and Goats - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 sheep_and_goats_direct_emissions_n2o_manure_management_eam2,Sheep and Goats - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2588,7 +2636,7 @@ sheep_and_goats_emissions_co2eq_from_n2o_manure_management_eam2,Sheep and Goats 
 sheep_and_goats_emissions_n2o_manure_management_eam2,Sheep and Goats - Emissions (N2O) (Manure management),gigagrams,measure
 sheep_and_goats_indirect_emissions_co2eq_manure_management_eam2,Sheep and Goats - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 sheep_and_goats_indirect_emissions_n2o_manure_management_eam2,Sheep and Goats - Indirect emissions (N2O) (Manure management),gigagrams,measure
-sheep_and_goats_manure_n_content_manure_management_eam2,Sheep and Goats - Manure (N content) (Manure management),kg,measure
+sheep_and_goats_manure_treated_n_content_eam2,Sheep and Goats - Manure treated (N content),kg,measure
 sheep_and_goats_stocks_eam2,Sheep and Goats - Stocks,Head,measure
 swine_direct_emissions_co2eq_manure_management_eam2,Swine - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 swine_direct_emissions_n2o_manure_management_eam2,Swine - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2599,7 +2647,7 @@ swine_emissions_co2eq_from_n2o_manure_management_eam2,Swine - Emissions (CO2eq) 
 swine_emissions_n2o_manure_management_eam2,Swine - Emissions (N2O) (Manure management),gigagrams,measure
 swine_indirect_emissions_co2eq_manure_management_eam2,Swine - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 swine_indirect_emissions_n2o_manure_management_eam2,Swine - Indirect emissions (N2O) (Manure management),gigagrams,measure
-swine_manure_n_content_manure_management_eam2,Swine - Manure (N content) (Manure management),kg,measure
+swine_manure_treated_n_content_eam2,Swine - Manure treated (N content),kg,measure
 swine_stocks_eam2,Swine - Stocks,Head,measure
 swine_breeding_direct_emissions_co2eq_manure_management_eam2,"Swine, breeding - Direct emissions (CO2eq) (Manure management)",gigagrams,measure
 swine_breeding_direct_emissions_n2o_manure_management_eam2,"Swine, breeding - Direct emissions (N2O) (Manure management)",gigagrams,measure
@@ -2612,7 +2660,7 @@ swine_breeding_implied_emission_factor_for_ch4_manure_management_eam2,"Swine, br
 swine_breeding_implied_emission_factor_for_n2o_manure_management_eam2,"Swine, breeding - Implied emission factor for N2O (Manure management)",kg N2O-N/kg N,measure
 swine_breeding_indirect_emissions_co2eq_manure_management_eam2,"Swine, breeding - Indirect emissions (CO2eq) (Manure management)",gigagrams,measure
 swine_breeding_indirect_emissions_n2o_manure_management_eam2,"Swine, breeding - Indirect emissions (N2O) (Manure management)",gigagrams,measure
-swine_breeding_manure_n_content_manure_management_eam2,"Swine, breeding - Manure (N content) (Manure management)",kg,measure
+swine_breeding_manure_treated_n_content_eam2,"Swine, breeding - Manure treated (N content)",kg,measure
 swine_breeding_stocks_eam2,"Swine, breeding - Stocks",Head,measure
 swine_market_direct_emissions_co2eq_manure_management_eam2,"Swine, market - Direct emissions (CO2eq) (Manure management)",gigagrams,measure
 swine_market_direct_emissions_n2o_manure_management_eam2,"Swine, market - Direct emissions (N2O) (Manure management)",gigagrams,measure
@@ -2625,7 +2673,7 @@ swine_market_implied_emission_factor_for_ch4_manure_management_eam2,"Swine, mark
 swine_market_implied_emission_factor_for_n2o_manure_management_eam2,"Swine, market - Implied emission factor for N2O (Manure management)",kg N2O-N/kg N,measure
 swine_market_indirect_emissions_co2eq_manure_management_eam2,"Swine, market - Indirect emissions (CO2eq) (Manure management)",gigagrams,measure
 swine_market_indirect_emissions_n2o_manure_management_eam2,"Swine, market - Indirect emissions (N2O) (Manure management)",gigagrams,measure
-swine_market_manure_n_content_manure_management_eam2,"Swine, market - Manure (N content) (Manure management)",kg,measure
+swine_market_manure_treated_n_content_eam2,"Swine, market - Manure treated (N content)",kg,measure
 swine_market_stocks_eam2,"Swine, market - Stocks",Head,measure
 turkeys_direct_emissions_co2eq_manure_management_eam2,Turkeys - Direct emissions (CO2eq) (Manure management),gigagrams,measure
 turkeys_direct_emissions_n2o_manure_management_eam2,Turkeys - Direct emissions (N2O) (Manure management),gigagrams,measure
@@ -2638,7 +2686,7 @@ turkeys_implied_emission_factor_for_ch4_manure_management_eam2,Turkeys - Implied
 turkeys_implied_emission_factor_for_n2o_manure_management_eam2,Turkeys - Implied emission factor for N2O (Manure management),kg N2O-N/kg N,measure
 turkeys_indirect_emissions_co2eq_manure_management_eam2,Turkeys - Indirect emissions (CO2eq) (Manure management),gigagrams,measure
 turkeys_indirect_emissions_n2o_manure_management_eam2,Turkeys - Indirect emissions (N2O) (Manure management),gigagrams,measure
-turkeys_manure_n_content_manure_management_eam2,Turkeys - Manure (N content) (Manure management),kg,measure
+turkeys_manure_treated_n_content_eam2,Turkeys - Manure treated (N content),kg,measure
 turkeys_stocks_eam2,Turkeys - Stocks,Head,measure
 rice_paddy_area_harvested_ear,"Rice, paddy - Area harvested",ha,measure
 rice_paddy_emissions_ch4_rice_cultivation_ear,"Rice, paddy - Emissions (CH4) (Rice cultivation)",gigagrams,measure
