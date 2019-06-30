@@ -6199,10 +6199,20 @@ primary_forest_area_ile,Primary Forest - Area,1000 ha,measure
 2_4_5_t_and_its_salts_and_esters_export_value_ipt,"2,4,5-T and its salts and esters - Export Value",1000 US$,measure
 2_4_5_t_and_its_salts_and_esters_import_quantity_ipt,"2,4,5-T and its salts and esters - Import Quantity",tonnes,measure
 2_4_5_t_and_its_salts_and_esters_import_value_ipt,"2,4,5-T and its salts and esters - Import Value",1000 US$,measure
+alachlor_export_quantity_ipt,Alachlor - Export Quantity,tonnes,measure
+alachlor_export_value_ipt,Alachlor - Export Value,1000 US$,measure
+alachlor_import_quantity_ipt,Alachlor - Import Quantity,tonnes,measure
+alachlor_import_value_ipt,Alachlor - Import Value,1000 US$,measure
 aldrin_chlordane_heptachlor_export_quantity_ipt,"Aldrin, Chlordane, Heptachlor - Export Quantity",tonnes,measure
 aldrin_chlordane_heptachlor_export_value_ipt,"Aldrin, Chlordane, Heptachlor - Export Value",1000 US$,measure
 aldrin_chlordane_heptachlor_import_quantity_ipt,"Aldrin, Chlordane, Heptachlor - Import Quantity",tonnes,measure
 aldrin_chlordane_heptachlor_import_value_ipt,"Aldrin, Chlordane, Heptachlor - Import Value",1000 US$,measure
+antimalarial_insecticides_export_value_ipt,Antimalarial insecticides - Export Value,1000 US$,measure
+antimalarial_insecticides_import_value_ipt,Antimalarial insecticides - Import Value,1000 US$,measure
+azinphos_methyl_export_quantity_ipt,Azinphos-methyl - Export Quantity,tonnes,measure
+azinphos_methyl_export_value_ipt,Azinphos-methyl - Export Value,1000 US$,measure
+azinphos_methyl_import_quantity_ipt,Azinphos-methyl - Import Quantity,tonnes,measure
+azinphos_methyl_import_value_ipt,Azinphos-methyl - Import Value,1000 US$,measure
 binapacryl_export_quantity_ipt,Binapacryl - Export Quantity,tonnes,measure
 binapacryl_export_value_ipt,Binapacryl - Export Value,1000 US$,measure
 binapacryl_import_quantity_ipt,Binapacryl - Import Quantity,tonnes,measure
@@ -6223,6 +6233,8 @@ compounds_of_mercury_chemically_defined_excluding_amalgams_export_quantity_ipt,"
 compounds_of_mercury_chemically_defined_excluding_amalgams_export_value_ipt,"Compounds of mercury chemically defined, excluding amalgams - Export Value",1000 US$,measure
 compounds_of_mercury_chemically_defined_excluding_amalgams_import_quantity_ipt,"Compounds of mercury chemically defined, excluding amalgams - Import Quantity",tonnes,measure
 compounds_of_mercury_chemically_defined_excluding_amalgams_import_value_ipt,"Compounds of mercury chemically defined, excluding amalgams - Import Value",1000 US$,measure
+ddt_clofenotane_inn_export_value_ipt,DDT (clofenotane (INN)) - Export Value,1000 US$,measure
+ddt_clofenotane_inn_import_value_ipt,DDT (clofenotane (INN)) - Import Value,1000 US$,measure
 ddt_hexachlorobenzene_export_quantity_ipt,"DDT, Hexachlorobenzene - Export Quantity",tonnes,measure
 ddt_hexachlorobenzene_export_value_ipt,"DDT, Hexachlorobenzene - Export Value",1000 US$,measure
 ddt_hexachlorobenzene_import_quantity_ipt,"DDT, Hexachlorobenzene - Import Quantity",tonnes,measure
@@ -6247,6 +6259,10 @@ disinfectants_etc_excl_haz_pest_export_value_ipt,"Disinfectants, etc (excl. Haz.
 disinfectants_etc_excl_haz_pest_import_value_ipt,"Disinfectants, etc (excl. Haz. pest.) - Import Value",1000 US$,measure
 disinfectants_etc_export_value_ipt,"Disinfectants,etc - Export Value",1000 US$,measure
 disinfectants_etc_import_value_ipt,"Disinfectants,etc - Import Value",1000 US$,measure
+endosulfan_export_quantity_ipt,Endosulfan - Export Quantity,tonnes,measure
+endosulfan_export_value_ipt,Endosulfan - Export Value,1000 US$,measure
+endosulfan_import_quantity_ipt,Endosulfan - Import Quantity,tonnes,measure
+endosulfan_import_value_ipt,Endosulfan - Import Value,1000 US$,measure
 ethylene_dibromide_1_2_dibromoethane_export_quantity_ipt,"Ethylene dibromide (1,2-dibromoethane) - Export Quantity",tonnes,measure
 ethylene_dibromide_1_2_dibromoethane_export_value_ipt,"Ethylene dibromide (1,2-dibromoethane) - Export Value",1000 US$,measure
 ethylene_dibromide_1_2_dibromoethane_import_quantity_ipt,"Ethylene dibromide (1,2-dibromoethane) - Import Quantity",tonnes,measure
@@ -6350,30 +6366,6 @@ triazoles_diazoles_sdtrf_agricultural_use_ipu,Triazoles diazoles-SdTrF - Agricul
 triazoles_diazoles_agricultural_use_ipu,"Triazoles, Diazoles - Agricultural Use",tonnes,measure
 uracil_agricultural_use_ipu,Uracil - Agricultural Use,tonnes,measure
 urea_derivates_agricultural_use_ipu,Urea derivates - Agricultural Use,tonnes,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_us_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-gross_capital_stocks_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$, 2005 prices",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index, 2005 prices",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$, 2005 prices",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added, 2005 prices",,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2005_prices_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2005 prices",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_us_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-net_capital_stocks_agriculture_forestry_and_fishing_value_us_2005_prices_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2005 prices",millions,measure
 agriculture_forestry_fishing_central_government_agriculture_orientation_index_ic,"Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",index,measure
 agriculture_forestry_fishing_central_government_annual_growth_us_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth US$",%,measure
 agriculture_forestry_fishing_central_government_annual_growth_us_2010_prices_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth, US$, 2010 prices",%,measure
@@ -6404,12 +6396,12 @@ value_added_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_ic,"Va
 value_added_agriculture_forestry_and_fishing_share_of_total_ic,"Value Added (Agriculture, Forestry and Fishing) - Share of Total",%,measure
 value_added_agriculture_forestry_and_fishing_value_us_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$",millions,measure
 value_added_agriculture_forestry_and_fishing_value_us_2010_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",millions,measure
-credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice2,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
-credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice2,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",,measure
-credit_to_agriculture_forestry_and_fishing_value_local_currency_ice2,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
-credit_to_agriculture_forestry_and_fishing_value_us_ice2,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
-total_credit_value_local_currency_ice2,Total Credit - Value Local Currency,millions,measure
-total_credit_value_us_ice2,Total Credit - Value US$,millions,measure
+credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
+credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",,measure
+credit_to_agriculture_forestry_and_fishing_value_local_currency_ice,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
+credit_to_agriculture_forestry_and_fishing_value_us_ice,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
+total_credit_value_local_currency_ice,Total Credit - Value Local Currency,millions,measure
+total_credit_value_us_ice,Total Credit - Value US$,millions,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
 fdi_inflows_to_food_beverages_and_tobacco_value_us_ife4,"FDI inflows to Food, Beverages and Tobacco - Value US$",millions,measure
@@ -11555,3 +11547,21 @@ yautia_cocoyam_gross_production_value_constant_2004_2006_million_us_vop,Yautia (
 yautia_cocoyam_gross_production_value_current_million_slc_vop,Yautia (cocoyam) - Gross Production Value (current million SLC),SLC,measure
 yautia_cocoyam_gross_production_value_current_million_us_vop,Yautia (cocoyam) - Gross Production Value (current million US$),USD,measure
 yautia_cocoyam_net_production_value_constant_2004_2006_1000_i_vop,Yautia (cocoyam) - Net Production Value (constant 2004-2006 1000 I$),1000 Int. $,measure
+consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_2010_prices_ice1,"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",millions,measure
+gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice1,"Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_2010_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$, 2010 prices",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_2010_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index, 2010 prices",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_2010_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$, 2010 prices",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_2010_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added, 2010 prices",,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_2010_prices_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency, 2010 prices",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
+net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2010_prices_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2010 prices",millions,measure
+net_capital_stocks_agriculture_forestry_and_fishing_value_us_ice1,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
