@@ -5734,10 +5734,12 @@ industrial_roundwood_non_coniferous_non_tropical_export_import_export_quantity_f
 industrial_roundwood_non_coniferous_non_tropical_export_import_export_value_fea1,"Industrial roundwood, non-coniferous non-tropical (export/import) - Export Value",1000 US$,measure
 industrial_roundwood_non_coniferous_non_tropical_export_import_import_quantity_fea1,"Industrial roundwood, non-coniferous non-tropical (export/import) - Import Quantity",m3,measure
 industrial_roundwood_non_coniferous_non_tropical_export_import_import_value_fea1,"Industrial roundwood, non-coniferous non-tropical (export/import) - Import Value",1000 US$,measure
+industrial_roundwood_non_coniferous_non_tropical_export_import_production_fea1,"Industrial roundwood, non-coniferous non-tropical (export/import) - Production",m3,measure
 industrial_roundwood_non_coniferous_tropical_export_import_export_quantity_fea1,"Industrial roundwood, non-coniferous tropical (export/import) - Export Quantity",m3,measure
 industrial_roundwood_non_coniferous_tropical_export_import_export_value_fea1,"Industrial roundwood, non-coniferous tropical (export/import) - Export Value",1000 US$,measure
 industrial_roundwood_non_coniferous_tropical_export_import_import_quantity_fea1,"Industrial roundwood, non-coniferous tropical (export/import) - Import Quantity",m3,measure
 industrial_roundwood_non_coniferous_tropical_export_import_import_value_fea1,"Industrial roundwood, non-coniferous tropical (export/import) - Import Value",1000 US$,measure
+industrial_roundwood_non_coniferous_tropical_export_import_production_fea1,"Industrial roundwood, non-coniferous tropical (export/import) - Production",m3,measure
 mdf_hdf_export_quantity_fea1,MDF/HDF - Export Quantity,m3,measure
 mdf_hdf_export_value_fea1,MDF/HDF - Export Value,1000 US$,measure
 mdf_hdf_import_quantity_fea1,MDF/HDF - Import Quantity,m3,measure
@@ -5954,15 +5956,7 @@ wood_fuel_all_species_export_import_export_quantity_fea1,"Wood fuel, all species
 wood_fuel_all_species_export_import_export_value_fea1,"Wood fuel, all species (export/import) - Export Value",1000 US$,measure
 wood_fuel_all_species_export_import_import_quantity_fea1,"Wood fuel, all species (export/import) - Import Quantity",m3,measure
 wood_fuel_all_species_export_import_import_value_fea1,"Wood fuel, all species (export/import) - Import Value",1000 US$,measure
-wood_fuel_coniferous_export_quantity_fea1,"Wood fuel, coniferous - Export Quantity",m3,measure
-wood_fuel_coniferous_export_value_fea1,"Wood fuel, coniferous - Export Value",1000 US$,measure
-wood_fuel_coniferous_import_quantity_fea1,"Wood fuel, coniferous - Import Quantity",m3,measure
-wood_fuel_coniferous_import_value_fea1,"Wood fuel, coniferous - Import Value",1000 US$,measure
 wood_fuel_coniferous_production_fea1,"Wood fuel, coniferous - Production",m3,measure
-wood_fuel_non_coniferous_export_quantity_fea1,"Wood fuel, non-coniferous - Export Quantity",m3,measure
-wood_fuel_non_coniferous_export_value_fea1,"Wood fuel, non-coniferous - Export Value",1000 US$,measure
-wood_fuel_non_coniferous_import_quantity_fea1,"Wood fuel, non-coniferous - Import Quantity",m3,measure
-wood_fuel_non_coniferous_import_value_fea1,"Wood fuel, non-coniferous - Import Value",1000 US$,measure
 wood_fuel_non_coniferous_production_fea1,"Wood fuel, non-coniferous - Production",m3,measure
 wood_pellets_export_quantity_fea1,Wood pellets - Export Quantity,tonnes,measure
 wood_pellets_export_value_fea1,Wood pellets - Export Value,1000 US$,measure
