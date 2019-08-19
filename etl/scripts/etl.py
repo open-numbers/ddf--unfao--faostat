@@ -195,7 +195,7 @@ def process_area_and_groups():
     areagroupDf = pd.DataFrame.from_records(areagroup['data'])
 
     area_to_group = (areagroupDf.groupby('Country Code')['Country Group Code']
-                     .agg(lambda xs: ','.join(set(xs.values.tolist())))
+                     .agg(lambda xs: ','.join(sorted(list(set(xs.values.tolist())))))
                      .reset_index())
 
     areaDf['is--country'] = 'FALSE'
