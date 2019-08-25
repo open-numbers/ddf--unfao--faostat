@@ -6001,130 +6001,148 @@ wrapping_papers_production_fea1,Wrapping papers - Production,tonnes,measure
 nutrient_nitrogen_n_total_agricultural_use_ife1,Nutrient nitrogen N (total) - Agricultural Use,tonnes,measure
 nutrient_nitrogen_n_total_export_quantity_ife1,Nutrient nitrogen N (total) - Export Quantity,tonnes,measure
 nutrient_nitrogen_n_total_import_quantity_ife1,Nutrient nitrogen N (total) - Import Quantity,tonnes,measure
-nutrient_nitrogen_n_total_other_uses_ife1,Nutrient nitrogen N (total) - Other Uses,tonnes,measure
 nutrient_nitrogen_n_total_production_ife1,Nutrient nitrogen N (total) - Production,tonnes,measure
 nutrient_phosphate_p2o5_total_agricultural_use_ife1,Nutrient phosphate P2O5 (total) - Agricultural Use,tonnes,measure
 nutrient_phosphate_p2o5_total_export_quantity_ife1,Nutrient phosphate P2O5 (total) - Export Quantity,tonnes,measure
 nutrient_phosphate_p2o5_total_import_quantity_ife1,Nutrient phosphate P2O5 (total) - Import Quantity,tonnes,measure
-nutrient_phosphate_p2o5_total_other_uses_ife1,Nutrient phosphate P2O5 (total) - Other Uses,tonnes,measure
 nutrient_phosphate_p2o5_total_production_ife1,Nutrient phosphate P2O5 (total) - Production,tonnes,measure
 nutrient_potash_k2o_total_agricultural_use_ife1,Nutrient potash K2O (total) - Agricultural Use,tonnes,measure
 nutrient_potash_k2o_total_export_quantity_ife1,Nutrient potash K2O (total) - Export Quantity,tonnes,measure
 nutrient_potash_k2o_total_import_quantity_ife1,Nutrient potash K2O (total) - Import Quantity,tonnes,measure
-nutrient_potash_k2o_total_other_uses_ife1,Nutrient potash K2O (total) - Other Uses,tonnes,measure
 nutrient_potash_k2o_total_production_ife1,Nutrient potash K2O (total) - Production,tonnes,measure
 ammonia_anhydrous_agricultural_use_ife2,"Ammonia, anhydrous - Agricultural Use",tonnes,measure
 ammonia_anhydrous_export_quantity_ife2,"Ammonia, anhydrous - Export Quantity",tonnes,measure
+ammonia_anhydrous_export_value_ife2,"Ammonia, anhydrous - Export Value",1000 US$,measure
 ammonia_anhydrous_import_quantity_ife2,"Ammonia, anhydrous - Import Quantity",tonnes,measure
-ammonia_anhydrous_other_uses_ife2,"Ammonia, anhydrous - Other Uses",tonnes,measure
+ammonia_anhydrous_import_value_ife2,"Ammonia, anhydrous - Import Value",1000 US$,measure
 ammonia_anhydrous_production_ife2,"Ammonia, anhydrous - Production",tonnes,measure
 ammonium_nitrate_an_agricultural_use_ife2,Ammonium nitrate (AN) - Agricultural Use,tonnes,measure
 ammonium_nitrate_an_export_quantity_ife2,Ammonium nitrate (AN) - Export Quantity,tonnes,measure
+ammonium_nitrate_an_export_value_ife2,Ammonium nitrate (AN) - Export Value,1000 US$,measure
 ammonium_nitrate_an_import_quantity_ife2,Ammonium nitrate (AN) - Import Quantity,tonnes,measure
-ammonium_nitrate_an_other_uses_ife2,Ammonium nitrate (AN) - Other Uses,tonnes,measure
+ammonium_nitrate_an_import_value_ife2,Ammonium nitrate (AN) - Import Value,1000 US$,measure
 ammonium_nitrate_an_production_ife2,Ammonium nitrate (AN) - Production,tonnes,measure
 ammonium_sulphate_agricultural_use_ife2,Ammonium sulphate - Agricultural Use,tonnes,measure
 ammonium_sulphate_export_quantity_ife2,Ammonium sulphate - Export Quantity,tonnes,measure
+ammonium_sulphate_export_value_ife2,Ammonium sulphate - Export Value,1000 US$,measure
 ammonium_sulphate_import_quantity_ife2,Ammonium sulphate - Import Quantity,tonnes,measure
-ammonium_sulphate_other_uses_ife2,Ammonium sulphate - Other Uses,tonnes,measure
+ammonium_sulphate_import_value_ife2,Ammonium sulphate - Import Value,1000 US$,measure
 ammonium_sulphate_production_ife2,Ammonium sulphate - Production,tonnes,measure
 calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_agricultural_use_ife2,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate - Agricultural Use,tonnes,measure
 calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_export_quantity_ife2,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate - Export Quantity,tonnes,measure
+calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_export_value_ife2,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate - Export Value,1000 US$,measure
 calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_import_quantity_ife2,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate - Import Quantity,tonnes,measure
-calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_other_uses_ife2,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate - Other Uses,tonnes,measure
+calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_import_value_ife2,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate - Import Value,1000 US$,measure
 calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_production_ife2,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate - Production,tonnes,measure
 diammonium_phosphate_dap_agricultural_use_ife2,Diammonium phosphate (DAP) - Agricultural Use,tonnes,measure
 diammonium_phosphate_dap_export_quantity_ife2,Diammonium phosphate (DAP) - Export Quantity,tonnes,measure
+diammonium_phosphate_dap_export_value_ife2,Diammonium phosphate (DAP) - Export Value,1000 US$,measure
 diammonium_phosphate_dap_import_quantity_ife2,Diammonium phosphate (DAP) - Import Quantity,tonnes,measure
-diammonium_phosphate_dap_other_uses_ife2,Diammonium phosphate (DAP) - Other Uses,tonnes,measure
+diammonium_phosphate_dap_import_value_ife2,Diammonium phosphate (DAP) - Import Value,1000 US$,measure
 diammonium_phosphate_dap_production_ife2,Diammonium phosphate (DAP) - Production,tonnes,measure
 fertilizers_n_e_c_agricultural_use_ife2,Fertilizers n.e.c. - Agricultural Use,tonnes,measure
 fertilizers_n_e_c_export_quantity_ife2,Fertilizers n.e.c. - Export Quantity,tonnes,measure
+fertilizers_n_e_c_export_value_ife2,Fertilizers n.e.c. - Export Value,1000 US$,measure
 fertilizers_n_e_c_import_quantity_ife2,Fertilizers n.e.c. - Import Quantity,tonnes,measure
-fertilizers_n_e_c_other_uses_ife2,Fertilizers n.e.c. - Other Uses,tonnes,measure
+fertilizers_n_e_c_import_value_ife2,Fertilizers n.e.c. - Import Value,1000 US$,measure
 fertilizers_n_e_c_production_ife2,Fertilizers n.e.c. - Production,tonnes,measure
 monoammonium_phosphate_map_agricultural_use_ife2,Monoammonium phosphate (MAP) - Agricultural Use,tonnes,measure
 monoammonium_phosphate_map_export_quantity_ife2,Monoammonium phosphate (MAP) - Export Quantity,tonnes,measure
+monoammonium_phosphate_map_export_value_ife2,Monoammonium phosphate (MAP) - Export Value,1000 US$,measure
 monoammonium_phosphate_map_import_quantity_ife2,Monoammonium phosphate (MAP) - Import Quantity,tonnes,measure
-monoammonium_phosphate_map_other_uses_ife2,Monoammonium phosphate (MAP) - Other Uses,tonnes,measure
+monoammonium_phosphate_map_import_value_ife2,Monoammonium phosphate (MAP) - Import Value,1000 US$,measure
 monoammonium_phosphate_map_production_ife2,Monoammonium phosphate (MAP) - Production,tonnes,measure
 npk_fertilizers_agricultural_use_ife2,NPK fertilizers - Agricultural Use,tonnes,measure
 npk_fertilizers_export_quantity_ife2,NPK fertilizers - Export Quantity,tonnes,measure
+npk_fertilizers_export_value_ife2,NPK fertilizers - Export Value,1000 US$,measure
 npk_fertilizers_import_quantity_ife2,NPK fertilizers - Import Quantity,tonnes,measure
-npk_fertilizers_other_uses_ife2,NPK fertilizers - Other Uses,tonnes,measure
+npk_fertilizers_import_value_ife2,NPK fertilizers - Import Value,1000 US$,measure
 npk_fertilizers_production_ife2,NPK fertilizers - Production,tonnes,measure
 other_nk_compounds_agricultural_use_ife2,Other NK compounds - Agricultural Use,tonnes,measure
-other_nk_compounds_other_uses_ife2,Other NK compounds - Other Uses,tonnes,measure
 other_nk_compounds_production_ife2,Other NK compounds - Production,tonnes,measure
 other_np_compounds_agricultural_use_ife2,Other NP compounds - Agricultural Use,tonnes,measure
 other_np_compounds_export_quantity_ife2,Other NP compounds - Export Quantity,tonnes,measure
+other_np_compounds_export_value_ife2,Other NP compounds - Export Value,1000 US$,measure
 other_np_compounds_import_quantity_ife2,Other NP compounds - Import Quantity,tonnes,measure
-other_np_compounds_other_uses_ife2,Other NP compounds - Other Uses,tonnes,measure
+other_np_compounds_import_value_ife2,Other NP compounds - Import Value,1000 US$,measure
 other_np_compounds_production_ife2,Other NP compounds - Production,tonnes,measure
 other_nitrogenous_fertilizers_n_e_c_agricultural_use_ife2,"Other nitrogenous fertilizers, n.e.c. - Agricultural Use",tonnes,measure
 other_nitrogenous_fertilizers_n_e_c_export_quantity_ife2,"Other nitrogenous fertilizers, n.e.c. - Export Quantity",tonnes,measure
+other_nitrogenous_fertilizers_n_e_c_export_value_ife2,"Other nitrogenous fertilizers, n.e.c. - Export Value",1000 US$,measure
 other_nitrogenous_fertilizers_n_e_c_import_quantity_ife2,"Other nitrogenous fertilizers, n.e.c. - Import Quantity",tonnes,measure
-other_nitrogenous_fertilizers_n_e_c_other_uses_ife2,"Other nitrogenous fertilizers, n.e.c. - Other Uses",tonnes,measure
+other_nitrogenous_fertilizers_n_e_c_import_value_ife2,"Other nitrogenous fertilizers, n.e.c. - Import Value",1000 US$,measure
 other_nitrogenous_fertilizers_n_e_c_production_ife2,"Other nitrogenous fertilizers, n.e.c. - Production",tonnes,measure
 other_phosphatic_fertilizers_n_e_c_agricultural_use_ife2,"Other phosphatic fertilizers, n.e.c. - Agricultural Use",tonnes,measure
 other_phosphatic_fertilizers_n_e_c_export_quantity_ife2,"Other phosphatic fertilizers, n.e.c. - Export Quantity",tonnes,measure
+other_phosphatic_fertilizers_n_e_c_export_value_ife2,"Other phosphatic fertilizers, n.e.c. - Export Value",1000 US$,measure
 other_phosphatic_fertilizers_n_e_c_import_quantity_ife2,"Other phosphatic fertilizers, n.e.c. - Import Quantity",tonnes,measure
-other_phosphatic_fertilizers_n_e_c_other_uses_ife2,"Other phosphatic fertilizers, n.e.c. - Other Uses",tonnes,measure
+other_phosphatic_fertilizers_n_e_c_import_value_ife2,"Other phosphatic fertilizers, n.e.c. - Import Value",1000 US$,measure
 other_phosphatic_fertilizers_n_e_c_production_ife2,"Other phosphatic fertilizers, n.e.c. - Production",tonnes,measure
 other_potassic_fertilizers_n_e_c_agricultural_use_ife2,"Other potassic fertilizers, n.e.c. - Agricultural Use",tonnes,measure
 other_potassic_fertilizers_n_e_c_export_quantity_ife2,"Other potassic fertilizers, n.e.c. - Export Quantity",tonnes,measure
+other_potassic_fertilizers_n_e_c_export_value_ife2,"Other potassic fertilizers, n.e.c. - Export Value",1000 US$,measure
 other_potassic_fertilizers_n_e_c_import_quantity_ife2,"Other potassic fertilizers, n.e.c. - Import Quantity",tonnes,measure
-other_potassic_fertilizers_n_e_c_other_uses_ife2,"Other potassic fertilizers, n.e.c. - Other Uses",tonnes,measure
+other_potassic_fertilizers_n_e_c_import_value_ife2,"Other potassic fertilizers, n.e.c. - Import Value",1000 US$,measure
 other_potassic_fertilizers_n_e_c_production_ife2,"Other potassic fertilizers, n.e.c. - Production",tonnes,measure
 pk_compounds_agricultural_use_ife2,PK compounds - Agricultural Use,tonnes,measure
 pk_compounds_export_quantity_ife2,PK compounds - Export Quantity,tonnes,measure
+pk_compounds_export_value_ife2,PK compounds - Export Value,1000 US$,measure
 pk_compounds_import_quantity_ife2,PK compounds - Import Quantity,tonnes,measure
-pk_compounds_other_uses_ife2,PK compounds - Other Uses,tonnes,measure
+pk_compounds_import_value_ife2,PK compounds - Import Value,1000 US$,measure
 pk_compounds_production_ife2,PK compounds - Production,tonnes,measure
 phosphate_rock_agricultural_use_ife2,Phosphate rock - Agricultural Use,tonnes,measure
 phosphate_rock_export_quantity_ife2,Phosphate rock - Export Quantity,tonnes,measure
+phosphate_rock_export_value_ife2,Phosphate rock - Export Value,1000 US$,measure
 phosphate_rock_import_quantity_ife2,Phosphate rock - Import Quantity,tonnes,measure
-phosphate_rock_other_uses_ife2,Phosphate rock - Other Uses,tonnes,measure
+phosphate_rock_import_value_ife2,Phosphate rock - Import Value,1000 US$,measure
 phosphate_rock_production_ife2,Phosphate rock - Production,tonnes,measure
 potassium_chloride_muriate_of_potash_mop_agricultural_use_ife2,Potassium chloride (muriate of potash) (MOP) - Agricultural Use,tonnes,measure
 potassium_chloride_muriate_of_potash_mop_export_quantity_ife2,Potassium chloride (muriate of potash) (MOP) - Export Quantity,tonnes,measure
+potassium_chloride_muriate_of_potash_mop_export_value_ife2,Potassium chloride (muriate of potash) (MOP) - Export Value,1000 US$,measure
 potassium_chloride_muriate_of_potash_mop_import_quantity_ife2,Potassium chloride (muriate of potash) (MOP) - Import Quantity,tonnes,measure
-potassium_chloride_muriate_of_potash_mop_other_uses_ife2,Potassium chloride (muriate of potash) (MOP) - Other Uses,tonnes,measure
+potassium_chloride_muriate_of_potash_mop_import_value_ife2,Potassium chloride (muriate of potash) (MOP) - Import Value,1000 US$,measure
 potassium_chloride_muriate_of_potash_mop_production_ife2,Potassium chloride (muriate of potash) (MOP) - Production,tonnes,measure
 potassium_nitrate_agricultural_use_ife2,Potassium nitrate - Agricultural Use,tonnes,measure
 potassium_nitrate_export_quantity_ife2,Potassium nitrate - Export Quantity,tonnes,measure
+potassium_nitrate_export_value_ife2,Potassium nitrate - Export Value,1000 US$,measure
 potassium_nitrate_import_quantity_ife2,Potassium nitrate - Import Quantity,tonnes,measure
-potassium_nitrate_other_uses_ife2,Potassium nitrate - Other Uses,tonnes,measure
+potassium_nitrate_import_value_ife2,Potassium nitrate - Import Value,1000 US$,measure
 potassium_nitrate_production_ife2,Potassium nitrate - Production,tonnes,measure
 potassium_sulphate_sulphate_of_potash_sop_agricultural_use_ife2,Potassium sulphate (sulphate of potash) (SOP) - Agricultural Use,tonnes,measure
 potassium_sulphate_sulphate_of_potash_sop_export_quantity_ife2,Potassium sulphate (sulphate of potash) (SOP) - Export Quantity,tonnes,measure
+potassium_sulphate_sulphate_of_potash_sop_export_value_ife2,Potassium sulphate (sulphate of potash) (SOP) - Export Value,1000 US$,measure
 potassium_sulphate_sulphate_of_potash_sop_import_quantity_ife2,Potassium sulphate (sulphate of potash) (SOP) - Import Quantity,tonnes,measure
-potassium_sulphate_sulphate_of_potash_sop_other_uses_ife2,Potassium sulphate (sulphate of potash) (SOP) - Other Uses,tonnes,measure
+potassium_sulphate_sulphate_of_potash_sop_import_value_ife2,Potassium sulphate (sulphate of potash) (SOP) - Import Value,1000 US$,measure
 potassium_sulphate_sulphate_of_potash_sop_production_ife2,Potassium sulphate (sulphate of potash) (SOP) - Production,tonnes,measure
 sodium_nitrate_agricultural_use_ife2,Sodium nitrate - Agricultural Use,tonnes,measure
 sodium_nitrate_export_quantity_ife2,Sodium nitrate - Export Quantity,tonnes,measure
+sodium_nitrate_export_value_ife2,Sodium nitrate - Export Value,1000 US$,measure
 sodium_nitrate_import_quantity_ife2,Sodium nitrate - Import Quantity,tonnes,measure
-sodium_nitrate_other_uses_ife2,Sodium nitrate - Other Uses,tonnes,measure
+sodium_nitrate_import_value_ife2,Sodium nitrate - Import Value,1000 US$,measure
 sodium_nitrate_production_ife2,Sodium nitrate - Production,tonnes,measure
 superphosphates_above_35pct_agricultural_use_ife2,Superphosphates above 35% - Agricultural Use,tonnes,measure
 superphosphates_above_35pct_export_quantity_ife2,Superphosphates above 35% - Export Quantity,tonnes,measure
+superphosphates_above_35pct_export_value_ife2,Superphosphates above 35% - Export Value,1000 US$,measure
 superphosphates_above_35pct_import_quantity_ife2,Superphosphates above 35% - Import Quantity,tonnes,measure
-superphosphates_above_35pct_other_uses_ife2,Superphosphates above 35% - Other Uses,tonnes,measure
+superphosphates_above_35pct_import_value_ife2,Superphosphates above 35% - Import Value,1000 US$,measure
 superphosphates_above_35pct_production_ife2,Superphosphates above 35% - Production,tonnes,measure
 superphosphates_other_agricultural_use_ife2,"Superphosphates, other - Agricultural Use",tonnes,measure
 superphosphates_other_export_quantity_ife2,"Superphosphates, other - Export Quantity",tonnes,measure
+superphosphates_other_export_value_ife2,"Superphosphates, other - Export Value",1000 US$,measure
 superphosphates_other_import_quantity_ife2,"Superphosphates, other - Import Quantity",tonnes,measure
-superphosphates_other_other_uses_ife2,"Superphosphates, other - Other Uses",tonnes,measure
+superphosphates_other_import_value_ife2,"Superphosphates, other - Import Value",1000 US$,measure
 superphosphates_other_production_ife2,"Superphosphates, other - Production",tonnes,measure
 urea_agricultural_use_ife2,Urea - Agricultural Use,tonnes,measure
 urea_export_quantity_ife2,Urea - Export Quantity,tonnes,measure
+urea_export_value_ife2,Urea - Export Value,1000 US$,measure
 urea_import_quantity_ife2,Urea - Import Quantity,tonnes,measure
-urea_other_uses_ife2,Urea - Other Uses,tonnes,measure
+urea_import_value_ife2,Urea - Import Value,1000 US$,measure
 urea_production_ife2,Urea - Production,tonnes,measure
 urea_and_ammonium_nitrate_solutions_uan_agricultural_use_ife2,Urea and ammonium nitrate solutions (UAN) - Agricultural Use,tonnes,measure
 urea_and_ammonium_nitrate_solutions_uan_export_quantity_ife2,Urea and ammonium nitrate solutions (UAN) - Export Quantity,tonnes,measure
+urea_and_ammonium_nitrate_solutions_uan_export_value_ife2,Urea and ammonium nitrate solutions (UAN) - Export Value,1000 US$,measure
 urea_and_ammonium_nitrate_solutions_uan_import_quantity_ife2,Urea and ammonium nitrate solutions (UAN) - Import Quantity,tonnes,measure
-urea_and_ammonium_nitrate_solutions_uan_other_uses_ife2,Urea and ammonium nitrate solutions (UAN) - Other Uses,tonnes,measure
+urea_and_ammonium_nitrate_solutions_uan_import_value_ife2,Urea and ammonium nitrate solutions (UAN) - Import Value,1000 US$,measure
 urea_and_ammonium_nitrate_solutions_uan_production_ife2,Urea and ammonium nitrate solutions (UAN) - Production,tonnes,measure
 fertilizers_manufactured_nes_export_value_ife3,"Fertilizers Manufactured, nes - Export Value",1000 US$,measure
 fertilizers_manufactured_nes_import_value_ife3,"Fertilizers Manufactured, nes - Import Value",1000 US$,measure
