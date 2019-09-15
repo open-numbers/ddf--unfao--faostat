@@ -6184,7 +6184,6 @@ farm_buildings_farmyards_area_ile,Farm buildings & farmyards - Area,1000 ha,meas
 forest_land_area_ile,Forest land - Area,1000 ha,measure
 forest_land_carbon_stock_in_living_biomass_ile,Forest land - Carbon stock in living biomass,million tonnes,measure
 forestry_area_ile,Forestry - Area,1000 ha,measure
-forestry_area_actually_irrigated_area_ile,Forestry area actually irrigated - Area,1000 ha,measure
 inland_waters_area_ile,Inland waters - Area,1000 ha,measure
 inland_waters_used_for_aquac_or_holding_facilities_area_ile,Inland waters used for aquac. or holding facilities - Area,1000 ha,measure
 inland_waters_used_for_capture_fisheries_area_ile,Inland waters used for capture fisheries - Area,1000 ha,measure
