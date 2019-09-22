@@ -1416,32 +1416,47 @@ value_added_deflator_manufacturing_value_local_currency_2010_prices_dea,"Value A
 value_added_deflator_manufacturing_value_us_2010_prices_dea,"Value Added Deflator (Manufacturing) - Value US$, 2010 prices",US$,measure
 agricultural_soils_emissions_co2eq_eaa,Agricultural Soils - Emissions (CO2eq),gigagrams,measure
 agricultural_soils_emissions_co2eq_from_n2o_eaa,Agricultural Soils - Emissions (CO2eq) from N2O,gigagrams,measure
+agriculture_total_emissions_ch4_eaa,Agriculture total - Emissions (CH4),gigagrams,measure
 agriculture_total_emissions_co2eq_eaa,Agriculture total - Emissions (CO2eq),gigagrams,measure
 agriculture_total_emissions_co2eq_from_ch4_eaa,Agriculture total - Emissions (CO2eq) from CH4,gigagrams,measure
 agriculture_total_emissions_co2eq_from_n2o_eaa,Agriculture total - Emissions (CO2eq) from N2O,gigagrams,measure
+agriculture_total_emissions_n2o_eaa,Agriculture total - Emissions (N2O),gigagrams,measure
+burning_crop_residues_emissions_ch4_eaa,Burning - Crop residues - Emissions (CH4),gigagrams,measure
 burning_crop_residues_emissions_co2eq_eaa,Burning - Crop residues - Emissions (CO2eq),gigagrams,measure
 burning_crop_residues_emissions_co2eq_from_ch4_eaa,Burning - Crop residues - Emissions (CO2eq) from CH4,gigagrams,measure
 burning_crop_residues_emissions_co2eq_from_n2o_eaa,Burning - Crop residues - Emissions (CO2eq) from N2O,gigagrams,measure
+burning_crop_residues_emissions_n2o_eaa,Burning - Crop residues - Emissions (N2O),gigagrams,measure
+burning_savanna_emissions_ch4_eaa,Burning - Savanna - Emissions (CH4),gigagrams,measure
 burning_savanna_emissions_co2eq_eaa,Burning - Savanna - Emissions (CO2eq),gigagrams,measure
 burning_savanna_emissions_co2eq_from_ch4_eaa,Burning - Savanna - Emissions (CO2eq) from CH4,gigagrams,measure
 burning_savanna_emissions_co2eq_from_n2o_eaa,Burning - Savanna - Emissions (CO2eq) from N2O,gigagrams,measure
+burning_savanna_emissions_n2o_eaa,Burning - Savanna - Emissions (N2O),gigagrams,measure
 crop_residues_emissions_co2eq_eaa,Crop Residues - Emissions (CO2eq),gigagrams,measure
 crop_residues_emissions_co2eq_from_n2o_eaa,Crop Residues - Emissions (CO2eq) from N2O,gigagrams,measure
+crop_residues_emissions_n2o_eaa,Crop Residues - Emissions (N2O),gigagrams,measure
 cultivation_of_organic_soils_emissions_co2eq_eaa,Cultivation of Organic Soils - Emissions (CO2eq),gigagrams,measure
 cultivation_of_organic_soils_emissions_co2eq_from_n2o_eaa,Cultivation of Organic Soils - Emissions (CO2eq) from N2O,gigagrams,measure
+cultivation_of_organic_soils_emissions_n2o_eaa,Cultivation of Organic Soils - Emissions (N2O),gigagrams,measure
+enteric_fermentation_emissions_ch4_eaa,Enteric Fermentation - Emissions (CH4),gigagrams,measure
 enteric_fermentation_emissions_co2eq_eaa,Enteric Fermentation - Emissions (CO2eq),gigagrams,measure
 enteric_fermentation_emissions_co2eq_from_ch4_eaa,Enteric Fermentation - Emissions (CO2eq) from CH4,gigagrams,measure
+manure_management_emissions_ch4_eaa,Manure Management - Emissions (CH4),gigagrams,measure
 manure_management_emissions_co2eq_eaa,Manure Management - Emissions (CO2eq),gigagrams,measure
 manure_management_emissions_co2eq_from_ch4_eaa,Manure Management - Emissions (CO2eq) from CH4,gigagrams,measure
 manure_management_emissions_co2eq_from_n2o_eaa,Manure Management - Emissions (CO2eq) from N2O,gigagrams,measure
+manure_management_emissions_n2o_eaa,Manure Management - Emissions (N2O),gigagrams,measure
 manure_applied_to_soils_emissions_co2eq_eaa,Manure applied to Soils - Emissions (CO2eq),gigagrams,measure
 manure_applied_to_soils_emissions_co2eq_from_n2o_eaa,Manure applied to Soils - Emissions (CO2eq) from N2O,gigagrams,measure
+manure_applied_to_soils_emissions_n2o_eaa,Manure applied to Soils - Emissions (N2O),gigagrams,measure
 manure_left_on_pasture_emissions_co2eq_eaa,Manure left on Pasture - Emissions (CO2eq),gigagrams,measure
 manure_left_on_pasture_emissions_co2eq_from_n2o_eaa,Manure left on Pasture - Emissions (CO2eq) from N2O,gigagrams,measure
+manure_left_on_pasture_emissions_n2o_eaa,Manure left on Pasture - Emissions (N2O),gigagrams,measure
+rice_cultivation_emissions_ch4_eaa,Rice Cultivation - Emissions (CH4),gigagrams,measure
 rice_cultivation_emissions_co2eq_eaa,Rice Cultivation - Emissions (CO2eq),gigagrams,measure
 rice_cultivation_emissions_co2eq_from_ch4_eaa,Rice Cultivation - Emissions (CO2eq) from CH4,gigagrams,measure
 synthetic_fertilizers_emissions_co2eq_eaa,Synthetic Fertilizers - Emissions (CO2eq),gigagrams,measure
 synthetic_fertilizers_emissions_co2eq_from_n2o_eaa,Synthetic Fertilizers - Emissions (CO2eq) from N2O,gigagrams,measure
+synthetic_fertilizers_emissions_n2o_eaa,Synthetic Fertilizers - Emissions (N2O),gigagrams,measure
 all_crops_biomass_burned_dry_matter_eab,All Crops - Biomass burned (dry matter),tonnes,measure
 all_crops_emissions_ch4_burning_crop_residues_eab,All Crops - Emissions (CH4) (Burning crop residues),gigagrams,measure
 all_crops_emissions_co2eq_burning_crop_residues_eab,All Crops - Emissions (CO2eq) (Burning crop residues),gigagrams,measure
