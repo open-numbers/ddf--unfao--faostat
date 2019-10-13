@@ -10222,28 +10222,28 @@ yoghurt_concentrated_or_not_export_quantity_tcl,"Yoghurt, concentrated or not - 
 yoghurt_concentrated_or_not_export_value_tcl,"Yoghurt, concentrated or not - Export Value",1000 US$,measure
 yoghurt_concentrated_or_not_import_quantity_tcl,"Yoghurt, concentrated or not - Import Quantity",tonnes,measure
 yoghurt_concentrated_or_not_import_value_tcl,"Yoghurt, concentrated or not - Import Value",1000 US$,measure
-agricult_products_total_export_quantity_index_2004_2006_100_tie,"Agricult.Products,Total - Export Quantity Index (2004-2006 = 100)",,measure
-agricult_products_total_export_unit_value_index_2004_2006_100_tie,"Agricult.Products,Total - Export Unit/Value Index (2004-2006 = 100)",,measure
-agricult_products_total_export_value_base_price_tie,"Agricult.Products,Total - Export Value Base Price",1000 $,measure
-agricult_products_total_export_value_base_quantity_tie,"Agricult.Products,Total - Export Value Base Quantity",1000 $,measure
-agricult_products_total_export_value_index_2004_2006_100_tie,"Agricult.Products,Total - Export Value Index (2004-2006 = 100)",,measure
-agricult_products_total_import_quantity_index_2004_2006_100_tie,"Agricult.Products,Total - Import Quantity Index (2004-2006 = 100)",,measure
-agricult_products_total_import_unit_value_index_2004_2006_100_tie,"Agricult.Products,Total - Import Unit/Value Index (2004-2006 = 100)",,measure
-agricult_products_total_import_value_base_period_price_tie,"Agricult.Products,Total - Import Value Base Period Price",1000 $,measure
-agricult_products_total_import_value_base_period_quantity_tie,"Agricult.Products,Total - Import Value Base Period Quantity",1000 $,measure
-agricult_products_total_import_value_index_2004_2006_100_tie,"Agricult.Products,Total - Import Value Index (2004-2006 = 100)",,measure
-food_excl_fish_export_quantity_index_2004_2006_100_tie,Food Excl Fish - Export Quantity Index (2004-2006 = 100),,measure
-food_excl_fish_export_unit_value_index_2004_2006_100_tie,Food Excl Fish - Export Unit/Value Index (2004-2006 = 100),,measure
+agricult_products_total_export_quantity_index_2004_2006_100_tie,"Agricult.Products, Total - Export Quantity Index (2004-2006 = 100)",index,measure
+agricult_products_total_export_unit_value_index_2004_2006_100_tie,"Agricult.Products, Total - Export Unit/Value Index (2004-2006 = 100)",index,measure
+agricult_products_total_export_value_base_price_tie,"Agricult.Products, Total - Export Value Base Price",1000 $,measure
+agricult_products_total_export_value_base_quantity_tie,"Agricult.Products, Total - Export Value Base Quantity",1000 $,measure
+agricult_products_total_export_value_index_2004_2006_100_tie,"Agricult.Products, Total - Export Value Index (2004-2006 = 100)",index,measure
+agricult_products_total_import_quantity_index_2004_2006_100_tie,"Agricult.Products, Total - Import Quantity Index (2004-2006 = 100)",index,measure
+agricult_products_total_import_unit_value_index_2004_2006_100_tie,"Agricult.Products, Total - Import Unit/Value Index (2004-2006 = 100)",index,measure
+agricult_products_total_import_value_base_period_price_tie,"Agricult.Products, Total - Import Value Base Period Price",1000 $,measure
+agricult_products_total_import_value_base_period_quantity_tie,"Agricult.Products, Total - Import Value Base Period Quantity",1000 $,measure
+agricult_products_total_import_value_index_2004_2006_100_tie,"Agricult.Products, Total - Import Value Index (2004-2006 = 100)",index,measure
+food_excl_fish_export_quantity_index_2004_2006_100_tie,Food Excl Fish - Export Quantity Index (2004-2006 = 100),index,measure
+food_excl_fish_export_unit_value_index_2004_2006_100_tie,Food Excl Fish - Export Unit/Value Index (2004-2006 = 100),index,measure
 food_excl_fish_export_value_base_price_tie,Food Excl Fish - Export Value Base Price,1000 $,measure
 food_excl_fish_export_value_base_quantity_tie,Food Excl Fish - Export Value Base Quantity,1000 $,measure
-food_excl_fish_export_value_index_2004_2006_100_tie,Food Excl Fish - Export Value Index (2004-2006 = 100),,measure
-food_excl_fish_import_quantity_index_2004_2006_100_tie,Food Excl Fish - Import Quantity Index (2004-2006 = 100),,measure
-food_excl_fish_import_unit_value_index_2004_2006_100_tie,Food Excl Fish - Import Unit/Value Index (2004-2006 = 100),,measure
+food_excl_fish_export_value_index_2004_2006_100_tie,Food Excl Fish - Export Value Index (2004-2006 = 100),index,measure
+food_excl_fish_import_quantity_index_2004_2006_100_tie,Food Excl Fish - Import Quantity Index (2004-2006 = 100),index,measure
+food_excl_fish_import_unit_value_index_2004_2006_100_tie,Food Excl Fish - Import Unit/Value Index (2004-2006 = 100),index,measure
 food_excl_fish_import_value_base_period_price_tie,Food Excl Fish - Import Value Base Period Price,1000 $,measure
 food_excl_fish_import_value_base_period_quantity_tie,Food Excl Fish - Import Value Base Period Quantity,1000 $,measure
-food_excl_fish_import_value_index_2004_2006_100_tie,Food Excl Fish - Import Value Index (2004-2006 = 100),,measure
-agricult_products_total_export_value_tle,"Agricult.Products,Total - Export Value",1000 US$,measure
-agricult_products_total_import_value_tle,"Agricult.Products,Total - Import Value",1000 US$,measure
+food_excl_fish_import_value_index_2004_2006_100_tie,Food Excl Fish - Import Value Index (2004-2006 = 100),index,measure
+agricult_products_total_export_value_tle,"Agricult.Products, Total - Export Value",1000 US$,measure
+agricult_products_total_import_value_tle,"Agricult.Products, Total - Import Value",1000 US$,measure
 animals_live_nes_export_quantity_tle,Animals live nes - Export Quantity,Head,measure
 animals_live_nes_export_value_tle,Animals live nes - Export Value,1000 US$,measure
 animals_live_nes_import_quantity_tle,Animals live nes - Import Quantity,Head,measure
