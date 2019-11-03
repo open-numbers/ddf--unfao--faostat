@@ -6829,9 +6829,9 @@ castor_oil_seed_producer_price_usd_tonne_pea2,Castor oil seed - Producer Price (
 cauliflowers_and_broccoli_producer_price_lcu_tonne_pea2,Cauliflowers and broccoli - Producer Price (LCU/tonne),LCU,measure
 cauliflowers_and_broccoli_producer_price_slc_tonne_pea2,Cauliflowers and broccoli - Producer Price (SLC/tonne),SLC,measure
 cauliflowers_and_broccoli_producer_price_usd_tonne_pea2,Cauliflowers and broccoli - Producer Price (USD/tonne),USD,measure
-cereals_nes_producer_price_lcu_tonne_pea2,"Cereals, nes - Producer Price (LCU/tonne)",LCU,measure
-cereals_nes_producer_price_slc_tonne_pea2,"Cereals, nes - Producer Price (SLC/tonne)",SLC,measure
-cereals_nes_producer_price_usd_tonne_pea2,"Cereals, nes - Producer Price (USD/tonne)",USD,measure
+cereals_nes_producer_price_lcu_tonne_pea2,Cereals nes - Producer Price (LCU/tonne),LCU,measure
+cereals_nes_producer_price_slc_tonne_pea2,Cereals nes - Producer Price (SLC/tonne),SLC,measure
+cereals_nes_producer_price_usd_tonne_pea2,Cereals nes - Producer Price (USD/tonne),USD,measure
 cherries_producer_price_lcu_tonne_pea2,Cherries - Producer Price (LCU/tonne),LCU,measure
 cherries_producer_price_slc_tonne_pea2,Cherries - Producer Price (SLC/tonne),SLC,measure
 cherries_producer_price_usd_tonne_pea2,Cherries - Producer Price (USD/tonne),USD,measure
@@ -6853,9 +6853,9 @@ chillies_and_peppers_dry_producer_price_usd_tonne_pea2,"Chillies and peppers, dr
 chillies_and_peppers_green_producer_price_lcu_tonne_pea2,"Chillies and peppers, green - Producer Price (LCU/tonne)",LCU,measure
 chillies_and_peppers_green_producer_price_slc_tonne_pea2,"Chillies and peppers, green - Producer Price (SLC/tonne)",SLC,measure
 chillies_and_peppers_green_producer_price_usd_tonne_pea2,"Chillies and peppers, green - Producer Price (USD/tonne)",USD,measure
-cinnamon_canella_producer_price_lcu_tonne_pea2,Cinnamon (canella) - Producer Price (LCU/tonne),LCU,measure
-cinnamon_canella_producer_price_slc_tonne_pea2,Cinnamon (canella) - Producer Price (SLC/tonne),SLC,measure
-cinnamon_canella_producer_price_usd_tonne_pea2,Cinnamon (canella) - Producer Price (USD/tonne),USD,measure
+cinnamon_cannella_producer_price_lcu_tonne_pea2,Cinnamon (cannella) - Producer Price (LCU/tonne),LCU,measure
+cinnamon_cannella_producer_price_slc_tonne_pea2,Cinnamon (cannella) - Producer Price (SLC/tonne),SLC,measure
+cinnamon_cannella_producer_price_usd_tonne_pea2,Cinnamon (cannella) - Producer Price (USD/tonne),USD,measure
 cloves_producer_price_lcu_tonne_pea2,Cloves - Producer Price (LCU/tonne),LCU,measure
 cloves_producer_price_slc_tonne_pea2,Cloves - Producer Price (SLC/tonne),SLC,measure
 cloves_producer_price_usd_tonne_pea2,Cloves - Producer Price (USD/tonne),USD,measure
@@ -7060,6 +7060,9 @@ meat_live_weight_sheep_producer_price_usd_tonne_pea2,"Meat live weight, sheep - 
 meat_live_weight_turkey_producer_price_lcu_tonne_pea2,"Meat live weight, turkey - Producer Price (LCU/tonne)",LCU,measure
 meat_live_weight_turkey_producer_price_slc_tonne_pea2,"Meat live weight, turkey - Producer Price (SLC/tonne)",SLC,measure
 meat_live_weight_turkey_producer_price_usd_tonne_pea2,"Meat live weight, turkey - Producer Price (USD/tonne)",USD,measure
+meat_nes_producer_price_lcu_tonne_pea2,Meat nes - Producer Price (LCU/tonne),LCU,measure
+meat_nes_producer_price_slc_tonne_pea2,Meat nes - Producer Price (SLC/tonne),SLC,measure
+meat_nes_producer_price_usd_tonne_pea2,Meat nes - Producer Price (USD/tonne),USD,measure
 meat_ass_producer_price_lcu_tonne_pea2,"Meat, ass - Producer Price (LCU/tonne)",LCU,measure
 meat_ass_producer_price_slc_tonne_pea2,"Meat, ass - Producer Price (SLC/tonne)",SLC,measure
 meat_ass_producer_price_usd_tonne_pea2,"Meat, ass - Producer Price (USD/tonne)",USD,measure
@@ -7096,9 +7099,6 @@ meat_horse_producer_price_usd_tonne_pea2,"Meat, horse - Producer Price (USD/tonn
 meat_mule_producer_price_lcu_tonne_pea2,"Meat, mule - Producer Price (LCU/tonne)",LCU,measure
 meat_mule_producer_price_slc_tonne_pea2,"Meat, mule - Producer Price (SLC/tonne)",SLC,measure
 meat_mule_producer_price_usd_tonne_pea2,"Meat, mule - Producer Price (USD/tonne)",USD,measure
-meat_nes_producer_price_lcu_tonne_pea2,"Meat, nes - Producer Price (LCU/tonne)",LCU,measure
-meat_nes_producer_price_slc_tonne_pea2,"Meat, nes - Producer Price (SLC/tonne)",SLC,measure
-meat_nes_producer_price_usd_tonne_pea2,"Meat, nes - Producer Price (USD/tonne)",USD,measure
 meat_other_camelids_producer_price_lcu_tonne_pea2,"Meat, other camelids - Producer Price (LCU/tonne)",LCU,measure
 meat_other_camelids_producer_price_slc_tonne_pea2,"Meat, other camelids - Producer Price (SLC/tonne)",SLC,measure
 meat_other_camelids_producer_price_usd_tonne_pea2,"Meat, other camelids - Producer Price (USD/tonne)",USD,measure
@@ -7147,9 +7147,9 @@ mustard_seed_producer_price_usd_tonne_pea2,Mustard seed - Producer Price (USD/to
 nutmeg_mace_and_cardamoms_producer_price_lcu_tonne_pea2,"Nutmeg, mace and cardamoms - Producer Price (LCU/tonne)",LCU,measure
 nutmeg_mace_and_cardamoms_producer_price_slc_tonne_pea2,"Nutmeg, mace and cardamoms - Producer Price (SLC/tonne)",SLC,measure
 nutmeg_mace_and_cardamoms_producer_price_usd_tonne_pea2,"Nutmeg, mace and cardamoms - Producer Price (USD/tonne)",USD,measure
-nuts_nes_producer_price_lcu_tonne_pea2,"Nuts, nes - Producer Price (LCU/tonne)",LCU,measure
-nuts_nes_producer_price_slc_tonne_pea2,"Nuts, nes - Producer Price (SLC/tonne)",SLC,measure
-nuts_nes_producer_price_usd_tonne_pea2,"Nuts, nes - Producer Price (USD/tonne)",USD,measure
+nuts_nes_producer_price_lcu_tonne_pea2,Nuts nes - Producer Price (LCU/tonne),LCU,measure
+nuts_nes_producer_price_slc_tonne_pea2,Nuts nes - Producer Price (SLC/tonne),SLC,measure
+nuts_nes_producer_price_usd_tonne_pea2,Nuts nes - Producer Price (USD/tonne),USD,measure
 oats_producer_price_lcu_tonne_pea2,Oats - Producer Price (LCU/tonne),LCU,measure
 oats_producer_price_slc_tonne_pea2,Oats - Producer Price (SLC/tonne),SLC,measure
 oats_producer_price_usd_tonne_pea2,Oats - Producer Price (USD/tonne),USD,measure
@@ -7231,9 +7231,9 @@ poppy_seed_producer_price_usd_tonne_pea2,Poppy seed - Producer Price (USD/tonne)
 potatoes_producer_price_lcu_tonne_pea2,Potatoes - Producer Price (LCU/tonne),LCU,measure
 potatoes_producer_price_slc_tonne_pea2,Potatoes - Producer Price (SLC/tonne),SLC,measure
 potatoes_producer_price_usd_tonne_pea2,Potatoes - Producer Price (USD/tonne),USD,measure
-pulses_nes_producer_price_lcu_tonne_pea2,"Pulses, nes - Producer Price (LCU/tonne)",LCU,measure
-pulses_nes_producer_price_slc_tonne_pea2,"Pulses, nes - Producer Price (SLC/tonne)",SLC,measure
-pulses_nes_producer_price_usd_tonne_pea2,"Pulses, nes - Producer Price (USD/tonne)",USD,measure
+pulses_nes_producer_price_lcu_tonne_pea2,Pulses nes - Producer Price (LCU/tonne),LCU,measure
+pulses_nes_producer_price_slc_tonne_pea2,Pulses nes - Producer Price (SLC/tonne),SLC,measure
+pulses_nes_producer_price_usd_tonne_pea2,Pulses nes - Producer Price (USD/tonne),USD,measure
 pumpkins_squash_and_gourds_producer_price_lcu_tonne_pea2,"Pumpkins, squash and gourds - Producer Price (LCU/tonne)",LCU,measure
 pumpkins_squash_and_gourds_producer_price_slc_tonne_pea2,"Pumpkins, squash and gourds - Producer Price (SLC/tonne)",SLC,measure
 pumpkins_squash_and_gourds_producer_price_usd_tonne_pea2,"Pumpkins, squash and gourds - Producer Price (USD/tonne)",USD,measure
@@ -7258,9 +7258,9 @@ raspberries_producer_price_usd_tonne_pea2,Raspberries - Producer Price (USD/tonn
 rice_paddy_producer_price_lcu_tonne_pea2,"Rice, paddy - Producer Price (LCU/tonne)",LCU,measure
 rice_paddy_producer_price_slc_tonne_pea2,"Rice, paddy - Producer Price (SLC/tonne)",SLC,measure
 rice_paddy_producer_price_usd_tonne_pea2,"Rice, paddy - Producer Price (USD/tonne)",USD,measure
-roots_and_tubers_nes_producer_price_lcu_tonne_pea2,"Roots and tubers, nes - Producer Price (LCU/tonne)",LCU,measure
-roots_and_tubers_nes_producer_price_slc_tonne_pea2,"Roots and tubers, nes - Producer Price (SLC/tonne)",SLC,measure
-roots_and_tubers_nes_producer_price_usd_tonne_pea2,"Roots and tubers, nes - Producer Price (USD/tonne)",USD,measure
+roots_and_tubers_nes_producer_price_lcu_tonne_pea2,Roots and tubers nes - Producer Price (LCU/tonne),LCU,measure
+roots_and_tubers_nes_producer_price_slc_tonne_pea2,Roots and tubers nes - Producer Price (SLC/tonne),SLC,measure
+roots_and_tubers_nes_producer_price_usd_tonne_pea2,Roots and tubers nes - Producer Price (USD/tonne),USD,measure
 rubber_natural_producer_price_lcu_tonne_pea2,"Rubber, natural - Producer Price (LCU/tonne)",LCU,measure
 rubber_natural_producer_price_slc_tonne_pea2,"Rubber, natural - Producer Price (SLC/tonne)",SLC,measure
 rubber_natural_producer_price_usd_tonne_pea2,"Rubber, natural - Producer Price (USD/tonne)",USD,measure
@@ -7288,9 +7288,9 @@ sorghum_producer_price_usd_tonne_pea2,Sorghum - Producer Price (USD/tonne),USD,m
 soybeans_producer_price_lcu_tonne_pea2,Soybeans - Producer Price (LCU/tonne),LCU,measure
 soybeans_producer_price_slc_tonne_pea2,Soybeans - Producer Price (SLC/tonne),SLC,measure
 soybeans_producer_price_usd_tonne_pea2,Soybeans - Producer Price (USD/tonne),USD,measure
-spices_nes_producer_price_lcu_tonne_pea2,"Spices, nes - Producer Price (LCU/tonne)",LCU,measure
-spices_nes_producer_price_slc_tonne_pea2,"Spices, nes - Producer Price (SLC/tonne)",SLC,measure
-spices_nes_producer_price_usd_tonne_pea2,"Spices, nes - Producer Price (USD/tonne)",USD,measure
+spices_nes_producer_price_lcu_tonne_pea2,Spices nes - Producer Price (LCU/tonne),LCU,measure
+spices_nes_producer_price_slc_tonne_pea2,Spices nes - Producer Price (SLC/tonne),SLC,measure
+spices_nes_producer_price_usd_tonne_pea2,Spices nes - Producer Price (USD/tonne),USD,measure
 spinach_producer_price_lcu_tonne_pea2,Spinach - Producer Price (LCU/tonne),LCU,measure
 spinach_producer_price_slc_tonne_pea2,Spinach - Producer Price (SLC/tonne),SLC,measure
 spinach_producer_price_usd_tonne_pea2,Spinach - Producer Price (USD/tonne),USD,measure
@@ -7306,9 +7306,9 @@ sugar_beet_producer_price_usd_tonne_pea2,Sugar beet - Producer Price (USD/tonne)
 sugar_cane_producer_price_lcu_tonne_pea2,Sugar cane - Producer Price (LCU/tonne),LCU,measure
 sugar_cane_producer_price_slc_tonne_pea2,Sugar cane - Producer Price (SLC/tonne),SLC,measure
 sugar_cane_producer_price_usd_tonne_pea2,Sugar cane - Producer Price (USD/tonne),USD,measure
-sugar_crops_nes_producer_price_lcu_tonne_pea2,"Sugar crops, nes - Producer Price (LCU/tonne)",LCU,measure
-sugar_crops_nes_producer_price_slc_tonne_pea2,"Sugar crops, nes - Producer Price (SLC/tonne)",SLC,measure
-sugar_crops_nes_producer_price_usd_tonne_pea2,"Sugar crops, nes - Producer Price (USD/tonne)",USD,measure
+sugar_crops_nes_producer_price_lcu_tonne_pea2,Sugar crops nes - Producer Price (LCU/tonne),LCU,measure
+sugar_crops_nes_producer_price_slc_tonne_pea2,Sugar crops nes - Producer Price (SLC/tonne),SLC,measure
+sugar_crops_nes_producer_price_usd_tonne_pea2,Sugar crops nes - Producer Price (USD/tonne),USD,measure
 sunflower_seed_producer_price_lcu_tonne_pea2,Sunflower seed - Producer Price (LCU/tonne),LCU,measure
 sunflower_seed_producer_price_slc_tonne_pea2,Sunflower seed - Producer Price (SLC/tonne),SLC,measure
 sunflower_seed_producer_price_usd_tonne_pea2,Sunflower seed - Producer Price (USD/tonne),USD,measure
