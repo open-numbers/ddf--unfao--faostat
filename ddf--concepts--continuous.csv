@@ -1,6 +1,8 @@
 concept,name,unit,concept_type
-agricultural_researchers_fte_number_are,Agricultural researchers (FTE) - Number,No,measure
-agricultural_researchers_fte_per_100_000_farmers_are,"Agricultural researchers (FTE) - Per 100,000 farmers",No,measure
+agriculture_research_spending_share_of_value_added_agriculture_forestry_and_fishing_aee,"Agriculture research spending - Share of Value Added (Agriculture, Forestry and Fishing)",%,measure
+agriculture_research_spending_spending_total_aee,"Agriculture research spending - Spending, total",million PPP (constant 2011 prices),measure
+agricultural_researchers_per_100_000_farmers_are,"Agricultural researchers - Per 100,000 farmers",FTE,measure
+agricultural_researchers_researchers_total_are,"Agricultural researchers - Researchers, total",FTE,measure
 agriculture_research_spending_2011_ppp_ars,Agriculture research spending - 2011 PPP$,I$,measure
 agriculture_research_spending_share_of_value_added_agriculture_forestry_and_fishing_ars,"Agriculture research spending - Share of Value Added (Agriculture, Forestry and Fishing)",,measure
 abaca_domestic_supply_quantity_cce,Abaca - Domestic supply quantity,tonnes,measure
@@ -6441,17 +6443,21 @@ value_added_agriculture_forestry_and_fishing_share_of_total_ic,"Value Added (Agr
 value_added_agriculture_forestry_and_fishing_value_us_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$",millions,measure
 value_added_agriculture_forestry_and_fishing_value_us_2010_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",millions,measure
 credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
-credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice1,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",,measure
+credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice1,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",%,measure
 credit_to_agriculture_forestry_and_fishing_value_local_currency_ice1,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
 credit_to_agriculture_forestry_and_fishing_value_us_ice1,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
 total_credit_value_local_currency_ice1,Total Credit - Value Local Currency,millions,measure
 total_credit_value_us_ice1,Total Credit - Value US$,millions,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_share_of_total_fdi_inflows_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Share of Total FDI inflows",%,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
 fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
+fdi_inflows_to_food_beverages_and_tobacco_share_of_total_fdi_inflows_ife4,"FDI inflows to Food, Beverages and Tobacco - Share of Total FDI inflows",%,measure
 fdi_inflows_to_food_beverages_and_tobacco_value_us_ife4,"FDI inflows to Food, Beverages and Tobacco - Value US$",millions,measure
 fdi_inflows_to_food_beverages_and_tobacco_value_us_2010_prices_ife4,"FDI inflows to Food, Beverages and Tobacco - Value US$, 2010 prices",millions,measure
+fdi_outflows_to_agriculture_forestry_and_fishing_share_of_total_fdi_outflows_ife4,"FDI outflows to Agriculture, Forestry and Fishing - Share of Total FDI outflows",%,measure
 fdi_outflows_to_agriculture_forestry_and_fishing_value_us_ife4,"FDI outflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
 fdi_outflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ife4,"FDI outflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
+fdi_outflows_to_food_beverages_and_tobacco_share_of_total_fdi_outflows_ife4,"FDI outflows to Food, Beverages and Tobacco - Share of Total FDI outflows",%,measure
 fdi_outflows_to_food_beverages_and_tobacco_value_us_ife4,"FDI outflows to Food, Beverages and Tobacco - Value US$",millions,measure
 fdi_outflows_to_food_beverages_and_tobacco_value_us_2010_prices_ife4,"FDI outflows to Food, Beverages and Tobacco - Value US$, 2010 prices",millions,measure
 total_fdi_inflows_value_us_ife4,Total FDI inflows - Value US$,millions,measure
