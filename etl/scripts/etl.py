@@ -14,6 +14,13 @@ from ddf_utils.str import to_concept_id, format_float_digits
 source_file = '../source/FAOSTAT.zip'
 out_dir = '../../'
 
+def guess_data_filename(zf: zipfile.ZipFile):
+    # Note 2019-12-02: now the zip file contains 2 file, one data csv and the other flags csv.
+    # we only need the data csv.
+    fns = [f.filename for f in zf.filelist if 'Flags' not in f.filename]
+    assert len(fns) == 1, f"there should be only one file. but {fns} found."
+    return fns[0]
+
 
 def scan_skip_files(zf):
     """reads a zipfile object and then reads all zipfiles inside,
@@ -36,8 +43,11 @@ def scan_skip_files(zf):
             skips.append(fn)
             continue
         b = BytesIO(zf.read(fn))
+        zf_data_csv = zipfile.ZipFile(b)
+        fn_data_csv = guess_data_filename(zf_data_csv)
+        b_data_csv = BytesIO(zf_data_csv.read(fn_data_csv))
         try:
-            next(pd.read_csv(b, encoding='latin1', compression='zip', chunksize=1))
+            next(pd.read_csv(b_data_csv, encoding='latin1', chunksize=1))
         except NotImplementedError:
             skips.append(fn)
     return skips
@@ -102,7 +112,11 @@ def process_file(zf, f, domains):
             # print(tmpfile)
             tf.write(z.read())
             tf.flush()
-    df = pd.read_csv(tmpfile, encoding='latin1', compression='zip')
+    # load the actual csv from the zipped file.
+    zf2 = zipfile.ZipFile(tmpfile)
+    fn_data_csv = guess_data_filename(zf2)
+    data_csv = BytesIO(zf2.read(fn_data_csv))
+    df = pd.read_csv(data_csv, encoding='latin1')
 
     try:
         df['Year'].astype('int')
