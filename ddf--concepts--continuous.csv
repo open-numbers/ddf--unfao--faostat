@@ -3,8 +3,6 @@ agriculture_research_spending_share_of_value_added_agriculture_forestry_and_fish
 agriculture_research_spending_spending_total_aee,"Agriculture research spending - Spending, total",million PPP (constant 2011 prices),measure
 agricultural_researchers_per_100_000_farmers_are,"Agricultural researchers - Per 100,000 farmers",FTE,measure
 agricultural_researchers_researchers_total_are,"Agricultural researchers - Researchers, total",FTE,measure
-agriculture_research_spending_2011_ppp_ars,Agriculture research spending - 2011 PPP$,I$,measure
-agriculture_research_spending_share_of_value_added_agriculture_forestry_and_fishing_ars,"Agriculture research spending - Share of Value Added (Agriculture, Forestry and Fishing)",,measure
 abaca_domestic_supply_quantity_cce,Abaca - Domestic supply quantity,tonnes,measure
 abaca_export_quantity_cce,Abaca - Export Quantity,tonnes,measure
 abaca_import_quantity_cce,Abaca - Import Quantity,tonnes,measure
@@ -1685,9 +1683,6 @@ electricity_emissions_co2eq_energy_eae,Electricity - Emissions (CO2eq) (Energy),
 electricity_emissions_co2eq_from_ch4_energy_eae,Electricity - Emissions (CO2eq) from CH4 (Energy),Gigagrams,measure
 electricity_emissions_co2eq_from_n2o_energy_eae,Electricity - Emissions (CO2eq) from N2O (Energy),Gigagrams,measure
 electricity_emissions_n2o_energy_eae,Electricity - Emissions (N2O) (Energy),Gigagrams,measure
-electricity_implied_emission_factor_for_ch4_eae,Electricity - Implied emission factor for CH4,Kg/TJ,measure
-electricity_implied_emission_factor_for_co2_eae,Electricity - Implied emission factor for CO2,g/kWh,measure
-electricity_implied_emission_factor_for_n2o_eae,Electricity - Implied emission factor for N2O,Kg/TJ,measure
 energy_for_power_irrigation_consumption_in_agriculture_eae,Energy for power irrigation - Consumption in Agriculture,Terajoule,measure
 energy_for_power_irrigation_emissions_ch4_energy_eae,Energy for power irrigation - Emissions (CH4) (Energy),Gigagrams,measure
 energy_for_power_irrigation_emissions_co2_energy_eae,Energy for power irrigation - Emissions (CO2) (Energy),Gigagrams,measure
@@ -2793,7 +2788,6 @@ land_use_total_emissions_co2eq_from_ch4_elu4,Land Use total - Emissions (CO2eq) 
 land_use_total_emissions_co2eq_from_n2o_elu4,Land Use total - Emissions (CO2eq) from N2O,gigagrams,measure
 land_use_total_net_emissions_removals_co2_elu4,Land Use total - Net emissions/removals (CO2),gigagrams,measure
 land_use_total_net_emissions_removals_co2eq_elu4,Land Use total - Net emissions/removals (CO2eq),gigagrams,measure
-ammonia_nh3_emissions_from_agriculture_pct_of_total_nh3_emissions_from_agriculture_eae2,Ammonia (NH3) emissions from agriculture - % of total NH3 emissions from agriculture,%,measure
 agriculture_total_emissions_co2eq_eeb,Agriculture total - Emissions (CO2eq),Gigagrams,measure
 agriculture_total_emissions_co2eq_from_ch4_eeb,Agriculture total - Emissions (CO2eq) from CH4,Gigagrams,measure
 agriculture_total_emissions_co2eq_from_co2_eeb,Agriculture total - Emissions (CO2eq) from CO2,Gigagrams,measure
@@ -3014,8 +3008,6 @@ milk_whole_fresh_sheep_production_eei,"Milk, whole fresh sheep - Production",ton
 rice_paddy_emissions_co2eq_eei,"Rice, paddy - Emissions (CO2eq)",gigagrams,measure
 rice_paddy_emissions_intensity_eei,"Rice, paddy - Emissions intensity",kg CO2eq/kg product,measure
 rice_paddy_production_eei,"Rice, paddy - Production",tonnes,measure
-bioenergy_production_bioenergy_production_as_a_pct_of_total_renewable_energy_production_eee,Bioenergy production - Bioenergy production as a % of total renewable energy production,%,measure
-energy_used_in_agriculture_and_forestry_agriculture_and_forestry_energy_use_as_a_pct_of_total_energy_use_eee,Energy used in agriculture and forestry - Agriculture and forestry energy use as a % of total Energy use,%,measure
 nutrient_nitrogen_n_total_use_per_area_of_cropland_efe,Nutrient nitrogen N (total) - Use per area of cropland,kg/ha,measure
 nutrient_phosphate_p2o5_total_use_per_area_of_cropland_efe,Nutrient phosphate P2O5 (total) - Use per area of cropland,kg/ha,measure
 nutrient_potash_k2o_total_use_per_area_of_cropland_efe,Nutrient potash K2O (total) - Use per area of cropland,kg/ha,measure
@@ -3335,10 +3327,6 @@ sheep_and_goats_livestock_units_per_agricultural_land_area_ele3,Sheep and Goats 
 sheep_and_goats_share_in_total_livestock_ele3,Sheep and Goats - Share in total livestock,% of total LSU,measure
 sheep_and_goats_stocks_ele3,Sheep and Goats - Stocks,Livestock units (LSU),measure
 pesticides_total_use_per_area_of_cropland_epe,Pesticides (total) - Use per area of cropland,kg/ha,measure
-soil_average_carbon_content_in_the_topsoil_as_a_pct_in_weight_ese,Soil - Average carbon content in the topsoil as a % in weight,%,measure
-soil_average_land_degradation_in_glasod_erosion_degree_ese,Soil - Average land degradation in GLASOD erosion degree,degrees,measure
-soil_average_soil_erosion_expressed_in_glasod_erosion_degree_ese,Soil - Average soil erosion expressed in GLASOD erosion degree,degrees,measure
-water_withdrawal_for_agricultural_use_pct_of_total_water_withdrawal_ewe,Water withdrawal for agricultural use - % of total water withdrawal,%,measure
 standard_local_currency_units_per_usd_ere,Standard local currency units per USD,,measure
 alcohol_non_food_domestic_supply_quantity_fea,"Alcohol, Non-Food - Domestic supply quantity",1000 tonnes,measure
 alcohol_non_food_export_quantity_fea,"Alcohol, Non-Food - Export Quantity",1000 tonnes,measure
@@ -6161,22 +6149,6 @@ urea_and_ammonium_nitrate_solutions_uan_export_value_ife2,Urea and ammonium nitr
 urea_and_ammonium_nitrate_solutions_uan_import_quantity_ife2,Urea and ammonium nitrate solutions (UAN) - Import Quantity,tonnes,measure
 urea_and_ammonium_nitrate_solutions_uan_import_value_ife2,Urea and ammonium nitrate solutions (UAN) - Import Value,1000 US$,measure
 urea_and_ammonium_nitrate_solutions_uan_production_ife2,Urea and ammonium nitrate solutions (UAN) - Production,tonnes,measure
-fertilizers_manufactured_nes_export_value_ife3,"Fertilizers Manufactured, nes - Export Value",1000 US$,measure
-fertilizers_manufactured_nes_import_value_ife3,"Fertilizers Manufactured, nes - Import Value",1000 US$,measure
-fertilizers_organic_export_value_ife3,"Fertilizers, Organic - Export Value",1000 US$,measure
-fertilizers_organic_import_value_ife3,"Fertilizers, Organic - Import Value",1000 US$,measure
-natural_phosphates_export_value_ife3,Natural Phosphates - Export Value,1000 US$,measure
-natural_phosphates_import_value_ife3,Natural Phosphates - Import Value,1000 US$,measure
-natural_potassic_salts_export_value_ife3,Natural Potassic Salts - Export Value,1000 US$,measure
-natural_potassic_salts_import_value_ife3,Natural Potassic Salts - Import Value,1000 US$,measure
-natural_sodium_nitrate_export_value_ife3,Natural Sodium Nitrate - Export Value,1000 US$,measure
-natural_sodium_nitrate_import_value_ife3,Natural Sodium Nitrate - Import Value,1000 US$,measure
-nitrogenous_fertilizers_export_value_ife3,Nitrogenous fertilizers - Export Value,1000 US$,measure
-nitrogenous_fertilizers_import_value_ife3,Nitrogenous fertilizers - Import Value,1000 US$,measure
-phosphate_fertilizers_export_value_ife3,Phosphate fertilizers - Export Value,1000 US$,measure
-phosphate_fertilizers_import_value_ife3,Phosphate fertilizers - Import Value,1000 US$,measure
-potash_fertilizers_export_value_ife3,Potash fertilizers - Export Value,1000 US$,measure
-potash_fertilizers_import_value_ife3,Potash fertilizers - Import Value,1000 US$,measure
 agricultural_land_area_ile,Agricultural land - Area,1000 ha,measure
 agriculture_area_ile,Agriculture - Area,1000 ha,measure
 agriculture_area_actually_irrigated_area_ile,Agriculture area actually irrigated - Area,1000 ha,measure
@@ -6412,58 +6384,58 @@ gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice,"Gro
 net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",millions,measure
 net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2010_prices_ice,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2010 prices",millions,measure
 net_capital_stocks_agriculture_forestry_and_fishing_value_us_ice,"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-agriculture_forestry_fishing_central_government_agriculture_orientation_index_ic,"Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",index,measure
-agriculture_forestry_fishing_central_government_annual_growth_us_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth US$",%,measure
-agriculture_forestry_fishing_central_government_annual_growth_us_2010_prices_ic,"Agriculture, forestry, fishing (Central Government) - Annual growth, US$, 2010 prices",%,measure
-agriculture_forestry_fishing_central_government_share_of_total_ic,"Agriculture, forestry, fishing (Central Government) - Share of Total",%,measure
-agriculture_forestry_fishing_central_government_value_us_ic,"Agriculture, forestry, fishing (Central Government) - Value US$",millions,measure
-agriculture_forestry_fishing_central_government_value_us_2010_prices_ic,"Agriculture, forestry, fishing (Central Government) - Value US$, 2010 prices",millions,measure
-credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ic,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
-credit_to_agriculture_forestry_and_fishing_annual_growth_us_ic,"Credit to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
-credit_to_agriculture_forestry_and_fishing_share_of_total_ic,"Credit to Agriculture, Forestry and Fishing - Share of Total",%,measure
-credit_to_agriculture_forestry_and_fishing_value_us_ic,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
-dfa_commitment_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ic,"DFA Commitment to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
-dfa_commitment_to_agriculture_forestry_and_fishing_annual_growth_us_ic,"DFA Commitment to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
-dfa_commitment_to_agriculture_forestry_and_fishing_share_of_total_ic,"DFA Commitment to Agriculture, Forestry and Fishing - Share of Total",%,measure
-dfa_commitment_to_agriculture_forestry_and_fishing_value_us_ic,"DFA Commitment to Agriculture, Forestry and Fishing - Value US$",millions,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_ic,"FDI inflows to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_ic,"FDI inflows to Agriculture, Forestry and Fishing - Annual growth, US$, 2010 prices",%,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ic,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ic,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ic,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",index,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_total_ic,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Total",%,measure
-gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ic,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_ic,"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio",,measure
-gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_2010_prices_ic,"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio, 2010 prices",,measure
-gross_fixed_capital_formation_to_gdp_ratio_ratio_ic,Gross Fixed Capital Formation to GDP ratio - Ratio,,measure
-gross_fixed_capital_formation_to_gdp_ratio_ratio_2010_prices_ic,"Gross Fixed Capital Formation to GDP ratio - Ratio, 2010 prices",,measure
-value_added_agriculture_forestry_and_fishing_annual_growth_us_ic,"Value Added (Agriculture, Forestry and Fishing) - Annual growth US$",%,measure
-value_added_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Annual growth, US$, 2010 prices",%,measure
-value_added_agriculture_forestry_and_fishing_share_of_total_ic,"Value Added (Agriculture, Forestry and Fishing) - Share of Total",%,measure
-value_added_agriculture_forestry_and_fishing_value_us_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$",millions,measure
-value_added_agriculture_forestry_and_fishing_value_us_2010_prices_ic,"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",millions,measure
+agriculture_forestry_fishing_central_government_agriculture_orientation_index_ice1,"Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",index,measure
+agriculture_forestry_fishing_central_government_annual_growth_us_ice1,"Agriculture, forestry, fishing (Central Government) - Annual growth US$",%,measure
+agriculture_forestry_fishing_central_government_annual_growth_us_2010_prices_ice1,"Agriculture, forestry, fishing (Central Government) - Annual growth, US$, 2010 prices",%,measure
+agriculture_forestry_fishing_central_government_share_of_total_ice1,"Agriculture, forestry, fishing (Central Government) - Share of Total",%,measure
+agriculture_forestry_fishing_central_government_value_us_ice1,"Agriculture, forestry, fishing (Central Government) - Value US$",millions,measure
+agriculture_forestry_fishing_central_government_value_us_2010_prices_ice1,"Agriculture, forestry, fishing (Central Government) - Value US$, 2010 prices",millions,measure
 credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
-credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice1,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",%,measure
-credit_to_agriculture_forestry_and_fishing_value_local_currency_ice1,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
+credit_to_agriculture_forestry_and_fishing_annual_growth_us_ice1,"Credit to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
+credit_to_agriculture_forestry_and_fishing_share_of_total_ice1,"Credit to Agriculture, Forestry and Fishing - Share of Total",%,measure
 credit_to_agriculture_forestry_and_fishing_value_us_ice1,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
-total_credit_value_local_currency_ice1,Total Credit - Value Local Currency,millions,measure
-total_credit_value_us_ice1,Total Credit - Value US$,millions,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_share_of_total_fdi_inflows_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Share of Total FDI inflows",%,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
-fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ife4,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
-fdi_inflows_to_food_beverages_and_tobacco_share_of_total_fdi_inflows_ife4,"FDI inflows to Food, Beverages and Tobacco - Share of Total FDI inflows",%,measure
-fdi_inflows_to_food_beverages_and_tobacco_value_us_ife4,"FDI inflows to Food, Beverages and Tobacco - Value US$",millions,measure
-fdi_inflows_to_food_beverages_and_tobacco_value_us_2010_prices_ife4,"FDI inflows to Food, Beverages and Tobacco - Value US$, 2010 prices",millions,measure
-fdi_outflows_to_agriculture_forestry_and_fishing_share_of_total_fdi_outflows_ife4,"FDI outflows to Agriculture, Forestry and Fishing - Share of Total FDI outflows",%,measure
-fdi_outflows_to_agriculture_forestry_and_fishing_value_us_ife4,"FDI outflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
-fdi_outflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ife4,"FDI outflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
-fdi_outflows_to_food_beverages_and_tobacco_share_of_total_fdi_outflows_ife4,"FDI outflows to Food, Beverages and Tobacco - Share of Total FDI outflows",%,measure
-fdi_outflows_to_food_beverages_and_tobacco_value_us_ife4,"FDI outflows to Food, Beverages and Tobacco - Value US$",millions,measure
-fdi_outflows_to_food_beverages_and_tobacco_value_us_2010_prices_ife4,"FDI outflows to Food, Beverages and Tobacco - Value US$, 2010 prices",millions,measure
-total_fdi_inflows_value_us_ife4,Total FDI inflows - Value US$,millions,measure
-total_fdi_inflows_value_us_2010_prices_ife4,"Total FDI inflows - Value US$, 2010 prices",millions,measure
-total_fdi_outflows_value_us_ife4,Total FDI outflows - Value US$,millions,measure
-total_fdi_outflows_value_us_2010_prices_ife4,"Total FDI outflows - Value US$, 2010 prices",millions,measure
+dfa_commitment_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"DFA Commitment to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
+dfa_commitment_to_agriculture_forestry_and_fishing_annual_growth_us_ice1,"DFA Commitment to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
+dfa_commitment_to_agriculture_forestry_and_fishing_share_of_total_ice1,"DFA Commitment to Agriculture, Forestry and Fishing - Share of Total",%,measure
+dfa_commitment_to_agriculture_forestry_and_fishing_value_us_ice1,"DFA Commitment to Agriculture, Forestry and Fishing - Value US$",millions,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_ice1,"FDI inflows to Agriculture, Forestry and Fishing - Annual growth US$",%,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_ice1,"FDI inflows to Agriculture, Forestry and Fishing - Annual growth, US$, 2010 prices",%,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ice1,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ice1,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",index,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_total_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Total",%,measure
+gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice1,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_ice1,"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio",,measure
+gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_2010_prices_ice1,"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio, 2010 prices",,measure
+gross_fixed_capital_formation_to_gdp_ratio_ratio_ice1,Gross Fixed Capital Formation to GDP ratio - Ratio,,measure
+gross_fixed_capital_formation_to_gdp_ratio_ratio_2010_prices_ice1,"Gross Fixed Capital Formation to GDP ratio - Ratio, 2010 prices",,measure
+value_added_agriculture_forestry_and_fishing_annual_growth_us_ice1,"Value Added (Agriculture, Forestry and Fishing) - Annual growth US$",%,measure
+value_added_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_ice1,"Value Added (Agriculture, Forestry and Fishing) - Annual growth, US$, 2010 prices",%,measure
+value_added_agriculture_forestry_and_fishing_share_of_total_ice1,"Value Added (Agriculture, Forestry and Fishing) - Share of Total",%,measure
+value_added_agriculture_forestry_and_fishing_value_us_ice1,"Value Added (Agriculture, Forestry and Fishing) - Value US$",millions,measure
+value_added_agriculture_forestry_and_fishing_value_us_2010_prices_ice1,"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",millions,measure
+credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_ice2,"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",index,measure
+credit_to_agriculture_forestry_and_fishing_share_of_total_credit_ice2,"Credit to Agriculture, Forestry and Fishing - Share of Total Credit",%,measure
+credit_to_agriculture_forestry_and_fishing_value_local_currency_ice2,"Credit to Agriculture, Forestry and Fishing - Value Local Currency",millions,measure
+credit_to_agriculture_forestry_and_fishing_value_us_ice2,"Credit to Agriculture, Forestry and Fishing - Value US$",millions,measure
+total_credit_value_local_currency_ice2,Total Credit - Value Local Currency,millions,measure
+total_credit_value_us_ice2,Total Credit - Value US$,millions,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_share_of_total_fdi_inflows_ife3,"FDI inflows to Agriculture, Forestry and Fishing - Share of Total FDI inflows",%,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_value_us_ife3,"FDI inflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
+fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ife3,"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
+fdi_inflows_to_food_beverages_and_tobacco_share_of_total_fdi_inflows_ife3,"FDI inflows to Food, Beverages and Tobacco - Share of Total FDI inflows",%,measure
+fdi_inflows_to_food_beverages_and_tobacco_value_us_ife3,"FDI inflows to Food, Beverages and Tobacco - Value US$",millions,measure
+fdi_inflows_to_food_beverages_and_tobacco_value_us_2010_prices_ife3,"FDI inflows to Food, Beverages and Tobacco - Value US$, 2010 prices",millions,measure
+fdi_outflows_to_agriculture_forestry_and_fishing_share_of_total_fdi_outflows_ife3,"FDI outflows to Agriculture, Forestry and Fishing - Share of Total FDI outflows",%,measure
+fdi_outflows_to_agriculture_forestry_and_fishing_value_us_ife3,"FDI outflows to Agriculture, Forestry and Fishing - Value US$",millions,measure
+fdi_outflows_to_agriculture_forestry_and_fishing_value_us_2010_prices_ife3,"FDI outflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",millions,measure
+fdi_outflows_to_food_beverages_and_tobacco_share_of_total_fdi_outflows_ife3,"FDI outflows to Food, Beverages and Tobacco - Share of Total FDI outflows",%,measure
+fdi_outflows_to_food_beverages_and_tobacco_value_us_ife3,"FDI outflows to Food, Beverages and Tobacco - Value US$",millions,measure
+fdi_outflows_to_food_beverages_and_tobacco_value_us_2010_prices_ife3,"FDI outflows to Food, Beverages and Tobacco - Value US$, 2010 prices",millions,measure
+total_fdi_inflows_value_us_ife3,Total FDI inflows - Value US$,millions,measure
+total_fdi_inflows_value_us_2010_prices_ife3,"Total FDI inflows - Value US$, 2010 prices",millions,measure
+total_fdi_outflows_value_us_ife3,Total FDI outflows - Value US$,millions,measure
+total_fdi_outflows_value_us_2010_prices_ife3,"Total FDI outflows - Value US$, 2010 prices",millions,measure
 agriculture_central_government_value_local_currency_ige,Agriculture (Central Government) - Value Local Currency,millions,measure
 agriculture_central_government_value_us_ige,Agriculture (Central Government) - Value US$,millions,measure
 agriculture_central_government_value_us_2010_prices_ige,"Agriculture (Central Government) - Value US$, 2010 prices",millions,measure
