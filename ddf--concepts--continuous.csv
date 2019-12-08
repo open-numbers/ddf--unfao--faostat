@@ -3039,6 +3039,7 @@ cropland_share_in_agricultural_land_ele1,Cropland - Share in Agricultural land,%
 cropland_share_in_land_area_ele1,Cropland - Share in Land area,%,measure
 forest_land_share_in_land_area_ele1,Forest land - Share in Land area,%,measure
 land_area_equipped_for_irrigation_share_in_agricultural_land_ele1,Land area equipped for irrigation - Share in Agricultural land,%,measure
+land_area_equipped_for_irrigation_share_in_cropland_ele1,Land area equipped for irrigation - Share in Cropland,%,measure
 land_under_perm_meadows_and_pastures_share_in_agricultural_land_ele1,Land under perm. meadows and pastures - Share in Agricultural land,%,measure
 land_under_perm_meadows_and_pastures_share_in_land_area_ele1,Land under perm. meadows and pastures - Share in Land area,%,measure
 land_under_permanent_crops_share_in_agricultural_land_ele1,Land under permanent crops - Share in Agricultural land,%,measure
