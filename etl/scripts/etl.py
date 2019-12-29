@@ -17,7 +17,8 @@ out_dir = '../../'
 def guess_data_filename(zf: zipfile.ZipFile):
     # Note 2019-12-02: now the zip file contains 2 file, one data csv and the other flags csv.
     # we only need the data csv.
-    fns = [f.filename for f in zf.filelist if 'Flags' not in f.filename]
+    fns = [f.filename for f in zf.filelist if
+	   ('Flags' not in f.filename) and ('Symboles' not in f.filename)]
     assert len(fns) == 1, f"there should be only one file. but {fns} found."
     return fns[0]
 
