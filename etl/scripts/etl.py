@@ -218,7 +218,7 @@ def process_area_and_groups():
     areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Code'].values), 'is--country'] = 'TRUE'
     areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Group Code'].values), 'is--country_group'] = 'TRUE'
 
-    areaDf.columns = ['name', 'geo', 'end_year',
+    areaDf.columns = ['geo', 'name', 'end_year',
                       'iso2_code', 'iso3_code', 'm49_code',
                       'start_year', 'is--country', 'is--country_group']
     areaDf = areaDf[['geo', 'name', 'start_year', 'end_year',
