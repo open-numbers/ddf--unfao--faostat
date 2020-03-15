@@ -181,7 +181,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 5503,Micronesia,,57,,,,FALSE,TRUE,
 145,Micronesia (Federated States of),,583,FM,FSM,1991,TRUE,FALSE,"5000,5500,5503,5803,5807,5849,5859"
 5102,Middle Africa,,17,,,,FALSE,TRUE,
-139,Midway Island,,488,MI,MID,,TRUE,FALSE,5000
+139,Midway Island,,488,MI,MID,,TRUE,FALSE,"5000,5500"
 140,Monaco,,492,MC,MCO,,TRUE,FALSE,"5000,5400,5404,5848"
 141,Mongolia,,496,MN,MNG,,TRUE,FALSE,"5000,5300,5302,5307,5802,5817,5849,5854,5859"
 273,Montenegro,,499,ME,MNE,2006,TRUE,FALSE,"5000,5208,5400,5403,5849,9011"

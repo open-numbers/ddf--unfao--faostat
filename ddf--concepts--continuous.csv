@@ -10290,8 +10290,8 @@ Rabbits and hares - Stocks,rabbits_and_hares_stocks_ple2,1000 Head,measure
 Sheep - Stocks,sheep_stocks_ple2,Head,measure
 Sheep and Goats - Stocks,sheep_and_goats_stocks_ple2,Head,measure
 Turkeys - Stocks,turkeys_stocks_ple2,1000 Head,measure
-"Agricult.Products,Total - Export Value",agricult_products_total_export_value_tcl,1000 US$,measure
-"Agricult.Products,Total - Import Value",agricult_products_total_import_value_tcl,1000 US$,measure
+"Agricult.Products, Total - Export Value",agricult_products_total_export_value_tcl,1000 US$,measure
+"Agricult.Products, Total - Import Value",agricult_products_total_import_value_tcl,1000 US$,measure
 Alfalfa meal and pellets - Export Quantity,alfalfa_meal_and_pellets_export_quantity_tcl,tonnes,measure
 Alfalfa meal and pellets - Export Value,alfalfa_meal_and_pellets_export_value_tcl,1000 US$,measure
 Alfalfa meal and pellets - Import Quantity,alfalfa_meal_and_pellets_import_quantity_tcl,tonnes,measure
@@ -10300,6 +10300,10 @@ Almonds shelled - Export Quantity,almonds_shelled_export_quantity_tcl,tonnes,mea
 Almonds shelled - Export Value,almonds_shelled_export_value_tcl,1000 US$,measure
 Almonds shelled - Import Quantity,almonds_shelled_import_quantity_tcl,tonnes,measure
 Almonds shelled - Import Value,almonds_shelled_import_value_tcl,1000 US$,measure
+"Almonds, with shell - Export Quantity",almonds_with_shell_export_quantity_tcl,tonnes,measure
+"Almonds, with shell - Export Value",almonds_with_shell_export_value_tcl,1000 US$,measure
+"Almonds, with shell - Import Quantity",almonds_with_shell_import_quantity_tcl,tonnes,measure
+"Almonds, with shell - Import Value",almonds_with_shell_import_value_tcl,1000 US$,measure
 Animal Oil+Fat+Grs - Export Quantity,animal_oil_fat_grs_export_quantity_tcl,tonnes,measure
 Animal Oil+Fat+Grs - Export Value,animal_oil_fat_grs_export_value_tcl,1000 US$,measure
 Animal Oil+Fat+Grs - Import Quantity,animal_oil_fat_grs_import_quantity_tcl,tonnes,measure
@@ -10328,6 +10332,10 @@ Apricots - Import Value,apricots_import_value_tcl,1000 US$,measure
 "Apricots, dry - Export Value",apricots_dry_export_value_tcl,1000 US$,measure
 "Apricots, dry - Import Quantity",apricots_dry_import_quantity_tcl,tonnes,measure
 "Apricots, dry - Import Value",apricots_dry_import_value_tcl,1000 US$,measure
+Areca nuts - Export Quantity,areca_nuts_export_quantity_tcl,tonnes,measure
+Areca nuts - Export Value,areca_nuts_export_value_tcl,1000 US$,measure
+Areca nuts - Import Quantity,areca_nuts_import_quantity_tcl,tonnes,measure
+Areca nuts - Import Value,areca_nuts_import_value_tcl,1000 US$,measure
 Artichokes - Export Quantity,artichokes_export_quantity_tcl,tonnes,measure
 Artichokes - Export Value,artichokes_export_value_tcl,1000 US$,measure
 Artichokes - Import Quantity,artichokes_import_quantity_tcl,tonnes,measure
@@ -10585,10 +10593,10 @@ Cauliflowers and broccoli - Export Quantity,cauliflowers_and_broccoli_export_qua
 Cauliflowers and broccoli - Export Value,cauliflowers_and_broccoli_export_value_tcl,1000 US$,measure
 Cauliflowers and broccoli - Import Quantity,cauliflowers_and_broccoli_import_quantity_tcl,tonnes,measure
 Cauliflowers and broccoli - Import Value,cauliflowers_and_broccoli_import_value_tcl,1000 US$,measure
-"Cereal preparations, nes - Export Quantity",cereal_preparations_nes_export_quantity_tcl,tonnes,measure
-"Cereal preparations, nes - Export Value",cereal_preparations_nes_export_value_tcl,1000 US$,measure
-"Cereal preparations, nes - Import Quantity",cereal_preparations_nes_import_quantity_tcl,tonnes,measure
-"Cereal preparations, nes - Import Value",cereal_preparations_nes_import_value_tcl,1000 US$,measure
+Cereal preparations nes - Export Quantity,cereal_preparations_nes_export_quantity_tcl,tonnes,measure
+Cereal preparations nes - Export Value,cereal_preparations_nes_export_value_tcl,1000 US$,measure
+Cereal preparations nes - Import Quantity,cereal_preparations_nes_import_quantity_tcl,tonnes,measure
+Cereal preparations nes - Import Value,cereal_preparations_nes_import_value_tcl,1000 US$,measure
 Cereals - Export Quantity,cereals_export_quantity_tcl,tonnes,measure
 Cereals - Export Value,cereals_export_value_tcl,1000 US$,measure
 Cereals - Import Quantity,cereals_import_quantity_tcl,tonnes,measure
@@ -10655,10 +10663,10 @@ Cigarettes - Import Value,cigarettes_import_value_tcl,1000 US$,measure
 "Cigars, cheroots - Export Value",cigars_cheroots_export_value_tcl,1000 US$,measure
 "Cigars, cheroots - Import Quantity",cigars_cheroots_import_quantity_tcl,tonnes,measure
 "Cigars, cheroots - Import Value",cigars_cheroots_import_value_tcl,1000 US$,measure
-Cinnamon (canella) - Export Quantity,cinnamon_canella_export_quantity_tcl,tonnes,measure
-Cinnamon (canella) - Export Value,cinnamon_canella_export_value_tcl,1000 US$,measure
-Cinnamon (canella) - Import Quantity,cinnamon_canella_import_quantity_tcl,tonnes,measure
-Cinnamon (canella) - Import Value,cinnamon_canella_import_value_tcl,1000 US$,measure
+Cinnamon (cannella) - Export Quantity,cinnamon_cannella_export_quantity_tcl,tonnes,measure
+Cinnamon (cannella) - Export Value,cinnamon_cannella_export_value_tcl,1000 US$,measure
+Cinnamon (cannella) - Import Quantity,cinnamon_cannella_import_quantity_tcl,tonnes,measure
+Cinnamon (cannella) - Import Value,cinnamon_cannella_import_value_tcl,1000 US$,measure
 Cloves - Export Quantity,cloves_export_quantity_tcl,tonnes,measure
 Cloves - Export Value,cloves_export_value_tcl,1000 US$,measure
 Cloves - Import Quantity,cloves_import_quantity_tcl,tonnes,measure
@@ -10717,6 +10725,10 @@ Coffee+Tea+Cocoa+Sp - Import Value,coffee_tea_cocoa_sp_import_value_tcl,1000 US$
 "Coffee, substitutes containing coffee - Export Value",coffee_substitutes_containing_coffee_export_value_tcl,1000 US$,measure
 "Coffee, substitutes containing coffee - Import Quantity",coffee_substitutes_containing_coffee_import_quantity_tcl,tonnes,measure
 "Coffee, substitutes containing coffee - Import Value",coffee_substitutes_containing_coffee_import_value_tcl,1000 US$,measure
+Coir - Export Quantity,coir_export_quantity_tcl,tonnes,measure
+Coir - Export Value,coir_export_value_tcl,1000 US$,measure
+Coir - Import Quantity,coir_import_quantity_tcl,tonnes,measure
+Coir - Import Value,coir_import_value_tcl,1000 US$,measure
 Copra - Export Quantity,copra_export_quantity_tcl,tonnes,measure
 Copra - Export Value,copra_export_value_tcl,1000 US$,measure
 Copra - Import Quantity,copra_import_quantity_tcl,tonnes,measure
@@ -10803,6 +10815,10 @@ Eggs in The Shell - Import Value,eggs_in_the_shell_import_value_tcl,1000 US$,mea
 "Eggs, other bird, in shell - Export Value",eggs_other_bird_in_shell_export_value_tcl,1000 US$,measure
 "Eggs, other bird, in shell - Import Quantity",eggs_other_bird_in_shell_import_quantity_tcl,tonnes,measure
 "Eggs, other bird, in shell - Import Value",eggs_other_bird_in_shell_import_value_tcl,1000 US$,measure
+"Fat nes, prepared - Export Quantity",fat_nes_prepared_export_quantity_tcl,tonnes,measure
+"Fat nes, prepared - Export Value",fat_nes_prepared_export_value_tcl,1000 US$,measure
+"Fat nes, prepared - Import Quantity",fat_nes_prepared_import_quantity_tcl,tonnes,measure
+"Fat nes, prepared - Import Value",fat_nes_prepared_import_value_tcl,1000 US$,measure
 "Fat, camels - Export Quantity",fat_camels_export_quantity_tcl,tonnes,measure
 "Fat, camels - Export Value",fat_camels_export_value_tcl,1000 US$,measure
 "Fat, camels - Import Quantity",fat_camels_import_quantity_tcl,tonnes,measure
@@ -10815,10 +10831,6 @@ Eggs in The Shell - Import Value,eggs_in_the_shell_import_value_tcl,1000 US$,mea
 "Fat, liver prepared (foie gras) - Export Value",fat_liver_prepared_foie_gras_export_value_tcl,1000 US$,measure
 "Fat, liver prepared (foie gras) - Import Quantity",fat_liver_prepared_foie_gras_import_quantity_tcl,tonnes,measure
 "Fat, liver prepared (foie gras) - Import Value",fat_liver_prepared_foie_gras_import_value_tcl,1000 US$,measure
-"Fat, nes, prepared - Export Quantity",fat_nes_prepared_export_quantity_tcl,tonnes,measure
-"Fat, nes, prepared - Export Value",fat_nes_prepared_export_value_tcl,1000 US$,measure
-"Fat, nes, prepared - Import Quantity",fat_nes_prepared_import_quantity_tcl,tonnes,measure
-"Fat, nes, prepared - Import Value",fat_nes_prepared_import_value_tcl,1000 US$,measure
 "Fat, pigs - Export Quantity",fat_pigs_export_quantity_tcl,tonnes,measure
 "Fat, pigs - Export Value",fat_pigs_export_value_tcl,1000 US$,measure
 "Fat, pigs - Import Quantity",fat_pigs_import_quantity_tcl,tonnes,measure
@@ -10843,10 +10855,10 @@ Feed supplements - Export Quantity,feed_supplements_export_quantity_tcl,tonnes,m
 Feed supplements - Export Value,feed_supplements_export_value_tcl,1000 US$,measure
 Feed supplements - Import Quantity,feed_supplements_import_quantity_tcl,tonnes,measure
 Feed supplements - Import Value,feed_supplements_import_value_tcl,1000 US$,measure
-"Feed, compound, nes - Export Quantity",feed_compound_nes_export_quantity_tcl,tonnes,measure
-"Feed, compound, nes - Export Value",feed_compound_nes_export_value_tcl,1000 US$,measure
-"Feed, compound, nes - Import Quantity",feed_compound_nes_import_quantity_tcl,tonnes,measure
-"Feed, compound, nes - Import Value",feed_compound_nes_import_value_tcl,1000 US$,measure
+"Feed, compound nes - Export Quantity",feed_compound_nes_export_quantity_tcl,tonnes,measure
+"Feed, compound nes - Export Value",feed_compound_nes_export_value_tcl,1000 US$,measure
+"Feed, compound nes - Import Quantity",feed_compound_nes_import_quantity_tcl,tonnes,measure
+"Feed, compound nes - Import Value",feed_compound_nes_import_value_tcl,1000 US$,measure
 "Feed, pulp of fruit - Export Quantity",feed_pulp_of_fruit_export_quantity_tcl,tonnes,measure
 "Feed, pulp of fruit - Export Value",feed_pulp_of_fruit_export_value_tcl,1000 US$,measure
 "Feed, pulp of fruit - Import Quantity",feed_pulp_of_fruit_import_quantity_tcl,tonnes,measure
@@ -10855,6 +10867,10 @@ Feed supplements - Import Value,feed_supplements_import_value_tcl,1000 US$,measu
 "Feed, vegetable products nes - Export Value",feed_vegetable_products_nes_export_value_tcl,1000 US$,measure
 "Feed, vegetable products nes - Import Quantity",feed_vegetable_products_nes_import_quantity_tcl,tonnes,measure
 "Feed, vegetable products nes - Import Value",feed_vegetable_products_nes_import_value_tcl,1000 US$,measure
+Fibre crops nes - Export Quantity,fibre_crops_nes_export_quantity_tcl,tonnes,measure
+Fibre crops nes - Export Value,fibre_crops_nes_export_value_tcl,1000 US$,measure
+Fibre crops nes - Import Quantity,fibre_crops_nes_import_quantity_tcl,tonnes,measure
+Fibre crops nes - Import Value,fibre_crops_nes_import_value_tcl,1000 US$,measure
 Figs - Export Quantity,figs_export_quantity_tcl,tonnes,measure
 Figs - Export Value,figs_export_value_tcl,1000 US$,measure
 Figs - Import Quantity,figs_import_quantity_tcl,tonnes,measure
@@ -10883,6 +10899,10 @@ Flax tow waste - Export Quantity,flax_tow_waste_export_quantity_tcl,tonnes,measu
 Flax tow waste - Export Value,flax_tow_waste_export_value_tcl,1000 US$,measure
 Flax tow waste - Import Quantity,flax_tow_waste_import_quantity_tcl,tonnes,measure
 Flax tow waste - Import Value,flax_tow_waste_import_value_tcl,1000 US$,measure
+"Flour, cassava - Export Quantity",flour_cassava_export_quantity_tcl,tonnes,measure
+"Flour, cassava - Export Value",flour_cassava_export_value_tcl,1000 US$,measure
+"Flour, cassava - Import Quantity",flour_cassava_import_quantity_tcl,tonnes,measure
+"Flour, cassava - Import Value",flour_cassava_import_value_tcl,1000 US$,measure
 "Flour, cereals - Export Quantity",flour_cereals_export_quantity_tcl,tonnes,measure
 "Flour, cereals - Export Value",flour_cereals_export_value_tcl,1000 US$,measure
 "Flour, cereals - Import Quantity",flour_cereals_import_quantity_tcl,tonnes,measure
@@ -10911,6 +10931,10 @@ Flax tow waste - Import Value,flax_tow_waste_import_value_tcl,1000 US$,measure
 "Flour, pulses - Export Value",flour_pulses_export_value_tcl,1000 US$,measure
 "Flour, pulses - Import Quantity",flour_pulses_import_quantity_tcl,tonnes,measure
 "Flour, pulses - Import Value",flour_pulses_import_value_tcl,1000 US$,measure
+"Flour, rice - Export Quantity",flour_rice_export_quantity_tcl,tonnes,measure
+"Flour, rice - Export Value",flour_rice_export_value_tcl,1000 US$,measure
+"Flour, rice - Import Quantity",flour_rice_import_quantity_tcl,tonnes,measure
+"Flour, rice - Import Value",flour_rice_import_value_tcl,1000 US$,measure
 "Flour, roots and tubers nes - Export Quantity",flour_roots_and_tubers_nes_export_quantity_tcl,tonnes,measure
 "Flour, roots and tubers nes - Export Value",flour_roots_and_tubers_nes_export_value_tcl,1000 US$,measure
 "Flour, roots and tubers nes - Import Quantity",flour_roots_and_tubers_nes_import_quantity_tcl,tonnes,measure
@@ -10993,10 +11017,10 @@ Garlic - Import Value,garlic_import_value_tcl,1000 US$,measure
 "Germ, maize - Export Value",germ_maize_export_value_tcl,1000 US$,measure
 "Germ, maize - Import Quantity",germ_maize_import_quantity_tcl,tonnes,measure
 "Germ, maize - Import Value",germ_maize_import_value_tcl,1000 US$,measure
-"Ghee, of buffalo milk - Export Quantity",ghee_of_buffalo_milk_export_quantity_tcl,tonnes,measure
-"Ghee, of buffalo milk - Export Value",ghee_of_buffalo_milk_export_value_tcl,1000 US$,measure
-"Ghee, of buffalo milk - Import Quantity",ghee_of_buffalo_milk_import_quantity_tcl,tonnes,measure
-"Ghee, of buffalo milk - Import Value",ghee_of_buffalo_milk_import_value_tcl,1000 US$,measure
+"Ghee, buffalo milk - Export Quantity",ghee_buffalo_milk_export_quantity_tcl,tonnes,measure
+"Ghee, buffalo milk - Export Value",ghee_buffalo_milk_export_value_tcl,1000 US$,measure
+"Ghee, buffalo milk - Import Quantity",ghee_buffalo_milk_import_quantity_tcl,tonnes,measure
+"Ghee, buffalo milk - Import Value",ghee_buffalo_milk_import_value_tcl,1000 US$,measure
 Ginger - Export Quantity,ginger_export_quantity_tcl,tonnes,measure
 Ginger - Export Value,ginger_export_value_tcl,1000 US$,measure
 Ginger - Import Quantity,ginger_import_quantity_tcl,tonnes,measure
@@ -11029,6 +11053,10 @@ Groundnuts Total Shelled - Export Quantity,groundnuts_total_shelled_export_quant
 Groundnuts Total Shelled - Export Value,groundnuts_total_shelled_export_value_tcl,1000 US$,measure
 Groundnuts Total Shelled - Import Quantity,groundnuts_total_shelled_import_quantity_tcl,tonnes,measure
 Groundnuts Total Shelled - Import Value,groundnuts_total_shelled_import_value_tcl,1000 US$,measure
+"Groundnuts, prepared - Export Quantity",groundnuts_prepared_export_quantity_tcl,tonnes,measure
+"Groundnuts, prepared - Export Value",groundnuts_prepared_export_value_tcl,1000 US$,measure
+"Groundnuts, prepared - Import Quantity",groundnuts_prepared_import_quantity_tcl,tonnes,measure
+"Groundnuts, prepared - Import Value",groundnuts_prepared_import_value_tcl,1000 US$,measure
 "Groundnuts, shelled - Export Quantity",groundnuts_shelled_export_quantity_tcl,tonnes,measure
 "Groundnuts, shelled - Export Value",groundnuts_shelled_export_value_tcl,1000 US$,measure
 "Groundnuts, shelled - Import Quantity",groundnuts_shelled_import_quantity_tcl,tonnes,measure
@@ -11053,6 +11081,14 @@ Hay (unspecified) - Import Value,hay_unspecified_import_value_tcl,1000 US$,measu
 "Hazelnuts, shelled - Export Value",hazelnuts_shelled_export_value_tcl,1000 US$,measure
 "Hazelnuts, shelled - Import Quantity",hazelnuts_shelled_import_quantity_tcl,tonnes,measure
 "Hazelnuts, shelled - Import Value",hazelnuts_shelled_import_value_tcl,1000 US$,measure
+"Hazelnuts, with shell - Export Quantity",hazelnuts_with_shell_export_quantity_tcl,tonnes,measure
+"Hazelnuts, with shell - Export Value",hazelnuts_with_shell_export_value_tcl,1000 US$,measure
+"Hazelnuts, with shell - Import Quantity",hazelnuts_with_shell_import_quantity_tcl,tonnes,measure
+"Hazelnuts, with shell - Import Value",hazelnuts_with_shell_import_value_tcl,1000 US$,measure
+Hides nes - Export Quantity,hides_nes_export_quantity_tcl,tonnes,measure
+Hides nes - Export Value,hides_nes_export_value_tcl,1000 US$,measure
+Hides nes - Import Quantity,hides_nes_import_quantity_tcl,tonnes,measure
+Hides nes - Import Value,hides_nes_import_value_tcl,1000 US$,measure
 "Hides, buffalo, dry salted - Export Quantity",hides_buffalo_dry_salted_export_quantity_tcl,tonnes,measure
 "Hides, buffalo, dry salted - Export Value",hides_buffalo_dry_salted_export_value_tcl,1000 US$,measure
 "Hides, buffalo, dry salted - Import Quantity",hides_buffalo_dry_salted_import_quantity_tcl,tonnes,measure
@@ -11061,9 +11097,9 @@ Hay (unspecified) - Import Value,hay_unspecified_import_value_tcl,1000 US$,measu
 "Hides, buffalo, wet salted - Export Value",hides_buffalo_wet_salted_export_value_tcl,1000 US$,measure
 "Hides, buffalo, wet salted - Import Quantity",hides_buffalo_wet_salted_import_quantity_tcl,tonnes,measure
 "Hides, buffalo, wet salted - Import Value",hides_buffalo_wet_salted_import_value_tcl,1000 US$,measure
-"Hides, camel, nes - Export Value",hides_camel_nes_export_value_tcl,1000 US$,measure
-"Hides, camel, nes - Import Quantity",hides_camel_nes_import_quantity_tcl,tonnes,measure
-"Hides, camel, nes - Import Value",hides_camel_nes_import_value_tcl,1000 US$,measure
+"Hides, camel nes - Export Value",hides_camel_nes_export_value_tcl,1000 US$,measure
+"Hides, camel nes - Import Quantity",hides_camel_nes_import_quantity_tcl,tonnes,measure
+"Hides, camel nes - Import Value",hides_camel_nes_import_value_tcl,1000 US$,measure
 "Hides, camel, wet salted - Export Quantity",hides_camel_wet_salted_export_quantity_tcl,tonnes,measure
 "Hides, camel, wet salted - Export Value",hides_camel_wet_salted_export_value_tcl,1000 US$,measure
 "Hides, camel, wet salted - Import Quantity",hides_camel_wet_salted_import_quantity_tcl,tonnes,measure
@@ -11078,10 +11114,6 @@ Hay (unspecified) - Import Value,hay_unspecified_import_value_tcl,1000 US$,measu
 "Hides, horse, dry salted - Export Value",hides_horse_dry_salted_export_value_tcl,1000 US$,measure
 "Hides, horse, dry salted - Import Quantity",hides_horse_dry_salted_import_quantity_tcl,tonnes,measure
 "Hides, horse, dry salted - Import Value",hides_horse_dry_salted_import_value_tcl,1000 US$,measure
-"Hides, nes - Export Quantity",hides_nes_export_quantity_tcl,tonnes,measure
-"Hides, nes - Export Value",hides_nes_export_value_tcl,1000 US$,measure
-"Hides, nes - Import Quantity",hides_nes_import_quantity_tcl,tonnes,measure
-"Hides, nes - Import Value",hides_nes_import_value_tcl,1000 US$,measure
 "Honey, natural - Export Quantity",honey_natural_export_quantity_tcl,tonnes,measure
 "Honey, natural - Export Value",honey_natural_export_value_tcl,1000 US$,measure
 "Honey, natural - Import Quantity",honey_natural_import_quantity_tcl,tonnes,measure
@@ -11098,6 +11130,14 @@ Infant food - Export Quantity,infant_food_export_quantity_tcl,tonnes,measure
 Infant food - Export Value,infant_food_export_value_tcl,1000 US$,measure
 Infant food - Import Quantity,infant_food_import_quantity_tcl,tonnes,measure
 Infant food - Import Value,infant_food_import_value_tcl,1000 US$,measure
+"Juice, apple, concentrated - Export Quantity",juice_apple_concentrated_export_quantity_tcl,tonnes,measure
+"Juice, apple, concentrated - Export Value",juice_apple_concentrated_export_value_tcl,1000 US$,measure
+"Juice, apple, concentrated - Import Quantity",juice_apple_concentrated_import_quantity_tcl,tonnes,measure
+"Juice, apple, concentrated - Import Value",juice_apple_concentrated_import_value_tcl,1000 US$,measure
+"Juice, apple, single strength - Export Quantity",juice_apple_single_strength_export_quantity_tcl,tonnes,measure
+"Juice, apple, single strength - Export Value",juice_apple_single_strength_export_value_tcl,1000 US$,measure
+"Juice, apple, single strength - Import Quantity",juice_apple_single_strength_import_quantity_tcl,tonnes,measure
+"Juice, apple, single strength - Import Value",juice_apple_single_strength_import_value_tcl,1000 US$,measure
 "Juice, citrus, concentrated - Export Quantity",juice_citrus_concentrated_export_quantity_tcl,tonnes,measure
 "Juice, citrus, concentrated - Export Value",juice_citrus_concentrated_export_value_tcl,1000 US$,measure
 "Juice, citrus, concentrated - Import Quantity",juice_citrus_concentrated_import_quantity_tcl,tonnes,measure
@@ -11126,6 +11166,10 @@ Infant food - Import Value,infant_food_import_value_tcl,1000 US$,measure
 "Juice, lemon, concentrated - Export Value",juice_lemon_concentrated_export_value_tcl,1000 US$,measure
 "Juice, lemon, concentrated - Import Quantity",juice_lemon_concentrated_import_quantity_tcl,tonnes,measure
 "Juice, lemon, concentrated - Import Value",juice_lemon_concentrated_import_value_tcl,1000 US$,measure
+"Juice, lemon, single strength - Export Quantity",juice_lemon_single_strength_export_quantity_tcl,tonnes,measure
+"Juice, lemon, single strength - Export Value",juice_lemon_single_strength_export_value_tcl,1000 US$,measure
+"Juice, lemon, single strength - Import Quantity",juice_lemon_single_strength_import_quantity_tcl,tonnes,measure
+"Juice, lemon, single strength - Import Value",juice_lemon_single_strength_import_value_tcl,1000 US$,measure
 "Juice, orange, concentrated - Export Quantity",juice_orange_concentrated_export_quantity_tcl,tonnes,measure
 "Juice, orange, concentrated - Export Value",juice_orange_concentrated_export_value_tcl,1000 US$,measure
 "Juice, orange, concentrated - Import Quantity",juice_orange_concentrated_import_quantity_tcl,tonnes,measure
@@ -11174,6 +11218,10 @@ Kapokseed shelled - Export Quantity,kapokseed_shelled_export_quantity_tcl,tonnes
 Kapokseed shelled - Export Value,kapokseed_shelled_export_value_tcl,1000 US$,measure
 Kapokseed shelled - Import Quantity,kapokseed_shelled_import_quantity_tcl,tonnes,measure
 Kapokseed shelled - Import Value,kapokseed_shelled_import_value_tcl,1000 US$,measure
+Karite nuts (sheanuts) - Export Quantity,karite_nuts_sheanuts_export_quantity_tcl,tonnes,measure
+Karite nuts (sheanuts) - Export Value,karite_nuts_sheanuts_export_value_tcl,1000 US$,measure
+Karite nuts (sheanuts) - Import Quantity,karite_nuts_sheanuts_import_quantity_tcl,tonnes,measure
+Karite nuts (sheanuts) - Import Value,karite_nuts_sheanuts_import_value_tcl,1000 US$,measure
 Kiwi fruit - Export Quantity,kiwi_fruit_export_quantity_tcl,tonnes,measure
 Kiwi fruit - Export Value,kiwi_fruit_export_value_tcl,1000 US$,measure
 Kiwi fruit - Import Quantity,kiwi_fruit_import_quantity_tcl,tonnes,measure
@@ -11274,6 +11322,10 @@ Meat Sheep Fresh - Import Quantity,meat_sheep_fresh_import_quantity_tcl,tonnes,m
 Meat Sheep Fresh - Import Value,meat_sheep_fresh_import_value_tcl,1000 US$,measure
 Meat and Meat Preparations - Export Value,meat_and_meat_preparations_export_value_tcl,1000 US$,measure
 Meat and Meat Preparations - Import Value,meat_and_meat_preparations_import_value_tcl,1000 US$,measure
+Meat nes - Export Quantity,meat_nes_export_quantity_tcl,tonnes,measure
+Meat nes - Export Value,meat_nes_export_value_tcl,1000 US$,measure
+Meat nes - Import Quantity,meat_nes_import_quantity_tcl,tonnes,measure
+Meat nes - Import Value,meat_nes_import_value_tcl,1000 US$,measure
 Meat of Swine - Export Quantity,meat_of_swine_export_quantity_tcl,tonnes,measure
 Meat of Swine - Export Value,meat_of_swine_export_value_tcl,1000 US$,measure
 Meat of Swine - Import Quantity,meat_of_swine_import_quantity_tcl,tonnes,measure
@@ -11329,10 +11381,6 @@ Meat of Swine - Import Value,meat_of_swine_import_value_tcl,1000 US$,measure
 "Meat, horse - Export Value",meat_horse_export_value_tcl,1000 US$,measure
 "Meat, horse - Import Quantity",meat_horse_import_quantity_tcl,tonnes,measure
 "Meat, horse - Import Value",meat_horse_import_value_tcl,1000 US$,measure
-"Meat, nes - Export Quantity",meat_nes_export_quantity_tcl,tonnes,measure
-"Meat, nes - Export Value",meat_nes_export_value_tcl,1000 US$,measure
-"Meat, nes - Import Quantity",meat_nes_import_quantity_tcl,tonnes,measure
-"Meat, nes - Import Value",meat_nes_import_value_tcl,1000 US$,measure
 "Meat, pig - Export Quantity",meat_pig_export_quantity_tcl,tonnes,measure
 "Meat, pig - Export Value",meat_pig_export_value_tcl,1000 US$,measure
 "Meat, pig - Import Quantity",meat_pig_import_quantity_tcl,tonnes,measure
@@ -11455,10 +11503,10 @@ Natural Rubber - Import Value,natural_rubber_import_value_tcl,1000 US$,measure
 "Nutmeg, mace and cardamoms - Export Value",nutmeg_mace_and_cardamoms_export_value_tcl,1000 US$,measure
 "Nutmeg, mace and cardamoms - Import Quantity",nutmeg_mace_and_cardamoms_import_quantity_tcl,tonnes,measure
 "Nutmeg, mace and cardamoms - Import Value",nutmeg_mace_and_cardamoms_import_value_tcl,1000 US$,measure
-"Nuts, nes - Export Quantity",nuts_nes_export_quantity_tcl,tonnes,measure
-"Nuts, nes - Export Value",nuts_nes_export_value_tcl,1000 US$,measure
-"Nuts, nes - Import Quantity",nuts_nes_import_quantity_tcl,tonnes,measure
-"Nuts, nes - Import Value",nuts_nes_import_value_tcl,1000 US$,measure
+Nuts nes - Export Quantity,nuts_nes_export_quantity_tcl,tonnes,measure
+Nuts nes - Export Value,nuts_nes_export_value_tcl,1000 US$,measure
+Nuts nes - Import Quantity,nuts_nes_import_quantity_tcl,tonnes,measure
+Nuts nes - Import Value,nuts_nes_import_value_tcl,1000 US$,measure
 "Nuts, prepared (exc. groundnuts) - Export Quantity",nuts_prepared_exc_groundnuts_export_quantity_tcl,tonnes,measure
 "Nuts, prepared (exc. groundnuts) - Export Value",nuts_prepared_exc_groundnuts_export_value_tcl,1000 US$,measure
 "Nuts, prepared (exc. groundnuts) - Import Quantity",nuts_prepared_exc_groundnuts_import_quantity_tcl,tonnes,measure
@@ -11612,10 +11660,10 @@ Oilseeds nes - Export Quantity,oilseeds_nes_export_quantity_tcl,tonnes,measure
 Oilseeds nes - Export Value,oilseeds_nes_export_value_tcl,1000 US$,measure
 Oilseeds nes - Import Quantity,oilseeds_nes_import_quantity_tcl,tonnes,measure
 Oilseeds nes - Import Value,oilseeds_nes_import_value_tcl,1000 US$,measure
-"Olive Oil,Total - Export Quantity",olive_oil_total_export_quantity_tcl,tonnes,measure
-"Olive Oil,Total - Export Value",olive_oil_total_export_value_tcl,1000 US$,measure
-"Olive Oil,Total - Import Quantity",olive_oil_total_import_quantity_tcl,tonnes,measure
-"Olive Oil,Total - Import Value",olive_oil_total_import_value_tcl,1000 US$,measure
+"Olive Oil, Total - Export Quantity",olive_oil_total_export_quantity_tcl,tonnes,measure
+"Olive Oil, Total - Export Value",olive_oil_total_export_value_tcl,1000 US$,measure
+"Olive Oil, Total - Import Quantity",olive_oil_total_import_quantity_tcl,tonnes,measure
+"Olive Oil, Total - Import Value",olive_oil_total_import_value_tcl,1000 US$,measure
 Olives - Export Quantity,olives_export_quantity_tcl,tonnes,measure
 Olives - Export Value,olives_export_value_tcl,1000 US$,measure
 Olives - Import Quantity,olives_import_quantity_tcl,tonnes,measure
@@ -11770,6 +11818,10 @@ Quinces - Export Quantity,quinces_export_quantity_tcl,tonnes,measure
 Quinces - Export Value,quinces_export_value_tcl,1000 US$,measure
 Quinces - Import Quantity,quinces_import_quantity_tcl,tonnes,measure
 Quinces - Import Value,quinces_import_value_tcl,1000 US$,measure
+Quinoa - Export Quantity,quinoa_export_quantity_tcl,tonnes,measure
+Quinoa - Export Value,quinoa_export_value_tcl,1000 US$,measure
+Quinoa - Import Quantity,quinoa_import_quantity_tcl,tonnes,measure
+Quinoa - Import Value,quinoa_import_value_tcl,1000 US$,measure
 Raisins - Export Quantity,raisins_export_quantity_tcl,tonnes,measure
 Raisins - Export Value,raisins_export_value_tcl,1000 US$,measure
 Raisins - Import Quantity,raisins_import_quantity_tcl,tonnes,measure
@@ -11794,10 +11846,22 @@ Rice - total  (Rice milled equivalent) - Export Quantity,rice_total_rice_milled_
 Rice - total  (Rice milled equivalent) - Export Value,rice_total_rice_milled_equivalent_export_value_tcl,1000 US$,measure
 Rice - total  (Rice milled equivalent) - Import Quantity,rice_total_rice_milled_equivalent_import_quantity_tcl,tonnes,measure
 Rice - total  (Rice milled equivalent) - Import Value,rice_total_rice_milled_equivalent_import_value_tcl,1000 US$,measure
-"Roots and tubers, nes - Export Quantity",roots_and_tubers_nes_export_quantity_tcl,tonnes,measure
-"Roots and tubers, nes - Export Value",roots_and_tubers_nes_export_value_tcl,1000 US$,measure
-"Roots and tubers, nes - Import Quantity",roots_and_tubers_nes_import_quantity_tcl,tonnes,measure
-"Roots and tubers, nes - Import Value",roots_and_tubers_nes_import_value_tcl,1000 US$,measure
+"Rice, broken - Export Quantity",rice_broken_export_quantity_tcl,tonnes,measure
+"Rice, broken - Export Value",rice_broken_export_value_tcl,1000 US$,measure
+"Rice, broken - Import Quantity",rice_broken_import_quantity_tcl,tonnes,measure
+"Rice, broken - Import Value",rice_broken_import_value_tcl,1000 US$,measure
+"Rice, husked - Export Quantity",rice_husked_export_quantity_tcl,tonnes,measure
+"Rice, husked - Export Value",rice_husked_export_value_tcl,1000 US$,measure
+"Rice, husked - Import Quantity",rice_husked_import_quantity_tcl,tonnes,measure
+"Rice, husked - Import Value",rice_husked_import_value_tcl,1000 US$,measure
+"Rice, milled - Export Quantity",rice_milled_export_quantity_tcl,tonnes,measure
+"Rice, milled - Export Value",rice_milled_export_value_tcl,1000 US$,measure
+"Rice, milled - Import Quantity",rice_milled_import_quantity_tcl,tonnes,measure
+"Rice, milled - Import Value",rice_milled_import_value_tcl,1000 US$,measure
+Roots and tubers nes - Export Quantity,roots_and_tubers_nes_export_quantity_tcl,tonnes,measure
+Roots and tubers nes - Export Value,roots_and_tubers_nes_export_value_tcl,1000 US$,measure
+Roots and tubers nes - Import Quantity,roots_and_tubers_nes_import_quantity_tcl,tonnes,measure
+Roots and tubers nes - Import Value,roots_and_tubers_nes_import_value_tcl,1000 US$,measure
 Rubber natural dry - Export Quantity,rubber_natural_dry_export_quantity_tcl,tonnes,measure
 Rubber natural dry - Export Value,rubber_natural_dry_export_value_tcl,1000 US$,measure
 Rubber natural dry - Import Quantity,rubber_natural_dry_import_quantity_tcl,tonnes,measure
@@ -11818,10 +11882,10 @@ Silk - Export Quantity,silk_export_quantity_tcl,tonnes,measure
 Silk - Export Value,silk_export_value_tcl,1000 US$,measure
 Silk - Import Quantity,silk_import_quantity_tcl,tonnes,measure
 Silk - Import Value,silk_import_value_tcl,1000 US$,measure
-Silk raw - Export Quantity,silk_raw_export_quantity_tcl,tonnes,measure
-Silk raw - Export Value,silk_raw_export_value_tcl,1000 US$,measure
-Silk raw - Import Quantity,silk_raw_import_quantity_tcl,tonnes,measure
-Silk raw - Import Value,silk_raw_import_value_tcl,1000 US$,measure
+"Silk, raw - Export Quantity",silk_raw_export_quantity_tcl,tonnes,measure
+"Silk, raw - Export Value",silk_raw_export_value_tcl,1000 US$,measure
+"Silk, raw - Import Quantity",silk_raw_import_quantity_tcl,tonnes,measure
+"Silk, raw - Import Value",silk_raw_import_value_tcl,1000 US$,measure
 "Silk-worm cocoons, reelable - Export Quantity",silk_worm_cocoons_reelable_export_quantity_tcl,tonnes,measure
 "Silk-worm cocoons, reelable - Export Value",silk_worm_cocoons_reelable_export_value_tcl,1000 US$,measure
 "Silk-worm cocoons, reelable - Import Quantity",silk_worm_cocoons_reelable_import_quantity_tcl,tonnes,measure
@@ -11866,10 +11930,10 @@ Soybeans - Export Quantity,soybeans_export_quantity_tcl,tonnes,measure
 Soybeans - Export Value,soybeans_export_value_tcl,1000 US$,measure
 Soybeans - Import Quantity,soybeans_import_quantity_tcl,tonnes,measure
 Soybeans - Import Value,soybeans_import_value_tcl,1000 US$,measure
-"Spices, nes - Export Quantity",spices_nes_export_quantity_tcl,tonnes,measure
-"Spices, nes - Export Value",spices_nes_export_value_tcl,1000 US$,measure
-"Spices, nes - Import Quantity",spices_nes_import_quantity_tcl,tonnes,measure
-"Spices, nes - Import Value",spices_nes_import_value_tcl,1000 US$,measure
+Spices nes - Export Quantity,spices_nes_export_quantity_tcl,tonnes,measure
+Spices nes - Export Value,spices_nes_export_value_tcl,1000 US$,measure
+Spices nes - Import Quantity,spices_nes_import_quantity_tcl,tonnes,measure
+Spices nes - Import Value,spices_nes_import_value_tcl,1000 US$,measure
 Spinach - Export Quantity,spinach_export_quantity_tcl,tonnes,measure
 Spinach - Export Value,spinach_export_value_tcl,1000 US$,measure
 Spinach - Import Quantity,spinach_import_quantity_tcl,tonnes,measure
@@ -11902,10 +11966,14 @@ Sugar confectionery - Export Quantity,sugar_confectionery_export_quantity_tcl,to
 Sugar confectionery - Export Value,sugar_confectionery_export_value_tcl,1000 US$,measure
 Sugar confectionery - Import Quantity,sugar_confectionery_import_quantity_tcl,tonnes,measure
 Sugar confectionery - Import Value,sugar_confectionery_import_value_tcl,1000 US$,measure
-"Sugar crops, nes - Export Quantity",sugar_crops_nes_export_quantity_tcl,tonnes,measure
-"Sugar crops, nes - Export Value",sugar_crops_nes_export_value_tcl,1000 US$,measure
-"Sugar crops, nes - Import Quantity",sugar_crops_nes_import_quantity_tcl,tonnes,measure
-"Sugar crops, nes - Import Value",sugar_crops_nes_import_value_tcl,1000 US$,measure
+Sugar crops nes - Export Quantity,sugar_crops_nes_export_quantity_tcl,tonnes,measure
+Sugar crops nes - Export Value,sugar_crops_nes_export_value_tcl,1000 US$,measure
+Sugar crops nes - Import Quantity,sugar_crops_nes_import_quantity_tcl,tonnes,measure
+Sugar crops nes - Import Value,sugar_crops_nes_import_value_tcl,1000 US$,measure
+Sugar nes - Export Quantity,sugar_nes_export_quantity_tcl,tonnes,measure
+Sugar nes - Export Value,sugar_nes_export_value_tcl,1000 US$,measure
+Sugar nes - Import Quantity,sugar_nes_import_quantity_tcl,tonnes,measure
+Sugar nes - Import Value,sugar_nes_import_value_tcl,1000 US$,measure
 Sugar non-centrifugal - Export Quantity,sugar_non_centrifugal_export_quantity_tcl,tonnes,measure
 Sugar non-centrifugal - Export Value,sugar_non_centrifugal_export_value_tcl,1000 US$,measure
 Sugar non-centrifugal - Import Quantity,sugar_non_centrifugal_import_quantity_tcl,tonnes,measure
@@ -11914,14 +11982,10 @@ Sugar refined - Export Quantity,sugar_refined_export_quantity_tcl,tonnes,measure
 Sugar refined - Export Value,sugar_refined_export_value_tcl,1000 US$,measure
 Sugar refined - Import Quantity,sugar_refined_import_quantity_tcl,tonnes,measure
 Sugar refined - Import Value,sugar_refined_import_value_tcl,1000 US$,measure
-"Sugar, nes - Export Quantity",sugar_nes_export_quantity_tcl,tonnes,measure
-"Sugar, nes - Export Value",sugar_nes_export_value_tcl,1000 US$,measure
-"Sugar, nes - Import Quantity",sugar_nes_import_quantity_tcl,tonnes,measure
-"Sugar, nes - Import Value",sugar_nes_import_value_tcl,1000 US$,measure
-"Sugar,Total (Raw Equiv.) - Export Quantity",sugar_total_raw_equiv_export_quantity_tcl,tonnes,measure
-"Sugar,Total (Raw Equiv.) - Export Value",sugar_total_raw_equiv_export_value_tcl,1000 US$,measure
-"Sugar,Total (Raw Equiv.) - Import Quantity",sugar_total_raw_equiv_import_quantity_tcl,tonnes,measure
-"Sugar,Total (Raw Equiv.) - Import Value",sugar_total_raw_equiv_import_value_tcl,1000 US$,measure
+"Sugar, Total (Raw Equiv.) - Export Quantity",sugar_total_raw_equiv_export_quantity_tcl,tonnes,measure
+"Sugar, Total (Raw Equiv.) - Export Value",sugar_total_raw_equiv_export_value_tcl,1000 US$,measure
+"Sugar, Total (Raw Equiv.) - Import Quantity",sugar_total_raw_equiv_import_quantity_tcl,tonnes,measure
+"Sugar, Total (Raw Equiv.) - Import Value",sugar_total_raw_equiv_import_value_tcl,1000 US$,measure
 Sunflower seed - Export Quantity,sunflower_seed_export_quantity_tcl,tonnes,measure
 Sunflower seed - Export Value,sunflower_seed_export_value_tcl,1000 US$,measure
 Sunflower seed - Import Quantity,sunflower_seed_import_quantity_tcl,tonnes,measure
@@ -12119,6 +12183,10 @@ Wine+Vermouth+Sim. - Import Value,wine_vermouth_sim_import_value_tcl,1000 US$,me
 "Wool, hair waste - Export Value",wool_hair_waste_export_value_tcl,1000 US$,measure
 "Wool, hair waste - Import Quantity",wool_hair_waste_import_quantity_tcl,tonnes,measure
 "Wool, hair waste - Import Value",wool_hair_waste_import_value_tcl,1000 US$,measure
+Yoghurt - Export Quantity,yoghurt_export_quantity_tcl,tonnes,measure
+Yoghurt - Export Value,yoghurt_export_value_tcl,1000 US$,measure
+Yoghurt - Import Quantity,yoghurt_import_quantity_tcl,tonnes,measure
+Yoghurt - Import Value,yoghurt_import_value_tcl,1000 US$,measure
 "Yoghurt, concentrated or not - Export Quantity",yoghurt_concentrated_or_not_export_quantity_tcl,tonnes,measure
 "Yoghurt, concentrated or not - Export Value",yoghurt_concentrated_or_not_export_value_tcl,1000 US$,measure
 "Yoghurt, concentrated or not - Import Quantity",yoghurt_concentrated_or_not_import_quantity_tcl,tonnes,measure
