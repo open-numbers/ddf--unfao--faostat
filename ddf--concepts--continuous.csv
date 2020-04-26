@@ -1657,14 +1657,20 @@ Wheat - Indirect emissions (CO2eq) (Crop residues),wheat_indirect_emissions_co2e
 Wheat - Indirect emissions (N2O) (Crop residues),wheat_indirect_emissions_n2o_crop_residues_eac,gigagrams,measure
 Wheat - Residues (Crop residues),wheat_residues_crop_residues_eac,kg of nutrients,measure
 Cropland and grassland organic soils - Area,cropland_and_grassland_organic_soils_area_eac1,ha,measure
-Cropland and grassland organic soils - Emissions (CO2eq) (Cultivation of organic soils),cropland_and_grassland_organic_soils_emissions_co2eq_cultivation_of_organic_soils_eac1,gigagrams,measure
+Cropland and grassland organic soils - Emissions (CO2eq) from N2O (AR4),cropland_and_grassland_organic_soils_emissions_co2eq_from_n2o_ar4_eac1,gigagrams,measure
+Cropland and grassland organic soils - Emissions (CO2eq) from N2O (AR5),cropland_and_grassland_organic_soils_emissions_co2eq_from_n2o_ar5_eac1,gigagrams,measure
+Cropland and grassland organic soils - Emissions (CO2eq) from N2O (SAR),cropland_and_grassland_organic_soils_emissions_co2eq_from_n2o_sar_eac1,gigagrams,measure
 Cropland and grassland organic soils - Emissions (N2O) (Cultivation of organic soils),cropland_and_grassland_organic_soils_emissions_n2o_cultivation_of_organic_soils_eac1,gigagrams,measure
 Cropland organic soils - Area,cropland_organic_soils_area_eac1,ha,measure
-Cropland organic soils - Emissions (CO2eq) (Cultivation of organic soils),cropland_organic_soils_emissions_co2eq_cultivation_of_organic_soils_eac1,gigagrams,measure
+Cropland organic soils - Emissions (CO2eq) from N2O (AR4),cropland_organic_soils_emissions_co2eq_from_n2o_ar4_eac1,gigagrams,measure
+Cropland organic soils - Emissions (CO2eq) from N2O (AR5),cropland_organic_soils_emissions_co2eq_from_n2o_ar5_eac1,gigagrams,measure
+Cropland organic soils - Emissions (CO2eq) from N2O (SAR),cropland_organic_soils_emissions_co2eq_from_n2o_sar_eac1,gigagrams,measure
 Cropland organic soils - Emissions (N2O) (Cultivation of organic soils),cropland_organic_soils_emissions_n2o_cultivation_of_organic_soils_eac1,gigagrams,measure
 Cropland organic soils - Implied emission factor for N2O (Cultivation of organic soils),cropland_organic_soils_implied_emission_factor_for_n2o_cultivation_of_organic_soils_eac1,kg N2O-N/ha,measure
 Grassland organic soils - Area,grassland_organic_soils_area_eac1,ha,measure
-Grassland organic soils - Emissions (CO2eq) (Cultivation of organic soils),grassland_organic_soils_emissions_co2eq_cultivation_of_organic_soils_eac1,gigagrams,measure
+Grassland organic soils - Emissions (CO2eq) from N2O (AR4),grassland_organic_soils_emissions_co2eq_from_n2o_ar4_eac1,gigagrams,measure
+Grassland organic soils - Emissions (CO2eq) from N2O (AR5),grassland_organic_soils_emissions_co2eq_from_n2o_ar5_eac1,gigagrams,measure
+Grassland organic soils - Emissions (CO2eq) from N2O (SAR),grassland_organic_soils_emissions_co2eq_from_n2o_sar_eac1,gigagrams,measure
 Grassland organic soils - Emissions (N2O) (Cultivation of organic soils),grassland_organic_soils_emissions_n2o_cultivation_of_organic_soils_eac1,gigagrams,measure
 Grassland organic soils - Implied emission factor for N2O (Cultivation of organic soils),grassland_organic_soils_implied_emission_factor_for_n2o_cultivation_of_organic_soils_eac1,kg N2O-N/ha,measure
 Coal - Consumption in Agriculture,coal_consumption_in_agriculture_eae,Terajoule,measure
