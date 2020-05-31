@@ -1406,14 +1406,14 @@ Wool (Clean Eq.) - Production,wool_clean_eq_production_cle,tonnes,measure
 Wool (Clean Eq.) - Stock Variation,wool_clean_eq_stock_variation_cle,tonnes,measure
 "Consumer Prices, Food Indices (2010 = 100)",consumer_prices_food_indices_2010_100_cea,,measure
 "Consumer Prices, General Indices (2010 = 100)",consumer_prices_general_indices_2010_100_cea,,measure
-"GDP Deflator - Value Local Currency, 2010 prices",gdp_deflator_value_local_currency_2010_prices_dea,LCU,measure
-"GDP Deflator - Value US$, 2010 prices",gdp_deflator_value_us_2010_prices_dea,US$,measure
-"Gross Fixed Capital Formation Deflator - Value Local Currency, 2010 prices",gross_fixed_capital_formation_deflator_value_local_currency_2010_prices_dea,LCU,measure
-"Gross Fixed Capital Formation Deflator - Value US$, 2010 prices",gross_fixed_capital_formation_deflator_value_us_2010_prices_dea,US$,measure
-"Value Added Deflator (Agriculture, forestry and fishery) - Value Local Currency, 2010 prices",value_added_deflator_agriculture_forestry_and_fishery_value_local_currency_2010_prices_dea,LCU,measure
-"Value Added Deflator (Agriculture, forestry and fishery) - Value US$, 2010 prices",value_added_deflator_agriculture_forestry_and_fishery_value_us_2010_prices_dea,US$,measure
-"Value Added Deflator (Manufacturing) - Value Local Currency, 2010 prices",value_added_deflator_manufacturing_value_local_currency_2010_prices_dea,LCU,measure
-"Value Added Deflator (Manufacturing) - Value US$, 2010 prices",value_added_deflator_manufacturing_value_us_2010_prices_dea,US$,measure
+"GDP Deflator - Value Local Currency, 2015 prices",gdp_deflator_value_local_currency_2015_prices_dea,LCU,measure
+"GDP Deflator - Value US$, 2015 prices",gdp_deflator_value_us_2015_prices_dea,US$,measure
+"Gross Fixed Capital Formation Deflator - Value Local Currency, 2015 prices",gross_fixed_capital_formation_deflator_value_local_currency_2015_prices_dea,LCU,measure
+"Gross Fixed Capital Formation Deflator - Value US$, 2015 prices",gross_fixed_capital_formation_deflator_value_us_2015_prices_dea,US$,measure
+"Value Added Deflator (Agriculture, forestry and fishery) - Value Local Currency, 2015 prices",value_added_deflator_agriculture_forestry_and_fishery_value_local_currency_2015_prices_dea,LCU,measure
+"Value Added Deflator (Agriculture, forestry and fishery) - Value US$, 2015 prices",value_added_deflator_agriculture_forestry_and_fishery_value_us_2015_prices_dea,US$,measure
+"Value Added Deflator (Manufacturing) - Value Local Currency, 2015 prices",value_added_deflator_manufacturing_value_local_currency_2015_prices_dea,LCU,measure
+"Value Added Deflator (Manufacturing) - Value US$, 2015 prices",value_added_deflator_manufacturing_value_us_2015_prices_dea,US$,measure
 Agricultural Soils - Emissions (CO2eq),agricultural_soils_emissions_co2eq_eaa,gigagrams,measure
 Agricultural Soils - Emissions (CO2eq) from N2O,agricultural_soils_emissions_co2eq_from_n2o_eaa,gigagrams,measure
 Agriculture total - Emissions (CH4),agriculture_total_emissions_ch4_eaa,gigagrams,measure
@@ -8275,6 +8275,7 @@ Seed Treat Insect  Organo-phosphates - Agricultural Use,seed_treat_insect_orga
 Seed Treat Insect  Other - Agricultural Use,seed_treat_insect_other_agricultural_use_ipu,tonnes,measure
 Seed Treat Insect  Pyrethroids - Agricultural Use,seed_treat_insect_pyrethroids_agricultural_use_ipu,tonnes,measure
 "Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency",consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_ice,millions,measure
+"Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value Local Currency, 2010 prices",consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_local_currency_2010_prices_ice,millions,measure
 "Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$",consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_ice,millions,measure
 "Consumption of Fixed Capital (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",consumption_of_fixed_capital_agriculture_forestry_and_fishing_value_us_2010_prices_ice,millions,measure
 "Gross Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",gross_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice,millions,measure
@@ -8282,16 +8283,18 @@ Seed Treat Insect  Pyrethroids - Agricultural Use,seed_treat_insect_pyrethroid
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$",gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_ice,index,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us_2010_prices_ice,index,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_2010_prices_ice,index,measure
-"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_ice,,measure
-"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_ice,,measure
-"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_2010_prices_ice,,measure
-"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_2010_prices_ice,,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_ice,ratio,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_ice,ratio,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us_2010_prices_ice,ratio,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_2010_prices_ice,ratio,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency",gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_ice,millions,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value Local Currency, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_local_currency_2010_prices_ice,millions,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice,millions,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_2010_prices_ice,millions,measure
 "Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency",net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_ice,millions,measure
 "Net Capital Stocks (Agriculture, Forestry and Fishing) - Value Local Currency, 2010 prices",net_capital_stocks_agriculture_forestry_and_fishing_value_local_currency_2010_prices_ice,millions,measure
 "Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$",net_capital_stocks_agriculture_forestry_and_fishing_value_us_ice,millions,measure
+"Net Capital Stocks (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",net_capital_stocks_agriculture_forestry_and_fishing_value_us_2010_prices_ice,millions,measure
 "Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",agriculture_forestry_fishing_central_government_agriculture_orientation_index_ice1,index,measure
 "Agriculture, forestry, fishing (Central Government) - Annual growth US$",agriculture_forestry_fishing_central_government_annual_growth_us_ice1,%,measure
 "Agriculture, forestry, fishing (Central Government) - Annual growth, US$, 2010 prices",agriculture_forestry_fishing_central_government_annual_growth_us_2010_prices_ice1,%,measure
@@ -8647,36 +8650,48 @@ Population - Est. & Proj. - Urban population,population_est_proj_urban_populatio
 Agave fibres nes - Producer Price (LCU/tonne),agave_fibres_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Agave fibres nes - Producer Price (SLC/tonne),agave_fibres_nes_producer_price_slc_tonne_pea2,SLC,measure
 Agave fibres nes - Producer Price (USD/tonne),agave_fibres_nes_producer_price_usd_tonne_pea2,USD,measure
+Agave fibres nes - Producer Price Index (2014-2016 = 100),agave_fibres_nes_producer_price_index_2014_2016_100_pea2,,measure
+Agriculture (PIN) - Producer Price Index (2014-2016 = 100),agriculture_pin_producer_price_index_2014_2016_100_pea2,,measure
 "Almonds, with shell - Producer Price (LCU/tonne)",almonds_with_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Almonds, with shell - Producer Price (SLC/tonne)",almonds_with_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Almonds, with shell - Producer Price (USD/tonne)",almonds_with_shell_producer_price_usd_tonne_pea2,USD,measure
+"Almonds, with shell - Producer Price Index (2014-2016 = 100)",almonds_with_shell_producer_price_index_2014_2016_100_pea2,,measure
 "Anise, badian, fennel, coriander - Producer Price (LCU/tonne)",anise_badian_fennel_coriander_producer_price_lcu_tonne_pea2,LCU,measure
 "Anise, badian, fennel, coriander - Producer Price (SLC/tonne)",anise_badian_fennel_coriander_producer_price_slc_tonne_pea2,SLC,measure
 "Anise, badian, fennel, coriander - Producer Price (USD/tonne)",anise_badian_fennel_coriander_producer_price_usd_tonne_pea2,USD,measure
+"Anise, badian, fennel, coriander - Producer Price Index (2014-2016 = 100)",anise_badian_fennel_coriander_producer_price_index_2014_2016_100_pea2,,measure
 Apples - Producer Price (LCU/tonne),apples_producer_price_lcu_tonne_pea2,LCU,measure
 Apples - Producer Price (SLC/tonne),apples_producer_price_slc_tonne_pea2,SLC,measure
 Apples - Producer Price (USD/tonne),apples_producer_price_usd_tonne_pea2,USD,measure
+Apples - Producer Price Index (2014-2016 = 100),apples_producer_price_index_2014_2016_100_pea2,,measure
 Apricots - Producer Price (LCU/tonne),apricots_producer_price_lcu_tonne_pea2,LCU,measure
 Apricots - Producer Price (SLC/tonne),apricots_producer_price_slc_tonne_pea2,SLC,measure
 Apricots - Producer Price (USD/tonne),apricots_producer_price_usd_tonne_pea2,USD,measure
+Apricots - Producer Price Index (2014-2016 = 100),apricots_producer_price_index_2014_2016_100_pea2,,measure
 Areca nuts - Producer Price (LCU/tonne),areca_nuts_producer_price_lcu_tonne_pea2,LCU,measure
 Areca nuts - Producer Price (SLC/tonne),areca_nuts_producer_price_slc_tonne_pea2,SLC,measure
 Areca nuts - Producer Price (USD/tonne),areca_nuts_producer_price_usd_tonne_pea2,USD,measure
+Areca nuts - Producer Price Index (2014-2016 = 100),areca_nuts_producer_price_index_2014_2016_100_pea2,,measure
 Artichokes - Producer Price (LCU/tonne),artichokes_producer_price_lcu_tonne_pea2,LCU,measure
 Artichokes - Producer Price (SLC/tonne),artichokes_producer_price_slc_tonne_pea2,SLC,measure
 Artichokes - Producer Price (USD/tonne),artichokes_producer_price_usd_tonne_pea2,USD,measure
+Artichokes - Producer Price Index (2014-2016 = 100),artichokes_producer_price_index_2014_2016_100_pea2,,measure
 Asparagus - Producer Price (LCU/tonne),asparagus_producer_price_lcu_tonne_pea2,LCU,measure
 Asparagus - Producer Price (SLC/tonne),asparagus_producer_price_slc_tonne_pea2,SLC,measure
 Asparagus - Producer Price (USD/tonne),asparagus_producer_price_usd_tonne_pea2,USD,measure
+Asparagus - Producer Price Index (2014-2016 = 100),asparagus_producer_price_index_2014_2016_100_pea2,,measure
 Avocados - Producer Price (LCU/tonne),avocados_producer_price_lcu_tonne_pea2,LCU,measure
 Avocados - Producer Price (SLC/tonne),avocados_producer_price_slc_tonne_pea2,SLC,measure
 Avocados - Producer Price (USD/tonne),avocados_producer_price_usd_tonne_pea2,USD,measure
+Avocados - Producer Price Index (2014-2016 = 100),avocados_producer_price_index_2014_2016_100_pea2,,measure
 Bambara beans - Producer Price (LCU/tonne),bambara_beans_producer_price_lcu_tonne_pea2,LCU,measure
 Bambara beans - Producer Price (SLC/tonne),bambara_beans_producer_price_slc_tonne_pea2,SLC,measure
 Bambara beans - Producer Price (USD/tonne),bambara_beans_producer_price_usd_tonne_pea2,USD,measure
+Bambara beans - Producer Price Index (2014-2016 = 100),bambara_beans_producer_price_index_2014_2016_100_pea2,,measure
 Bananas - Producer Price (LCU/tonne),bananas_producer_price_lcu_tonne_pea2,LCU,measure
 Bananas - Producer Price (SLC/tonne),bananas_producer_price_slc_tonne_pea2,SLC,measure
 Bananas - Producer Price (USD/tonne),bananas_producer_price_usd_tonne_pea2,USD,measure
+Bananas - Producer Price Index (2014-2016 = 100),bananas_producer_price_index_2014_2016_100_pea2,,measure
 Bananas Cavendish - Producer Price (LCU/tonne),bananas_cavendish_producer_price_lcu_tonne_pea2,LCU,measure
 Bananas Cavendish - Producer Price (SLC/tonne),bananas_cavendish_producer_price_slc_tonne_pea2,SLC,measure
 Bananas Cavendish - Producer Price (USD/tonne),bananas_cavendish_producer_price_usd_tonne_pea2,USD,measure
@@ -8686,243 +8701,332 @@ Bananas non-Cavendish - Producer Price (USD/tonne),bananas_non_cavendish_produce
 Barley - Producer Price (LCU/tonne),barley_producer_price_lcu_tonne_pea2,LCU,measure
 Barley - Producer Price (SLC/tonne),barley_producer_price_slc_tonne_pea2,SLC,measure
 Barley - Producer Price (USD/tonne),barley_producer_price_usd_tonne_pea2,USD,measure
+Barley - Producer Price Index (2014-2016 = 100),barley_producer_price_index_2014_2016_100_pea2,,measure
 "Bastfibres, other - Producer Price (LCU/tonne)",bastfibres_other_producer_price_lcu_tonne_pea2,LCU,measure
 "Bastfibres, other - Producer Price (SLC/tonne)",bastfibres_other_producer_price_slc_tonne_pea2,SLC,measure
 "Bastfibres, other - Producer Price (USD/tonne)",bastfibres_other_producer_price_usd_tonne_pea2,USD,measure
+"Bastfibres, other - Producer Price Index (2014-2016 = 100)",bastfibres_other_producer_price_index_2014_2016_100_pea2,,measure
 "Beans, dry - Producer Price (LCU/tonne)",beans_dry_producer_price_lcu_tonne_pea2,LCU,measure
 "Beans, dry - Producer Price (SLC/tonne)",beans_dry_producer_price_slc_tonne_pea2,SLC,measure
 "Beans, dry - Producer Price (USD/tonne)",beans_dry_producer_price_usd_tonne_pea2,USD,measure
+"Beans, dry - Producer Price Index (2014-2016 = 100)",beans_dry_producer_price_index_2014_2016_100_pea2,,measure
 "Beans, green - Producer Price (LCU/tonne)",beans_green_producer_price_lcu_tonne_pea2,LCU,measure
 "Beans, green - Producer Price (SLC/tonne)",beans_green_producer_price_slc_tonne_pea2,SLC,measure
 "Beans, green - Producer Price (USD/tonne)",beans_green_producer_price_usd_tonne_pea2,USD,measure
+"Beans, green - Producer Price Index (2014-2016 = 100)",beans_green_producer_price_index_2014_2016_100_pea2,,measure
 Beeswax - Producer Price (LCU/tonne),beeswax_producer_price_lcu_tonne_pea2,LCU,measure
 Beeswax - Producer Price (SLC/tonne),beeswax_producer_price_slc_tonne_pea2,SLC,measure
 Beeswax - Producer Price (USD/tonne),beeswax_producer_price_usd_tonne_pea2,USD,measure
+Beeswax - Producer Price Index (2014-2016 = 100),beeswax_producer_price_index_2014_2016_100_pea2,,measure
 Berries nes - Producer Price (LCU/tonne),berries_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Berries nes - Producer Price (SLC/tonne),berries_nes_producer_price_slc_tonne_pea2,SLC,measure
 Berries nes - Producer Price (USD/tonne),berries_nes_producer_price_usd_tonne_pea2,USD,measure
+Berries nes - Producer Price Index (2014-2016 = 100),berries_nes_producer_price_index_2014_2016_100_pea2,,measure
 Blueberries - Producer Price (LCU/tonne),blueberries_producer_price_lcu_tonne_pea2,LCU,measure
 Blueberries - Producer Price (SLC/tonne),blueberries_producer_price_slc_tonne_pea2,SLC,measure
 Blueberries - Producer Price (USD/tonne),blueberries_producer_price_usd_tonne_pea2,USD,measure
+Blueberries - Producer Price Index (2014-2016 = 100),blueberries_producer_price_index_2014_2016_100_pea2,,measure
 "Brazil nuts, with shell - Producer Price (LCU/tonne)",brazil_nuts_with_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Brazil nuts, with shell - Producer Price (SLC/tonne)",brazil_nuts_with_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Brazil nuts, with shell - Producer Price (USD/tonne)",brazil_nuts_with_shell_producer_price_usd_tonne_pea2,USD,measure
+"Brazil nuts, with shell - Producer Price Index (2014-2016 = 100)",brazil_nuts_with_shell_producer_price_index_2014_2016_100_pea2,,measure
 "Broad beans, horse beans, dry - Producer Price (LCU/tonne)",broad_beans_horse_beans_dry_producer_price_lcu_tonne_pea2,LCU,measure
 "Broad beans, horse beans, dry - Producer Price (SLC/tonne)",broad_beans_horse_beans_dry_producer_price_slc_tonne_pea2,SLC,measure
 "Broad beans, horse beans, dry - Producer Price (USD/tonne)",broad_beans_horse_beans_dry_producer_price_usd_tonne_pea2,USD,measure
+"Broad beans, horse beans, dry - Producer Price Index (2014-2016 = 100)",broad_beans_horse_beans_dry_producer_price_index_2014_2016_100_pea2,,measure
 Buckwheat - Producer Price (LCU/tonne),buckwheat_producer_price_lcu_tonne_pea2,LCU,measure
 Buckwheat - Producer Price (SLC/tonne),buckwheat_producer_price_slc_tonne_pea2,SLC,measure
 Buckwheat - Producer Price (USD/tonne),buckwheat_producer_price_usd_tonne_pea2,USD,measure
+Buckwheat - Producer Price Index (2014-2016 = 100),buckwheat_producer_price_index_2014_2016_100_pea2,,measure
 Cabbages and other brassicas - Producer Price (LCU/tonne),cabbages_and_other_brassicas_producer_price_lcu_tonne_pea2,LCU,measure
 Cabbages and other brassicas - Producer Price (SLC/tonne),cabbages_and_other_brassicas_producer_price_slc_tonne_pea2,SLC,measure
 Cabbages and other brassicas - Producer Price (USD/tonne),cabbages_and_other_brassicas_producer_price_usd_tonne_pea2,USD,measure
+Cabbages and other brassicas - Producer Price Index (2014-2016 = 100),cabbages_and_other_brassicas_producer_price_index_2014_2016_100_pea2,,measure
 Canary seed - Producer Price (LCU/tonne),canary_seed_producer_price_lcu_tonne_pea2,LCU,measure
 Canary seed - Producer Price (SLC/tonne),canary_seed_producer_price_slc_tonne_pea2,SLC,measure
 Canary seed - Producer Price (USD/tonne),canary_seed_producer_price_usd_tonne_pea2,USD,measure
+Canary seed - Producer Price Index (2014-2016 = 100),canary_seed_producer_price_index_2014_2016_100_pea2,,measure
 Carobs - Producer Price (LCU/tonne),carobs_producer_price_lcu_tonne_pea2,LCU,measure
 Carobs - Producer Price (SLC/tonne),carobs_producer_price_slc_tonne_pea2,SLC,measure
 Carobs - Producer Price (USD/tonne),carobs_producer_price_usd_tonne_pea2,USD,measure
+Carobs - Producer Price Index (2014-2016 = 100),carobs_producer_price_index_2014_2016_100_pea2,,measure
 Carrots and turnips - Producer Price (LCU/tonne),carrots_and_turnips_producer_price_lcu_tonne_pea2,LCU,measure
 Carrots and turnips - Producer Price (SLC/tonne),carrots_and_turnips_producer_price_slc_tonne_pea2,SLC,measure
 Carrots and turnips - Producer Price (USD/tonne),carrots_and_turnips_producer_price_usd_tonne_pea2,USD,measure
+Carrots and turnips - Producer Price Index (2014-2016 = 100),carrots_and_turnips_producer_price_index_2014_2016_100_pea2,,measure
 "Cashew nuts, with shell - Producer Price (LCU/tonne)",cashew_nuts_with_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Cashew nuts, with shell - Producer Price (SLC/tonne)",cashew_nuts_with_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Cashew nuts, with shell - Producer Price (USD/tonne)",cashew_nuts_with_shell_producer_price_usd_tonne_pea2,USD,measure
+"Cashew nuts, with shell - Producer Price Index (2014-2016 = 100)",cashew_nuts_with_shell_producer_price_index_2014_2016_100_pea2,,measure
 Cashewapple - Producer Price (LCU/tonne),cashewapple_producer_price_lcu_tonne_pea2,LCU,measure
 Cashewapple - Producer Price (SLC/tonne),cashewapple_producer_price_slc_tonne_pea2,SLC,measure
 Cashewapple - Producer Price (USD/tonne),cashewapple_producer_price_usd_tonne_pea2,USD,measure
+Cashewapple - Producer Price Index (2014-2016 = 100),cashewapple_producer_price_index_2014_2016_100_pea2,,measure
 Cassava - Producer Price (LCU/tonne),cassava_producer_price_lcu_tonne_pea2,LCU,measure
 Cassava - Producer Price (SLC/tonne),cassava_producer_price_slc_tonne_pea2,SLC,measure
 Cassava - Producer Price (USD/tonne),cassava_producer_price_usd_tonne_pea2,USD,measure
+Cassava - Producer Price Index (2014-2016 = 100),cassava_producer_price_index_2014_2016_100_pea2,,measure
 Castor oil seed - Producer Price (LCU/tonne),castor_oil_seed_producer_price_lcu_tonne_pea2,LCU,measure
 Castor oil seed - Producer Price (SLC/tonne),castor_oil_seed_producer_price_slc_tonne_pea2,SLC,measure
 Castor oil seed - Producer Price (USD/tonne),castor_oil_seed_producer_price_usd_tonne_pea2,USD,measure
+Castor oil seed - Producer Price Index (2014-2016 = 100),castor_oil_seed_producer_price_index_2014_2016_100_pea2,,measure
 Cauliflowers and broccoli - Producer Price (LCU/tonne),cauliflowers_and_broccoli_producer_price_lcu_tonne_pea2,LCU,measure
 Cauliflowers and broccoli - Producer Price (SLC/tonne),cauliflowers_and_broccoli_producer_price_slc_tonne_pea2,SLC,measure
 Cauliflowers and broccoli - Producer Price (USD/tonne),cauliflowers_and_broccoli_producer_price_usd_tonne_pea2,USD,measure
+Cauliflowers and broccoli - Producer Price Index (2014-2016 = 100),cauliflowers_and_broccoli_producer_price_index_2014_2016_100_pea2,,measure
 Cereals nes - Producer Price (LCU/tonne),cereals_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Cereals nes - Producer Price (SLC/tonne),cereals_nes_producer_price_slc_tonne_pea2,SLC,measure
 Cereals nes - Producer Price (USD/tonne),cereals_nes_producer_price_usd_tonne_pea2,USD,measure
+Cereals nes - Producer Price Index (2014-2016 = 100),cereals_nes_producer_price_index_2014_2016_100_pea2,,measure
+"Cereals, Total - Producer Price Index (2014-2016 = 100)",cereals_total_producer_price_index_2014_2016_100_pea2,,measure
 Cherries - Producer Price (LCU/tonne),cherries_producer_price_lcu_tonne_pea2,LCU,measure
 Cherries - Producer Price (SLC/tonne),cherries_producer_price_slc_tonne_pea2,SLC,measure
 Cherries - Producer Price (USD/tonne),cherries_producer_price_usd_tonne_pea2,USD,measure
+Cherries - Producer Price Index (2014-2016 = 100),cherries_producer_price_index_2014_2016_100_pea2,,measure
 "Cherries, sour - Producer Price (LCU/tonne)",cherries_sour_producer_price_lcu_tonne_pea2,LCU,measure
 "Cherries, sour - Producer Price (SLC/tonne)",cherries_sour_producer_price_slc_tonne_pea2,SLC,measure
 "Cherries, sour - Producer Price (USD/tonne)",cherries_sour_producer_price_usd_tonne_pea2,USD,measure
+"Cherries, sour - Producer Price Index (2014-2016 = 100)",cherries_sour_producer_price_index_2014_2016_100_pea2,,measure
 Chestnut - Producer Price (LCU/tonne),chestnut_producer_price_lcu_tonne_pea2,LCU,measure
 Chestnut - Producer Price (SLC/tonne),chestnut_producer_price_slc_tonne_pea2,SLC,measure
 Chestnut - Producer Price (USD/tonne),chestnut_producer_price_usd_tonne_pea2,USD,measure
+Chestnut - Producer Price Index (2014-2016 = 100),chestnut_producer_price_index_2014_2016_100_pea2,,measure
 Chick peas - Producer Price (LCU/tonne),chick_peas_producer_price_lcu_tonne_pea2,LCU,measure
 Chick peas - Producer Price (SLC/tonne),chick_peas_producer_price_slc_tonne_pea2,SLC,measure
 Chick peas - Producer Price (USD/tonne),chick_peas_producer_price_usd_tonne_pea2,USD,measure
+Chick peas - Producer Price Index (2014-2016 = 100),chick_peas_producer_price_index_2014_2016_100_pea2,,measure
 Chicory roots - Producer Price (LCU/tonne),chicory_roots_producer_price_lcu_tonne_pea2,LCU,measure
 Chicory roots - Producer Price (SLC/tonne),chicory_roots_producer_price_slc_tonne_pea2,SLC,measure
 Chicory roots - Producer Price (USD/tonne),chicory_roots_producer_price_usd_tonne_pea2,USD,measure
+Chicory roots - Producer Price Index (2014-2016 = 100),chicory_roots_producer_price_index_2014_2016_100_pea2,,measure
 "Chillies and peppers, dry - Producer Price (LCU/tonne)",chillies_and_peppers_dry_producer_price_lcu_tonne_pea2,LCU,measure
 "Chillies and peppers, dry - Producer Price (SLC/tonne)",chillies_and_peppers_dry_producer_price_slc_tonne_pea2,SLC,measure
 "Chillies and peppers, dry - Producer Price (USD/tonne)",chillies_and_peppers_dry_producer_price_usd_tonne_pea2,USD,measure
+"Chillies and peppers, dry - Producer Price Index (2014-2016 = 100)",chillies_and_peppers_dry_producer_price_index_2014_2016_100_pea2,,measure
 "Chillies and peppers, green - Producer Price (LCU/tonne)",chillies_and_peppers_green_producer_price_lcu_tonne_pea2,LCU,measure
 "Chillies and peppers, green - Producer Price (SLC/tonne)",chillies_and_peppers_green_producer_price_slc_tonne_pea2,SLC,measure
 "Chillies and peppers, green - Producer Price (USD/tonne)",chillies_and_peppers_green_producer_price_usd_tonne_pea2,USD,measure
+"Chillies and peppers, green - Producer Price Index (2014-2016 = 100)",chillies_and_peppers_green_producer_price_index_2014_2016_100_pea2,,measure
 Cinnamon (cannella) - Producer Price (LCU/tonne),cinnamon_cannella_producer_price_lcu_tonne_pea2,LCU,measure
 Cinnamon (cannella) - Producer Price (SLC/tonne),cinnamon_cannella_producer_price_slc_tonne_pea2,SLC,measure
 Cinnamon (cannella) - Producer Price (USD/tonne),cinnamon_cannella_producer_price_usd_tonne_pea2,USD,measure
+Cinnamon (cannella) - Producer Price Index (2014-2016 = 100),cinnamon_cannella_producer_price_index_2014_2016_100_pea2,,measure
+"Citrus Fruit, Total - Producer Price Index (2014-2016 = 100)",citrus_fruit_total_producer_price_index_2014_2016_100_pea2,,measure
 Cloves - Producer Price (LCU/tonne),cloves_producer_price_lcu_tonne_pea2,LCU,measure
 Cloves - Producer Price (SLC/tonne),cloves_producer_price_slc_tonne_pea2,SLC,measure
 Cloves - Producer Price (USD/tonne),cloves_producer_price_usd_tonne_pea2,USD,measure
+Cloves - Producer Price Index (2014-2016 = 100),cloves_producer_price_index_2014_2016_100_pea2,,measure
+"Coarse Grain, Total - Producer Price Index (2014-2016 = 100)",coarse_grain_total_producer_price_index_2014_2016_100_pea2,,measure
 "Cocoa, beans - Producer Price (LCU/tonne)",cocoa_beans_producer_price_lcu_tonne_pea2,LCU,measure
 "Cocoa, beans - Producer Price (SLC/tonne)",cocoa_beans_producer_price_slc_tonne_pea2,SLC,measure
 "Cocoa, beans - Producer Price (USD/tonne)",cocoa_beans_producer_price_usd_tonne_pea2,USD,measure
+"Cocoa, beans - Producer Price Index (2014-2016 = 100)",cocoa_beans_producer_price_index_2014_2016_100_pea2,,measure
 Coconuts - Producer Price (LCU/tonne),coconuts_producer_price_lcu_tonne_pea2,LCU,measure
 Coconuts - Producer Price (SLC/tonne),coconuts_producer_price_slc_tonne_pea2,SLC,measure
 Coconuts - Producer Price (USD/tonne),coconuts_producer_price_usd_tonne_pea2,USD,measure
+Coconuts - Producer Price Index (2014-2016 = 100),coconuts_producer_price_index_2014_2016_100_pea2,,measure
 "Coffee, green - Producer Price (LCU/tonne)",coffee_green_producer_price_lcu_tonne_pea2,LCU,measure
 "Coffee, green - Producer Price (SLC/tonne)",coffee_green_producer_price_slc_tonne_pea2,SLC,measure
 "Coffee, green - Producer Price (USD/tonne)",coffee_green_producer_price_usd_tonne_pea2,USD,measure
+"Coffee, green - Producer Price Index (2014-2016 = 100)",coffee_green_producer_price_index_2014_2016_100_pea2,,measure
 Cooking bananas - Producer Price (LCU/tonne),cooking_bananas_producer_price_lcu_tonne_pea2,LCU,measure
 Cooking bananas - Producer Price (SLC/tonne),cooking_bananas_producer_price_slc_tonne_pea2,SLC,measure
 Cooking bananas - Producer Price (USD/tonne),cooking_bananas_producer_price_usd_tonne_pea2,USD,measure
 Cotton lint - Producer Price (LCU/tonne),cotton_lint_producer_price_lcu_tonne_pea2,LCU,measure
 Cotton lint - Producer Price (SLC/tonne),cotton_lint_producer_price_slc_tonne_pea2,SLC,measure
 Cotton lint - Producer Price (USD/tonne),cotton_lint_producer_price_usd_tonne_pea2,USD,measure
+Cotton lint - Producer Price Index (2014-2016 = 100),cotton_lint_producer_price_index_2014_2016_100_pea2,,measure
 Cottonseed - Producer Price (LCU/tonne),cottonseed_producer_price_lcu_tonne_pea2,LCU,measure
 Cottonseed - Producer Price (SLC/tonne),cottonseed_producer_price_slc_tonne_pea2,SLC,measure
 Cottonseed - Producer Price (USD/tonne),cottonseed_producer_price_usd_tonne_pea2,USD,measure
+Cottonseed - Producer Price Index (2014-2016 = 100),cottonseed_producer_price_index_2014_2016_100_pea2,,measure
 "Cow peas, dry - Producer Price (LCU/tonne)",cow_peas_dry_producer_price_lcu_tonne_pea2,LCU,measure
 "Cow peas, dry - Producer Price (SLC/tonne)",cow_peas_dry_producer_price_slc_tonne_pea2,SLC,measure
 "Cow peas, dry - Producer Price (USD/tonne)",cow_peas_dry_producer_price_usd_tonne_pea2,USD,measure
+"Cow peas, dry - Producer Price Index (2014-2016 = 100)",cow_peas_dry_producer_price_index_2014_2016_100_pea2,,measure
 Cranberries - Producer Price (LCU/tonne),cranberries_producer_price_lcu_tonne_pea2,LCU,measure
 Cranberries - Producer Price (SLC/tonne),cranberries_producer_price_slc_tonne_pea2,SLC,measure
 Cranberries - Producer Price (USD/tonne),cranberries_producer_price_usd_tonne_pea2,USD,measure
+Cranberries - Producer Price Index (2014-2016 = 100),cranberries_producer_price_index_2014_2016_100_pea2,,measure
 Cucumbers and gherkins - Producer Price (LCU/tonne),cucumbers_and_gherkins_producer_price_lcu_tonne_pea2,LCU,measure
 Cucumbers and gherkins - Producer Price (SLC/tonne),cucumbers_and_gherkins_producer_price_slc_tonne_pea2,SLC,measure
 Cucumbers and gherkins - Producer Price (USD/tonne),cucumbers_and_gherkins_producer_price_usd_tonne_pea2,USD,measure
+Cucumbers and gherkins - Producer Price Index (2014-2016 = 100),cucumbers_and_gherkins_producer_price_index_2014_2016_100_pea2,,measure
 Currants - Producer Price (LCU/tonne),currants_producer_price_lcu_tonne_pea2,LCU,measure
 Currants - Producer Price (SLC/tonne),currants_producer_price_slc_tonne_pea2,SLC,measure
 Currants - Producer Price (USD/tonne),currants_producer_price_usd_tonne_pea2,USD,measure
+Currants - Producer Price Index (2014-2016 = 100),currants_producer_price_index_2014_2016_100_pea2,,measure
 Dates - Producer Price (LCU/tonne),dates_producer_price_lcu_tonne_pea2,LCU,measure
 Dates - Producer Price (SLC/tonne),dates_producer_price_slc_tonne_pea2,SLC,measure
 Dates - Producer Price (USD/tonne),dates_producer_price_usd_tonne_pea2,USD,measure
+Dates - Producer Price Index (2014-2016 = 100),dates_producer_price_index_2014_2016_100_pea2,,measure
 Eggplants (aubergines) - Producer Price (LCU/tonne),eggplants_aubergines_producer_price_lcu_tonne_pea2,LCU,measure
 Eggplants (aubergines) - Producer Price (SLC/tonne),eggplants_aubergines_producer_price_slc_tonne_pea2,SLC,measure
 Eggplants (aubergines) - Producer Price (USD/tonne),eggplants_aubergines_producer_price_usd_tonne_pea2,USD,measure
+Eggplants (aubergines) - Producer Price Index (2014-2016 = 100),eggplants_aubergines_producer_price_index_2014_2016_100_pea2,,measure
+Eggs Primary - Producer Price Index (2014-2016 = 100),eggs_primary_producer_price_index_2014_2016_100_pea2,,measure
 "Eggs, hen, in shell - Producer Price (LCU/tonne)",eggs_hen_in_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Eggs, hen, in shell - Producer Price (SLC/tonne)",eggs_hen_in_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Eggs, hen, in shell - Producer Price (USD/tonne)",eggs_hen_in_shell_producer_price_usd_tonne_pea2,USD,measure
+"Eggs, hen, in shell - Producer Price Index (2014-2016 = 100)",eggs_hen_in_shell_producer_price_index_2014_2016_100_pea2,,measure
 "Eggs, other bird, in shell - Producer Price (LCU/tonne)",eggs_other_bird_in_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Eggs, other bird, in shell - Producer Price (SLC/tonne)",eggs_other_bird_in_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Eggs, other bird, in shell - Producer Price (USD/tonne)",eggs_other_bird_in_shell_producer_price_usd_tonne_pea2,USD,measure
+"Eggs, other bird, in shell - Producer Price Index (2014-2016 = 100)",eggs_other_bird_in_shell_producer_price_index_2014_2016_100_pea2,,measure
+Fibre Crops Primary - Producer Price Index (2014-2016 = 100),fibre_crops_primary_producer_price_index_2014_2016_100_pea2,,measure
 Fibre crops nes - Producer Price (LCU/tonne),fibre_crops_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Fibre crops nes - Producer Price (SLC/tonne),fibre_crops_nes_producer_price_slc_tonne_pea2,SLC,measure
 Fibre crops nes - Producer Price (USD/tonne),fibre_crops_nes_producer_price_usd_tonne_pea2,USD,measure
+Fibre crops nes - Producer Price Index (2014-2016 = 100),fibre_crops_nes_producer_price_index_2014_2016_100_pea2,,measure
 Figs - Producer Price (LCU/tonne),figs_producer_price_lcu_tonne_pea2,LCU,measure
 Figs - Producer Price (SLC/tonne),figs_producer_price_slc_tonne_pea2,SLC,measure
 Figs - Producer Price (USD/tonne),figs_producer_price_usd_tonne_pea2,USD,measure
+Figs - Producer Price Index (2014-2016 = 100),figs_producer_price_index_2014_2016_100_pea2,,measure
 Flax fibre and tow - Producer Price (LCU/tonne),flax_fibre_and_tow_producer_price_lcu_tonne_pea2,LCU,measure
 Flax fibre and tow - Producer Price (SLC/tonne),flax_fibre_and_tow_producer_price_slc_tonne_pea2,SLC,measure
 Flax fibre and tow - Producer Price (USD/tonne),flax_fibre_and_tow_producer_price_usd_tonne_pea2,USD,measure
+Flax fibre and tow - Producer Price Index (2014-2016 = 100),flax_fibre_and_tow_producer_price_index_2014_2016_100_pea2,,measure
 Fonio - Producer Price (LCU/tonne),fonio_producer_price_lcu_tonne_pea2,LCU,measure
 Fonio - Producer Price (SLC/tonne),fonio_producer_price_slc_tonne_pea2,SLC,measure
 Fonio - Producer Price (USD/tonne),fonio_producer_price_usd_tonne_pea2,USD,measure
+Fonio - Producer Price Index (2014-2016 = 100),fonio_producer_price_index_2014_2016_100_pea2,,measure
+Fruit Primary - Producer Price Index (2014-2016 = 100),fruit_primary_producer_price_index_2014_2016_100_pea2,,measure
+"Fruit excl Melons, Total - Producer Price Index (2014-2016 = 100)",fruit_excl_melons_total_producer_price_index_2014_2016_100_pea2,,measure
 "Fruit, citrus nes - Producer Price (LCU/tonne)",fruit_citrus_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Fruit, citrus nes - Producer Price (SLC/tonne)",fruit_citrus_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Fruit, citrus nes - Producer Price (USD/tonne)",fruit_citrus_nes_producer_price_usd_tonne_pea2,USD,measure
+"Fruit, citrus nes - Producer Price Index (2014-2016 = 100)",fruit_citrus_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Fruit, fresh nes - Producer Price (LCU/tonne)",fruit_fresh_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Fruit, fresh nes - Producer Price (SLC/tonne)",fruit_fresh_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Fruit, fresh nes - Producer Price (USD/tonne)",fruit_fresh_nes_producer_price_usd_tonne_pea2,USD,measure
+"Fruit, fresh nes - Producer Price Index (2014-2016 = 100)",fruit_fresh_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Fruit, pome nes - Producer Price (LCU/tonne)",fruit_pome_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Fruit, pome nes - Producer Price (SLC/tonne)",fruit_pome_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Fruit, pome nes - Producer Price (USD/tonne)",fruit_pome_nes_producer_price_usd_tonne_pea2,USD,measure
+"Fruit, pome nes - Producer Price Index (2014-2016 = 100)",fruit_pome_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Fruit, stone nes - Producer Price (LCU/tonne)",fruit_stone_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Fruit, stone nes - Producer Price (SLC/tonne)",fruit_stone_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Fruit, stone nes - Producer Price (USD/tonne)",fruit_stone_nes_producer_price_usd_tonne_pea2,USD,measure
+"Fruit, stone nes - Producer Price Index (2014-2016 = 100)",fruit_stone_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Fruit, tropical fresh nes - Producer Price (LCU/tonne)",fruit_tropical_fresh_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Fruit, tropical fresh nes - Producer Price (SLC/tonne)",fruit_tropical_fresh_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Fruit, tropical fresh nes - Producer Price (USD/tonne)",fruit_tropical_fresh_nes_producer_price_usd_tonne_pea2,USD,measure
+"Fruit, tropical fresh nes - Producer Price Index (2014-2016 = 100)",fruit_tropical_fresh_nes_producer_price_index_2014_2016_100_pea2,,measure
 Garlic - Producer Price (LCU/tonne),garlic_producer_price_lcu_tonne_pea2,LCU,measure
 Garlic - Producer Price (SLC/tonne),garlic_producer_price_slc_tonne_pea2,SLC,measure
 Garlic - Producer Price (USD/tonne),garlic_producer_price_usd_tonne_pea2,USD,measure
+Garlic - Producer Price Index (2014-2016 = 100),garlic_producer_price_index_2014_2016_100_pea2,,measure
 Ginger - Producer Price (LCU/tonne),ginger_producer_price_lcu_tonne_pea2,LCU,measure
 Ginger - Producer Price (SLC/tonne),ginger_producer_price_slc_tonne_pea2,SLC,measure
 Ginger - Producer Price (USD/tonne),ginger_producer_price_usd_tonne_pea2,USD,measure
+Ginger - Producer Price Index (2014-2016 = 100),ginger_producer_price_index_2014_2016_100_pea2,,measure
 Gooseberries - Producer Price (LCU/tonne),gooseberries_producer_price_lcu_tonne_pea2,LCU,measure
 Gooseberries - Producer Price (SLC/tonne),gooseberries_producer_price_slc_tonne_pea2,SLC,measure
 Gooseberries - Producer Price (USD/tonne),gooseberries_producer_price_usd_tonne_pea2,USD,measure
+Gooseberries - Producer Price Index (2014-2016 = 100),gooseberries_producer_price_index_2014_2016_100_pea2,,measure
 "Grain, mixed - Producer Price (LCU/tonne)",grain_mixed_producer_price_lcu_tonne_pea2,LCU,measure
 "Grain, mixed - Producer Price (SLC/tonne)",grain_mixed_producer_price_slc_tonne_pea2,SLC,measure
 "Grain, mixed - Producer Price (USD/tonne)",grain_mixed_producer_price_usd_tonne_pea2,USD,measure
+"Grain, mixed - Producer Price Index (2014-2016 = 100)",grain_mixed_producer_price_index_2014_2016_100_pea2,,measure
 Grapefruit (inc. pomelos) - Producer Price (LCU/tonne),grapefruit_inc_pomelos_producer_price_lcu_tonne_pea2,LCU,measure
 Grapefruit (inc. pomelos) - Producer Price (SLC/tonne),grapefruit_inc_pomelos_producer_price_slc_tonne_pea2,SLC,measure
 Grapefruit (inc. pomelos) - Producer Price (USD/tonne),grapefruit_inc_pomelos_producer_price_usd_tonne_pea2,USD,measure
+Grapefruit (inc. pomelos) - Producer Price Index (2014-2016 = 100),grapefruit_inc_pomelos_producer_price_index_2014_2016_100_pea2,,measure
 Grapes - Producer Price (LCU/tonne),grapes_producer_price_lcu_tonne_pea2,LCU,measure
 Grapes - Producer Price (SLC/tonne),grapes_producer_price_slc_tonne_pea2,SLC,measure
 Grapes - Producer Price (USD/tonne),grapes_producer_price_usd_tonne_pea2,USD,measure
+Grapes - Producer Price Index (2014-2016 = 100),grapes_producer_price_index_2014_2016_100_pea2,,measure
 "Groundnuts, with shell - Producer Price (LCU/tonne)",groundnuts_with_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Groundnuts, with shell - Producer Price (SLC/tonne)",groundnuts_with_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Groundnuts, with shell - Producer Price (USD/tonne)",groundnuts_with_shell_producer_price_usd_tonne_pea2,USD,measure
+"Groundnuts, with shell - Producer Price Index (2014-2016 = 100)",groundnuts_with_shell_producer_price_index_2014_2016_100_pea2,,measure
 "Gums, natural - Producer Price (LCU/tonne)",gums_natural_producer_price_lcu_tonne_pea2,LCU,measure
 "Gums, natural - Producer Price (SLC/tonne)",gums_natural_producer_price_slc_tonne_pea2,SLC,measure
 "Gums, natural - Producer Price (USD/tonne)",gums_natural_producer_price_usd_tonne_pea2,USD,measure
+"Gums, natural - Producer Price Index (2014-2016 = 100)",gums_natural_producer_price_index_2014_2016_100_pea2,,measure
 "Hazelnuts, with shell - Producer Price (LCU/tonne)",hazelnuts_with_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Hazelnuts, with shell - Producer Price (SLC/tonne)",hazelnuts_with_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Hazelnuts, with shell - Producer Price (USD/tonne)",hazelnuts_with_shell_producer_price_usd_tonne_pea2,USD,measure
+"Hazelnuts, with shell - Producer Price Index (2014-2016 = 100)",hazelnuts_with_shell_producer_price_index_2014_2016_100_pea2,,measure
+Hemp tow waste - Producer Price Index (2014-2016 = 100),hemp_tow_waste_producer_price_index_2014_2016_100_pea2,,measure
 Hempseed - Producer Price (LCU/tonne),hempseed_producer_price_lcu_tonne_pea2,LCU,measure
 Hempseed - Producer Price (SLC/tonne),hempseed_producer_price_slc_tonne_pea2,SLC,measure
 Hempseed - Producer Price (USD/tonne),hempseed_producer_price_usd_tonne_pea2,USD,measure
+Hempseed - Producer Price Index (2014-2016 = 100),hempseed_producer_price_index_2014_2016_100_pea2,,measure
 "Honey, natural - Producer Price (LCU/tonne)",honey_natural_producer_price_lcu_tonne_pea2,LCU,measure
 "Honey, natural - Producer Price (SLC/tonne)",honey_natural_producer_price_slc_tonne_pea2,SLC,measure
 "Honey, natural - Producer Price (USD/tonne)",honey_natural_producer_price_usd_tonne_pea2,USD,measure
+"Honey, natural - Producer Price Index (2014-2016 = 100)",honey_natural_producer_price_index_2014_2016_100_pea2,,measure
 Hops - Producer Price (LCU/tonne),hops_producer_price_lcu_tonne_pea2,LCU,measure
 Hops - Producer Price (SLC/tonne),hops_producer_price_slc_tonne_pea2,SLC,measure
 Hops - Producer Price (USD/tonne),hops_producer_price_usd_tonne_pea2,USD,measure
+Hops - Producer Price Index (2014-2016 = 100),hops_producer_price_index_2014_2016_100_pea2,,measure
 Jute - Producer Price (LCU/tonne),jute_producer_price_lcu_tonne_pea2,LCU,measure
 Jute - Producer Price (SLC/tonne),jute_producer_price_slc_tonne_pea2,SLC,measure
 Jute - Producer Price (USD/tonne),jute_producer_price_usd_tonne_pea2,USD,measure
+Jute - Producer Price Index (2014-2016 = 100),jute_producer_price_index_2014_2016_100_pea2,,measure
+Jute & Jute-like Fibres - Producer Price Index (2014-2016 = 100),jute_jute_like_fibres_producer_price_index_2014_2016_100_pea2,,measure
 Kapok fruit - Producer Price (LCU/tonne),kapok_fruit_producer_price_lcu_tonne_pea2,LCU,measure
 Kapok fruit - Producer Price (SLC/tonne),kapok_fruit_producer_price_slc_tonne_pea2,SLC,measure
 Kapok fruit - Producer Price (USD/tonne),kapok_fruit_producer_price_usd_tonne_pea2,USD,measure
+Kapok fruit - Producer Price Index (2014-2016 = 100),kapok_fruit_producer_price_index_2014_2016_100_pea2,,measure
 Karite nuts (sheanuts) - Producer Price (LCU/tonne),karite_nuts_sheanuts_producer_price_lcu_tonne_pea2,LCU,measure
 Karite nuts (sheanuts) - Producer Price (SLC/tonne),karite_nuts_sheanuts_producer_price_slc_tonne_pea2,SLC,measure
 Karite nuts (sheanuts) - Producer Price (USD/tonne),karite_nuts_sheanuts_producer_price_usd_tonne_pea2,USD,measure
+Karite nuts (sheanuts) - Producer Price Index (2014-2016 = 100),karite_nuts_sheanuts_producer_price_index_2014_2016_100_pea2,,measure
 Kiwi fruit - Producer Price (LCU/tonne),kiwi_fruit_producer_price_lcu_tonne_pea2,LCU,measure
 Kiwi fruit - Producer Price (SLC/tonne),kiwi_fruit_producer_price_slc_tonne_pea2,SLC,measure
 Kiwi fruit - Producer Price (USD/tonne),kiwi_fruit_producer_price_usd_tonne_pea2,USD,measure
+Kiwi fruit - Producer Price Index (2014-2016 = 100),kiwi_fruit_producer_price_index_2014_2016_100_pea2,,measure
 Kola nuts - Producer Price (LCU/tonne),kola_nuts_producer_price_lcu_tonne_pea2,LCU,measure
 Kola nuts - Producer Price (SLC/tonne),kola_nuts_producer_price_slc_tonne_pea2,SLC,measure
 Kola nuts - Producer Price (USD/tonne),kola_nuts_producer_price_usd_tonne_pea2,USD,measure
+Kola nuts - Producer Price Index (2014-2016 = 100),kola_nuts_producer_price_index_2014_2016_100_pea2,,measure
 "Leeks, other alliaceous vegetables - Producer Price (LCU/tonne)",leeks_other_alliaceous_vegetables_producer_price_lcu_tonne_pea2,LCU,measure
 "Leeks, other alliaceous vegetables - Producer Price (SLC/tonne)",leeks_other_alliaceous_vegetables_producer_price_slc_tonne_pea2,SLC,measure
 "Leeks, other alliaceous vegetables - Producer Price (USD/tonne)",leeks_other_alliaceous_vegetables_producer_price_usd_tonne_pea2,USD,measure
+"Leeks, other alliaceous vegetables - Producer Price Index (2014-2016 = 100)",leeks_other_alliaceous_vegetables_producer_price_index_2014_2016_100_pea2,,measure
 Lemons and limes - Producer Price (LCU/tonne),lemons_and_limes_producer_price_lcu_tonne_pea2,LCU,measure
 Lemons and limes - Producer Price (SLC/tonne),lemons_and_limes_producer_price_slc_tonne_pea2,SLC,measure
 Lemons and limes - Producer Price (USD/tonne),lemons_and_limes_producer_price_usd_tonne_pea2,USD,measure
+Lemons and limes - Producer Price Index (2014-2016 = 100),lemons_and_limes_producer_price_index_2014_2016_100_pea2,,measure
 Lentils - Producer Price (LCU/tonne),lentils_producer_price_lcu_tonne_pea2,LCU,measure
 Lentils - Producer Price (SLC/tonne),lentils_producer_price_slc_tonne_pea2,SLC,measure
 Lentils - Producer Price (USD/tonne),lentils_producer_price_usd_tonne_pea2,USD,measure
+Lentils - Producer Price Index (2014-2016 = 100),lentils_producer_price_index_2014_2016_100_pea2,,measure
 Lettuce and chicory - Producer Price (LCU/tonne),lettuce_and_chicory_producer_price_lcu_tonne_pea2,LCU,measure
 Lettuce and chicory - Producer Price (SLC/tonne),lettuce_and_chicory_producer_price_slc_tonne_pea2,SLC,measure
 Lettuce and chicory - Producer Price (USD/tonne),lettuce_and_chicory_producer_price_usd_tonne_pea2,USD,measure
+Lettuce and chicory - Producer Price Index (2014-2016 = 100),lettuce_and_chicory_producer_price_index_2014_2016_100_pea2,,measure
 Linseed - Producer Price (LCU/tonne),linseed_producer_price_lcu_tonne_pea2,LCU,measure
 Linseed - Producer Price (SLC/tonne),linseed_producer_price_slc_tonne_pea2,SLC,measure
 Linseed - Producer Price (USD/tonne),linseed_producer_price_usd_tonne_pea2,USD,measure
+Linseed - Producer Price Index (2014-2016 = 100),linseed_producer_price_index_2014_2016_100_pea2,,measure
+Livestock (PIN) - Producer Price Index (2014-2016 = 100),livestock_pin_producer_price_index_2014_2016_100_pea2,,measure
 Lupins - Producer Price (LCU/tonne),lupins_producer_price_lcu_tonne_pea2,LCU,measure
 Lupins - Producer Price (SLC/tonne),lupins_producer_price_slc_tonne_pea2,SLC,measure
 Lupins - Producer Price (USD/tonne),lupins_producer_price_usd_tonne_pea2,USD,measure
+Lupins - Producer Price Index (2014-2016 = 100),lupins_producer_price_index_2014_2016_100_pea2,,measure
 Maize - Producer Price (LCU/tonne),maize_producer_price_lcu_tonne_pea2,LCU,measure
 Maize - Producer Price (SLC/tonne),maize_producer_price_slc_tonne_pea2,SLC,measure
 Maize - Producer Price (USD/tonne),maize_producer_price_usd_tonne_pea2,USD,measure
+Maize - Producer Price Index (2014-2016 = 100),maize_producer_price_index_2014_2016_100_pea2,,measure
 "Maize, green - Producer Price (LCU/tonne)",maize_green_producer_price_lcu_tonne_pea2,LCU,measure
 "Maize, green - Producer Price (SLC/tonne)",maize_green_producer_price_slc_tonne_pea2,SLC,measure
 "Maize, green - Producer Price (USD/tonne)",maize_green_producer_price_usd_tonne_pea2,USD,measure
+"Maize, green - Producer Price Index (2014-2016 = 100)",maize_green_producer_price_index_2014_2016_100_pea2,,measure
 "Mangoes, mangosteens, guavas - Producer Price (LCU/tonne)",mangoes_mangosteens_guavas_producer_price_lcu_tonne_pea2,LCU,measure
 "Mangoes, mangosteens, guavas - Producer Price (SLC/tonne)",mangoes_mangosteens_guavas_producer_price_slc_tonne_pea2,SLC,measure
 "Mangoes, mangosteens, guavas - Producer Price (USD/tonne)",mangoes_mangosteens_guavas_producer_price_usd_tonne_pea2,USD,measure
+"Mangoes, mangosteens, guavas - Producer Price Index (2014-2016 = 100)",mangoes_mangosteens_guavas_producer_price_index_2014_2016_100_pea2,,measure
 Manila fibre (abaca) - Producer Price (LCU/tonne),manila_fibre_abaca_producer_price_lcu_tonne_pea2,LCU,measure
 Manila fibre (abaca) - Producer Price (SLC/tonne),manila_fibre_abaca_producer_price_slc_tonne_pea2,SLC,measure
 Manila fibre (abaca) - Producer Price (USD/tonne),manila_fibre_abaca_producer_price_usd_tonne_pea2,USD,measure
+Manila fibre (abaca) - Producer Price Index (2014-2016 = 100),manila_fibre_abaca_producer_price_index_2014_2016_100_pea2,,measure
 Maté - Producer Price (LCU/tonne),mate_producer_price_lcu_tonne_pea2,LCU,measure
 Maté - Producer Price (SLC/tonne),mate_producer_price_slc_tonne_pea2,SLC,measure
 Maté - Producer Price (USD/tonne),mate_producer_price_usd_tonne_pea2,USD,measure
+Maté - Producer Price Index (2014-2016 = 100),mate_producer_price_index_2014_2016_100_pea2,,measure
 "Meat live weight, ass - Producer Price (LCU/tonne)",meat_live_weight_ass_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat live weight, ass - Producer Price (SLC/tonne)",meat_live_weight_ass_producer_price_slc_tonne_pea2,SLC,measure
 "Meat live weight, ass - Producer Price (USD/tonne)",meat_live_weight_ass_producer_price_usd_tonne_pea2,USD,measure
@@ -8974,526 +9078,428 @@ Maté - Producer Price (USD/tonne),mate_producer_price_usd_tonne_pea2,USD,measur
 Meat nes - Producer Price (LCU/tonne),meat_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Meat nes - Producer Price (SLC/tonne),meat_nes_producer_price_slc_tonne_pea2,SLC,measure
 Meat nes - Producer Price (USD/tonne),meat_nes_producer_price_usd_tonne_pea2,USD,measure
+Meat nes - Producer Price Index (2014-2016 = 100),meat_nes_producer_price_index_2014_2016_100_pea2,,measure
+"Meat, Total - Producer Price Index (2014-2016 = 100)",meat_total_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, ass - Producer Price (LCU/tonne)",meat_ass_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, ass - Producer Price (SLC/tonne)",meat_ass_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, ass - Producer Price (USD/tonne)",meat_ass_producer_price_usd_tonne_pea2,USD,measure
+"Meat, ass - Producer Price Index (2014-2016 = 100)",meat_ass_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, bird nes - Producer Price (LCU/tonne)",meat_bird_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, bird nes - Producer Price (SLC/tonne)",meat_bird_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, bird nes - Producer Price (USD/tonne)",meat_bird_nes_producer_price_usd_tonne_pea2,USD,measure
+"Meat, bird nes - Producer Price Index (2014-2016 = 100)",meat_bird_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, buffalo - Producer Price (LCU/tonne)",meat_buffalo_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, buffalo - Producer Price (SLC/tonne)",meat_buffalo_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, buffalo - Producer Price (USD/tonne)",meat_buffalo_producer_price_usd_tonne_pea2,USD,measure
+"Meat, buffalo - Producer Price Index (2014-2016 = 100)",meat_buffalo_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, camel - Producer Price (LCU/tonne)",meat_camel_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, camel - Producer Price (SLC/tonne)",meat_camel_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, camel - Producer Price (USD/tonne)",meat_camel_producer_price_usd_tonne_pea2,USD,measure
+"Meat, camel - Producer Price Index (2014-2016 = 100)",meat_camel_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, cattle - Producer Price (LCU/tonne)",meat_cattle_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, cattle - Producer Price (SLC/tonne)",meat_cattle_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, cattle - Producer Price (USD/tonne)",meat_cattle_producer_price_usd_tonne_pea2,USD,measure
+"Meat, cattle - Producer Price Index (2014-2016 = 100)",meat_cattle_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, chicken - Producer Price (LCU/tonne)",meat_chicken_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, chicken - Producer Price (SLC/tonne)",meat_chicken_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, chicken - Producer Price (USD/tonne)",meat_chicken_producer_price_usd_tonne_pea2,USD,measure
+"Meat, chicken - Producer Price Index (2014-2016 = 100)",meat_chicken_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, duck - Producer Price (LCU/tonne)",meat_duck_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, duck - Producer Price (SLC/tonne)",meat_duck_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, duck - Producer Price (USD/tonne)",meat_duck_producer_price_usd_tonne_pea2,USD,measure
+"Meat, duck - Producer Price Index (2014-2016 = 100)",meat_duck_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, game - Producer Price (LCU/tonne)",meat_game_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, game - Producer Price (SLC/tonne)",meat_game_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, game - Producer Price (USD/tonne)",meat_game_producer_price_usd_tonne_pea2,USD,measure
+"Meat, game - Producer Price Index (2014-2016 = 100)",meat_game_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, goat - Producer Price (LCU/tonne)",meat_goat_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, goat - Producer Price (SLC/tonne)",meat_goat_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, goat - Producer Price (USD/tonne)",meat_goat_producer_price_usd_tonne_pea2,USD,measure
+"Meat, goat - Producer Price Index (2014-2016 = 100)",meat_goat_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, goose and guinea fowl - Producer Price (LCU/tonne)",meat_goose_and_guinea_fowl_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, goose and guinea fowl - Producer Price (SLC/tonne)",meat_goose_and_guinea_fowl_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, goose and guinea fowl - Producer Price (USD/tonne)",meat_goose_and_guinea_fowl_producer_price_usd_tonne_pea2,USD,measure
+"Meat, goose and guinea fowl - Producer Price Index (2014-2016 = 100)",meat_goose_and_guinea_fowl_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, horse - Producer Price (LCU/tonne)",meat_horse_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, horse - Producer Price (SLC/tonne)",meat_horse_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, horse - Producer Price (USD/tonne)",meat_horse_producer_price_usd_tonne_pea2,USD,measure
+"Meat, horse - Producer Price Index (2014-2016 = 100)",meat_horse_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, mule - Producer Price (LCU/tonne)",meat_mule_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, mule - Producer Price (SLC/tonne)",meat_mule_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, mule - Producer Price (USD/tonne)",meat_mule_producer_price_usd_tonne_pea2,USD,measure
+"Meat, mule - Producer Price Index (2014-2016 = 100)",meat_mule_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, other camelids - Producer Price (LCU/tonne)",meat_other_camelids_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, other camelids - Producer Price (SLC/tonne)",meat_other_camelids_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, other camelids - Producer Price (USD/tonne)",meat_other_camelids_producer_price_usd_tonne_pea2,USD,measure
+"Meat, other camelids - Producer Price Index (2014-2016 = 100)",meat_other_camelids_producer_price_index_2014_2016_100_pea2,,measure
+"Meat, other rodents - Producer Price (LCU/tonne)",meat_other_rodents_producer_price_lcu_tonne_pea2,LCU,measure
+"Meat, other rodents - Producer Price Index (2014-2016 = 100)",meat_other_rodents_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, pig - Producer Price (LCU/tonne)",meat_pig_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, pig - Producer Price (SLC/tonne)",meat_pig_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, pig - Producer Price (USD/tonne)",meat_pig_producer_price_usd_tonne_pea2,USD,measure
+"Meat, pig - Producer Price Index (2014-2016 = 100)",meat_pig_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, rabbit - Producer Price (LCU/tonne)",meat_rabbit_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, rabbit - Producer Price (SLC/tonne)",meat_rabbit_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, rabbit - Producer Price (USD/tonne)",meat_rabbit_producer_price_usd_tonne_pea2,USD,measure
+"Meat, rabbit - Producer Price Index (2014-2016 = 100)",meat_rabbit_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, sheep - Producer Price (LCU/tonne)",meat_sheep_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, sheep - Producer Price (SLC/tonne)",meat_sheep_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, sheep - Producer Price (USD/tonne)",meat_sheep_producer_price_usd_tonne_pea2,USD,measure
+"Meat, sheep - Producer Price Index (2014-2016 = 100)",meat_sheep_producer_price_index_2014_2016_100_pea2,,measure
 "Meat, turkey - Producer Price (LCU/tonne)",meat_turkey_producer_price_lcu_tonne_pea2,LCU,measure
 "Meat, turkey - Producer Price (SLC/tonne)",meat_turkey_producer_price_slc_tonne_pea2,SLC,measure
 "Meat, turkey - Producer Price (USD/tonne)",meat_turkey_producer_price_usd_tonne_pea2,USD,measure
+"Meat, turkey - Producer Price Index (2014-2016 = 100)",meat_turkey_producer_price_index_2014_2016_100_pea2,,measure
 "Melons, other (inc.cantaloupes) - Producer Price (LCU/tonne)",melons_other_inc_cantaloupes_producer_price_lcu_tonne_pea2,LCU,measure
 "Melons, other (inc.cantaloupes) - Producer Price (SLC/tonne)",melons_other_inc_cantaloupes_producer_price_slc_tonne_pea2,SLC,measure
 "Melons, other (inc.cantaloupes) - Producer Price (USD/tonne)",melons_other_inc_cantaloupes_producer_price_usd_tonne_pea2,USD,measure
+"Melons, other (inc.cantaloupes) - Producer Price Index (2014-2016 = 100)",melons_other_inc_cantaloupes_producer_price_index_2014_2016_100_pea2,,measure
 Melonseed - Producer Price (LCU/tonne),melonseed_producer_price_lcu_tonne_pea2,LCU,measure
 Melonseed - Producer Price (SLC/tonne),melonseed_producer_price_slc_tonne_pea2,SLC,measure
 Melonseed - Producer Price (USD/tonne),melonseed_producer_price_usd_tonne_pea2,USD,measure
+Melonseed - Producer Price Index (2014-2016 = 100),melonseed_producer_price_index_2014_2016_100_pea2,,measure
+"Milk, Total - Producer Price Index (2014-2016 = 100)",milk_total_producer_price_index_2014_2016_100_pea2,,measure
 "Milk, whole fresh buffalo - Producer Price (LCU/tonne)",milk_whole_fresh_buffalo_producer_price_lcu_tonne_pea2,LCU,measure
 "Milk, whole fresh buffalo - Producer Price (SLC/tonne)",milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2,SLC,measure
 "Milk, whole fresh buffalo - Producer Price (USD/tonne)",milk_whole_fresh_buffalo_producer_price_usd_tonne_pea2,USD,measure
+"Milk, whole fresh buffalo - Producer Price Index (2014-2016 = 100)",milk_whole_fresh_buffalo_producer_price_index_2014_2016_100_pea2,,measure
 "Milk, whole fresh camel - Producer Price (LCU/tonne)",milk_whole_fresh_camel_producer_price_lcu_tonne_pea2,LCU,measure
 "Milk, whole fresh camel - Producer Price (SLC/tonne)",milk_whole_fresh_camel_producer_price_slc_tonne_pea2,SLC,measure
 "Milk, whole fresh camel - Producer Price (USD/tonne)",milk_whole_fresh_camel_producer_price_usd_tonne_pea2,USD,measure
+"Milk, whole fresh camel - Producer Price Index (2014-2016 = 100)",milk_whole_fresh_camel_producer_price_index_2014_2016_100_pea2,,measure
 "Milk, whole fresh cow - Producer Price (LCU/tonne)",milk_whole_fresh_cow_producer_price_lcu_tonne_pea2,LCU,measure
 "Milk, whole fresh cow - Producer Price (SLC/tonne)",milk_whole_fresh_cow_producer_price_slc_tonne_pea2,SLC,measure
 "Milk, whole fresh cow - Producer Price (USD/tonne)",milk_whole_fresh_cow_producer_price_usd_tonne_pea2,USD,measure
+"Milk, whole fresh cow - Producer Price Index (2014-2016 = 100)",milk_whole_fresh_cow_producer_price_index_2014_2016_100_pea2,,measure
 "Milk, whole fresh goat - Producer Price (LCU/tonne)",milk_whole_fresh_goat_producer_price_lcu_tonne_pea2,LCU,measure
 "Milk, whole fresh goat - Producer Price (SLC/tonne)",milk_whole_fresh_goat_producer_price_slc_tonne_pea2,SLC,measure
 "Milk, whole fresh goat - Producer Price (USD/tonne)",milk_whole_fresh_goat_producer_price_usd_tonne_pea2,USD,measure
+"Milk, whole fresh goat - Producer Price Index (2014-2016 = 100)",milk_whole_fresh_goat_producer_price_index_2014_2016_100_pea2,,measure
 "Milk, whole fresh sheep - Producer Price (LCU/tonne)",milk_whole_fresh_sheep_producer_price_lcu_tonne_pea2,LCU,measure
 "Milk, whole fresh sheep - Producer Price (SLC/tonne)",milk_whole_fresh_sheep_producer_price_slc_tonne_pea2,SLC,measure
 "Milk, whole fresh sheep - Producer Price (USD/tonne)",milk_whole_fresh_sheep_producer_price_usd_tonne_pea2,USD,measure
+"Milk, whole fresh sheep - Producer Price Index (2014-2016 = 100)",milk_whole_fresh_sheep_producer_price_index_2014_2016_100_pea2,,measure
 Millet - Producer Price (LCU/tonne),millet_producer_price_lcu_tonne_pea2,LCU,measure
 Millet - Producer Price (SLC/tonne),millet_producer_price_slc_tonne_pea2,SLC,measure
 Millet - Producer Price (USD/tonne),millet_producer_price_usd_tonne_pea2,USD,measure
+Millet - Producer Price Index (2014-2016 = 100),millet_producer_price_index_2014_2016_100_pea2,,measure
 Mushrooms and truffles - Producer Price (LCU/tonne),mushrooms_and_truffles_producer_price_lcu_tonne_pea2,LCU,measure
 Mushrooms and truffles - Producer Price (SLC/tonne),mushrooms_and_truffles_producer_price_slc_tonne_pea2,SLC,measure
 Mushrooms and truffles - Producer Price (USD/tonne),mushrooms_and_truffles_producer_price_usd_tonne_pea2,USD,measure
+Mushrooms and truffles - Producer Price Index (2014-2016 = 100),mushrooms_and_truffles_producer_price_index_2014_2016_100_pea2,,measure
 Mustard seed - Producer Price (LCU/tonne),mustard_seed_producer_price_lcu_tonne_pea2,LCU,measure
 Mustard seed - Producer Price (SLC/tonne),mustard_seed_producer_price_slc_tonne_pea2,SLC,measure
 Mustard seed - Producer Price (USD/tonne),mustard_seed_producer_price_usd_tonne_pea2,USD,measure
+Mustard seed - Producer Price Index (2014-2016 = 100),mustard_seed_producer_price_index_2014_2016_100_pea2,,measure
 "Nutmeg, mace and cardamoms - Producer Price (LCU/tonne)",nutmeg_mace_and_cardamoms_producer_price_lcu_tonne_pea2,LCU,measure
 "Nutmeg, mace and cardamoms - Producer Price (SLC/tonne)",nutmeg_mace_and_cardamoms_producer_price_slc_tonne_pea2,SLC,measure
 "Nutmeg, mace and cardamoms - Producer Price (USD/tonne)",nutmeg_mace_and_cardamoms_producer_price_usd_tonne_pea2,USD,measure
+"Nutmeg, mace and cardamoms - Producer Price Index (2014-2016 = 100)",nutmeg_mace_and_cardamoms_producer_price_index_2014_2016_100_pea2,,measure
 Nuts nes - Producer Price (LCU/tonne),nuts_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Nuts nes - Producer Price (SLC/tonne),nuts_nes_producer_price_slc_tonne_pea2,SLC,measure
 Nuts nes - Producer Price (USD/tonne),nuts_nes_producer_price_usd_tonne_pea2,USD,measure
+Nuts nes - Producer Price Index (2014-2016 = 100),nuts_nes_producer_price_index_2014_2016_100_pea2,,measure
 Oats - Producer Price (LCU/tonne),oats_producer_price_lcu_tonne_pea2,LCU,measure
 Oats - Producer Price (SLC/tonne),oats_producer_price_slc_tonne_pea2,SLC,measure
 Oats - Producer Price (USD/tonne),oats_producer_price_usd_tonne_pea2,USD,measure
+Oats - Producer Price Index (2014-2016 = 100),oats_producer_price_index_2014_2016_100_pea2,,measure
 Oil palm fruit - Producer Price (LCU/tonne),oil_palm_fruit_producer_price_lcu_tonne_pea2,LCU,measure
 Oil palm fruit - Producer Price (SLC/tonne),oil_palm_fruit_producer_price_slc_tonne_pea2,SLC,measure
 Oil palm fruit - Producer Price (USD/tonne),oil_palm_fruit_producer_price_usd_tonne_pea2,USD,measure
+Oil palm fruit - Producer Price Index (2014-2016 = 100),oil_palm_fruit_producer_price_index_2014_2016_100_pea2,,measure
 "Oil, palm - Producer Price (LCU/tonne)",oil_palm_producer_price_lcu_tonne_pea2,LCU,measure
 "Oil, palm - Producer Price (SLC/tonne)",oil_palm_producer_price_slc_tonne_pea2,SLC,measure
 "Oil, palm - Producer Price (USD/tonne)",oil_palm_producer_price_usd_tonne_pea2,USD,measure
+"Oil, palm - Producer Price Index (2014-2016 = 100)",oil_palm_producer_price_index_2014_2016_100_pea2,,measure
+"Oil, stillingia - Producer Price Index (2014-2016 = 100)",oil_stillingia_producer_price_index_2014_2016_100_pea2,,measure
+"Oilcrops, Oil Equivalent - Producer Price Index (2014-2016 = 100)",oilcrops_oil_equivalent_producer_price_index_2014_2016_100_pea2,,measure
 Oilseeds nes - Producer Price (LCU/tonne),oilseeds_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Oilseeds nes - Producer Price (SLC/tonne),oilseeds_nes_producer_price_slc_tonne_pea2,SLC,measure
 Oilseeds nes - Producer Price (USD/tonne),oilseeds_nes_producer_price_usd_tonne_pea2,USD,measure
+Oilseeds nes - Producer Price Index (2014-2016 = 100),oilseeds_nes_producer_price_index_2014_2016_100_pea2,,measure
 Okra - Producer Price (LCU/tonne),okra_producer_price_lcu_tonne_pea2,LCU,measure
 Okra - Producer Price (SLC/tonne),okra_producer_price_slc_tonne_pea2,SLC,measure
 Okra - Producer Price (USD/tonne),okra_producer_price_usd_tonne_pea2,USD,measure
+Okra - Producer Price Index (2014-2016 = 100),okra_producer_price_index_2014_2016_100_pea2,,measure
 Olives - Producer Price (LCU/tonne),olives_producer_price_lcu_tonne_pea2,LCU,measure
 Olives - Producer Price (SLC/tonne),olives_producer_price_slc_tonne_pea2,SLC,measure
 Olives - Producer Price (USD/tonne),olives_producer_price_usd_tonne_pea2,USD,measure
+Olives - Producer Price Index (2014-2016 = 100),olives_producer_price_index_2014_2016_100_pea2,,measure
 "Onions, dry - Producer Price (LCU/tonne)",onions_dry_producer_price_lcu_tonne_pea2,LCU,measure
 "Onions, dry - Producer Price (SLC/tonne)",onions_dry_producer_price_slc_tonne_pea2,SLC,measure
 "Onions, dry - Producer Price (USD/tonne)",onions_dry_producer_price_usd_tonne_pea2,USD,measure
+"Onions, dry - Producer Price Index (2014-2016 = 100)",onions_dry_producer_price_index_2014_2016_100_pea2,,measure
 "Onions, shallots, green - Producer Price (LCU/tonne)",onions_shallots_green_producer_price_lcu_tonne_pea2,LCU,measure
 "Onions, shallots, green - Producer Price (SLC/tonne)",onions_shallots_green_producer_price_slc_tonne_pea2,SLC,measure
 "Onions, shallots, green - Producer Price (USD/tonne)",onions_shallots_green_producer_price_usd_tonne_pea2,USD,measure
+"Onions, shallots, green - Producer Price Index (2014-2016 = 100)",onions_shallots_green_producer_price_index_2014_2016_100_pea2,,measure
 Oranges - Producer Price (LCU/tonne),oranges_producer_price_lcu_tonne_pea2,LCU,measure
 Oranges - Producer Price (SLC/tonne),oranges_producer_price_slc_tonne_pea2,SLC,measure
 Oranges - Producer Price (USD/tonne),oranges_producer_price_usd_tonne_pea2,USD,measure
+Oranges - Producer Price Index (2014-2016 = 100),oranges_producer_price_index_2014_2016_100_pea2,,measure
 Palm kernels - Producer Price (LCU/tonne),palm_kernels_producer_price_lcu_tonne_pea2,LCU,measure
 Palm kernels - Producer Price (SLC/tonne),palm_kernels_producer_price_slc_tonne_pea2,SLC,measure
 Palm kernels - Producer Price (USD/tonne),palm_kernels_producer_price_usd_tonne_pea2,USD,measure
+Palm kernels - Producer Price Index (2014-2016 = 100),palm_kernels_producer_price_index_2014_2016_100_pea2,,measure
 Papayas - Producer Price (LCU/tonne),papayas_producer_price_lcu_tonne_pea2,LCU,measure
 Papayas - Producer Price (SLC/tonne),papayas_producer_price_slc_tonne_pea2,SLC,measure
 Papayas - Producer Price (USD/tonne),papayas_producer_price_usd_tonne_pea2,USD,measure
+Papayas - Producer Price Index (2014-2016 = 100),papayas_producer_price_index_2014_2016_100_pea2,,measure
 Peaches and nectarines - Producer Price (LCU/tonne),peaches_and_nectarines_producer_price_lcu_tonne_pea2,LCU,measure
 Peaches and nectarines - Producer Price (SLC/tonne),peaches_and_nectarines_producer_price_slc_tonne_pea2,SLC,measure
 Peaches and nectarines - Producer Price (USD/tonne),peaches_and_nectarines_producer_price_usd_tonne_pea2,USD,measure
+Peaches and nectarines - Producer Price Index (2014-2016 = 100),peaches_and_nectarines_producer_price_index_2014_2016_100_pea2,,measure
 Pears - Producer Price (LCU/tonne),pears_producer_price_lcu_tonne_pea2,LCU,measure
 Pears - Producer Price (SLC/tonne),pears_producer_price_slc_tonne_pea2,SLC,measure
 Pears - Producer Price (USD/tonne),pears_producer_price_usd_tonne_pea2,USD,measure
+Pears - Producer Price Index (2014-2016 = 100),pears_producer_price_index_2014_2016_100_pea2,,measure
 "Peas, dry - Producer Price (LCU/tonne)",peas_dry_producer_price_lcu_tonne_pea2,LCU,measure
 "Peas, dry - Producer Price (SLC/tonne)",peas_dry_producer_price_slc_tonne_pea2,SLC,measure
 "Peas, dry - Producer Price (USD/tonne)",peas_dry_producer_price_usd_tonne_pea2,USD,measure
+"Peas, dry - Producer Price Index (2014-2016 = 100)",peas_dry_producer_price_index_2014_2016_100_pea2,,measure
 "Peas, green - Producer Price (LCU/tonne)",peas_green_producer_price_lcu_tonne_pea2,LCU,measure
 "Peas, green - Producer Price (SLC/tonne)",peas_green_producer_price_slc_tonne_pea2,SLC,measure
 "Peas, green - Producer Price (USD/tonne)",peas_green_producer_price_usd_tonne_pea2,USD,measure
+"Peas, green - Producer Price Index (2014-2016 = 100)",peas_green_producer_price_index_2014_2016_100_pea2,,measure
 Pepper (piper spp.) - Producer Price (LCU/tonne),pepper_piper_spp_producer_price_lcu_tonne_pea2,LCU,measure
 Pepper (piper spp.) - Producer Price (SLC/tonne),pepper_piper_spp_producer_price_slc_tonne_pea2,SLC,measure
 Pepper (piper spp.) - Producer Price (USD/tonne),pepper_piper_spp_producer_price_usd_tonne_pea2,USD,measure
+Pepper (piper spp.) - Producer Price Index (2014-2016 = 100),pepper_piper_spp_producer_price_index_2014_2016_100_pea2,,measure
 Peppermint - Producer Price (LCU/tonne),peppermint_producer_price_lcu_tonne_pea2,LCU,measure
 Peppermint - Producer Price (SLC/tonne),peppermint_producer_price_slc_tonne_pea2,SLC,measure
 Peppermint - Producer Price (USD/tonne),peppermint_producer_price_usd_tonne_pea2,USD,measure
+Peppermint - Producer Price Index (2014-2016 = 100),peppermint_producer_price_index_2014_2016_100_pea2,,measure
 Persimmons - Producer Price (LCU/tonne),persimmons_producer_price_lcu_tonne_pea2,LCU,measure
 Persimmons - Producer Price (SLC/tonne),persimmons_producer_price_slc_tonne_pea2,SLC,measure
 Persimmons - Producer Price (USD/tonne),persimmons_producer_price_usd_tonne_pea2,USD,measure
+Persimmons - Producer Price Index (2014-2016 = 100),persimmons_producer_price_index_2014_2016_100_pea2,,measure
 Pigeon peas - Producer Price (LCU/tonne),pigeon_peas_producer_price_lcu_tonne_pea2,LCU,measure
 Pigeon peas - Producer Price (SLC/tonne),pigeon_peas_producer_price_slc_tonne_pea2,SLC,measure
 Pigeon peas - Producer Price (USD/tonne),pigeon_peas_producer_price_usd_tonne_pea2,USD,measure
+Pigeon peas - Producer Price Index (2014-2016 = 100),pigeon_peas_producer_price_index_2014_2016_100_pea2,,measure
 Pineapples - Producer Price (LCU/tonne),pineapples_producer_price_lcu_tonne_pea2,LCU,measure
 Pineapples - Producer Price (SLC/tonne),pineapples_producer_price_slc_tonne_pea2,SLC,measure
 Pineapples - Producer Price (USD/tonne),pineapples_producer_price_usd_tonne_pea2,USD,measure
+Pineapples - Producer Price Index (2014-2016 = 100),pineapples_producer_price_index_2014_2016_100_pea2,,measure
 Pistachios - Producer Price (LCU/tonne),pistachios_producer_price_lcu_tonne_pea2,LCU,measure
 Pistachios - Producer Price (SLC/tonne),pistachios_producer_price_slc_tonne_pea2,SLC,measure
 Pistachios - Producer Price (USD/tonne),pistachios_producer_price_usd_tonne_pea2,USD,measure
+Pistachios - Producer Price Index (2014-2016 = 100),pistachios_producer_price_index_2014_2016_100_pea2,,measure
 Plantains - Producer Price (LCU/tonne),plantains_producer_price_lcu_tonne_pea2,LCU,measure
 Plantains - Producer Price (SLC/tonne),plantains_producer_price_slc_tonne_pea2,SLC,measure
 Plantains - Producer Price (USD/tonne),plantains_producer_price_usd_tonne_pea2,USD,measure
 Plantains and others - Producer Price (LCU/tonne),plantains_and_others_producer_price_lcu_tonne_pea2,LCU,measure
 Plantains and others - Producer Price (SLC/tonne),plantains_and_others_producer_price_slc_tonne_pea2,SLC,measure
 Plantains and others - Producer Price (USD/tonne),plantains_and_others_producer_price_usd_tonne_pea2,USD,measure
+Plantains and others - Producer Price Index (2014-2016 = 100),plantains_and_others_producer_price_index_2014_2016_100_pea2,,measure
 Plums and sloes - Producer Price (LCU/tonne),plums_and_sloes_producer_price_lcu_tonne_pea2,LCU,measure
 Plums and sloes - Producer Price (SLC/tonne),plums_and_sloes_producer_price_slc_tonne_pea2,SLC,measure
 Plums and sloes - Producer Price (USD/tonne),plums_and_sloes_producer_price_usd_tonne_pea2,USD,measure
+Plums and sloes - Producer Price Index (2014-2016 = 100),plums_and_sloes_producer_price_index_2014_2016_100_pea2,,measure
 Popcorn - Producer Price (LCU/tonne),popcorn_producer_price_lcu_tonne_pea2,LCU,measure
 Popcorn - Producer Price (SLC/tonne),popcorn_producer_price_slc_tonne_pea2,SLC,measure
 Popcorn - Producer Price (USD/tonne),popcorn_producer_price_usd_tonne_pea2,USD,measure
+Popcorn - Producer Price Index (2014-2016 = 100),popcorn_producer_price_index_2014_2016_100_pea2,,measure
 Poppy seed - Producer Price (LCU/tonne),poppy_seed_producer_price_lcu_tonne_pea2,LCU,measure
 Poppy seed - Producer Price (SLC/tonne),poppy_seed_producer_price_slc_tonne_pea2,SLC,measure
 Poppy seed - Producer Price (USD/tonne),poppy_seed_producer_price_usd_tonne_pea2,USD,measure
+Poppy seed - Producer Price Index (2014-2016 = 100),poppy_seed_producer_price_index_2014_2016_100_pea2,,measure
 Potatoes - Producer Price (LCU/tonne),potatoes_producer_price_lcu_tonne_pea2,LCU,measure
 Potatoes - Producer Price (SLC/tonne),potatoes_producer_price_slc_tonne_pea2,SLC,measure
 Potatoes - Producer Price (USD/tonne),potatoes_producer_price_usd_tonne_pea2,USD,measure
+Potatoes - Producer Price Index (2014-2016 = 100),potatoes_producer_price_index_2014_2016_100_pea2,,measure
 Pulses nes - Producer Price (LCU/tonne),pulses_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Pulses nes - Producer Price (SLC/tonne),pulses_nes_producer_price_slc_tonne_pea2,SLC,measure
 Pulses nes - Producer Price (USD/tonne),pulses_nes_producer_price_usd_tonne_pea2,USD,measure
+Pulses nes - Producer Price Index (2014-2016 = 100),pulses_nes_producer_price_index_2014_2016_100_pea2,,measure
+"Pulses, Total - Producer Price Index (2014-2016 = 100)",pulses_total_producer_price_index_2014_2016_100_pea2,,measure
 "Pumpkins, squash and gourds - Producer Price (LCU/tonne)",pumpkins_squash_and_gourds_producer_price_lcu_tonne_pea2,LCU,measure
 "Pumpkins, squash and gourds - Producer Price (SLC/tonne)",pumpkins_squash_and_gourds_producer_price_slc_tonne_pea2,SLC,measure
 "Pumpkins, squash and gourds - Producer Price (USD/tonne)",pumpkins_squash_and_gourds_producer_price_usd_tonne_pea2,USD,measure
+"Pumpkins, squash and gourds - Producer Price Index (2014-2016 = 100)",pumpkins_squash_and_gourds_producer_price_index_2014_2016_100_pea2,,measure
 "Pyrethrum, dried - Producer Price (LCU/tonne)",pyrethrum_dried_producer_price_lcu_tonne_pea2,LCU,measure
 "Pyrethrum, dried - Producer Price (SLC/tonne)",pyrethrum_dried_producer_price_slc_tonne_pea2,SLC,measure
 "Pyrethrum, dried - Producer Price (USD/tonne)",pyrethrum_dried_producer_price_usd_tonne_pea2,USD,measure
+"Pyrethrum, dried - Producer Price Index (2014-2016 = 100)",pyrethrum_dried_producer_price_index_2014_2016_100_pea2,,measure
 Quinces - Producer Price (LCU/tonne),quinces_producer_price_lcu_tonne_pea2,LCU,measure
 Quinces - Producer Price (SLC/tonne),quinces_producer_price_slc_tonne_pea2,SLC,measure
 Quinces - Producer Price (USD/tonne),quinces_producer_price_usd_tonne_pea2,USD,measure
+Quinces - Producer Price Index (2014-2016 = 100),quinces_producer_price_index_2014_2016_100_pea2,,measure
 Quinoa - Producer Price (LCU/tonne),quinoa_producer_price_lcu_tonne_pea2,LCU,measure
 Quinoa - Producer Price (SLC/tonne),quinoa_producer_price_slc_tonne_pea2,SLC,measure
 Quinoa - Producer Price (USD/tonne),quinoa_producer_price_usd_tonne_pea2,USD,measure
+Quinoa - Producer Price Index (2014-2016 = 100),quinoa_producer_price_index_2014_2016_100_pea2,,measure
 Ramie - Producer Price (LCU/tonne),ramie_producer_price_lcu_tonne_pea2,LCU,measure
 Ramie - Producer Price (SLC/tonne),ramie_producer_price_slc_tonne_pea2,SLC,measure
 Ramie - Producer Price (USD/tonne),ramie_producer_price_usd_tonne_pea2,USD,measure
+Ramie - Producer Price Index (2014-2016 = 100),ramie_producer_price_index_2014_2016_100_pea2,,measure
 Rapeseed - Producer Price (LCU/tonne),rapeseed_producer_price_lcu_tonne_pea2,LCU,measure
 Rapeseed - Producer Price (SLC/tonne),rapeseed_producer_price_slc_tonne_pea2,SLC,measure
 Rapeseed - Producer Price (USD/tonne),rapeseed_producer_price_usd_tonne_pea2,USD,measure
+Rapeseed - Producer Price Index (2014-2016 = 100),rapeseed_producer_price_index_2014_2016_100_pea2,,measure
 Raspberries - Producer Price (LCU/tonne),raspberries_producer_price_lcu_tonne_pea2,LCU,measure
 Raspberries - Producer Price (SLC/tonne),raspberries_producer_price_slc_tonne_pea2,SLC,measure
 Raspberries - Producer Price (USD/tonne),raspberries_producer_price_usd_tonne_pea2,USD,measure
+Raspberries - Producer Price Index (2014-2016 = 100),raspberries_producer_price_index_2014_2016_100_pea2,,measure
 "Rice, paddy - Producer Price (LCU/tonne)",rice_paddy_producer_price_lcu_tonne_pea2,LCU,measure
 "Rice, paddy - Producer Price (SLC/tonne)",rice_paddy_producer_price_slc_tonne_pea2,SLC,measure
 "Rice, paddy - Producer Price (USD/tonne)",rice_paddy_producer_price_usd_tonne_pea2,USD,measure
+"Rice, paddy - Producer Price Index (2014-2016 = 100)",rice_paddy_producer_price_index_2014_2016_100_pea2,,measure
+"Roots and Tubers, Total - Producer Price Index (2014-2016 = 100)",roots_and_tubers_total_producer_price_index_2014_2016_100_pea2,,measure
 Roots and tubers nes - Producer Price (LCU/tonne),roots_and_tubers_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Roots and tubers nes - Producer Price (SLC/tonne),roots_and_tubers_nes_producer_price_slc_tonne_pea2,SLC,measure
 Roots and tubers nes - Producer Price (USD/tonne),roots_and_tubers_nes_producer_price_usd_tonne_pea2,USD,measure
+Roots and tubers nes - Producer Price Index (2014-2016 = 100),roots_and_tubers_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Rubber, natural - Producer Price (LCU/tonne)",rubber_natural_producer_price_lcu_tonne_pea2,LCU,measure
 "Rubber, natural - Producer Price (SLC/tonne)",rubber_natural_producer_price_slc_tonne_pea2,SLC,measure
 "Rubber, natural - Producer Price (USD/tonne)",rubber_natural_producer_price_usd_tonne_pea2,USD,measure
+"Rubber, natural - Producer Price Index (2014-2016 = 100)",rubber_natural_producer_price_index_2014_2016_100_pea2,,measure
 Rye - Producer Price (LCU/tonne),rye_producer_price_lcu_tonne_pea2,LCU,measure
 Rye - Producer Price (SLC/tonne),rye_producer_price_slc_tonne_pea2,SLC,measure
 Rye - Producer Price (USD/tonne),rye_producer_price_usd_tonne_pea2,USD,measure
+Rye - Producer Price Index (2014-2016 = 100),rye_producer_price_index_2014_2016_100_pea2,,measure
 Safflower seed - Producer Price (LCU/tonne),safflower_seed_producer_price_lcu_tonne_pea2,LCU,measure
 Safflower seed - Producer Price (SLC/tonne),safflower_seed_producer_price_slc_tonne_pea2,SLC,measure
 Safflower seed - Producer Price (USD/tonne),safflower_seed_producer_price_usd_tonne_pea2,USD,measure
+Safflower seed - Producer Price Index (2014-2016 = 100),safflower_seed_producer_price_index_2014_2016_100_pea2,,measure
 Seed cotton - Producer Price (LCU/tonne),seed_cotton_producer_price_lcu_tonne_pea2,LCU,measure
 Seed cotton - Producer Price (SLC/tonne),seed_cotton_producer_price_slc_tonne_pea2,SLC,measure
 Seed cotton - Producer Price (USD/tonne),seed_cotton_producer_price_usd_tonne_pea2,USD,measure
+Seed cotton - Producer Price Index (2014-2016 = 100),seed_cotton_producer_price_index_2014_2016_100_pea2,,measure
 Sesame seed - Producer Price (LCU/tonne),sesame_seed_producer_price_lcu_tonne_pea2,LCU,measure
 Sesame seed - Producer Price (SLC/tonne),sesame_seed_producer_price_slc_tonne_pea2,SLC,measure
 Sesame seed - Producer Price (USD/tonne),sesame_seed_producer_price_usd_tonne_pea2,USD,measure
+Sesame seed - Producer Price Index (2014-2016 = 100),sesame_seed_producer_price_index_2014_2016_100_pea2,,measure
 "Silk-worm cocoons, reelable - Producer Price (LCU/tonne)",silk_worm_cocoons_reelable_producer_price_lcu_tonne_pea2,LCU,measure
 "Silk-worm cocoons, reelable - Producer Price (SLC/tonne)",silk_worm_cocoons_reelable_producer_price_slc_tonne_pea2,SLC,measure
 "Silk-worm cocoons, reelable - Producer Price (USD/tonne)",silk_worm_cocoons_reelable_producer_price_usd_tonne_pea2,USD,measure
+"Silk-worm cocoons, reelable - Producer Price Index (2014-2016 = 100)",silk_worm_cocoons_reelable_producer_price_index_2014_2016_100_pea2,,measure
 Sisal - Producer Price (LCU/tonne),sisal_producer_price_lcu_tonne_pea2,LCU,measure
 Sisal - Producer Price (SLC/tonne),sisal_producer_price_slc_tonne_pea2,SLC,measure
 Sisal - Producer Price (USD/tonne),sisal_producer_price_usd_tonne_pea2,USD,measure
+Sisal - Producer Price Index (2014-2016 = 100),sisal_producer_price_index_2014_2016_100_pea2,,measure
 Sorghum - Producer Price (LCU/tonne),sorghum_producer_price_lcu_tonne_pea2,LCU,measure
 Sorghum - Producer Price (SLC/tonne),sorghum_producer_price_slc_tonne_pea2,SLC,measure
 Sorghum - Producer Price (USD/tonne),sorghum_producer_price_usd_tonne_pea2,USD,measure
+Sorghum - Producer Price Index (2014-2016 = 100),sorghum_producer_price_index_2014_2016_100_pea2,,measure
 Soybeans - Producer Price (LCU/tonne),soybeans_producer_price_lcu_tonne_pea2,LCU,measure
 Soybeans - Producer Price (SLC/tonne),soybeans_producer_price_slc_tonne_pea2,SLC,measure
 Soybeans - Producer Price (USD/tonne),soybeans_producer_price_usd_tonne_pea2,USD,measure
+Soybeans - Producer Price Index (2014-2016 = 100),soybeans_producer_price_index_2014_2016_100_pea2,,measure
 Spices nes - Producer Price (LCU/tonne),spices_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Spices nes - Producer Price (SLC/tonne),spices_nes_producer_price_slc_tonne_pea2,SLC,measure
 Spices nes - Producer Price (USD/tonne),spices_nes_producer_price_usd_tonne_pea2,USD,measure
+Spices nes - Producer Price Index (2014-2016 = 100),spices_nes_producer_price_index_2014_2016_100_pea2,,measure
 Spinach - Producer Price (LCU/tonne),spinach_producer_price_lcu_tonne_pea2,LCU,measure
 Spinach - Producer Price (SLC/tonne),spinach_producer_price_slc_tonne_pea2,SLC,measure
 Spinach - Producer Price (USD/tonne),spinach_producer_price_usd_tonne_pea2,USD,measure
+Spinach - Producer Price Index (2014-2016 = 100),spinach_producer_price_index_2014_2016_100_pea2,,measure
 Strawberries - Producer Price (LCU/tonne),strawberries_producer_price_lcu_tonne_pea2,LCU,measure
 Strawberries - Producer Price (SLC/tonne),strawberries_producer_price_slc_tonne_pea2,SLC,measure
 Strawberries - Producer Price (USD/tonne),strawberries_producer_price_usd_tonne_pea2,USD,measure
+Strawberries - Producer Price Index (2014-2016 = 100),strawberries_producer_price_index_2014_2016_100_pea2,,measure
 String beans - Producer Price (LCU/tonne),string_beans_producer_price_lcu_tonne_pea2,LCU,measure
 String beans - Producer Price (SLC/tonne),string_beans_producer_price_slc_tonne_pea2,SLC,measure
 String beans - Producer Price (USD/tonne),string_beans_producer_price_usd_tonne_pea2,USD,measure
+String beans - Producer Price Index (2014-2016 = 100),string_beans_producer_price_index_2014_2016_100_pea2,,measure
 Sugar beet - Producer Price (LCU/tonne),sugar_beet_producer_price_lcu_tonne_pea2,LCU,measure
 Sugar beet - Producer Price (SLC/tonne),sugar_beet_producer_price_slc_tonne_pea2,SLC,measure
 Sugar beet - Producer Price (USD/tonne),sugar_beet_producer_price_usd_tonne_pea2,USD,measure
+Sugar beet - Producer Price Index (2014-2016 = 100),sugar_beet_producer_price_index_2014_2016_100_pea2,,measure
 Sugar cane - Producer Price (LCU/tonne),sugar_cane_producer_price_lcu_tonne_pea2,LCU,measure
 Sugar cane - Producer Price (SLC/tonne),sugar_cane_producer_price_slc_tonne_pea2,SLC,measure
 Sugar cane - Producer Price (USD/tonne),sugar_cane_producer_price_usd_tonne_pea2,USD,measure
+Sugar cane - Producer Price Index (2014-2016 = 100),sugar_cane_producer_price_index_2014_2016_100_pea2,,measure
 Sugar crops nes - Producer Price (LCU/tonne),sugar_crops_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Sugar crops nes - Producer Price (SLC/tonne),sugar_crops_nes_producer_price_slc_tonne_pea2,SLC,measure
 Sugar crops nes - Producer Price (USD/tonne),sugar_crops_nes_producer_price_usd_tonne_pea2,USD,measure
+Sugar crops nes - Producer Price Index (2014-2016 = 100),sugar_crops_nes_producer_price_index_2014_2016_100_pea2,,measure
 Sunflower seed - Producer Price (LCU/tonne),sunflower_seed_producer_price_lcu_tonne_pea2,LCU,measure
 Sunflower seed - Producer Price (SLC/tonne),sunflower_seed_producer_price_slc_tonne_pea2,SLC,measure
 Sunflower seed - Producer Price (USD/tonne),sunflower_seed_producer_price_usd_tonne_pea2,USD,measure
+Sunflower seed - Producer Price Index (2014-2016 = 100),sunflower_seed_producer_price_index_2014_2016_100_pea2,,measure
 Sweet potatoes - Producer Price (LCU/tonne),sweet_potatoes_producer_price_lcu_tonne_pea2,LCU,measure
 Sweet potatoes - Producer Price (SLC/tonne),sweet_potatoes_producer_price_slc_tonne_pea2,SLC,measure
 Sweet potatoes - Producer Price (USD/tonne),sweet_potatoes_producer_price_usd_tonne_pea2,USD,measure
+Sweet potatoes - Producer Price Index (2014-2016 = 100),sweet_potatoes_producer_price_index_2014_2016_100_pea2,,measure
+Tallowtree seed - Producer Price (LCU/tonne),tallowtree_seed_producer_price_lcu_tonne_pea2,LCU,measure
 "Tangerines, mandarins, clementines, satsumas - Producer Price (LCU/tonne)",tangerines_mandarins_clementines_satsumas_producer_price_lcu_tonne_pea2,LCU,measure
 "Tangerines, mandarins, clementines, satsumas - Producer Price (SLC/tonne)",tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2,SLC,measure
 "Tangerines, mandarins, clementines, satsumas - Producer Price (USD/tonne)",tangerines_mandarins_clementines_satsumas_producer_price_usd_tonne_pea2,USD,measure
+"Tangerines, mandarins, clementines, satsumas - Producer Price Index (2014-2016 = 100)",tangerines_mandarins_clementines_satsumas_producer_price_index_2014_2016_100_pea2,,measure
 Taro (cocoyam) - Producer Price (LCU/tonne),taro_cocoyam_producer_price_lcu_tonne_pea2,LCU,measure
 Taro (cocoyam) - Producer Price (SLC/tonne),taro_cocoyam_producer_price_slc_tonne_pea2,SLC,measure
 Taro (cocoyam) - Producer Price (USD/tonne),taro_cocoyam_producer_price_usd_tonne_pea2,USD,measure
+Taro (cocoyam) - Producer Price Index (2014-2016 = 100),taro_cocoyam_producer_price_index_2014_2016_100_pea2,,measure
 Tea - Producer Price (LCU/tonne),tea_producer_price_lcu_tonne_pea2,LCU,measure
 Tea - Producer Price (SLC/tonne),tea_producer_price_slc_tonne_pea2,SLC,measure
 Tea - Producer Price (USD/tonne),tea_producer_price_usd_tonne_pea2,USD,measure
+Tea - Producer Price Index (2014-2016 = 100),tea_producer_price_index_2014_2016_100_pea2,,measure
 Tea nes - Producer Price (LCU/tonne),tea_nes_producer_price_lcu_tonne_pea2,LCU,measure
 Tea nes - Producer Price (SLC/tonne),tea_nes_producer_price_slc_tonne_pea2,SLC,measure
 Tea nes - Producer Price (USD/tonne),tea_nes_producer_price_usd_tonne_pea2,USD,measure
+Tea nes - Producer Price Index (2014-2016 = 100),tea_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Tobacco, unmanufactured - Producer Price (LCU/tonne)",tobacco_unmanufactured_producer_price_lcu_tonne_pea2,LCU,measure
 "Tobacco, unmanufactured - Producer Price (SLC/tonne)",tobacco_unmanufactured_producer_price_slc_tonne_pea2,SLC,measure
 "Tobacco, unmanufactured - Producer Price (USD/tonne)",tobacco_unmanufactured_producer_price_usd_tonne_pea2,USD,measure
+"Tobacco, unmanufactured - Producer Price Index (2014-2016 = 100)",tobacco_unmanufactured_producer_price_index_2014_2016_100_pea2,,measure
 Tomatoes - Producer Price (LCU/tonne),tomatoes_producer_price_lcu_tonne_pea2,LCU,measure
 Tomatoes - Producer Price (SLC/tonne),tomatoes_producer_price_slc_tonne_pea2,SLC,measure
 Tomatoes - Producer Price (USD/tonne),tomatoes_producer_price_usd_tonne_pea2,USD,measure
+Tomatoes - Producer Price Index (2014-2016 = 100),tomatoes_producer_price_index_2014_2016_100_pea2,,measure
+"Treenuts, Total - Producer Price Index (2014-2016 = 100)",treenuts_total_producer_price_index_2014_2016_100_pea2,,measure
 Triticale - Producer Price (LCU/tonne),triticale_producer_price_lcu_tonne_pea2,LCU,measure
 Triticale - Producer Price (SLC/tonne),triticale_producer_price_slc_tonne_pea2,SLC,measure
 Triticale - Producer Price (USD/tonne),triticale_producer_price_usd_tonne_pea2,USD,measure
+Triticale - Producer Price Index (2014-2016 = 100),triticale_producer_price_index_2014_2016_100_pea2,,measure
 Tung nuts - Producer Price (LCU/tonne),tung_nuts_producer_price_lcu_tonne_pea2,LCU,measure
 Tung nuts - Producer Price (SLC/tonne),tung_nuts_producer_price_slc_tonne_pea2,SLC,measure
 Tung nuts - Producer Price (USD/tonne),tung_nuts_producer_price_usd_tonne_pea2,USD,measure
+Tung nuts - Producer Price Index (2014-2016 = 100),tung_nuts_producer_price_index_2014_2016_100_pea2,,measure
 Vanilla - Producer Price (LCU/tonne),vanilla_producer_price_lcu_tonne_pea2,LCU,measure
 Vanilla - Producer Price (SLC/tonne),vanilla_producer_price_slc_tonne_pea2,SLC,measure
 Vanilla - Producer Price (USD/tonne),vanilla_producer_price_usd_tonne_pea2,USD,measure
+Vanilla - Producer Price Index (2014-2016 = 100),vanilla_producer_price_index_2014_2016_100_pea2,,measure
+Vegetable tallow - Producer Price (LCU/tonne),vegetable_tallow_producer_price_lcu_tonne_pea2,LCU,measure
+Vegetable tallow - Producer Price Index (2014-2016 = 100),vegetable_tallow_producer_price_index_2014_2016_100_pea2,,measure
+Vegetables Primary - Producer Price Index (2014-2016 = 100),vegetables_primary_producer_price_index_2014_2016_100_pea2,,measure
+"Vegetables&Melons, Total - Producer Price Index (2014-2016 = 100)",vegetables_melons_total_producer_price_index_2014_2016_100_pea2,,measure
 "Vegetables, fresh nes - Producer Price (LCU/tonne)",vegetables_fresh_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Vegetables, fresh nes - Producer Price (SLC/tonne)",vegetables_fresh_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Vegetables, fresh nes - Producer Price (USD/tonne)",vegetables_fresh_nes_producer_price_usd_tonne_pea2,USD,measure
+"Vegetables, fresh nes - Producer Price Index (2014-2016 = 100)",vegetables_fresh_nes_producer_price_index_2014_2016_100_pea2,,measure
 "Vegetables, leguminous nes - Producer Price (LCU/tonne)",vegetables_leguminous_nes_producer_price_lcu_tonne_pea2,LCU,measure
 "Vegetables, leguminous nes - Producer Price (SLC/tonne)",vegetables_leguminous_nes_producer_price_slc_tonne_pea2,SLC,measure
 "Vegetables, leguminous nes - Producer Price (USD/tonne)",vegetables_leguminous_nes_producer_price_usd_tonne_pea2,USD,measure
+"Vegetables, leguminous nes - Producer Price Index (2014-2016 = 100)",vegetables_leguminous_nes_producer_price_index_2014_2016_100_pea2,,measure
 Vetches - Producer Price (LCU/tonne),vetches_producer_price_lcu_tonne_pea2,LCU,measure
 Vetches - Producer Price (SLC/tonne),vetches_producer_price_slc_tonne_pea2,SLC,measure
 Vetches - Producer Price (USD/tonne),vetches_producer_price_usd_tonne_pea2,USD,measure
+Vetches - Producer Price Index (2014-2016 = 100),vetches_producer_price_index_2014_2016_100_pea2,,measure
 "Walnuts, with shell - Producer Price (LCU/tonne)",walnuts_with_shell_producer_price_lcu_tonne_pea2,LCU,measure
 "Walnuts, with shell - Producer Price (SLC/tonne)",walnuts_with_shell_producer_price_slc_tonne_pea2,SLC,measure
 "Walnuts, with shell - Producer Price (USD/tonne)",walnuts_with_shell_producer_price_usd_tonne_pea2,USD,measure
+"Walnuts, with shell - Producer Price Index (2014-2016 = 100)",walnuts_with_shell_producer_price_index_2014_2016_100_pea2,,measure
 Watermelons - Producer Price (LCU/tonne),watermelons_producer_price_lcu_tonne_pea2,LCU,measure
 Watermelons - Producer Price (SLC/tonne),watermelons_producer_price_slc_tonne_pea2,SLC,measure
 Watermelons - Producer Price (USD/tonne),watermelons_producer_price_usd_tonne_pea2,USD,measure
+Watermelons - Producer Price Index (2014-2016 = 100),watermelons_producer_price_index_2014_2016_100_pea2,,measure
 Wheat - Producer Price (LCU/tonne),wheat_producer_price_lcu_tonne_pea2,LCU,measure
 Wheat - Producer Price (SLC/tonne),wheat_producer_price_slc_tonne_pea2,SLC,measure
 Wheat - Producer Price (USD/tonne),wheat_producer_price_usd_tonne_pea2,USD,measure
+Wheat - Producer Price Index (2014-2016 = 100),wheat_producer_price_index_2014_2016_100_pea2,,measure
 "Wool, greasy - Producer Price (LCU/tonne)",wool_greasy_producer_price_lcu_tonne_pea2,LCU,measure
 "Wool, greasy - Producer Price (SLC/tonne)",wool_greasy_producer_price_slc_tonne_pea2,SLC,measure
 "Wool, greasy - Producer Price (USD/tonne)",wool_greasy_producer_price_usd_tonne_pea2,USD,measure
+"Wool, greasy - Producer Price Index (2014-2016 = 100)",wool_greasy_producer_price_index_2014_2016_100_pea2,,measure
 Yams - Producer Price (LCU/tonne),yams_producer_price_lcu_tonne_pea2,LCU,measure
 Yams - Producer Price (SLC/tonne),yams_producer_price_slc_tonne_pea2,SLC,measure
 Yams - Producer Price (USD/tonne),yams_producer_price_usd_tonne_pea2,USD,measure
+Yams - Producer Price Index (2014-2016 = 100),yams_producer_price_index_2014_2016_100_pea2,,measure
 Yautia (cocoyam) - Producer Price (LCU/tonne),yautia_cocoyam_producer_price_lcu_tonne_pea2,LCU,measure
 Yautia (cocoyam) - Producer Price (SLC/tonne),yautia_cocoyam_producer_price_slc_tonne_pea2,SLC,measure
 Yautia (cocoyam) - Producer Price (USD/tonne),yautia_cocoyam_producer_price_usd_tonne_pea2,USD,measure
-Agave fibres nes - Producer Price Index (2004-2006 = 100),agave_fibres_nes_producer_price_index_2004_2006_100_pie,,measure
-Agriculture (PIN) - Producer Price Index (2004-2006 = 100),agriculture_pin_producer_price_index_2004_2006_100_pie,,measure
-"Almonds, with shell - Producer Price Index (2004-2006 = 100)",almonds_with_shell_producer_price_index_2004_2006_100_pie,,measure
-"Anise, badian, fennel, coriander - Producer Price Index (2004-2006 = 100)",anise_badian_fennel_coriander_producer_price_index_2004_2006_100_pie,,measure
-Apples - Producer Price Index (2004-2006 = 100),apples_producer_price_index_2004_2006_100_pie,,measure
-Apricots - Producer Price Index (2004-2006 = 100),apricots_producer_price_index_2004_2006_100_pie,,measure
-Areca nuts - Producer Price Index (2004-2006 = 100),areca_nuts_producer_price_index_2004_2006_100_pie,,measure
-Artichokes - Producer Price Index (2004-2006 = 100),artichokes_producer_price_index_2004_2006_100_pie,,measure
-Asparagus - Producer Price Index (2004-2006 = 100),asparagus_producer_price_index_2004_2006_100_pie,,measure
-Avocados - Producer Price Index (2004-2006 = 100),avocados_producer_price_index_2004_2006_100_pie,,measure
-Bambara beans - Producer Price Index (2004-2006 = 100),bambara_beans_producer_price_index_2004_2006_100_pie,,measure
-Bananas - Producer Price Index (2004-2006 = 100),bananas_producer_price_index_2004_2006_100_pie,,measure
-Barley - Producer Price Index (2004-2006 = 100),barley_producer_price_index_2004_2006_100_pie,,measure
-"Bastfibres, other - Producer Price Index (2004-2006 = 100)",bastfibres_other_producer_price_index_2004_2006_100_pie,,measure
-"Beans, dry - Producer Price Index (2004-2006 = 100)",beans_dry_producer_price_index_2004_2006_100_pie,,measure
-"Beans, green - Producer Price Index (2004-2006 = 100)",beans_green_producer_price_index_2004_2006_100_pie,,measure
-Beeswax - Producer Price Index (2004-2006 = 100),beeswax_producer_price_index_2004_2006_100_pie,,measure
-Berries nes - Producer Price Index (2004-2006 = 100),berries_nes_producer_price_index_2004_2006_100_pie,,measure
-Blueberries - Producer Price Index (2004-2006 = 100),blueberries_producer_price_index_2004_2006_100_pie,,measure
-"Brazil nuts, with shell - Producer Price Index (2004-2006 = 100)",brazil_nuts_with_shell_producer_price_index_2004_2006_100_pie,,measure
-"Broad beans, horse beans, dry - Producer Price Index (2004-2006 = 100)",broad_beans_horse_beans_dry_producer_price_index_2004_2006_100_pie,,measure
-Buckwheat - Producer Price Index (2004-2006 = 100),buckwheat_producer_price_index_2004_2006_100_pie,,measure
-Cabbages and other brassicas - Producer Price Index (2004-2006 = 100),cabbages_and_other_brassicas_producer_price_index_2004_2006_100_pie,,measure
-Canary seed - Producer Price Index (2004-2006 = 100),canary_seed_producer_price_index_2004_2006_100_pie,,measure
-Carobs - Producer Price Index (2004-2006 = 100),carobs_producer_price_index_2004_2006_100_pie,,measure
-Carrots and turnips - Producer Price Index (2004-2006 = 100),carrots_and_turnips_producer_price_index_2004_2006_100_pie,,measure
-"Cashew nuts, with shell - Producer Price Index (2004-2006 = 100)",cashew_nuts_with_shell_producer_price_index_2004_2006_100_pie,,measure
-Cashewapple - Producer Price Index (2004-2006 = 100),cashewapple_producer_price_index_2004_2006_100_pie,,measure
-Cassava - Producer Price Index (2004-2006 = 100),cassava_producer_price_index_2004_2006_100_pie,,measure
-Castor oil seed - Producer Price Index (2004-2006 = 100),castor_oil_seed_producer_price_index_2004_2006_100_pie,,measure
-Cauliflowers and broccoli - Producer Price Index (2004-2006 = 100),cauliflowers_and_broccoli_producer_price_index_2004_2006_100_pie,,measure
-"Cereals, nes - Producer Price Index (2004-2006 = 100)",cereals_nes_producer_price_index_2004_2006_100_pie,,measure
-"Cereals,Total - Producer Price Index (2004-2006 = 100)",cereals_total_producer_price_index_2004_2006_100_pie,,measure
-Cherries - Producer Price Index (2004-2006 = 100),cherries_producer_price_index_2004_2006_100_pie,,measure
-"Cherries, sour - Producer Price Index (2004-2006 = 100)",cherries_sour_producer_price_index_2004_2006_100_pie,,measure
-Chestnut - Producer Price Index (2004-2006 = 100),chestnut_producer_price_index_2004_2006_100_pie,,measure
-Chick peas - Producer Price Index (2004-2006 = 100),chick_peas_producer_price_index_2004_2006_100_pie,,measure
-Chicory roots - Producer Price Index (2004-2006 = 100),chicory_roots_producer_price_index_2004_2006_100_pie,,measure
-"Chillies and peppers, dry - Producer Price Index (2004-2006 = 100)",chillies_and_peppers_dry_producer_price_index_2004_2006_100_pie,,measure
-"Chillies and peppers, green - Producer Price Index (2004-2006 = 100)",chillies_and_peppers_green_producer_price_index_2004_2006_100_pie,,measure
-Cinnamon (canella) - Producer Price Index (2004-2006 = 100),cinnamon_canella_producer_price_index_2004_2006_100_pie,,measure
-"Citrus Fruit,Total - Producer Price Index (2004-2006 = 100)",citrus_fruit_total_producer_price_index_2004_2006_100_pie,,measure
-Cloves - Producer Price Index (2004-2006 = 100),cloves_producer_price_index_2004_2006_100_pie,,measure
-"Coarse Grain, Total - Producer Price Index (2004-2006 = 100)",coarse_grain_total_producer_price_index_2004_2006_100_pie,,measure
-"Cocoa, beans - Producer Price Index (2004-2006 = 100)",cocoa_beans_producer_price_index_2004_2006_100_pie,,measure
-Coconuts - Producer Price Index (2004-2006 = 100),coconuts_producer_price_index_2004_2006_100_pie,,measure
-"Coffee, green - Producer Price Index (2004-2006 = 100)",coffee_green_producer_price_index_2004_2006_100_pie,,measure
-Cotton lint - Producer Price Index (2004-2006 = 100),cotton_lint_producer_price_index_2004_2006_100_pie,,measure
-Cottonseed - Producer Price Index (2004-2006 = 100),cottonseed_producer_price_index_2004_2006_100_pie,,measure
-"Cow peas, dry - Producer Price Index (2004-2006 = 100)",cow_peas_dry_producer_price_index_2004_2006_100_pie,,measure
-Cranberries - Producer Price Index (2004-2006 = 100),cranberries_producer_price_index_2004_2006_100_pie,,measure
-Cucumbers and gherkins - Producer Price Index (2004-2006 = 100),cucumbers_and_gherkins_producer_price_index_2004_2006_100_pie,,measure
-Currants - Producer Price Index (2004-2006 = 100),currants_producer_price_index_2004_2006_100_pie,,measure
-Dates - Producer Price Index (2004-2006 = 100),dates_producer_price_index_2004_2006_100_pie,,measure
-Eggplants (aubergines) - Producer Price Index (2004-2006 = 100),eggplants_aubergines_producer_price_index_2004_2006_100_pie,,measure
-Eggs Primary - Producer Price Index (2004-2006 = 100),eggs_primary_producer_price_index_2004_2006_100_pie,,measure
-"Eggs, hen, in shell - Producer Price Index (2004-2006 = 100)",eggs_hen_in_shell_producer_price_index_2004_2006_100_pie,,measure
-"Eggs, other bird, in shell - Producer Price Index (2004-2006 = 100)",eggs_other_bird_in_shell_producer_price_index_2004_2006_100_pie,,measure
-Fibre Crops Primary - Producer Price Index (2004-2006 = 100),fibre_crops_primary_producer_price_index_2004_2006_100_pie,,measure
-Fibre crops nes - Producer Price Index (2004-2006 = 100),fibre_crops_nes_producer_price_index_2004_2006_100_pie,,measure
-Figs - Producer Price Index (2004-2006 = 100),figs_producer_price_index_2004_2006_100_pie,,measure
-Flax fibre and tow - Producer Price Index (2004-2006 = 100),flax_fibre_and_tow_producer_price_index_2004_2006_100_pie,,measure
-Fonio - Producer Price Index (2004-2006 = 100),fonio_producer_price_index_2004_2006_100_pie,,measure
-Fruit Primary - Producer Price Index (2004-2006 = 100),fruit_primary_producer_price_index_2004_2006_100_pie,,measure
-"Fruit excl Melons,Total - Producer Price Index (2004-2006 = 100)",fruit_excl_melons_total_producer_price_index_2004_2006_100_pie,,measure
-"Fruit, citrus nes - Producer Price Index (2004-2006 = 100)",fruit_citrus_nes_producer_price_index_2004_2006_100_pie,,measure
-"Fruit, fresh nes - Producer Price Index (2004-2006 = 100)",fruit_fresh_nes_producer_price_index_2004_2006_100_pie,,measure
-"Fruit, pome nes - Producer Price Index (2004-2006 = 100)",fruit_pome_nes_producer_price_index_2004_2006_100_pie,,measure
-"Fruit, stone nes - Producer Price Index (2004-2006 = 100)",fruit_stone_nes_producer_price_index_2004_2006_100_pie,,measure
-"Fruit, tropical fresh nes - Producer Price Index (2004-2006 = 100)",fruit_tropical_fresh_nes_producer_price_index_2004_2006_100_pie,,measure
-Garlic - Producer Price Index (2004-2006 = 100),garlic_producer_price_index_2004_2006_100_pie,,measure
-Ginger - Producer Price Index (2004-2006 = 100),ginger_producer_price_index_2004_2006_100_pie,,measure
-Gooseberries - Producer Price Index (2004-2006 = 100),gooseberries_producer_price_index_2004_2006_100_pie,,measure
-"Grain, mixed - Producer Price Index (2004-2006 = 100)",grain_mixed_producer_price_index_2004_2006_100_pie,,measure
-Grapefruit (inc. pomelos) - Producer Price Index (2004-2006 = 100),grapefruit_inc_pomelos_producer_price_index_2004_2006_100_pie,,measure
-Grapes - Producer Price Index (2004-2006 = 100),grapes_producer_price_index_2004_2006_100_pie,,measure
-"Groundnuts, with shell - Producer Price Index (2004-2006 = 100)",groundnuts_with_shell_producer_price_index_2004_2006_100_pie,,measure
-"Gums, natural - Producer Price Index (2004-2006 = 100)",gums_natural_producer_price_index_2004_2006_100_pie,,measure
-"Hazelnuts, with shell - Producer Price Index (2004-2006 = 100)",hazelnuts_with_shell_producer_price_index_2004_2006_100_pie,,measure
-Hemp tow waste - Producer Price Index (2004-2006 = 100),hemp_tow_waste_producer_price_index_2004_2006_100_pie,,measure
-Hempseed - Producer Price Index (2004-2006 = 100),hempseed_producer_price_index_2004_2006_100_pie,,measure
-"Honey, natural - Producer Price Index (2004-2006 = 100)",honey_natural_producer_price_index_2004_2006_100_pie,,measure
-Hops - Producer Price Index (2004-2006 = 100),hops_producer_price_index_2004_2006_100_pie,,measure
-Jute - Producer Price Index (2004-2006 = 100),jute_producer_price_index_2004_2006_100_pie,,measure
-Jute & Jute-like Fibres - Producer Price Index (2004-2006 = 100),jute_jute_like_fibres_producer_price_index_2004_2006_100_pie,,measure
-Kapok fruit - Producer Price Index (2004-2006 = 100),kapok_fruit_producer_price_index_2004_2006_100_pie,,measure
-Karite nuts (sheanuts) - Producer Price Index (2004-2006 = 100),karite_nuts_sheanuts_producer_price_index_2004_2006_100_pie,,measure
-Kiwi fruit - Producer Price Index (2004-2006 = 100),kiwi_fruit_producer_price_index_2004_2006_100_pie,,measure
-Kola nuts - Producer Price Index (2004-2006 = 100),kola_nuts_producer_price_index_2004_2006_100_pie,,measure
-"Leeks, other alliaceous vegetables - Producer Price Index (2004-2006 = 100)",leeks_other_alliaceous_vegetables_producer_price_index_2004_2006_100_pie,,measure
-Lemons and limes - Producer Price Index (2004-2006 = 100),lemons_and_limes_producer_price_index_2004_2006_100_pie,,measure
-Lentils - Producer Price Index (2004-2006 = 100),lentils_producer_price_index_2004_2006_100_pie,,measure
-Lettuce and chicory - Producer Price Index (2004-2006 = 100),lettuce_and_chicory_producer_price_index_2004_2006_100_pie,,measure
-Linseed - Producer Price Index (2004-2006 = 100),linseed_producer_price_index_2004_2006_100_pie,,measure
-Livestock (PIN) - Producer Price Index (2004-2006 = 100),livestock_pin_producer_price_index_2004_2006_100_pie,,measure
-Lupins - Producer Price Index (2004-2006 = 100),lupins_producer_price_index_2004_2006_100_pie,,measure
-Maize - Producer Price Index (2004-2006 = 100),maize_producer_price_index_2004_2006_100_pie,,measure
-"Maize, green - Producer Price Index (2004-2006 = 100)",maize_green_producer_price_index_2004_2006_100_pie,,measure
-"Mangoes, mangosteens, guavas - Producer Price Index (2004-2006 = 100)",mangoes_mangosteens_guavas_producer_price_index_2004_2006_100_pie,,measure
-Manila fibre (abaca) - Producer Price Index (2004-2006 = 100),manila_fibre_abaca_producer_price_index_2004_2006_100_pie,,measure
-Maté - Producer Price Index (2004-2006 = 100),mate_producer_price_index_2004_2006_100_pie,,measure
-"Meat, Total - Producer Price Index (2004-2006 = 100)",meat_total_producer_price_index_2004_2006_100_pie,,measure
-"Meat, ass - Producer Price Index (2004-2006 = 100)",meat_ass_producer_price_index_2004_2006_100_pie,,measure
-"Meat, bird nes - Producer Price Index (2004-2006 = 100)",meat_bird_nes_producer_price_index_2004_2006_100_pie,,measure
-"Meat, buffalo - Producer Price Index (2004-2006 = 100)",meat_buffalo_producer_price_index_2004_2006_100_pie,,measure
-"Meat, camel - Producer Price Index (2004-2006 = 100)",meat_camel_producer_price_index_2004_2006_100_pie,,measure
-"Meat, cattle - Producer Price Index (2004-2006 = 100)",meat_cattle_producer_price_index_2004_2006_100_pie,,measure
-"Meat, chicken - Producer Price Index (2004-2006 = 100)",meat_chicken_producer_price_index_2004_2006_100_pie,,measure
-"Meat, duck - Producer Price Index (2004-2006 = 100)",meat_duck_producer_price_index_2004_2006_100_pie,,measure
-"Meat, game - Producer Price Index (2004-2006 = 100)",meat_game_producer_price_index_2004_2006_100_pie,,measure
-"Meat, goat - Producer Price Index (2004-2006 = 100)",meat_goat_producer_price_index_2004_2006_100_pie,,measure
-"Meat, goose and guinea fowl - Producer Price Index (2004-2006 = 100)",meat_goose_and_guinea_fowl_producer_price_index_2004_2006_100_pie,,measure
-"Meat, horse - Producer Price Index (2004-2006 = 100)",meat_horse_producer_price_index_2004_2006_100_pie,,measure
-"Meat, mule - Producer Price Index (2004-2006 = 100)",meat_mule_producer_price_index_2004_2006_100_pie,,measure
-"Meat, nes - Producer Price Index (2004-2006 = 100)",meat_nes_producer_price_index_2004_2006_100_pie,,measure
-"Meat, other camelids - Producer Price Index (2004-2006 = 100)",meat_other_camelids_producer_price_index_2004_2006_100_pie,,measure
-"Meat, other rodents - Producer Price Index (2004-2006 = 100)",meat_other_rodents_producer_price_index_2004_2006_100_pie,,measure
-"Meat, pig - Producer Price Index (2004-2006 = 100)",meat_pig_producer_price_index_2004_2006_100_pie,,measure
-"Meat, rabbit - Producer Price Index (2004-2006 = 100)",meat_rabbit_producer_price_index_2004_2006_100_pie,,measure
-"Meat, sheep - Producer Price Index (2004-2006 = 100)",meat_sheep_producer_price_index_2004_2006_100_pie,,measure
-"Meat, turkey - Producer Price Index (2004-2006 = 100)",meat_turkey_producer_price_index_2004_2006_100_pie,,measure
-"Melons, other (inc.cantaloupes) - Producer Price Index (2004-2006 = 100)",melons_other_inc_cantaloupes_producer_price_index_2004_2006_100_pie,,measure
-Melonseed - Producer Price Index (2004-2006 = 100),melonseed_producer_price_index_2004_2006_100_pie,,measure
-"Milk, whole fresh buffalo - Producer Price Index (2004-2006 = 100)",milk_whole_fresh_buffalo_producer_price_index_2004_2006_100_pie,,measure
-"Milk, whole fresh camel - Producer Price Index (2004-2006 = 100)",milk_whole_fresh_camel_producer_price_index_2004_2006_100_pie,,measure
-"Milk, whole fresh cow - Producer Price Index (2004-2006 = 100)",milk_whole_fresh_cow_producer_price_index_2004_2006_100_pie,,measure
-"Milk, whole fresh goat - Producer Price Index (2004-2006 = 100)",milk_whole_fresh_goat_producer_price_index_2004_2006_100_pie,,measure
-"Milk, whole fresh sheep - Producer Price Index (2004-2006 = 100)",milk_whole_fresh_sheep_producer_price_index_2004_2006_100_pie,,measure
-"Milk,Total - Producer Price Index (2004-2006 = 100)",milk_total_producer_price_index_2004_2006_100_pie,,measure
-Millet - Producer Price Index (2004-2006 = 100),millet_producer_price_index_2004_2006_100_pie,,measure
-Mushrooms and truffles - Producer Price Index (2004-2006 = 100),mushrooms_and_truffles_producer_price_index_2004_2006_100_pie,,measure
-Mustard seed - Producer Price Index (2004-2006 = 100),mustard_seed_producer_price_index_2004_2006_100_pie,,measure
-"Nutmeg, mace and cardamoms - Producer Price Index (2004-2006 = 100)",nutmeg_mace_and_cardamoms_producer_price_index_2004_2006_100_pie,,measure
-"Nuts, nes - Producer Price Index (2004-2006 = 100)",nuts_nes_producer_price_index_2004_2006_100_pie,,measure
-Oats - Producer Price Index (2004-2006 = 100),oats_producer_price_index_2004_2006_100_pie,,measure
-Oil palm fruit - Producer Price Index (2004-2006 = 100),oil_palm_fruit_producer_price_index_2004_2006_100_pie,,measure
-"Oil, palm - Producer Price Index (2004-2006 = 100)",oil_palm_producer_price_index_2004_2006_100_pie,,measure
-"Oil, stillingia - Producer Price Index (2004-2006 = 100)",oil_stillingia_producer_price_index_2004_2006_100_pie,,measure
-"Oilcrops, Oil Equivalent - Producer Price Index (2004-2006 = 100)",oilcrops_oil_equivalent_producer_price_index_2004_2006_100_pie,,measure
-Oilseeds nes - Producer Price Index (2004-2006 = 100),oilseeds_nes_producer_price_index_2004_2006_100_pie,,measure
-Okra - Producer Price Index (2004-2006 = 100),okra_producer_price_index_2004_2006_100_pie,,measure
-Olives - Producer Price Index (2004-2006 = 100),olives_producer_price_index_2004_2006_100_pie,,measure
-"Onions, dry - Producer Price Index (2004-2006 = 100)",onions_dry_producer_price_index_2004_2006_100_pie,,measure
-"Onions, shallots, green - Producer Price Index (2004-2006 = 100)",onions_shallots_green_producer_price_index_2004_2006_100_pie,,measure
-Oranges - Producer Price Index (2004-2006 = 100),oranges_producer_price_index_2004_2006_100_pie,,measure
-Palm kernels - Producer Price Index (2004-2006 = 100),palm_kernels_producer_price_index_2004_2006_100_pie,,measure
-Papayas - Producer Price Index (2004-2006 = 100),papayas_producer_price_index_2004_2006_100_pie,,measure
-Peaches and nectarines - Producer Price Index (2004-2006 = 100),peaches_and_nectarines_producer_price_index_2004_2006_100_pie,,measure
-Pears - Producer Price Index (2004-2006 = 100),pears_producer_price_index_2004_2006_100_pie,,measure
-"Peas, dry - Producer Price Index (2004-2006 = 100)",peas_dry_producer_price_index_2004_2006_100_pie,,measure
-"Peas, green - Producer Price Index (2004-2006 = 100)",peas_green_producer_price_index_2004_2006_100_pie,,measure
-Pepper (piper spp.) - Producer Price Index (2004-2006 = 100),pepper_piper_spp_producer_price_index_2004_2006_100_pie,,measure
-Peppermint - Producer Price Index (2004-2006 = 100),peppermint_producer_price_index_2004_2006_100_pie,,measure
-Persimmons - Producer Price Index (2004-2006 = 100),persimmons_producer_price_index_2004_2006_100_pie,,measure
-Pigeon peas - Producer Price Index (2004-2006 = 100),pigeon_peas_producer_price_index_2004_2006_100_pie,,measure
-Pineapples - Producer Price Index (2004-2006 = 100),pineapples_producer_price_index_2004_2006_100_pie,,measure
-Pistachios - Producer Price Index (2004-2006 = 100),pistachios_producer_price_index_2004_2006_100_pie,,measure
-Plantains and others - Producer Price Index (2004-2006 = 100),plantains_and_others_producer_price_index_2004_2006_100_pie,,measure
-Plums and sloes - Producer Price Index (2004-2006 = 100),plums_and_sloes_producer_price_index_2004_2006_100_pie,,measure
-Popcorn - Producer Price Index (2004-2006 = 100),popcorn_producer_price_index_2004_2006_100_pie,,measure
-Poppy seed - Producer Price Index (2004-2006 = 100),poppy_seed_producer_price_index_2004_2006_100_pie,,measure
-Potatoes - Producer Price Index (2004-2006 = 100),potatoes_producer_price_index_2004_2006_100_pie,,measure
-"Pulses, nes - Producer Price Index (2004-2006 = 100)",pulses_nes_producer_price_index_2004_2006_100_pie,,measure
-"Pulses,Total - Producer Price Index (2004-2006 = 100)",pulses_total_producer_price_index_2004_2006_100_pie,,measure
-"Pumpkins, squash and gourds - Producer Price Index (2004-2006 = 100)",pumpkins_squash_and_gourds_producer_price_index_2004_2006_100_pie,,measure
-"Pyrethrum, dried - Producer Price Index (2004-2006 = 100)",pyrethrum_dried_producer_price_index_2004_2006_100_pie,,measure
-Quinces - Producer Price Index (2004-2006 = 100),quinces_producer_price_index_2004_2006_100_pie,,measure
-Quinoa - Producer Price Index (2004-2006 = 100),quinoa_producer_price_index_2004_2006_100_pie,,measure
-Ramie - Producer Price Index (2004-2006 = 100),ramie_producer_price_index_2004_2006_100_pie,,measure
-Rapeseed - Producer Price Index (2004-2006 = 100),rapeseed_producer_price_index_2004_2006_100_pie,,measure
-Raspberries - Producer Price Index (2004-2006 = 100),raspberries_producer_price_index_2004_2006_100_pie,,measure
-"Rice, paddy - Producer Price Index (2004-2006 = 100)",rice_paddy_producer_price_index_2004_2006_100_pie,,measure
-"Roots and Tubers,Total - Producer Price Index (2004-2006 = 100)",roots_and_tubers_total_producer_price_index_2004_2006_100_pie,,measure
-"Roots and tubers, nes - Producer Price Index (2004-2006 = 100)",roots_and_tubers_nes_producer_price_index_2004_2006_100_pie,,measure
-"Rubber, natural - Producer Price Index (2004-2006 = 100)",rubber_natural_producer_price_index_2004_2006_100_pie,,measure
-Rye - Producer Price Index (2004-2006 = 100),rye_producer_price_index_2004_2006_100_pie,,measure
-Safflower seed - Producer Price Index (2004-2006 = 100),safflower_seed_producer_price_index_2004_2006_100_pie,,measure
-Seed cotton - Producer Price Index (2004-2006 = 100),seed_cotton_producer_price_index_2004_2006_100_pie,,measure
-Sesame seed - Producer Price Index (2004-2006 = 100),sesame_seed_producer_price_index_2004_2006_100_pie,,measure
-"Silk-worm cocoons, reelable - Producer Price Index (2004-2006 = 100)",silk_worm_cocoons_reelable_producer_price_index_2004_2006_100_pie,,measure
-Sisal - Producer Price Index (2004-2006 = 100),sisal_producer_price_index_2004_2006_100_pie,,measure
-Sorghum - Producer Price Index (2004-2006 = 100),sorghum_producer_price_index_2004_2006_100_pie,,measure
-Soybeans - Producer Price Index (2004-2006 = 100),soybeans_producer_price_index_2004_2006_100_pie,,measure
-"Spices, nes - Producer Price Index (2004-2006 = 100)",spices_nes_producer_price_index_2004_2006_100_pie,,measure
-Spinach - Producer Price Index (2004-2006 = 100),spinach_producer_price_index_2004_2006_100_pie,,measure
-Strawberries - Producer Price Index (2004-2006 = 100),strawberries_producer_price_index_2004_2006_100_pie,,measure
-String beans - Producer Price Index (2004-2006 = 100),string_beans_producer_price_index_2004_2006_100_pie,,measure
-Sugar beet - Producer Price Index (2004-2006 = 100),sugar_beet_producer_price_index_2004_2006_100_pie,,measure
-Sugar cane - Producer Price Index (2004-2006 = 100),sugar_cane_producer_price_index_2004_2006_100_pie,,measure
-"Sugar crops, nes - Producer Price Index (2004-2006 = 100)",sugar_crops_nes_producer_price_index_2004_2006_100_pie,,measure
-Sunflower seed - Producer Price Index (2004-2006 = 100),sunflower_seed_producer_price_index_2004_2006_100_pie,,measure
-Sweet potatoes - Producer Price Index (2004-2006 = 100),sweet_potatoes_producer_price_index_2004_2006_100_pie,,measure
-"Tangerines, mandarins, clementines, satsumas - Producer Price Index (2004-2006 = 100)",tangerines_mandarins_clementines_satsumas_producer_price_index_2004_2006_100_pie,,measure
-Taro (cocoyam) - Producer Price Index (2004-2006 = 100),taro_cocoyam_producer_price_index_2004_2006_100_pie,,measure
-Tea - Producer Price Index (2004-2006 = 100),tea_producer_price_index_2004_2006_100_pie,,measure
-Tea nes - Producer Price Index (2004-2006 = 100),tea_nes_producer_price_index_2004_2006_100_pie,,measure
-"Tobacco, unmanufactured - Producer Price Index (2004-2006 = 100)",tobacco_unmanufactured_producer_price_index_2004_2006_100_pie,,measure
-Tomatoes - Producer Price Index (2004-2006 = 100),tomatoes_producer_price_index_2004_2006_100_pie,,measure
-"Treenuts,Total - Producer Price Index (2004-2006 = 100)",treenuts_total_producer_price_index_2004_2006_100_pie,,measure
-Triticale - Producer Price Index (2004-2006 = 100),triticale_producer_price_index_2004_2006_100_pie,,measure
-Tung nuts - Producer Price Index (2004-2006 = 100),tung_nuts_producer_price_index_2004_2006_100_pie,,measure
-Vanilla - Producer Price Index (2004-2006 = 100),vanilla_producer_price_index_2004_2006_100_pie,,measure
-Vegetable tallow - Producer Price Index (2004-2006 = 100),vegetable_tallow_producer_price_index_2004_2006_100_pie,,measure
-Vegetables Primary - Producer Price Index (2004-2006 = 100),vegetables_primary_producer_price_index_2004_2006_100_pie,,measure
-"Vegetables&Melons, Total - Producer Price Index (2004-2006 = 100)",vegetables_melons_total_producer_price_index_2004_2006_100_pie,,measure
-"Vegetables, fresh nes - Producer Price Index (2004-2006 = 100)",vegetables_fresh_nes_producer_price_index_2004_2006_100_pie,,measure
-"Vegetables, leguminous nes - Producer Price Index (2004-2006 = 100)",vegetables_leguminous_nes_producer_price_index_2004_2006_100_pie,,measure
-Vetches - Producer Price Index (2004-2006 = 100),vetches_producer_price_index_2004_2006_100_pie,,measure
-"Walnuts, with shell - Producer Price Index (2004-2006 = 100)",walnuts_with_shell_producer_price_index_2004_2006_100_pie,,measure
-Watermelons - Producer Price Index (2004-2006 = 100),watermelons_producer_price_index_2004_2006_100_pie,,measure
-Wheat - Producer Price Index (2004-2006 = 100),wheat_producer_price_index_2004_2006_100_pie,,measure
-"Wool, greasy - Producer Price Index (2004-2006 = 100)",wool_greasy_producer_price_index_2004_2006_100_pie,,measure
-Yams - Producer Price Index (2004-2006 = 100),yams_producer_price_index_2004_2006_100_pie,,measure
-Yautia (cocoyam) - Producer Price Index (2004-2006 = 100),yautia_cocoyam_producer_price_index_2004_2006_100_pie,,measure
+Yautia (cocoyam) - Producer Price Index (2014-2016 = 100),yautia_cocoyam_producer_price_index_2014_2016_100_pea2,,measure
 Beer of barley - Production,beer_of_barley_production_pce,tonnes,measure
 Cotton lint - Production,cotton_lint_production_pce,tonnes,measure
 Cottonseed - Production,cottonseed_production_pce,tonnes,measure
@@ -10042,70 +10048,70 @@ Yams - Yield,yams_yield_pce1,hg/ha,measure
 Yautia (cocoyam) - Area harvested,yautia_cocoyam_area_harvested_pce1,ha,measure
 Yautia (cocoyam) - Production,yautia_cocoyam_production_pce1,tonnes,measure
 Yautia (cocoyam) - Yield,yautia_cocoyam_yield_pce1,hg/ha,measure
-Agriculture (PIN) - Gross Production Index Number (2004-2006 = 100),agriculture_pin_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Agriculture (PIN) - Gross per capita Production Index Number (2004-2006 = 100),agriculture_pin_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Agriculture (PIN) - Net Production Index Number (2004-2006 = 100),agriculture_pin_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Agriculture (PIN) - Net per capita Production Index Number (2004-2006 = 100),agriculture_pin_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Cereals,Total - Gross Production Index Number (2004-2006 = 100)",cereals_total_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Cereals,Total - Gross per capita Production Index Number (2004-2006 = 100)",cereals_total_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Cereals,Total - Net Production Index Number (2004-2006 = 100)",cereals_total_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Cereals,Total - Net per capita Production Index Number (2004-2006 = 100)",cereals_total_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cotton lint - Gross Production Index Number (2004-2006 = 100),cotton_lint_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cotton lint - Gross per capita Production Index Number (2004-2006 = 100),cotton_lint_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cotton lint - Net Production Index Number (2004-2006 = 100),cotton_lint_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cotton lint - Net per capita Production Index Number (2004-2006 = 100),cotton_lint_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cottonseed - Gross Production Index Number (2004-2006 = 100),cottonseed_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cottonseed - Gross per capita Production Index Number (2004-2006 = 100),cottonseed_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cottonseed - Net Production Index Number (2004-2006 = 100),cottonseed_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Cottonseed - Net per capita Production Index Number (2004-2006 = 100),cottonseed_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Crops (PIN) - Gross Production Index Number (2004-2006 = 100),crops_pin_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Crops (PIN) - Gross per capita Production Index Number (2004-2006 = 100),crops_pin_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Crops (PIN) - Net Production Index Number (2004-2006 = 100),crops_pin_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Crops (PIN) - Net per capita Production Index Number (2004-2006 = 100),crops_pin_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Food (PIN) - Gross Production Index Number (2004-2006 = 100),food_pin_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Food (PIN) - Gross per capita Production Index Number (2004-2006 = 100),food_pin_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Food (PIN) - Net Production Index Number (2004-2006 = 100),food_pin_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Food (PIN) - Net per capita Production Index Number (2004-2006 = 100),food_pin_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Livestock (PIN) - Gross Production Index Number (2004-2006 = 100),livestock_pin_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Livestock (PIN) - Gross per capita Production Index Number (2004-2006 = 100),livestock_pin_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Livestock (PIN) - Net Production Index Number (2004-2006 = 100),livestock_pin_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Livestock (PIN) - Net per capita Production Index Number (2004-2006 = 100),livestock_pin_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Meat indigenous, total - Gross Production Index Number (2004-2006 = 100)",meat_indigenous_total_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Meat indigenous, total - Gross per capita Production Index Number (2004-2006 = 100)",meat_indigenous_total_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Meat indigenous, total - Net Production Index Number (2004-2006 = 100)",meat_indigenous_total_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Meat indigenous, total - Net per capita Production Index Number (2004-2006 = 100)",meat_indigenous_total_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Milk,Total - Gross Production Index Number (2004-2006 = 100)",milk_total_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Milk,Total - Gross per capita Production Index Number (2004-2006 = 100)",milk_total_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Milk,Total - Net Production Index Number (2004-2006 = 100)",milk_total_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Milk,Total - Net per capita Production Index Number (2004-2006 = 100)",milk_total_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Non Food (PIN) - Gross Production Index Number (2004-2006 = 100),non_food_pin_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Non Food (PIN) - Gross per capita Production Index Number (2004-2006 = 100),non_food_pin_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Non Food (PIN) - Net Production Index Number (2004-2006 = 100),non_food_pin_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Non Food (PIN) - Net per capita Production Index Number (2004-2006 = 100),non_food_pin_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oil, palm - Gross Production Index Number (2004-2006 = 100)",oil_palm_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oil, palm - Gross per capita Production Index Number (2004-2006 = 100)",oil_palm_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oil, palm - Net Production Index Number (2004-2006 = 100)",oil_palm_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oil, palm - Net per capita Production Index Number (2004-2006 = 100)",oil_palm_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oilcrops, Oil Equivalent - Gross Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oilcrops, Oil Equivalent - Gross per capita Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oilcrops, Oil Equivalent - Net Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Oilcrops, Oil Equivalent - Net per capita Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Palm kernels - Gross Production Index Number (2004-2006 = 100),palm_kernels_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Palm kernels - Gross per capita Production Index Number (2004-2006 = 100),palm_kernels_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Palm kernels - Net Production Index Number (2004-2006 = 100),palm_kernels_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Palm kernels - Net per capita Production Index Number (2004-2006 = 100),palm_kernels_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Roots and Tubers,Total - Gross Production Index Number (2004-2006 = 100)",roots_and_tubers_total_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Roots and Tubers,Total - Gross per capita Production Index Number (2004-2006 = 100)",roots_and_tubers_total_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Roots and Tubers,Total - Net Production Index Number (2004-2006 = 100)",roots_and_tubers_total_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Roots and Tubers,Total - Net per capita Production Index Number (2004-2006 = 100)",roots_and_tubers_total_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Sugar, raw - Gross Production Index Number (2004-2006 = 100)",sugar_raw_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Sugar, raw - Gross per capita Production Index Number (2004-2006 = 100)",sugar_raw_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Sugar, raw - Net Production Index Number (2004-2006 = 100)",sugar_raw_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-"Sugar, raw - Net per capita Production Index Number (2004-2006 = 100)",sugar_raw_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Vegetables and Fruit Primary - Gross Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_gross_production_index_number_2004_2006_100_pie1,Int. $,measure
-Vegetables and Fruit Primary - Gross per capita Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_gross_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
-Vegetables and Fruit Primary - Net Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_net_production_index_number_2004_2006_100_pie1,Int. $,measure
-Vegetables and Fruit Primary - Net per capita Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_net_per_capita_production_index_number_2004_2006_100_pie1,Int. $,measure
+Agriculture (PIN) - Gross Production Index Number (2004-2006 = 100),agriculture_pin_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Agriculture (PIN) - Gross per capita Production Index Number (2004-2006 = 100),agriculture_pin_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Agriculture (PIN) - Net Production Index Number (2004-2006 = 100),agriculture_pin_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Agriculture (PIN) - Net per capita Production Index Number (2004-2006 = 100),agriculture_pin_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Cereals,Total - Gross Production Index Number (2004-2006 = 100)",cereals_total_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+"Cereals,Total - Gross per capita Production Index Number (2004-2006 = 100)",cereals_total_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Cereals,Total - Net Production Index Number (2004-2006 = 100)",cereals_total_net_production_index_number_2004_2006_100_pie,Int. $,measure
+"Cereals,Total - Net per capita Production Index Number (2004-2006 = 100)",cereals_total_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Cotton lint - Gross Production Index Number (2004-2006 = 100),cotton_lint_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Cotton lint - Gross per capita Production Index Number (2004-2006 = 100),cotton_lint_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Cotton lint - Net Production Index Number (2004-2006 = 100),cotton_lint_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Cotton lint - Net per capita Production Index Number (2004-2006 = 100),cotton_lint_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Cottonseed - Gross Production Index Number (2004-2006 = 100),cottonseed_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Cottonseed - Gross per capita Production Index Number (2004-2006 = 100),cottonseed_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Cottonseed - Net Production Index Number (2004-2006 = 100),cottonseed_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Cottonseed - Net per capita Production Index Number (2004-2006 = 100),cottonseed_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Crops (PIN) - Gross Production Index Number (2004-2006 = 100),crops_pin_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Crops (PIN) - Gross per capita Production Index Number (2004-2006 = 100),crops_pin_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Crops (PIN) - Net Production Index Number (2004-2006 = 100),crops_pin_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Crops (PIN) - Net per capita Production Index Number (2004-2006 = 100),crops_pin_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Food (PIN) - Gross Production Index Number (2004-2006 = 100),food_pin_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Food (PIN) - Gross per capita Production Index Number (2004-2006 = 100),food_pin_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Food (PIN) - Net Production Index Number (2004-2006 = 100),food_pin_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Food (PIN) - Net per capita Production Index Number (2004-2006 = 100),food_pin_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Livestock (PIN) - Gross Production Index Number (2004-2006 = 100),livestock_pin_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Livestock (PIN) - Gross per capita Production Index Number (2004-2006 = 100),livestock_pin_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Livestock (PIN) - Net Production Index Number (2004-2006 = 100),livestock_pin_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Livestock (PIN) - Net per capita Production Index Number (2004-2006 = 100),livestock_pin_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Meat indigenous, total - Gross Production Index Number (2004-2006 = 100)",meat_indigenous_total_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+"Meat indigenous, total - Gross per capita Production Index Number (2004-2006 = 100)",meat_indigenous_total_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Meat indigenous, total - Net Production Index Number (2004-2006 = 100)",meat_indigenous_total_net_production_index_number_2004_2006_100_pie,Int. $,measure
+"Meat indigenous, total - Net per capita Production Index Number (2004-2006 = 100)",meat_indigenous_total_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Milk,Total - Gross Production Index Number (2004-2006 = 100)",milk_total_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+"Milk,Total - Gross per capita Production Index Number (2004-2006 = 100)",milk_total_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Milk,Total - Net Production Index Number (2004-2006 = 100)",milk_total_net_production_index_number_2004_2006_100_pie,Int. $,measure
+"Milk,Total - Net per capita Production Index Number (2004-2006 = 100)",milk_total_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Non Food (PIN) - Gross Production Index Number (2004-2006 = 100),non_food_pin_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Non Food (PIN) - Gross per capita Production Index Number (2004-2006 = 100),non_food_pin_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Non Food (PIN) - Net Production Index Number (2004-2006 = 100),non_food_pin_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Non Food (PIN) - Net per capita Production Index Number (2004-2006 = 100),non_food_pin_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oil, palm - Gross Production Index Number (2004-2006 = 100)",oil_palm_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oil, palm - Gross per capita Production Index Number (2004-2006 = 100)",oil_palm_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oil, palm - Net Production Index Number (2004-2006 = 100)",oil_palm_net_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oil, palm - Net per capita Production Index Number (2004-2006 = 100)",oil_palm_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oilcrops, Oil Equivalent - Gross Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oilcrops, Oil Equivalent - Gross per capita Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oilcrops, Oil Equivalent - Net Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_net_production_index_number_2004_2006_100_pie,Int. $,measure
+"Oilcrops, Oil Equivalent - Net per capita Production Index Number (2004-2006 = 100)",oilcrops_oil_equivalent_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Palm kernels - Gross Production Index Number (2004-2006 = 100),palm_kernels_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Palm kernels - Gross per capita Production Index Number (2004-2006 = 100),palm_kernels_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Palm kernels - Net Production Index Number (2004-2006 = 100),palm_kernels_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Palm kernels - Net per capita Production Index Number (2004-2006 = 100),palm_kernels_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Roots and Tubers,Total - Gross Production Index Number (2004-2006 = 100)",roots_and_tubers_total_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+"Roots and Tubers,Total - Gross per capita Production Index Number (2004-2006 = 100)",roots_and_tubers_total_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Roots and Tubers,Total - Net Production Index Number (2004-2006 = 100)",roots_and_tubers_total_net_production_index_number_2004_2006_100_pie,Int. $,measure
+"Roots and Tubers,Total - Net per capita Production Index Number (2004-2006 = 100)",roots_and_tubers_total_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Sugar, raw - Gross Production Index Number (2004-2006 = 100)",sugar_raw_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+"Sugar, raw - Gross per capita Production Index Number (2004-2006 = 100)",sugar_raw_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+"Sugar, raw - Net Production Index Number (2004-2006 = 100)",sugar_raw_net_production_index_number_2004_2006_100_pie,Int. $,measure
+"Sugar, raw - Net per capita Production Index Number (2004-2006 = 100)",sugar_raw_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Vegetables and Fruit Primary - Gross Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_gross_production_index_number_2004_2006_100_pie,Int. $,measure
+Vegetables and Fruit Primary - Gross per capita Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_gross_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
+Vegetables and Fruit Primary - Net Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_net_production_index_number_2004_2006_100_pie,Int. $,measure
+Vegetables and Fruit Primary - Net per capita Production Index Number (2004-2006 = 100),vegetables_and_fruit_primary_net_per_capita_production_index_number_2004_2006_100_pie,Int. $,measure
 Beef and Buffalo Meat - Producing Animals/Slaughtered,beef_and_buffalo_meat_producing_animals_slaughtered_ple,Head,measure
 Beef and Buffalo Meat - Production,beef_and_buffalo_meat_production_ple,tonnes,measure
 Beef and Buffalo Meat - Yield/Carcass Weight,beef_and_buffalo_meat_yield_carcass_weight_ple,hg/An,measure
