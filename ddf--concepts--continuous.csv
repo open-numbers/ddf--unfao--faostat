@@ -8111,11 +8111,17 @@ Alachlor - Export Quantity,alachlor_export_quantity_ipt,tonnes,measure
 Alachlor - Export Value,alachlor_export_value_ipt,1000 US$,measure
 Alachlor - Import Quantity,alachlor_import_quantity_ipt,tonnes,measure
 Alachlor - Import Value,alachlor_import_value_ipt,1000 US$,measure
+"Aldicarb, captafol & methamidophos - Export Quantity",aldicarb_captafol_methamidophos_export_quantity_ipt,tonnes,measure
+"Aldicarb, captafol & methamidophos - Export Value",aldicarb_captafol_methamidophos_export_value_ipt,1000 US$,measure
+"Aldicarb, captafol & methamidophos - Import Quantity",aldicarb_captafol_methamidophos_import_quantity_ipt,tonnes,measure
+"Aldicarb, captafol & methamidophos - Import Value",aldicarb_captafol_methamidophos_import_value_ipt,1000 US$,measure
 "Aldrin, Chlordane, Heptachlor - Export Quantity",aldrin_chlordane_heptachlor_export_quantity_ipt,tonnes,measure
 "Aldrin, Chlordane, Heptachlor - Export Value",aldrin_chlordane_heptachlor_export_value_ipt,1000 US$,measure
 "Aldrin, Chlordane, Heptachlor - Import Quantity",aldrin_chlordane_heptachlor_import_quantity_ipt,tonnes,measure
 "Aldrin, Chlordane, Heptachlor - Import Value",aldrin_chlordane_heptachlor_import_value_ipt,1000 US$,measure
+Antimalarial insecticides - Export Quantity,antimalarial_insecticides_export_quantity_ipt,tonnes,measure
 Antimalarial insecticides - Export Value,antimalarial_insecticides_export_value_ipt,1000 US$,measure
+Antimalarial insecticides - Import Quantity,antimalarial_insecticides_import_quantity_ipt,tonnes,measure
 Antimalarial insecticides - Import Value,antimalarial_insecticides_import_value_ipt,1000 US$,measure
 Azinphos-methyl - Export Quantity,azinphos_methyl_export_quantity_ipt,tonnes,measure
 Azinphos-methyl - Export Value,azinphos_methyl_export_value_ipt,1000 US$,measure
@@ -8125,10 +8131,6 @@ Binapacryl - Export Quantity,binapacryl_export_quantity_ipt,tonnes,measure
 Binapacryl - Export Value,binapacryl_export_value_ipt,1000 US$,measure
 Binapacryl - Import Quantity,binapacryl_import_quantity_ipt,tonnes,measure
 Binapacryl - Import Value,binapacryl_import_value_ipt,1000 US$,measure
-Captafol & methamidophos - Export Quantity,captafol_methamidophos_export_quantity_ipt,tonnes,measure
-Captafol & methamidophos - Export Value,captafol_methamidophos_export_value_ipt,1000 US$,measure
-Captafol & methamidophos - Import Quantity,captafol_methamidophos_import_quantity_ipt,tonnes,measure
-Captafol & methamidophos - Import Value,captafol_methamidophos_import_value_ipt,1000 US$,measure
 Chlordimeform - Export Quantity,chlordimeform_export_quantity_ipt,tonnes,measure
 Chlordimeform - Export Value,chlordimeform_export_value_ipt,1000 US$,measure
 Chlordimeform - Import Quantity,chlordimeform_import_quantity_ipt,tonnes,measure
@@ -8141,7 +8143,9 @@ Chlorobenzilate - Import Value,chlorobenzilate_import_value_ipt,1000 US$,measure
 "Compounds of mercury chemically defined, excluding amalgams - Export Value",compounds_of_mercury_chemically_defined_excluding_amalgams_export_value_ipt,1000 US$,measure
 "Compounds of mercury chemically defined, excluding amalgams - Import Quantity",compounds_of_mercury_chemically_defined_excluding_amalgams_import_quantity_ipt,tonnes,measure
 "Compounds of mercury chemically defined, excluding amalgams - Import Value",compounds_of_mercury_chemically_defined_excluding_amalgams_import_value_ipt,1000 US$,measure
+DDT (clofenotane (INN)) - Export Quantity,ddt_clofenotane_inn_export_quantity_ipt,tonnes,measure
 DDT (clofenotane (INN)) - Export Value,ddt_clofenotane_inn_export_value_ipt,1000 US$,measure
+DDT (clofenotane (INN)) - Import Quantity,ddt_clofenotane_inn_import_quantity_ipt,tonnes,measure
 DDT (clofenotane (INN)) - Import Value,ddt_clofenotane_inn_import_value_ipt,1000 US$,measure
 "DDT, Hexachlorobenzene - Export Quantity",ddt_hexachlorobenzene_export_quantity_ipt,tonnes,measure
 "DDT, Hexachlorobenzene - Export Value",ddt_hexachlorobenzene_export_value_ipt,1000 US$,measure
@@ -8163,10 +8167,14 @@ Dinoseb and its salts - Export Quantity,dinoseb_and_its_salts_export_quantity_ip
 Dinoseb and its salts - Export Value,dinoseb_and_its_salts_export_value_ipt,1000 US$,measure
 Dinoseb and its salts - Import Quantity,dinoseb_and_its_salts_import_quantity_ipt,tonnes,measure
 Dinoseb and its salts - Import Value,dinoseb_and_its_salts_import_value_ipt,1000 US$,measure
+"Disinfectants, etc - Export Quantity",disinfectants_etc_export_quantity_ipt,tonnes,measure
+"Disinfectants, etc - Export Value",disinfectants_etc_export_value_ipt,1000 US$,measure
+"Disinfectants, etc - Import Quantity",disinfectants_etc_import_quantity_ipt,tonnes,measure
+"Disinfectants, etc - Import Value",disinfectants_etc_import_value_ipt,1000 US$,measure
+"Disinfectants, etc (excl. Haz. pest.) - Export Quantity",disinfectants_etc_excl_haz_pest_export_quantity_ipt,tonnes,measure
 "Disinfectants, etc (excl. Haz. pest.) - Export Value",disinfectants_etc_excl_haz_pest_export_value_ipt,1000 US$,measure
+"Disinfectants, etc (excl. Haz. pest.) - Import Quantity",disinfectants_etc_excl_haz_pest_import_quantity_ipt,tonnes,measure
 "Disinfectants, etc (excl. Haz. pest.) - Import Value",disinfectants_etc_excl_haz_pest_import_value_ipt,1000 US$,measure
-"Disinfectants,etc - Export Value",disinfectants_etc_export_value_ipt,1000 US$,measure
-"Disinfectants,etc - Import Value",disinfectants_etc_import_value_ipt,1000 US$,measure
 Endosulfan - Export Quantity,endosulfan_export_quantity_ipt,tonnes,measure
 Endosulfan - Export Value,endosulfan_export_value_ipt,1000 US$,measure
 Endosulfan - Import Quantity,endosulfan_import_quantity_ipt,tonnes,measure
@@ -8183,23 +8191,37 @@ Ethylene dichloride - Import Value,ethylene_dichloride_import_value_ipt,1000 US$
 "Fluoroacetamide, monocrotophos & phosphamidon - Export Value",fluoroacetamide_monocrotophos_phosphamidon_export_value_ipt,1000 US$,measure
 "Fluoroacetamide, monocrotophos & phosphamidon - Import Quantity",fluoroacetamide_monocrotophos_phosphamidon_import_quantity_ipt,tonnes,measure
 "Fluoroacetamide, monocrotophos & phosphamidon - Import Value",fluoroacetamide_monocrotophos_phosphamidon_import_value_ipt,1000 US$,measure
+Fungicides - Export Quantity,fungicides_export_quantity_ipt,tonnes,measure
 Fungicides - Export Value,fungicides_export_value_ipt,1000 US$,measure
+Fungicides - Import Quantity,fungicides_import_quantity_ipt,tonnes,measure
 Fungicides - Import Value,fungicides_import_value_ipt,1000 US$,measure
+Fungicides (excl. Haz. pest.) - Export Quantity,fungicides_excl_haz_pest_export_quantity_ipt,tonnes,measure
 Fungicides (excl. Haz. pest.) - Export Value,fungicides_excl_haz_pest_export_value_ipt,1000 US$,measure
+Fungicides (excl. Haz. pest.) - Import Quantity,fungicides_excl_haz_pest_import_quantity_ipt,tonnes,measure
 Fungicides (excl. Haz. pest.) - Import Value,fungicides_excl_haz_pest_import_value_ipt,1000 US$,measure
 HCH (mixed isomers) / Lindane - Export Quantity,hch_mixed_isomers_lindane_export_quantity_ipt,tonnes,measure
 HCH (mixed isomers) / Lindane - Export Value,hch_mixed_isomers_lindane_export_value_ipt,1000 US$,measure
 HCH (mixed isomers) / Lindane - Import Quantity,hch_mixed_isomers_lindane_import_quantity_ipt,tonnes,measure
 HCH (mixed isomers) / Lindane - Import Value,hch_mixed_isomers_lindane_import_value_ipt,1000 US$,measure
+Hazardous pesticides - Export Quantity,hazardous_pesticides_export_quantity_ipt,tonnes,measure
 Hazardous pesticides - Export Value,hazardous_pesticides_export_value_ipt,1000 US$,measure
+Hazardous pesticides - Import Quantity,hazardous_pesticides_import_quantity_ipt,tonnes,measure
 Hazardous pesticides - Import Value,hazardous_pesticides_import_value_ipt,1000 US$,measure
+Herbicides - Export Quantity,herbicides_export_quantity_ipt,tonnes,measure
 Herbicides - Export Value,herbicides_export_value_ipt,1000 US$,measure
+Herbicides - Import Quantity,herbicides_import_quantity_ipt,tonnes,measure
 Herbicides - Import Value,herbicides_import_value_ipt,1000 US$,measure
+Herbicides (excl. Haz. pest.) - Export Quantity,herbicides_excl_haz_pest_export_quantity_ipt,tonnes,measure
 Herbicides (excl. Haz. pest.) - Export Value,herbicides_excl_haz_pest_export_value_ipt,1000 US$,measure
+Herbicides (excl. Haz. pest.) - Import Quantity,herbicides_excl_haz_pest_import_quantity_ipt,tonnes,measure
 Herbicides (excl. Haz. pest.) - Import Value,herbicides_excl_haz_pest_import_value_ipt,1000 US$,measure
+Insecticides - Export Quantity,insecticides_export_quantity_ipt,tonnes,measure
 Insecticides - Export Value,insecticides_export_value_ipt,1000 US$,measure
+Insecticides - Import Quantity,insecticides_import_quantity_ipt,tonnes,measure
 Insecticides - Import Value,insecticides_import_value_ipt,1000 US$,measure
+Insecticides (excl. Haz. pest.) - Export Quantity,insecticides_excl_haz_pest_export_quantity_ipt,tonnes,measure
 Insecticides (excl. Haz. pest.) - Export Value,insecticides_excl_haz_pest_export_value_ipt,1000 US$,measure
+Insecticides (excl. Haz. pest.) - Import Quantity,insecticides_excl_haz_pest_import_quantity_ipt,tonnes,measure
 Insecticides (excl. Haz. pest.) - Import Value,insecticides_excl_haz_pest_import_value_ipt,1000 US$,measure
 Mercury compounds etc. excl. amalgams - Export Quantity,mercury_compounds_etc_excl_amalgams_export_quantity_ipt,tonnes,measure
 Mercury compounds etc. excl. amalgams - Export Value,mercury_compounds_etc_excl_amalgams_export_value_ipt,1000 US$,measure
@@ -8217,7 +8239,9 @@ Pentachlorophenol - Export Quantity,pentachlorophenol_export_quantity_ipt,tonnes
 Pentachlorophenol - Export Value,pentachlorophenol_export_value_ipt,1000 US$,measure
 Pentachlorophenol - Import Quantity,pentachlorophenol_import_quantity_ipt,tonnes,measure
 Pentachlorophenol - Import Value,pentachlorophenol_import_value_ipt,1000 US$,measure
+Pesticides (total) - Export Quantity,pesticides_total_export_quantity_ipt,tonnes,measure
 Pesticides (total) - Export Value,pesticides_total_export_value_ipt,1000 US$,measure
+Pesticides (total) - Import Quantity,pesticides_total_import_quantity_ipt,tonnes,measure
 Pesticides (total) - Import Value,pesticides_total_import_value_ipt,1000 US$,measure
 Salts of Pentachlorophenol - Export Quantity,salts_of_pentachlorophenol_export_quantity_ipt,tonnes,measure
 Salts of Pentachlorophenol - Export Value,salts_of_pentachlorophenol_export_value_ipt,1000 US$,measure
@@ -8316,8 +8340,8 @@ Seed Treat Insect  Pyrethroids - Agricultural Use,seed_treat_insect_pyrethroid
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_ice1,index,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Total",gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_total_ice1,%,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_ice1,millions,measure
-"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio",gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_ice1,,measure
-"Gross Fixed Capital Formation as a share of Value Added  (Agriculture, Forestry and Fishing) - Ratio, 2010 prices",gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_2010_prices_ice1,,measure
+"Gross Fixed Capital Formation as a share of Value Added (Agriculture, Forestry and Fishing) - Ratio",gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_ice1,,measure
+"Gross Fixed Capital Formation as a share of Value Added (Agriculture, Forestry and Fishing) - Ratio, 2010 prices",gross_fixed_capital_formation_as_a_share_of_value_added_agriculture_forestry_and_fishing_ratio_2010_prices_ice1,,measure
 Gross Fixed Capital Formation to GDP ratio - Ratio,gross_fixed_capital_formation_to_gdp_ratio_ratio_ice1,,measure
 "Gross Fixed Capital Formation to GDP ratio - Ratio, 2010 prices",gross_fixed_capital_formation_to_gdp_ratio_ratio_2010_prices_ice1,,measure
 "Value Added (Agriculture, Forestry and Fishing) - Annual growth US$",value_added_agriculture_forestry_and_fishing_annual_growth_us_ice1,%,measure
@@ -8563,6 +8587,8 @@ Gross Output (Agriculture) - Value US$,gross_output_agriculture_value_us_mki,mil
 "Gross Output (Agriculture, Forestry and Fishing) - Value US$",gross_output_agriculture_forestry_and_fishing_value_us_mki,millions,measure
 Value Added (Agriculture) - Annual growth Local Currency,value_added_agriculture_annual_growth_local_currency_mki,%,measure
 Value Added (Agriculture) - Annual growth US$,value_added_agriculture_annual_growth_us_mki,%,measure
+"Value Added (Agriculture) - Annual growth, US$, 2015 prices",value_added_agriculture_annual_growth_us_2015_prices_mki,%,measure
+Value Added (Agriculture) - Share of GDP in US$,value_added_agriculture_share_of_gdp_in_us_mki,%,measure
 Value Added (Agriculture) - Value Local Currency,value_added_agriculture_value_local_currency_mki,millions,measure
 "Value Added (Agriculture) - Value Local Currency, 2015 prices",value_added_agriculture_value_local_currency_2015_prices_mki,millions,measure
 Value Added (Agriculture) - Value US$,value_added_agriculture_value_us_mki,millions,measure
@@ -9834,12 +9860,8 @@ Oil palm fruit - Yield,oil_palm_fruit_yield_pce1,hg/ha,measure
 Oilcrops - Area harvested,oilcrops_area_harvested_pce1,ha,measure
 Oilcrops - Production,oilcrops_production_pce1,tonnes,measure
 Oilcrops - Yield,oilcrops_yield_pce1,hg/ha,measure
-"Oilcrops, Cake Equivalent - Area harvested",oilcrops_cake_equivalent_area_harvested_pce1,ha,measure
 "Oilcrops, Cake Equivalent - Production",oilcrops_cake_equivalent_production_pce1,tonnes,measure
-"Oilcrops, Cake Equivalent - Yield",oilcrops_cake_equivalent_yield_pce1,hg/ha,measure
-"Oilcrops, Oil Equivalent - Area harvested",oilcrops_oil_equivalent_area_harvested_pce1,ha,measure
 "Oilcrops, Oil Equivalent - Production",oilcrops_oil_equivalent_production_pce1,tonnes,measure
-"Oilcrops, Oil Equivalent - Yield",oilcrops_oil_equivalent_yield_pce1,hg/ha,measure
 Oilseeds nes - Area harvested,oilseeds_nes_area_harvested_pce1,ha,measure
 Oilseeds nes - Production,oilseeds_nes_production_pce1,tonnes,measure
 Oilseeds nes - Yield,oilseeds_nes_yield_pce1,hg/ha,measure
