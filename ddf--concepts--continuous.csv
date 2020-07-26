@@ -2771,6 +2771,8 @@ Forest land - Area,forest_land_area_elu2,1000 ha,measure
 Forest land - Implied emission factor for CO2,forest_land_implied_emission_factor_for_co2_elu2,tonnes CO2/ha,measure
 Forest land - Net emissions/removal (CO2eq) (Forest land),forest_land_net_emissions_removal_co2eq_forest_land_elu2,gigagrams,measure
 Forest land - Net emissions/removals (CO2) (Forest land),forest_land_net_emissions_removals_co2_forest_land_elu2,gigagrams,measure
+Forest land (total) - Net emissions/removal (CO2eq) (Forest land),forest_land_total_net_emissions_removal_co2eq_forest_land_elu2,gigagrams,measure
+Forest land (total) - Net emissions/removals (CO2) (Forest land),forest_land_total_net_emissions_removals_co2_forest_land_elu2,gigagrams,measure
 Net Forest conversion - Area,net_forest_conversion_area_elu2,1000 ha,measure
 Net Forest conversion - Implied emission factor for CO2,net_forest_conversion_implied_emission_factor_for_co2_elu2,tonnes CO2/ha,measure
 Net Forest conversion - Net emissions/removal (CO2eq) (Forest land),net_forest_conversion_net_emissions_removal_co2eq_forest_land_elu2,gigagrams,measure
