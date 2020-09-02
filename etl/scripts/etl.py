@@ -14,6 +14,25 @@ from ddf_utils.str import to_concept_id, format_float_digits
 source_file = '../source/FAOSTAT.zip'
 out_dir = '../../'
 
+# default dtypes for read_csv, we use categories to reduce memory usage.
+DEFAULT_DTYPES = {
+    'Area Code': 'category',
+    'Country Code': 'category',
+    'CountryCode': 'category',
+    'Area': 'category',
+    'Item Code': 'category',
+    'Item': 'category',
+    'Element Code': 'category',
+    'Element': 'category',
+    'Year': 'int',
+    'Year Code': 'category',
+    'Unit': 'category'}
+
+URL_GROUP = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/areagroup'
+URL_AREA = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/area'
+URL_FLAG = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/flag'
+
+
 def guess_data_filename(zf: zipfile.ZipFile):
     # Note 2019-12-02: now the zip file contains 2 file, one data csv and the other flags csv.
     # we only need the data csv.
@@ -60,7 +79,7 @@ def ordered_flag_category():
     so we manually pick some important ones and make a ordered
     category, for later usage
     """
-    all_flags = r.get('http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/flag').json()
+    all_flags = r.get(URL_FLAG).json()
     all_flags_names = [x['Flag'] for x in all_flags['data']]
     # when flag is empty(nan), it's official data (best quality)
     important_flags = [np.nan, 'E', 'F', 'Ff', 'A', 'S']
@@ -102,10 +121,9 @@ def get_domains(zf):
     return domains
 
 
-def process_file(zf, f, domains):
+def process_file(zf, f, domains, flag_cat):
     """process a file in zf, create datapoints files and return all concepts"""
     concs = []
-    flag_cat = ordered_flag_category()
     # file_contents = zf.read(f)
     tmpfile = mktemp()
     with open(tmpfile, 'wb') as tf:
@@ -117,12 +135,7 @@ def process_file(zf, f, domains):
     zf2 = zipfile.ZipFile(tmpfile)
     fn_data_csv = guess_data_filename(zf2)
     data_csv = BytesIO(zf2.read(fn_data_csv))
-    df = pd.read_csv(data_csv, encoding='latin1')
-
-    try:
-        df['Year'].astype('int')
-    except ValueError:
-        raise ValueError('Can not convert year to int')
+    df = pd.read_csv(data_csv, encoding='latin1', dtype=DEFAULT_DTYPES)
 
     if 'Element' in df.columns:
         group = df.groupby(['Item', 'Element'])
@@ -173,7 +186,7 @@ def process_file(zf, f, domains):
         if df_[df_.duplicated(subset=['geo', 'year'])].shape[0] > 0:
             print('duplicated found in {}'.format(concept_id))
 
-        df_serve = df_[['geo', 'year', concept_id]]
+        df_serve = df_[['geo', 'year', concept_id]].copy()
         df_serve[concept_id] = df_serve[concept_id].map(format_float_digits)
         df_serve.to_csv('../../ddf--datapoints--{}--by--geo--year.csv'.format(concept_id), index=False)
 
@@ -184,13 +197,14 @@ def process_files(zf):
     concs = []
     domains = get_domains(zf)
     skip_files = scan_skip_files(zf)
+    flag_cat = ordered_flag_category()
     for f in zf.filelist:
         if f.filename in skip_files:
             print('skipping file: ', f.filename)
             continue
         print(f.filename)
         try:
-            concs_ = process_file(zf, f.filename, domains)
+            concs_ = process_file(zf, f.filename, domains, flag_cat)
         except (KeyError, ValueError) as e:
             print('failed', end=',')
             print(e)
@@ -200,11 +214,9 @@ def process_files(zf):
 
 
 def process_area_and_groups():
-    url_group = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/areagroup'
-    url_area = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/area'
 
-    areagroup = r.get(url_group).json()
-    area = r.get(url_area).json()
+    areagroup = r.get(URL_GROUP).json()
+    area = r.get(URL_AREA).json()
 
     areaDf = pd.DataFrame.from_records(area['data'])
     areagroupDf = pd.DataFrame.from_records(areagroup['data'])
