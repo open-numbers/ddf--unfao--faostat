@@ -1,5 +1,7 @@
 #-*- coding: utf-8 -*-
 
+import os
+import os.path as osp
 import zipfile
 from io import BytesIO
 from tempfile import mkdtemp, mktemp
@@ -191,7 +193,9 @@ def process_file(zf, f, domains, flag_cat):
         df_['geo'] = df_['geo'].astype(str)
         (df_
          .sort_values(by=['geo', 'year'])
-         .to_csv('../../ddf--datapoints--{}--by--geo--year.csv'.format(concept_id), index=False))
+         .to_csv(osp.join(out_dir,
+                          'datapoints/ddf--datapoints--{}--by--geo--year.csv'.format(concept_id)),
+                 index=False))
 
     return concs
 
@@ -246,7 +250,7 @@ def process_area_and_groups():
 
     # TODO: not sure why there are duplicates.
     areaDf = areaDf.reset_index().drop_duplicates(subset=['geo'])
-    areaDf.to_csv('../../ddf--entities--geo.csv', index=False)
+    areaDf.to_csv(osp.join(out_dir, 'ddf--entities--geo.csv'), index=False)
 
 
 def process_concepts(concs):
@@ -255,7 +259,7 @@ def process_concepts(concs):
     cdf[cdf.duplicated(subset='concept', keep=False)].sort_values('concept')
     cdf = cdf.drop_duplicates(subset='concept')
 
-    cdf.to_csv('../../ddf--concepts--continuous.csv', index=False)
+    cdf.to_csv(osp.join(out_dir, 'ddf--concepts--continuous.csv'), index=False)
 
     cdf2 = pd.DataFrame([
         ['name', 'string', 'Name', ''],
@@ -273,10 +277,11 @@ def process_concepts(concs):
         ['unit', 'string', 'Unit', '']])
     cdf2.columns = ['concept', 'concept_type', 'name', 'domain']
 
-    cdf2.to_csv('../../ddf--concepts--discrete.csv', index=False)
+    cdf2.to_csv(osp.join(out_dir, 'ddf--concepts--discrete.csv'), index=False)
 
 
 def main():
+    os.makedirs(osp.join(out_dir, 'datapoints'), exist_ok=True)
     zf = zipfile.ZipFile(source_file)
     print('processing datapoints...')
     concs = process_files(zf)
