@@ -123,7 +123,7 @@ def get_domains(zf):
     return domains
 
 
-def process_file(zf, f, domains, flag_cat):
+def process_file(zf, f, domains, flag_cat, geos):
     """process a file in zf, create datapoints files and return all concepts"""
     concs = []
     # file_contents = zf.read(f)
@@ -165,8 +165,7 @@ def process_file(zf, f, domains, flag_cat):
         df_ = df_.dropna(subset=[concept_id])
 
         # don't include geos not in geo domain
-        # FIXME: automate this
-        df_ = df_[~df_['geo'].isin([57060, 261, 266, 268, 269, 3698])]
+        df_ = df_[df_['geo'].isin(geos)]
 
         if df_.empty:  # no content
             continue
@@ -200,7 +199,7 @@ def process_file(zf, f, domains, flag_cat):
     return concs
 
 
-def process_files(zf):
+def process_files(zf, geos):
     concs = []
     domains = get_domains(zf)
     skip_files = scan_skip_files(zf)
@@ -211,7 +210,7 @@ def process_files(zf):
             continue
         print(f.filename)
         try:
-            concs_ = process_file(zf, f.filename, domains, flag_cat)
+            concs_ = process_file(zf, f.filename, domains, flag_cat, geos)
         except (KeyError, ValueError) as e:
             print('failed', end=',')
             print(e)
@@ -252,6 +251,8 @@ def process_area_and_groups():
     areaDf = areaDf.reset_index().drop_duplicates(subset=['geo'])
     areaDf.to_csv(osp.join(out_dir, 'ddf--entities--geo.csv'), index=False)
 
+    return areaDf
+
 
 def process_concepts(concs):
     cdf = pd.DataFrame.from_records(concs)
@@ -281,15 +282,14 @@ def process_concepts(concs):
 
 
 def main():
+    print('processing geo entities...')
+    geos = process_area_and_groups()['geo'].values
     os.makedirs(osp.join(out_dir, 'datapoints'), exist_ok=True)
     zf = zipfile.ZipFile(source_file)
     print('processing datapoints...')
-    concs = process_files(zf)
+    concs = process_files(zf, geos)
     print('processing concepts...')
     process_concepts(concs)
-    print('processing geo entities...')
-    process_area_and_groups()
-
     print('Done')
 
 
