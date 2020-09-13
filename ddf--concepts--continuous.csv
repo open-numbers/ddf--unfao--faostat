@@ -1404,8 +1404,9 @@ Wool (Clean Eq.) - Other uses,wool_clean_eq_other_uses_cle,tonnes,measure
 Wool (Clean Eq.) - Processing,wool_clean_eq_processing_cle,tonnes,measure
 Wool (Clean Eq.) - Production,wool_clean_eq_production_cle,tonnes,measure
 Wool (Clean Eq.) - Stock Variation,wool_clean_eq_stock_variation_cle,tonnes,measure
-"Consumer Prices, Food Indices (2010 = 100)",consumer_prices_food_indices_2010_100_cea,,measure
-"Consumer Prices, General Indices (2010 = 100)",consumer_prices_general_indices_2010_100_cea,,measure
+"Consumer Prices, Food Indices (2015 = 100)",consumer_prices_food_indices_2015_100_cea,,measure
+"Consumer Prices, General Indices (2015 = 100)",consumer_prices_general_indices_2015_100_cea,,measure
+Food price inflation,food_price_inflation_cea,%,measure
 "GDP Deflator - Value Local Currency, 2015 prices",gdp_deflator_value_local_currency_2015_prices_dea,LCU,measure
 "GDP Deflator - Value US$, 2015 prices",gdp_deflator_value_us_2015_prices_dea,US$,measure
 "Gross Fixed Capital Formation Deflator - Value Local Currency, 2015 prices",gross_fixed_capital_formation_deflator_value_local_currency_2015_prices_dea,LCU,measure
@@ -1860,6 +1861,8 @@ All Animals - Direct emissions (N2O) (Manure applied),all_animals_direct_emissio
 All Animals - Emissions (CO2eq) (Manure applied),all_animals_emissions_co2eq_manure_applied_eam,gigagrams,measure
 All Animals - Emissions (N2O) (Manure applied),all_animals_emissions_n2o_manure_applied_eam,gigagrams,measure
 All Animals - Indirect emissions (CO2eq) (Manure applied),all_animals_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+All Animals - Indirect emissions (N2O that leaches) (Manure applied),all_animals_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+All Animals - Indirect emissions (N2O that volatilises) (Manure applied),all_animals_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 All Animals - Indirect emissions (N2O) (Manure applied),all_animals_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 All Animals - Manure applied to soils (N content),all_animals_manure_applied_to_soils_n_content_eam,kg,measure
 All Animals - Manure applied to soils that leaches (N content),all_animals_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1870,6 +1873,8 @@ Asses - Emissions (CO2eq) (Manure applied),asses_emissions_co2eq_manure_applied_
 Asses - Emissions (N2O) (Manure applied),asses_emissions_n2o_manure_applied_eam,gigagrams,measure
 Asses - Implied emission factor for N2O (Manure applied),asses_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Asses - Indirect emissions (CO2eq) (Manure applied),asses_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Asses - Indirect emissions (N2O that leaches) (Manure applied),asses_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Asses - Indirect emissions (N2O that volatilises) (Manure applied),asses_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Asses - Indirect emissions (N2O) (Manure applied),asses_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Asses - Manure applied to soils (N content),asses_manure_applied_to_soils_n_content_eam,kg,measure
 Asses - Manure applied to soils that leaches (N content),asses_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1881,6 +1886,8 @@ Buffaloes - Emissions (CO2eq) (Manure applied),buffaloes_emissions_co2eq_manure_
 Buffaloes - Emissions (N2O) (Manure applied),buffaloes_emissions_n2o_manure_applied_eam,gigagrams,measure
 Buffaloes - Implied emission factor for N2O (Manure applied),buffaloes_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Buffaloes - Indirect emissions (CO2eq) (Manure applied),buffaloes_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Buffaloes - Indirect emissions (N2O that leaches) (Manure applied),buffaloes_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Buffaloes - Indirect emissions (N2O that volatilises) (Manure applied),buffaloes_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Buffaloes - Indirect emissions (N2O) (Manure applied),buffaloes_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Buffaloes - Manure applied to soils (N content),buffaloes_manure_applied_to_soils_n_content_eam,kg,measure
 Buffaloes - Manure applied to soils that leaches (N content),buffaloes_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1892,6 +1899,8 @@ Camels - Emissions (CO2eq) (Manure applied),camels_emissions_co2eq_manure_applie
 Camels - Emissions (N2O) (Manure applied),camels_emissions_n2o_manure_applied_eam,gigagrams,measure
 Camels - Implied emission factor for N2O (Manure applied),camels_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Camels - Indirect emissions (CO2eq) (Manure applied),camels_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Camels - Indirect emissions (N2O that leaches) (Manure applied),camels_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Camels - Indirect emissions (N2O that volatilises) (Manure applied),camels_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Camels - Indirect emissions (N2O) (Manure applied),camels_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Camels - Manure applied to soils (N content),camels_manure_applied_to_soils_n_content_eam,kg,measure
 Camels - Manure applied to soils that leaches (N content),camels_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1902,6 +1911,8 @@ Camels and Llamas - Direct emissions (N2O) (Manure applied),camels_and_llamas_di
 Camels and Llamas - Emissions (CO2eq) (Manure applied),camels_and_llamas_emissions_co2eq_manure_applied_eam,gigagrams,measure
 Camels and Llamas - Emissions (N2O) (Manure applied),camels_and_llamas_emissions_n2o_manure_applied_eam,gigagrams,measure
 Camels and Llamas - Indirect emissions (CO2eq) (Manure applied),camels_and_llamas_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Camels and Llamas - Indirect emissions (N2O that leaches) (Manure applied),camels_and_llamas_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Camels and Llamas - Indirect emissions (N2O that volatilises) (Manure applied),camels_and_llamas_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Camels and Llamas - Indirect emissions (N2O) (Manure applied),camels_and_llamas_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Camels and Llamas - Manure applied to soils (N content),camels_and_llamas_manure_applied_to_soils_n_content_eam,kg,measure
 Camels and Llamas - Manure applied to soils that leaches (N content),camels_and_llamas_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1912,6 +1923,8 @@ Cattle - Direct emissions (N2O) (Manure applied),cattle_direct_emissions_n2o_man
 Cattle - Emissions (CO2eq) (Manure applied),cattle_emissions_co2eq_manure_applied_eam,gigagrams,measure
 Cattle - Emissions (N2O) (Manure applied),cattle_emissions_n2o_manure_applied_eam,gigagrams,measure
 Cattle - Indirect emissions (CO2eq) (Manure applied),cattle_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Cattle - Indirect emissions (N2O that leaches) (Manure applied),cattle_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Cattle - Indirect emissions (N2O that volatilises) (Manure applied),cattle_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Cattle - Indirect emissions (N2O) (Manure applied),cattle_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Cattle - Manure applied to soils (N content),cattle_manure_applied_to_soils_n_content_eam,kg,measure
 Cattle - Manure applied to soils that leaches (N content),cattle_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1923,6 +1936,8 @@ Cattle - Stocks,cattle_stocks_eam,Head,measure
 "Cattle, dairy - Emissions (N2O) (Manure applied)",cattle_dairy_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Cattle, dairy - Implied emission factor for N2O (Manure applied)",cattle_dairy_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 "Cattle, dairy - Indirect emissions (CO2eq) (Manure applied)",cattle_dairy_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+"Cattle, dairy - Indirect emissions (N2O that leaches) (Manure applied)",cattle_dairy_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+"Cattle, dairy - Indirect emissions (N2O that volatilises) (Manure applied)",cattle_dairy_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 "Cattle, dairy - Indirect emissions (N2O) (Manure applied)",cattle_dairy_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Cattle, dairy - Manure applied to soils (N content)",cattle_dairy_manure_applied_to_soils_n_content_eam,kg,measure
 "Cattle, dairy - Manure applied to soils that leaches (N content)",cattle_dairy_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1934,6 +1949,8 @@ Cattle - Stocks,cattle_stocks_eam,Head,measure
 "Cattle, non-dairy - Emissions (N2O) (Manure applied)",cattle_non_dairy_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Cattle, non-dairy - Implied emission factor for N2O (Manure applied)",cattle_non_dairy_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 "Cattle, non-dairy - Indirect emissions (CO2eq) (Manure applied)",cattle_non_dairy_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+"Cattle, non-dairy - Indirect emissions (N2O that leaches) (Manure applied)",cattle_non_dairy_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+"Cattle, non-dairy - Indirect emissions (N2O that volatilises) (Manure applied)",cattle_non_dairy_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 "Cattle, non-dairy - Indirect emissions (N2O) (Manure applied)",cattle_non_dairy_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Cattle, non-dairy - Manure applied to soils (N content)",cattle_non_dairy_manure_applied_to_soils_n_content_eam,kg,measure
 "Cattle, non-dairy - Manure applied to soils that leaches (N content)",cattle_non_dairy_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1944,6 +1961,8 @@ Chickens - Direct emissions (N2O) (Manure applied),chickens_direct_emissions_n2o
 Chickens - Emissions (CO2eq) (Manure applied),chickens_emissions_co2eq_manure_applied_eam,gigagrams,measure
 Chickens - Emissions (N2O) (Manure applied),chickens_emissions_n2o_manure_applied_eam,gigagrams,measure
 Chickens - Indirect emissions (CO2eq) (Manure applied),chickens_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Chickens - Indirect emissions (N2O that leaches) (Manure applied),chickens_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Chickens - Indirect emissions (N2O that volatilises) (Manure applied),chickens_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Chickens - Indirect emissions (N2O) (Manure applied),chickens_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Chickens - Manure applied to soils (N content),chickens_manure_applied_to_soils_n_content_eam,kg,measure
 Chickens - Manure applied to soils that leaches (N content),chickens_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1955,6 +1974,8 @@ Chickens - Stocks,chickens_stocks_eam,Head,measure
 "Chickens, broilers - Emissions (N2O) (Manure applied)",chickens_broilers_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Chickens, broilers - Implied emission factor for N2O (Manure applied)",chickens_broilers_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 "Chickens, broilers - Indirect emissions (CO2eq) (Manure applied)",chickens_broilers_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+"Chickens, broilers - Indirect emissions (N2O that leaches) (Manure applied)",chickens_broilers_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+"Chickens, broilers - Indirect emissions (N2O that volatilises) (Manure applied)",chickens_broilers_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 "Chickens, broilers - Indirect emissions (N2O) (Manure applied)",chickens_broilers_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Chickens, broilers - Manure applied to soils (N content)",chickens_broilers_manure_applied_to_soils_n_content_eam,kg,measure
 "Chickens, broilers - Manure applied to soils that leaches (N content)",chickens_broilers_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1966,6 +1987,8 @@ Chickens - Stocks,chickens_stocks_eam,Head,measure
 "Chickens, layers - Emissions (N2O) (Manure applied)",chickens_layers_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Chickens, layers - Implied emission factor for N2O (Manure applied)",chickens_layers_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 "Chickens, layers - Indirect emissions (CO2eq) (Manure applied)",chickens_layers_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+"Chickens, layers - Indirect emissions (N2O that leaches) (Manure applied)",chickens_layers_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+"Chickens, layers - Indirect emissions (N2O that volatilises) (Manure applied)",chickens_layers_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 "Chickens, layers - Indirect emissions (N2O) (Manure applied)",chickens_layers_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Chickens, layers - Manure applied to soils (N content)",chickens_layers_manure_applied_to_soils_n_content_eam,kg,measure
 "Chickens, layers - Manure applied to soils that leaches (N content)",chickens_layers_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1977,6 +2000,8 @@ Ducks - Emissions (CO2eq) (Manure applied),ducks_emissions_co2eq_manure_applied_
 Ducks - Emissions (N2O) (Manure applied),ducks_emissions_n2o_manure_applied_eam,gigagrams,measure
 Ducks - Implied emission factor for N2O (Manure applied),ducks_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Ducks - Indirect emissions (CO2eq) (Manure applied),ducks_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Ducks - Indirect emissions (N2O that leaches) (Manure applied),ducks_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Ducks - Indirect emissions (N2O that volatilises) (Manure applied),ducks_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Ducks - Indirect emissions (N2O) (Manure applied),ducks_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Ducks - Manure applied to soils (N content),ducks_manure_applied_to_soils_n_content_eam,kg,measure
 Ducks - Manure applied to soils that leaches (N content),ducks_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1988,6 +2013,8 @@ Goats - Emissions (CO2eq) (Manure applied),goats_emissions_co2eq_manure_applied_
 Goats - Emissions (N2O) (Manure applied),goats_emissions_n2o_manure_applied_eam,gigagrams,measure
 Goats - Implied emission factor for N2O (Manure applied),goats_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Goats - Indirect emissions (CO2eq) (Manure applied),goats_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Goats - Indirect emissions (N2O that leaches) (Manure applied),goats_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Goats - Indirect emissions (N2O that volatilises) (Manure applied),goats_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Goats - Indirect emissions (N2O) (Manure applied),goats_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Goats - Manure applied to soils (N content),goats_manure_applied_to_soils_n_content_eam,kg,measure
 Goats - Manure applied to soils that leaches (N content),goats_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -1999,6 +2026,8 @@ Horses - Emissions (CO2eq) (Manure applied),horses_emissions_co2eq_manure_applie
 Horses - Emissions (N2O) (Manure applied),horses_emissions_n2o_manure_applied_eam,gigagrams,measure
 Horses - Implied emission factor for N2O (Manure applied),horses_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Horses - Indirect emissions (CO2eq) (Manure applied),horses_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Horses - Indirect emissions (N2O that leaches) (Manure applied),horses_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Horses - Indirect emissions (N2O that volatilises) (Manure applied),horses_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Horses - Indirect emissions (N2O) (Manure applied),horses_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Horses - Manure applied to soils (N content),horses_manure_applied_to_soils_n_content_eam,kg,measure
 Horses - Manure applied to soils that leaches (N content),horses_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2010,6 +2039,8 @@ Llamas - Emissions (CO2eq) (Manure applied),llamas_emissions_co2eq_manure_applie
 Llamas - Emissions (N2O) (Manure applied),llamas_emissions_n2o_manure_applied_eam,gigagrams,measure
 Llamas - Implied emission factor for N2O (Manure applied),llamas_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Llamas - Indirect emissions (CO2eq) (Manure applied),llamas_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Llamas - Indirect emissions (N2O that leaches) (Manure applied),llamas_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Llamas - Indirect emissions (N2O that volatilises) (Manure applied),llamas_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Llamas - Indirect emissions (N2O) (Manure applied),llamas_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Llamas - Manure applied to soils (N content),llamas_manure_applied_to_soils_n_content_eam,kg,measure
 Llamas - Manure applied to soils that leaches (N content),llamas_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2021,6 +2052,8 @@ Mules - Emissions (CO2eq) (Manure applied),mules_emissions_co2eq_manure_applied_
 Mules - Emissions (N2O) (Manure applied),mules_emissions_n2o_manure_applied_eam,gigagrams,measure
 Mules - Implied emission factor for N2O (Manure applied),mules_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Mules - Indirect emissions (CO2eq) (Manure applied),mules_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Mules - Indirect emissions (N2O that leaches) (Manure applied),mules_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Mules - Indirect emissions (N2O that volatilises) (Manure applied),mules_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Mules - Indirect emissions (N2O) (Manure applied),mules_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Mules - Manure applied to soils (N content),mules_manure_applied_to_soils_n_content_eam,kg,measure
 Mules - Manure applied to soils that leaches (N content),mules_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2031,6 +2064,8 @@ Mules and Asses - Direct emissions (N2O) (Manure applied),mules_and_asses_direct
 Mules and Asses - Emissions (CO2eq) (Manure applied),mules_and_asses_emissions_co2eq_manure_applied_eam,gigagrams,measure
 Mules and Asses - Emissions (N2O) (Manure applied),mules_and_asses_emissions_n2o_manure_applied_eam,gigagrams,measure
 Mules and Asses - Indirect emissions (CO2eq) (Manure applied),mules_and_asses_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Mules and Asses - Indirect emissions (N2O that leaches) (Manure applied),mules_and_asses_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Mules and Asses - Indirect emissions (N2O that volatilises) (Manure applied),mules_and_asses_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Mules and Asses - Indirect emissions (N2O) (Manure applied),mules_and_asses_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Mules and Asses - Manure applied to soils (N content),mules_and_asses_manure_applied_to_soils_n_content_eam,kg,measure
 Mules and Asses - Manure applied to soils that leaches (N content),mules_and_asses_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2041,6 +2076,8 @@ Poultry Birds - Direct emissions (N2O) (Manure applied),poultry_birds_direct_emi
 Poultry Birds - Emissions (CO2eq) (Manure applied),poultry_birds_emissions_co2eq_manure_applied_eam,gigagrams,measure
 Poultry Birds - Emissions (N2O) (Manure applied),poultry_birds_emissions_n2o_manure_applied_eam,gigagrams,measure
 Poultry Birds - Indirect emissions (CO2eq) (Manure applied),poultry_birds_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Poultry Birds - Indirect emissions (N2O that leaches) (Manure applied),poultry_birds_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Poultry Birds - Indirect emissions (N2O that volatilises) (Manure applied),poultry_birds_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Poultry Birds - Indirect emissions (N2O) (Manure applied),poultry_birds_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Poultry Birds - Manure applied to soils (N content),poultry_birds_manure_applied_to_soils_n_content_eam,kg,measure
 Poultry Birds - Manure applied to soils that leaches (N content),poultry_birds_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2052,6 +2089,8 @@ Sheep - Emissions (CO2eq) (Manure applied),sheep_emissions_co2eq_manure_applied_
 Sheep - Emissions (N2O) (Manure applied),sheep_emissions_n2o_manure_applied_eam,gigagrams,measure
 Sheep - Implied emission factor for N2O (Manure applied),sheep_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Sheep - Indirect emissions (CO2eq) (Manure applied),sheep_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Sheep - Indirect emissions (N2O that leaches) (Manure applied),sheep_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Sheep - Indirect emissions (N2O that volatilises) (Manure applied),sheep_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Sheep - Indirect emissions (N2O) (Manure applied),sheep_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Sheep - Manure applied to soils (N content),sheep_manure_applied_to_soils_n_content_eam,kg,measure
 Sheep - Manure applied to soils that leaches (N content),sheep_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2062,6 +2101,8 @@ Sheep and Goats - Direct emissions (N2O) (Manure applied),sheep_and_goats_direct
 Sheep and Goats - Emissions (CO2eq) (Manure applied),sheep_and_goats_emissions_co2eq_manure_applied_eam,gigagrams,measure
 Sheep and Goats - Emissions (N2O) (Manure applied),sheep_and_goats_emissions_n2o_manure_applied_eam,gigagrams,measure
 Sheep and Goats - Indirect emissions (CO2eq) (Manure applied),sheep_and_goats_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Sheep and Goats - Indirect emissions (N2O that leaches) (Manure applied),sheep_and_goats_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Sheep and Goats - Indirect emissions (N2O that volatilises) (Manure applied),sheep_and_goats_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Sheep and Goats - Indirect emissions (N2O) (Manure applied),sheep_and_goats_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Sheep and Goats - Manure applied to soils (N content),sheep_and_goats_manure_applied_to_soils_n_content_eam,kg,measure
 Sheep and Goats - Manure applied to soils that leaches (N content),sheep_and_goats_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2072,6 +2113,8 @@ Swine - Direct emissions (N2O) (Manure applied),swine_direct_emissions_n2o_manur
 Swine - Emissions (CO2eq) (Manure applied),swine_emissions_co2eq_manure_applied_eam,gigagrams,measure
 Swine - Emissions (N2O) (Manure applied),swine_emissions_n2o_manure_applied_eam,gigagrams,measure
 Swine - Indirect emissions (CO2eq) (Manure applied),swine_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Swine - Indirect emissions (N2O that leaches) (Manure applied),swine_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Swine - Indirect emissions (N2O that volatilises) (Manure applied),swine_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Swine - Indirect emissions (N2O) (Manure applied),swine_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Swine - Manure applied to soils (N content),swine_manure_applied_to_soils_n_content_eam,kg,measure
 Swine - Manure applied to soils that leaches (N content),swine_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2083,6 +2126,8 @@ Swine - Stocks,swine_stocks_eam,Head,measure
 "Swine, breeding - Emissions (N2O) (Manure applied)",swine_breeding_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Swine, breeding - Implied emission factor for N2O (Manure applied)",swine_breeding_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 "Swine, breeding - Indirect emissions (CO2eq) (Manure applied)",swine_breeding_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+"Swine, breeding - Indirect emissions (N2O that leaches) (Manure applied)",swine_breeding_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+"Swine, breeding - Indirect emissions (N2O that volatilises) (Manure applied)",swine_breeding_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 "Swine, breeding - Indirect emissions (N2O) (Manure applied)",swine_breeding_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Swine, breeding - Manure applied to soils (N content)",swine_breeding_manure_applied_to_soils_n_content_eam,kg,measure
 "Swine, breeding - Manure applied to soils that leaches (N content)",swine_breeding_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2094,6 +2139,8 @@ Swine - Stocks,swine_stocks_eam,Head,measure
 "Swine, market - Emissions (N2O) (Manure applied)",swine_market_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Swine, market - Implied emission factor for N2O (Manure applied)",swine_market_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 "Swine, market - Indirect emissions (CO2eq) (Manure applied)",swine_market_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+"Swine, market - Indirect emissions (N2O that leaches) (Manure applied)",swine_market_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+"Swine, market - Indirect emissions (N2O that volatilises) (Manure applied)",swine_market_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 "Swine, market - Indirect emissions (N2O) (Manure applied)",swine_market_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 "Swine, market - Manure applied to soils (N content)",swine_market_manure_applied_to_soils_n_content_eam,kg,measure
 "Swine, market - Manure applied to soils that leaches (N content)",swine_market_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2105,6 +2152,8 @@ Turkeys - Emissions (CO2eq) (Manure applied),turkeys_emissions_co2eq_manure_appl
 Turkeys - Emissions (N2O) (Manure applied),turkeys_emissions_n2o_manure_applied_eam,gigagrams,measure
 Turkeys - Implied emission factor for N2O (Manure applied),turkeys_implied_emission_factor_for_n2o_manure_applied_eam,kg N2O-N/kg N,measure
 Turkeys - Indirect emissions (CO2eq) (Manure applied),turkeys_indirect_emissions_co2eq_manure_applied_eam,gigagrams,measure
+Turkeys - Indirect emissions (N2O that leaches) (Manure applied),turkeys_indirect_emissions_n2o_that_leaches_manure_applied_eam,gigagrams,measure
+Turkeys - Indirect emissions (N2O that volatilises) (Manure applied),turkeys_indirect_emissions_n2o_that_volatilises_manure_applied_eam,gigagrams,measure
 Turkeys - Indirect emissions (N2O) (Manure applied),turkeys_indirect_emissions_n2o_manure_applied_eam,gigagrams,measure
 Turkeys - Manure applied to soils (N content),turkeys_manure_applied_to_soils_n_content_eam,kg,measure
 Turkeys - Manure applied to soils that leaches (N content),turkeys_manure_applied_to_soils_that_leaches_n_content_eam,kg,measure
@@ -2978,6 +3027,8 @@ Cereals excluding rice - Production,cereals_excluding_rice_production_eei,tonnes
 "Rice, paddy - Emissions (CO2eq)",rice_paddy_emissions_co2eq_eei,gigagrams,measure
 "Rice, paddy - Emissions intensity",rice_paddy_emissions_intensity_eei,kg CO2eq/kg product,measure
 "Rice, paddy - Production",rice_paddy_production_eei,tonnes,measure
+Bioenergy production - Bioenergy production as a % of total renewable energy production,bioenergy_production_bioenergy_production_as_a_pct_of_total_renewable_energy_production_eee,%,measure
+Energy used in agriculture and forestry - Agriculture and forestry energy use as a % of total Energy use,energy_used_in_agriculture_and_forestry_agriculture_and_forestry_energy_use_as_a_pct_of_total_energy_use_eee,%,measure
 Nutrient nitrogen N (total) - Use per area of cropland,nutrient_nitrogen_n_total_use_per_area_of_cropland_efe,kg/ha,measure
 Nutrient phosphate P2O5 (total) - Use per area of cropland,nutrient_phosphate_p2o5_total_use_per_area_of_cropland_efe,kg/ha,measure
 Nutrient potash K2O (total) - Use per area of cropland,nutrient_potash_k2o_total_use_per_area_of_cropland_efe,kg/ha,measure
@@ -2990,17 +3041,19 @@ Herbaceous crops - Area from MODIS,herbaceous_crops_area_from_modis_ele,1000 ha,
 Inland water bodies - Area from CCI_LC,inland_water_bodies_area_from_cci_lc_ele,1000 ha,measure
 Inland water bodies - Area from MODIS,inland_water_bodies_area_from_modis_ele,1000 ha,measure
 Mangroves - Area from CCI_LC,mangroves_area_from_cci_lc_ele,1000 ha,measure
+Mangroves - Area from MODIS,mangroves_area_from_modis_ele,1000 ha,measure
 Permanent snow and glaciers - Area from CCI_LC,permanent_snow_and_glaciers_area_from_cci_lc_ele,1000 ha,measure
 Permanent snow and glaciers - Area from MODIS,permanent_snow_and_glaciers_area_from_modis_ele,1000 ha,measure
 Shrub-covered areas - Area from CCI_LC,shrub_covered_areas_area_from_cci_lc_ele,1000 ha,measure
 Shrub-covered areas - Area from MODIS,shrub_covered_areas_area_from_modis_ele,1000 ha,measure
 "Shrubs and/or herbaceous vegetation, aquatic or regularly flooded - Area from CCI_LC",shrubs_and_or_herbaceous_vegetation_aquatic_or_regularly_flooded_area_from_cci_lc_ele,1000 ha,measure
+"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded - Area from MODIS",shrubs_and_or_herbaceous_vegetation_aquatic_or_regularly_flooded_area_from_modis_ele,1000 ha,measure
 Sparsely natural vegetated areas - Area from CCI_LC,sparsely_natural_vegetated_areas_area_from_cci_lc_ele,1000 ha,measure
 Terrestrial barren land - Area from CCI_LC,terrestrial_barren_land_area_from_cci_lc_ele,1000 ha,measure
+Terrestrial barren land - Area from MODIS,terrestrial_barren_land_area_from_modis_ele,1000 ha,measure
 Tree-covered areas - Area from CCI_LC,tree_covered_areas_area_from_cci_lc_ele,1000 ha,measure
 Tree-covered areas - Area from MODIS,tree_covered_areas_area_from_modis_ele,1000 ha,measure
 Woody crops - Area from CCI_LC,woody_crops_area_from_cci_lc_ele,1000 ha,measure
-Woody crops - Area from MODIS,woody_crops_area_from_modis_ele,1000 ha,measure
 Agricultural land - Share in Land area,agricultural_land_share_in_land_area_ele1,%,measure
 Agriculture area actually irrigated - Share in Agricultural land,agriculture_area_actually_irrigated_share_in_agricultural_land_ele1,%,measure
 Agriculture area under organic agric. - Share in Agricultural land,agriculture_area_under_organic_agric_share_in_agricultural_land_ele1,%,measure
@@ -3013,9 +3066,8 @@ Land area equipped for irrigation - Share in Cropland,land_area_equipped_for_irr
 Land under perm. meadows and pastures - Share in Agricultural land,land_under_perm_meadows_and_pastures_share_in_agricultural_land_ele1,%,measure
 Land under perm. meadows and pastures - Share in Land area,land_under_perm_meadows_and_pastures_share_in_land_area_ele1,%,measure
 Land under permanent crops - Share in Agricultural land,land_under_permanent_crops_share_in_agricultural_land_ele1,%,measure
-Other naturally regenerated forest - Share in Forest land,other_naturally_regenerated_forest_share_in_forest_land_ele1,%,measure
+Naturally regenerating forest - Share in Forest land,naturally_regenerating_forest_share_in_forest_land_ele1,%,measure
 Planted Forest - Share in Forest land,planted_forest_share_in_forest_land_ele1,%,measure
-Primary Forest - Share in Forest land,primary_forest_share_in_forest_land_ele1,%,measure
 All Animals - Amount excreted in manure (N content),all_animals_amount_excreted_in_manure_n_content_ele2,kg,measure
 All Animals - Losses from manure treated (N content),all_animals_losses_from_manure_treated_n_content_ele2,kg,measure
 All Animals - Manure applied to soils (N content),all_animals_manure_applied_to_soils_n_content_ele2,kg,measure
@@ -8077,12 +8129,11 @@ Cropland area under conventional tillage - Area,cropland_area_under_conventional
 Cropland area under organic agric. - Area,cropland_area_under_organic_agric_area_ile,1000 ha,measure
 Cropland area under zero or no tillage - Area,cropland_area_under_zero_or_no_tillage_area_ile,1000 ha,measure
 EEZ used for aquac. or holding facilities - Area,eez_used_for_aquac_or_holding_facilities_area_ile,1000 ha,measure
-EEZ used for capture fisheries - Area,eez_used_for_capture_fisheries_area_ile,1000 ha,measure
 Exclusive Economic Zone (EEZ) - Area,exclusive_economic_zone_eez_area_ile,1000 ha,measure
 Farm buildings & farmyards - Area,farm_buildings_farmyards_area_ile,1000 ha,measure
 Forest land - Area,forest_land_area_ile,1000 ha,measure
 Forest land - Carbon stock in living biomass,forest_land_carbon_stock_in_living_biomass_ile,million tonnes,measure
-Forestry - Area,forestry_area_ile,1000 ha,measure
+Forestry area actually irrigated - Area,forestry_area_actually_irrigated_area_ile,1000 ha,measure
 Inland waters - Area,inland_waters_area_ile,1000 ha,measure
 Inland waters used for aquac. or holding facilities - Area,inland_waters_used_for_aquac_or_holding_facilities_area_ile,1000 ha,measure
 Inland waters used for capture fisheries - Area,inland_waters_used_for_capture_fisheries_area_ile,1000 ha,measure
@@ -8096,8 +8147,8 @@ Land under temp. meadows and pastures - Area,land_under_temp_meadows_and_pasture
 Land under temporary crops - Area,land_under_temporary_crops_area_ile,1000 ha,measure
 Land used for aquaculture - Area,land_used_for_aquaculture_area_ile,1000 ha,measure
 Land with temporary fallow - Area,land_with_temporary_fallow_area_ile,1000 ha,measure
+Naturally regenerating forest - Area,naturally_regenerating_forest_area_ile,1000 ha,measure
 Other land - Area,other_land_area_ile,1000 ha,measure
-Other naturally regenerated forest - Area,other_naturally_regenerated_forest_area_ile,1000 ha,measure
 Perm. meadows & pastures - Cultivated - Area,perm_meadows_pastures_cultivated_area_ile,1000 ha,measure
 Perm. meadows & pastures - Nat. growing - Area,perm_meadows_pastures_nat_growing_area_ile,1000 ha,measure
 Perm. meadows & pastures area actually irrig. - Area,perm_meadows_pastures_area_actually_irrig_area_ile,1000 ha,measure
@@ -10351,8 +10402,8 @@ Rabbits and hares - Stocks,rabbits_and_hares_stocks_ple2,1000 Head,measure
 Sheep - Stocks,sheep_stocks_ple2,Head,measure
 Sheep and Goats - Stocks,sheep_and_goats_stocks_ple2,Head,measure
 Turkeys - Stocks,turkeys_stocks_ple2,1000 Head,measure
-"Agricult.Products, Total - Export Value",agricult_products_total_export_value_tcl,1000 US$,measure
-"Agricult.Products, Total - Import Value",agricult_products_total_import_value_tcl,1000 US$,measure
+Agricultural Products - Export Value,agricultural_products_export_value_tcl,1000 US$,measure
+Agricultural Products - Import Value,agricultural_products_import_value_tcl,1000 US$,measure
 Alfalfa meal and pellets - Export Quantity,alfalfa_meal_and_pellets_export_quantity_tcl,tonnes,measure
 Alfalfa meal and pellets - Export Value,alfalfa_meal_and_pellets_export_value_tcl,1000 US$,measure
 Alfalfa meal and pellets - Import Quantity,alfalfa_meal_and_pellets_import_quantity_tcl,tonnes,measure
@@ -10365,14 +10416,14 @@ Almonds shelled - Import Value,almonds_shelled_import_value_tcl,1000 US$,measure
 "Almonds, with shell - Export Value",almonds_with_shell_export_value_tcl,1000 US$,measure
 "Almonds, with shell - Import Quantity",almonds_with_shell_import_quantity_tcl,tonnes,measure
 "Almonds, with shell - Import Value",almonds_with_shell_import_value_tcl,1000 US$,measure
-Animal Oil+Fat+Grs - Export Quantity,animal_oil_fat_grs_export_quantity_tcl,tonnes,measure
-Animal Oil+Fat+Grs - Export Value,animal_oil_fat_grs_export_value_tcl,1000 US$,measure
-Animal Oil+Fat+Grs - Import Quantity,animal_oil_fat_grs_import_quantity_tcl,tonnes,measure
-Animal Oil+Fat+Grs - Import Value,animal_oil_fat_grs_import_value_tcl,1000 US$,measure
-Animal Vegetable Oil - Export Quantity,animal_vegetable_oil_export_quantity_tcl,tonnes,measure
-Animal Vegetable Oil - Export Value,animal_vegetable_oil_export_value_tcl,1000 US$,measure
-Animal Vegetable Oil - Import Quantity,animal_vegetable_oil_import_quantity_tcl,tonnes,measure
-Animal Vegetable Oil - Import Value,animal_vegetable_oil_import_value_tcl,1000 US$,measure
+"Animal Oil, Fat and Grease - Export Quantity",animal_oil_fat_and_grease_export_quantity_tcl,tonnes,measure
+"Animal Oil, Fat and Grease - Export Value",animal_oil_fat_and_grease_export_value_tcl,1000 US$,measure
+"Animal Oil, Fat and Grease - Import Quantity",animal_oil_fat_and_grease_import_quantity_tcl,tonnes,measure
+"Animal Oil, Fat and Grease - Import Value",animal_oil_fat_and_grease_import_value_tcl,1000 US$,measure
+Animal and Vegetable Oil - Export Quantity,animal_and_vegetable_oil_export_quantity_tcl,tonnes,measure
+Animal and Vegetable Oil - Export Value,animal_and_vegetable_oil_export_value_tcl,1000 US$,measure
+Animal and Vegetable Oil - Import Quantity,animal_and_vegetable_oil_import_quantity_tcl,tonnes,measure
+Animal and Vegetable Oil - Import Value,animal_and_vegetable_oil_import_value_tcl,1000 US$,measure
 Animal fats - Export Quantity,animal_fats_export_quantity_tcl,tonnes,measure
 Animal fats - Export Value,animal_fats_export_value_tcl,1000 US$,measure
 Animal fats - Import Quantity,animal_fats_import_quantity_tcl,tonnes,measure
@@ -10465,8 +10516,8 @@ Beverages - Export Quantity,beverages_export_quantity_tcl,tonnes,measure
 Beverages - Export Value,beverages_export_value_tcl,1000 US$,measure
 Beverages - Import Quantity,beverages_import_quantity_tcl,tonnes,measure
 Beverages - Import Value,beverages_import_value_tcl,1000 US$,measure
-Beverages+Tobacco - Export Value,beverages_tobacco_export_value_tcl,1000 US$,measure
-Beverages+Tobacco - Import Value,beverages_tobacco_import_value_tcl,1000 US$,measure
+Beverages and Tobacco - Export Value,beverages_and_tobacco_export_value_tcl,1000 US$,measure
+Beverages and Tobacco - Import Value,beverages_and_tobacco_import_value_tcl,1000 US$,measure
 "Beverages, distilled alcoholic - Export Quantity",beverages_distilled_alcoholic_export_quantity_tcl,tonnes,measure
 "Beverages, distilled alcoholic - Export Value",beverages_distilled_alcoholic_export_value_tcl,1000 US$,measure
 "Beverages, distilled alcoholic - Import Quantity",beverages_distilled_alcoholic_import_quantity_tcl,tonnes,measure
@@ -10760,12 +10811,12 @@ Coconuts - Import Value,coconuts_import_value_tcl,1000 US$,measure
 "Cocoons, unreelable & waste - Export Value",cocoons_unreelable_waste_export_value_tcl,1000 US$,measure
 "Cocoons, unreelable & waste - Import Quantity",cocoons_unreelable_waste_import_quantity_tcl,tonnes,measure
 "Cocoons, unreelable & waste - Import Value",cocoons_unreelable_waste_import_value_tcl,1000 US$,measure
-Coffee Green+Roast - Export Quantity,coffee_green_roast_export_quantity_tcl,tonnes,measure
-Coffee Green+Roast - Export Value,coffee_green_roast_export_value_tcl,1000 US$,measure
-Coffee Green+Roast - Import Quantity,coffee_green_roast_import_quantity_tcl,tonnes,measure
-Coffee Green+Roast - Import Value,coffee_green_roast_import_value_tcl,1000 US$,measure
-Coffee+Tea+Cocoa+Sp - Export Value,coffee_tea_cocoa_sp_export_value_tcl,1000 US$,measure
-Coffee+Tea+Cocoa+Sp - Import Value,coffee_tea_cocoa_sp_import_value_tcl,1000 US$,measure
+Coffee Green and Roast - Export Quantity,coffee_green_and_roast_export_quantity_tcl,tonnes,measure
+Coffee Green and Roast - Export Value,coffee_green_and_roast_export_value_tcl,1000 US$,measure
+Coffee Green and Roast - Import Quantity,coffee_green_and_roast_import_quantity_tcl,tonnes,measure
+Coffee Green and Roast - Import Value,coffee_green_and_roast_import_value_tcl,1000 US$,measure
+"Coffee, Tea, Cocoa and Spices - Export Value",coffee_tea_cocoa_and_spices_export_value_tcl,1000 US$,measure
+"Coffee, Tea, Cocoa and Spices - Import Value",coffee_tea_cocoa_and_spices_import_value_tcl,1000 US$,measure
 "Coffee, extracts - Export Quantity",coffee_extracts_export_quantity_tcl,tonnes,measure
 "Coffee, extracts - Export Value",coffee_extracts_export_value_tcl,1000 US$,measure
 "Coffee, extracts - Import Quantity",coffee_extracts_import_quantity_tcl,tonnes,measure
@@ -10822,14 +10873,12 @@ Cream fresh - Export Quantity,cream_fresh_export_quantity_tcl,tonnes,measure
 Cream fresh - Export Value,cream_fresh_export_value_tcl,1000 US$,measure
 Cream fresh - Import Quantity,cream_fresh_import_quantity_tcl,tonnes,measure
 Cream fresh - Import Value,cream_fresh_import_value_tcl,1000 US$,measure
-Crude Materials -Ex2 - Export Value,crude_materials_ex2_export_value_tcl,1000 US$,measure
-Crude Materials -Ex2 - Import Value,crude_materials_ex2_import_value_tcl,1000 US$,measure
+Crude Materials - Export Value,crude_materials_export_value_tcl,1000 US$,measure
+Crude Materials - Import Value,crude_materials_import_value_tcl,1000 US$,measure
 Crude Materials nes - Export Value,crude_materials_nes_export_value_tcl,1000 US$,measure
 Crude Materials nes - Import Value,crude_materials_nes_import_value_tcl,1000 US$,measure
 Crude materials - Export Quantity,crude_materials_export_quantity_tcl,tonnes,measure
-Crude materials - Export Value,crude_materials_export_value_tcl,1000 US$,measure
 Crude materials - Import Quantity,crude_materials_import_quantity_tcl,tonnes,measure
-Crude materials - Import Value,crude_materials_import_value_tcl,1000 US$,measure
 Cucumbers and gherkins - Export Quantity,cucumbers_and_gherkins_export_quantity_tcl,tonnes,measure
 Cucumbers and gherkins - Export Value,cucumbers_and_gherkins_export_value_tcl,1000 US$,measure
 Cucumbers and gherkins - Import Quantity,cucumbers_and_gherkins_import_quantity_tcl,tonnes,measure
@@ -10838,8 +10887,8 @@ Currants - Export Quantity,currants_export_quantity_tcl,tonnes,measure
 Currants - Export Value,currants_export_value_tcl,1000 US$,measure
 Currants - Import Quantity,currants_import_quantity_tcl,tonnes,measure
 Currants - Import Value,currants_import_value_tcl,1000 US$,measure
-Dairy Products+Eggs - Export Value,dairy_products_eggs_export_value_tcl,1000 US$,measure
-Dairy Products+Eggs - Import Value,dairy_products_eggs_import_value_tcl,1000 US$,measure
+Dairy Products and Eggs - Export Value,dairy_products_and_eggs_export_value_tcl,1000 US$,measure
+Dairy Products and Eggs - Import Value,dairy_products_and_eggs_import_value_tcl,1000 US$,measure
 Dates - Export Quantity,dates_export_quantity_tcl,tonnes,measure
 Dates - Export Value,dates_export_value_tcl,1000 US$,measure
 Dates - Import Quantity,dates_import_quantity_tcl,tonnes,measure
@@ -10852,10 +10901,10 @@ Eggplants (aubergines) - Export Quantity,eggplants_aubergines_export_quantity_tc
 Eggplants (aubergines) - Export Value,eggplants_aubergines_export_value_tcl,1000 US$,measure
 Eggplants (aubergines) - Import Quantity,eggplants_aubergines_import_quantity_tcl,tonnes,measure
 Eggplants (aubergines) - Import Value,eggplants_aubergines_import_value_tcl,1000 US$,measure
-"Eggs Liquid,Dried - Export Quantity",eggs_liquid_dried_export_quantity_tcl,tonnes,measure
-"Eggs Liquid,Dried - Export Value",eggs_liquid_dried_export_value_tcl,1000 US$,measure
-"Eggs Liquid,Dried - Import Quantity",eggs_liquid_dried_import_quantity_tcl,tonnes,measure
-"Eggs Liquid,Dried - Import Value",eggs_liquid_dried_import_value_tcl,1000 US$,measure
+"Eggs Liquid, Dried - Export Quantity",eggs_liquid_dried_export_quantity_tcl,tonnes,measure
+"Eggs Liquid, Dried - Export Value",eggs_liquid_dried_export_value_tcl,1000 US$,measure
+"Eggs Liquid, Dried - Import Quantity",eggs_liquid_dried_import_quantity_tcl,tonnes,measure
+"Eggs Liquid, Dried - Import Value",eggs_liquid_dried_import_value_tcl,1000 US$,measure
 Eggs in The Shell - Export Quantity,eggs_in_the_shell_export_quantity_tcl,tonnes,measure
 Eggs in The Shell - Export Value,eggs_in_the_shell_export_value_tcl,1000 US$,measure
 Eggs in The Shell - Import Quantity,eggs_in_the_shell_import_quantity_tcl,tonnes,measure
@@ -10896,6 +10945,8 @@ Eggs in The Shell - Import Value,eggs_in_the_shell_import_value_tcl,1000 US$,mea
 "Fat, pigs - Export Value",fat_pigs_export_value_tcl,1000 US$,measure
 "Fat, pigs - Import Quantity",fat_pigs_import_quantity_tcl,tonnes,measure
 "Fat, pigs - Import Value",fat_pigs_import_value_tcl,1000 US$,measure
+Fats and Oils (excluding Butter) - Export Value,fats_and_oils_excluding_butter_export_value_tcl,1000 US$,measure
+Fats and Oils (excluding Butter) - Import Value,fats_and_oils_excluding_butter_import_value_tcl,1000 US$,measure
 Fatty acids - Export Quantity,fatty_acids_export_quantity_tcl,tonnes,measure
 Fatty acids - Export Value,fatty_acids_export_value_tcl,1000 US$,measure
 Fatty acids - Import Quantity,fatty_acids_import_quantity_tcl,tonnes,measure
@@ -10944,10 +10995,6 @@ Fixed Vegetable Oils - Export Quantity,fixed_vegetable_oils_export_quantity_tcl,
 Fixed Vegetable Oils - Export Value,fixed_vegetable_oils_export_value_tcl,1000 US$,measure
 Fixed Vegetable Oils - Import Quantity,fixed_vegetable_oils_import_quantity_tcl,tonnes,measure
 Fixed Vegetable Oils - Import Value,fixed_vegetable_oils_import_value_tcl,1000 US$,measure
-Flax Fib+Tow+W - Export Quantity,flax_fib_tow_w_export_quantity_tcl,tonnes,measure
-Flax Fib+Tow+W - Export Value,flax_fib_tow_w_export_value_tcl,1000 US$,measure
-Flax Fib+Tow+W - Import Quantity,flax_fib_tow_w_import_quantity_tcl,tonnes,measure
-Flax Fib+Tow+W - Import Value,flax_fib_tow_w_import_value_tcl,1000 US$,measure
 Flax fibre and tow - Export Quantity,flax_fibre_and_tow_export_quantity_tcl,tonnes,measure
 Flax fibre and tow - Export Value,flax_fibre_and_tow_export_value_tcl,1000 US$,measure
 Flax fibre and tow - Import Quantity,flax_fibre_and_tow_import_quantity_tcl,tonnes,measure
@@ -10960,6 +11007,10 @@ Flax tow waste - Export Quantity,flax_tow_waste_export_quantity_tcl,tonnes,measu
 Flax tow waste - Export Value,flax_tow_waste_export_value_tcl,1000 US$,measure
 Flax tow waste - Import Quantity,flax_tow_waste_import_quantity_tcl,tonnes,measure
 Flax tow waste - Import Value,flax_tow_waste_import_value_tcl,1000 US$,measure
+"Flax, fibre, tow and waste - Export Quantity",flax_fibre_tow_and_waste_export_quantity_tcl,tonnes,measure
+"Flax, fibre, tow and waste - Export Value",flax_fibre_tow_and_waste_export_value_tcl,1000 US$,measure
+"Flax, fibre, tow and waste - Import Quantity",flax_fibre_tow_and_waste_import_quantity_tcl,tonnes,measure
+"Flax, fibre, tow and waste - Import Value",flax_fibre_tow_and_waste_import_value_tcl,1000 US$,measure
 "Flour, cassava - Export Quantity",flour_cassava_export_quantity_tcl,tonnes,measure
 "Flour, cassava - Export Value",flour_cassava_export_value_tcl,1000 US$,measure
 "Flour, cassava - Import Quantity",flour_cassava_import_quantity_tcl,tonnes,measure
@@ -11004,16 +11055,16 @@ Flax tow waste - Import Value,flax_tow_waste_import_value_tcl,1000 US$,measure
 "Flour, wheat - Export Value",flour_wheat_export_value_tcl,1000 US$,measure
 "Flour, wheat - Import Quantity",flour_wheat_import_quantity_tcl,tonnes,measure
 "Flour, wheat - Import Value",flour_wheat_import_value_tcl,1000 US$,measure
-Fodder & Feeding stuff - Export Quantity,fodder_feeding_stuff_export_quantity_tcl,tonnes,measure
-Fodder & Feeding stuff - Export Value,fodder_feeding_stuff_export_value_tcl,1000 US$,measure
-Fodder & Feeding stuff - Import Quantity,fodder_feeding_stuff_import_quantity_tcl,tonnes,measure
-Fodder & Feeding stuff - Import Value,fodder_feeding_stuff_import_value_tcl,1000 US$,measure
+Fodder and Feeding Stuff - Export Quantity,fodder_and_feeding_stuff_export_quantity_tcl,tonnes,measure
+Fodder and Feeding Stuff - Export Value,fodder_and_feeding_stuff_export_value_tcl,1000 US$,measure
+Fodder and Feeding Stuff - Import Quantity,fodder_and_feeding_stuff_import_quantity_tcl,tonnes,measure
+Fodder and Feeding Stuff - Import Value,fodder_and_feeding_stuff_import_value_tcl,1000 US$,measure
 Fonio - Export Quantity,fonio_export_quantity_tcl,tonnes,measure
 Fonio - Export Value,fonio_export_value_tcl,1000 US$,measure
 Fonio - Import Quantity,fonio_import_quantity_tcl,tonnes,measure
 Fonio - Import Value,fonio_import_value_tcl,1000 US$,measure
-Food Excl Fish - Export Value,food_excl_fish_export_value_tcl,1000 US$,measure
-Food Excl Fish - Import Value,food_excl_fish_import_value_tcl,1000 US$,measure
+Food Excluding Fish - Export Value,food_excluding_fish_export_value_tcl,1000 US$,measure
+Food Excluding Fish - Import Value,food_excluding_fish_import_value_tcl,1000 US$,measure
 Food and Animals - Export Value,food_and_animals_export_value_tcl,1000 US$,measure
 Food and Animals - Import Value,food_and_animals_import_value_tcl,1000 US$,measure
 Food prep nes - Export Quantity,food_prep_nes_export_quantity_tcl,tonnes,measure
@@ -11263,10 +11314,10 @@ Jute - Export Quantity,jute_export_quantity_tcl,tonnes,measure
 Jute - Export Value,jute_export_value_tcl,1000 US$,measure
 Jute - Import Quantity,jute_import_quantity_tcl,tonnes,measure
 Jute - Import Value,jute_import_value_tcl,1000 US$,measure
-Jute+Bast Fibres - Export Quantity,jute_bast_fibres_export_quantity_tcl,tonnes,measure
-Jute+Bast Fibres - Export Value,jute_bast_fibres_export_value_tcl,1000 US$,measure
-Jute+Bast Fibres - Import Quantity,jute_bast_fibres_import_quantity_tcl,tonnes,measure
-Jute+Bast Fibres - Import Value,jute_bast_fibres_import_value_tcl,1000 US$,measure
+Jute and Bast Fibres - Export Quantity,jute_and_bast_fibres_export_quantity_tcl,tonnes,measure
+Jute and Bast Fibres - Export Value,jute_and_bast_fibres_export_value_tcl,1000 US$,measure
+Jute and Bast Fibres - Import Quantity,jute_and_bast_fibres_import_quantity_tcl,tonnes,measure
+Jute and Bast Fibres - Import Value,jute_and_bast_fibres_import_value_tcl,1000 US$,measure
 Kapok fibre - Export Quantity,kapok_fibre_export_quantity_tcl,tonnes,measure
 Kapok fibre - Export Value,kapok_fibre_export_value_tcl,1000 US$,measure
 Kapok fibre - Import Quantity,kapok_fibre_import_quantity_tcl,tonnes,measure
@@ -11367,8 +11418,8 @@ Meat Bovine Fresh - Export Quantity,meat_bovine_fresh_export_quantity_tcl,tonnes
 Meat Bovine Fresh - Export Value,meat_bovine_fresh_export_value_tcl,1000 US$,measure
 Meat Bovine Fresh - Import Quantity,meat_bovine_fresh_import_quantity_tcl,tonnes,measure
 Meat Bovine Fresh - Import Value,meat_bovine_fresh_import_value_tcl,1000 US$,measure
-Meat Fresh+Ch+Frozen - Export Value,meat_fresh_ch_frozen_export_value_tcl,1000 US$,measure
-Meat Fresh+Ch+Frozen - Import Value,meat_fresh_ch_frozen_import_value_tcl,1000 US$,measure
+"Meat Fresh, Chilled and Frozen - Export Value",meat_fresh_chilled_and_frozen_export_value_tcl,1000 US$,measure
+"Meat Fresh, Chilled and Frozen - Import Value",meat_fresh_chilled_and_frozen_import_value_tcl,1000 US$,measure
 Meat Poultry Fresh - Export Quantity,meat_poultry_fresh_export_quantity_tcl,tonnes,measure
 Meat Poultry Fresh - Export Value,meat_poultry_fresh_export_value_tcl,1000 US$,measure
 Meat Poultry Fresh - Import Quantity,meat_poultry_fresh_import_quantity_tcl,tonnes,measure
@@ -11474,12 +11525,12 @@ Meat of Swine - Import Value,meat_of_swine_import_value_tcl,1000 US$,measure
 "Melons, other (inc.cantaloupes) - Export Value",melons_other_inc_cantaloupes_export_value_tcl,1000 US$,measure
 "Melons, other (inc.cantaloupes) - Import Quantity",melons_other_inc_cantaloupes_import_quantity_tcl,tonnes,measure
 "Melons, other (inc.cantaloupes) - Import Value",melons_other_inc_cantaloupes_import_value_tcl,1000 US$,measure
-Milk Condensed + Evaporated - Export Quantity,milk_condensed_evaporated_export_quantity_tcl,tonnes,measure
-Milk Condensed + Evaporated - Export Value,milk_condensed_evaporated_export_value_tcl,1000 US$,measure
-Milk Condensed + Evaporated - Import Quantity,milk_condensed_evaporated_import_quantity_tcl,tonnes,measure
-Milk Condensed + Evaporated - Import Value,milk_condensed_evaporated_import_value_tcl,1000 US$,measure
-Milk Condensed+Dry+Fresh - Export Value,milk_condensed_dry_fresh_export_value_tcl,1000 US$,measure
-Milk Condensed+Dry+Fresh - Import Value,milk_condensed_dry_fresh_import_value_tcl,1000 US$,measure
+Milk Condensed and Evaporated - Export Quantity,milk_condensed_and_evaporated_export_quantity_tcl,tonnes,measure
+Milk Condensed and Evaporated - Export Value,milk_condensed_and_evaporated_export_value_tcl,1000 US$,measure
+Milk Condensed and Evaporated - Import Quantity,milk_condensed_and_evaporated_import_quantity_tcl,tonnes,measure
+Milk Condensed and Evaporated - Import Value,milk_condensed_and_evaporated_import_value_tcl,1000 US$,measure
+"Milk Condensed, Dry and Fresh - Export Value",milk_condensed_dry_and_fresh_export_value_tcl,1000 US$,measure
+"Milk Condensed, Dry and Fresh - Import Value",milk_condensed_dry_and_fresh_import_value_tcl,1000 US$,measure
 Milk Dry - Export Quantity,milk_dry_export_quantity_tcl,tonnes,measure
 Milk Dry - Export Value,milk_dry_export_value_tcl,1000 US$,measure
 Milk Dry - Import Quantity,milk_dry_import_quantity_tcl,tonnes,measure
@@ -11560,6 +11611,12 @@ Natural Rubber - Export Quantity,natural_rubber_export_quantity_tcl,tonnes,measu
 Natural Rubber - Export Value,natural_rubber_export_value_tcl,1000 US$,measure
 Natural Rubber - Import Quantity,natural_rubber_import_quantity_tcl,tonnes,measure
 Natural Rubber - Import Value,natural_rubber_import_value_tcl,1000 US$,measure
+Non-edible Crude Materials - Export Value,non_edible_crude_materials_export_value_tcl,1000 US$,measure
+Non-edible Crude Materials - Import Value,non_edible_crude_materials_import_value_tcl,1000 US$,measure
+Non-edible Fats and Oils - Export Value,non_edible_fats_and_oils_export_value_tcl,1000 US$,measure
+Non-edible Fats and Oils - Import Value,non_edible_fats_and_oils_import_value_tcl,1000 US$,measure
+Non-food - Export Value,non_food_export_value_tcl,1000 US$,measure
+Non-food - Import Value,non_food_import_value_tcl,1000 US$,measure
 "Nutmeg, mace and cardamoms - Export Quantity",nutmeg_mace_and_cardamoms_export_quantity_tcl,tonnes,measure
 "Nutmeg, mace and cardamoms - Export Value",nutmeg_mace_and_cardamoms_export_value_tcl,1000 US$,measure
 "Nutmeg, mace and cardamoms - Import Quantity",nutmeg_mace_and_cardamoms_import_quantity_tcl,tonnes,measure
@@ -11580,10 +11637,10 @@ Oats rolled - Export Quantity,oats_rolled_export_quantity_tcl,tonnes,measure
 Oats rolled - Export Value,oats_rolled_export_value_tcl,1000 US$,measure
 Oats rolled - Import Quantity,oats_rolled_import_quantity_tcl,tonnes,measure
 Oats rolled - Import Value,oats_rolled_import_value_tcl,1000 US$,measure
-Offals Edibl Fresh - Export Quantity,offals_edibl_fresh_export_quantity_tcl,tonnes,measure
-Offals Edibl Fresh - Export Value,offals_edibl_fresh_export_value_tcl,1000 US$,measure
-Offals Edibl Fresh - Import Quantity,offals_edibl_fresh_import_quantity_tcl,tonnes,measure
-Offals Edibl Fresh - Import Value,offals_edibl_fresh_import_value_tcl,1000 US$,measure
+Offals Edible Fresh - Export Quantity,offals_edible_fresh_export_quantity_tcl,tonnes,measure
+Offals Edible Fresh - Export Value,offals_edible_fresh_export_value_tcl,1000 US$,measure
+Offals Edible Fresh - Import Quantity,offals_edible_fresh_import_quantity_tcl,tonnes,measure
+Offals Edible Fresh - Import Value,offals_edible_fresh_import_value_tcl,1000 US$,measure
 "Offals, edible, cattle - Export Quantity",offals_edible_cattle_export_quantity_tcl,tonnes,measure
 "Offals, edible, cattle - Export Value",offals_edible_cattle_export_value_tcl,1000 US$,measure
 "Offals, edible, cattle - Import Quantity",offals_edible_cattle_import_quantity_tcl,tonnes,measure
@@ -11749,18 +11806,20 @@ Oranges - Export Quantity,oranges_export_quantity_tcl,tonnes,measure
 Oranges - Export Value,oranges_export_value_tcl,1000 US$,measure
 Oranges - Import Quantity,oranges_import_quantity_tcl,tonnes,measure
 Oranges - Import Value,oranges_import_value_tcl,1000 US$,measure
-Oranges+Tang+Clem - Export Quantity,oranges_tang_clem_export_quantity_tcl,tonnes,measure
-Oranges+Tang+Clem - Export Value,oranges_tang_clem_export_value_tcl,1000 US$,measure
-Oranges+Tang+Clem - Import Quantity,oranges_tang_clem_import_quantity_tcl,tonnes,measure
-Oranges+Tang+Clem - Import Value,oranges_tang_clem_import_value_tcl,1000 US$,measure
-Oth Citrus Frt - Export Quantity,oth_citrus_frt_export_quantity_tcl,tonnes,measure
-Oth Citrus Frt - Export Value,oth_citrus_frt_export_value_tcl,1000 US$,measure
-Oth Citrus Frt - Import Quantity,oth_citrus_frt_import_quantity_tcl,tonnes,measure
-Oth Citrus Frt - Import Value,oth_citrus_frt_import_value_tcl,1000 US$,measure
+"Oranges, Tangerines and Clementines - Export Quantity",oranges_tangerines_and_clementines_export_quantity_tcl,tonnes,measure
+"Oranges, Tangerines and Clementines - Export Value",oranges_tangerines_and_clementines_export_value_tcl,1000 US$,measure
+"Oranges, Tangerines and Clementines - Import Quantity",oranges_tangerines_and_clementines_import_quantity_tcl,tonnes,measure
+"Oranges, Tangerines and Clementines - Import Value",oranges_tangerines_and_clementines_import_value_tcl,1000 US$,measure
+Other Citrus Fruit - Export Quantity,other_citrus_fruit_export_quantity_tcl,tonnes,measure
+Other Citrus Fruit - Export Value,other_citrus_fruit_export_value_tcl,1000 US$,measure
+Other Citrus Fruit - Import Quantity,other_citrus_fruit_import_quantity_tcl,tonnes,measure
+Other Citrus Fruit - Import Value,other_citrus_fruit_import_value_tcl,1000 US$,measure
 Other Meat - Export Quantity,other_meat_export_quantity_tcl,tonnes,measure
 Other Meat - Export Value,other_meat_export_value_tcl,1000 US$,measure
 Other Meat - Import Quantity,other_meat_import_quantity_tcl,tonnes,measure
 Other Meat - Import Value,other_meat_import_value_tcl,1000 US$,measure
+Other food - Export Value,other_food_export_value_tcl,1000 US$,measure
+Other food - Import Value,other_food_import_value_tcl,1000 US$,measure
 Ovine Meat - Export Quantity,ovine_meat_export_quantity_tcl,tonnes,measure
 Ovine Meat - Export Value,ovine_meat_export_value_tcl,1000 US$,measure
 Ovine Meat - Import Quantity,ovine_meat_import_quantity_tcl,tonnes,measure
@@ -11887,14 +11946,14 @@ Raisins - Export Quantity,raisins_export_quantity_tcl,tonnes,measure
 Raisins - Export Value,raisins_export_value_tcl,1000 US$,measure
 Raisins - Import Quantity,raisins_import_quantity_tcl,tonnes,measure
 Raisins - Import Value,raisins_import_value_tcl,1000 US$,measure
-Rape+Mustard Oils - Export Quantity,rape_mustard_oils_export_quantity_tcl,tonnes,measure
-Rape+Mustard Oils - Export Value,rape_mustard_oils_export_value_tcl,1000 US$,measure
-Rape+Mustard Oils - Import Quantity,rape_mustard_oils_import_quantity_tcl,tonnes,measure
-Rape+Mustard Oils - Import Value,rape_mustard_oils_import_value_tcl,1000 US$,measure
-Rape+Mustard Seed - Export Quantity,rape_mustard_seed_export_quantity_tcl,tonnes,measure
-Rape+Mustard Seed - Export Value,rape_mustard_seed_export_value_tcl,1000 US$,measure
-Rape+Mustard Seed - Import Quantity,rape_mustard_seed_import_quantity_tcl,tonnes,measure
-Rape+Mustard Seed - Import Value,rape_mustard_seed_import_value_tcl,1000 US$,measure
+Rape and Mustard Oils - Export Quantity,rape_and_mustard_oils_export_quantity_tcl,tonnes,measure
+Rape and Mustard Oils - Export Value,rape_and_mustard_oils_export_value_tcl,1000 US$,measure
+Rape and Mustard Oils - Import Quantity,rape_and_mustard_oils_import_quantity_tcl,tonnes,measure
+Rape and Mustard Oils - Import Value,rape_and_mustard_oils_import_value_tcl,1000 US$,measure
+Rape and Mustard Seed - Export Quantity,rape_and_mustard_seed_export_quantity_tcl,tonnes,measure
+Rape and Mustard Seed - Export Value,rape_and_mustard_seed_export_value_tcl,1000 US$,measure
+Rape and Mustard Seed - Import Quantity,rape_and_mustard_seed_import_quantity_tcl,tonnes,measure
+Rape and Mustard Seed - Import Value,rape_and_mustard_seed_import_value_tcl,1000 US$,measure
 Rapeseed - Export Quantity,rapeseed_export_quantity_tcl,tonnes,measure
 Rapeseed - Export Value,rapeseed_export_value_tcl,1000 US$,measure
 Rapeseed - Import Quantity,rapeseed_import_quantity_tcl,tonnes,measure
@@ -11903,10 +11962,6 @@ Rice - Export Quantity,rice_export_quantity_tcl,tonnes,measure
 Rice - Export Value,rice_export_value_tcl,1000 US$,measure
 Rice - Import Quantity,rice_import_quantity_tcl,tonnes,measure
 Rice - Import Value,rice_import_value_tcl,1000 US$,measure
-Rice - total  (Rice milled equivalent) - Export Quantity,rice_total_rice_milled_equivalent_export_quantity_tcl,tonnes,measure
-Rice - total  (Rice milled equivalent) - Export Value,rice_total_rice_milled_equivalent_export_value_tcl,1000 US$,measure
-Rice - total  (Rice milled equivalent) - Import Quantity,rice_total_rice_milled_equivalent_import_quantity_tcl,tonnes,measure
-Rice - total  (Rice milled equivalent) - Import Value,rice_total_rice_milled_equivalent_import_value_tcl,1000 US$,measure
 "Rice, broken - Export Quantity",rice_broken_export_quantity_tcl,tonnes,measure
 "Rice, broken - Export Value",rice_broken_export_value_tcl,1000 US$,measure
 "Rice, broken - Import Quantity",rice_broken_import_quantity_tcl,tonnes,measure
@@ -11919,6 +11974,14 @@ Rice - total  (Rice milled equivalent) - Import Value,rice_total_rice_milled_equ
 "Rice, milled - Export Value",rice_milled_export_value_tcl,1000 US$,measure
 "Rice, milled - Import Quantity",rice_milled_import_quantity_tcl,tonnes,measure
 "Rice, milled - Import Value",rice_milled_import_value_tcl,1000 US$,measure
+"Rice, milled/husked - Export Quantity",rice_milled_husked_export_quantity_tcl,tonnes,measure
+"Rice, milled/husked - Export Value",rice_milled_husked_export_value_tcl,1000 US$,measure
+"Rice, milled/husked - Import Quantity",rice_milled_husked_import_quantity_tcl,tonnes,measure
+"Rice, milled/husked - Import Value",rice_milled_husked_import_value_tcl,1000 US$,measure
+"Rice, paddy - Export Quantity",rice_paddy_export_quantity_tcl,tonnes,measure
+"Rice, paddy - Export Value",rice_paddy_export_value_tcl,1000 US$,measure
+"Rice, paddy - Import Quantity",rice_paddy_import_quantity_tcl,tonnes,measure
+"Rice, paddy - Import Value",rice_paddy_import_value_tcl,1000 US$,measure
 Roots and tubers nes - Export Quantity,roots_and_tubers_nes_export_quantity_tcl,tonnes,measure
 Roots and tubers nes - Export Value,roots_and_tubers_nes_export_value_tcl,1000 US$,measure
 Roots and tubers nes - Import Quantity,roots_and_tubers_nes_import_quantity_tcl,tonnes,measure
@@ -12208,14 +12271,14 @@ Wheat - Export Quantity,wheat_export_quantity_tcl,tonnes,measure
 Wheat - Export Value,wheat_export_value_tcl,1000 US$,measure
 Wheat - Import Quantity,wheat_import_quantity_tcl,tonnes,measure
 Wheat - Import Value,wheat_import_value_tcl,1000 US$,measure
-"Wheat+Flour,Wheat Equivalent - Export Quantity",wheat_flour_wheat_equivalent_export_quantity_tcl,tonnes,measure
-"Wheat+Flour,Wheat Equivalent - Export Value",wheat_flour_wheat_equivalent_export_value_tcl,1000 US$,measure
-"Wheat+Flour,Wheat Equivalent - Import Quantity",wheat_flour_wheat_equivalent_import_quantity_tcl,tonnes,measure
-"Wheat+Flour,Wheat Equivalent - Import Value",wheat_flour_wheat_equivalent_import_value_tcl,1000 US$,measure
-"Whey, Pres+Concen - Export Quantity",whey_pres_concen_export_quantity_tcl,tonnes,measure
-"Whey, Pres+Concen - Export Value",whey_pres_concen_export_value_tcl,1000 US$,measure
-"Whey, Pres+Concen - Import Quantity",whey_pres_concen_import_quantity_tcl,tonnes,measure
-"Whey, Pres+Concen - Import Value",whey_pres_concen_import_value_tcl,1000 US$,measure
+"Wheat and Flour,Wheat Equivalent - Export Quantity",wheat_and_flour_wheat_equivalent_export_quantity_tcl,tonnes,measure
+"Wheat and Flour,Wheat Equivalent - Export Value",wheat_and_flour_wheat_equivalent_export_value_tcl,1000 US$,measure
+"Wheat and Flour,Wheat Equivalent - Import Quantity",wheat_and_flour_wheat_equivalent_import_quantity_tcl,tonnes,measure
+"Wheat and Flour,Wheat Equivalent - Import Value",wheat_and_flour_wheat_equivalent_import_value_tcl,1000 US$,measure
+Whey - Export Quantity,whey_export_quantity_tcl,tonnes,measure
+Whey - Export Value,whey_export_value_tcl,1000 US$,measure
+Whey - Import Quantity,whey_import_quantity_tcl,tonnes,measure
+Whey - Import Value,whey_import_value_tcl,1000 US$,measure
 "Whey, condensed - Export Quantity",whey_condensed_export_quantity_tcl,tonnes,measure
 "Whey, condensed - Export Value",whey_condensed_export_value_tcl,1000 US$,measure
 "Whey, condensed - Import Quantity",whey_condensed_import_quantity_tcl,tonnes,measure
@@ -12228,10 +12291,10 @@ Wine - Export Quantity,wine_export_quantity_tcl,tonnes,measure
 Wine - Export Value,wine_export_value_tcl,1000 US$,measure
 Wine - Import Quantity,wine_import_quantity_tcl,tonnes,measure
 Wine - Import Value,wine_import_value_tcl,1000 US$,measure
-Wine+Vermouth+Sim. - Export Quantity,wine_vermouth_sim_export_quantity_tcl,tonnes,measure
-Wine+Vermouth+Sim. - Export Value,wine_vermouth_sim_export_value_tcl,1000 US$,measure
-Wine+Vermouth+Sim. - Import Quantity,wine_vermouth_sim_import_quantity_tcl,tonnes,measure
-Wine+Vermouth+Sim. - Import Value,wine_vermouth_sim_import_value_tcl,1000 US$,measure
+"Wine, Vermouth and Similar - Export Quantity",wine_vermouth_and_similar_export_quantity_tcl,tonnes,measure
+"Wine, Vermouth and Similar - Export Value",wine_vermouth_and_similar_export_value_tcl,1000 US$,measure
+"Wine, Vermouth and Similar - Import Quantity",wine_vermouth_and_similar_import_quantity_tcl,tonnes,measure
+"Wine, Vermouth and Similar - Import Value",wine_vermouth_and_similar_import_value_tcl,1000 US$,measure
 "Wool, degreased - Export Quantity",wool_degreased_export_quantity_tcl,tonnes,measure
 "Wool, degreased - Export Value",wool_degreased_export_value_tcl,1000 US$,measure
 "Wool, degreased - Import Quantity",wool_degreased_import_quantity_tcl,tonnes,measure
@@ -12272,8 +12335,8 @@ Food Excl Fish - Import Unit/Value Index (2004-2006 = 100),food_excl_fish_import
 Food Excl Fish - Import Value Base Period Price,food_excl_fish_import_value_base_period_price_tie,1000 $,measure
 Food Excl Fish - Import Value Base Period Quantity,food_excl_fish_import_value_base_period_quantity_tie,1000 $,measure
 Food Excl Fish - Import Value Index (2004-2006 = 100),food_excl_fish_import_value_index_2004_2006_100_tie,index,measure
-"Agricult.Products, Total - Export Value",agricult_products_total_export_value_tle,1000 US$,measure
-"Agricult.Products, Total - Import Value",agricult_products_total_import_value_tle,1000 US$,measure
+Agricultural Products - Export Value,agricultural_products_export_value_tle,1000 US$,measure
+Agricultural Products - Import Value,agricultural_products_import_value_tle,1000 US$,measure
 Animals live nes - Export Quantity,animals_live_nes_export_quantity_tle,Head,measure
 Animals live nes - Export Value,animals_live_nes_export_value_tle,1000 US$,measure
 Animals live nes - Import Quantity,animals_live_nes_import_quantity_tle,Head,measure
@@ -12316,8 +12379,8 @@ Ducks - Export Quantity,ducks_export_quantity_tle,1000 Head,measure
 Ducks - Export Value,ducks_export_value_tle,1000 US$,measure
 Ducks - Import Quantity,ducks_import_quantity_tle,1000 Head,measure
 Ducks - Import Value,ducks_import_value_tle,1000 US$,measure
-Food Excl Fish - Export Value,food_excl_fish_export_value_tle,1000 US$,measure
-Food Excl Fish - Import Value,food_excl_fish_import_value_tle,1000 US$,measure
+Food Excluding Fish - Export Value,food_excluding_fish_export_value_tle,1000 US$,measure
+Food Excluding Fish - Import Value,food_excluding_fish_import_value_tle,1000 US$,measure
 Goats - Export Quantity,goats_export_quantity_tle,Head,measure
 Goats - Export Value,goats_export_value_tle,1000 US$,measure
 Goats - Import Quantity,goats_import_quantity_tle,Head,measure
@@ -12344,7 +12407,6 @@ Rabbits and hares - Export Quantity,rabbits_and_hares_export_quantity_tle,1000 H
 Rabbits and hares - Export Value,rabbits_and_hares_export_value_tle,1000 US$,measure
 Rabbits and hares - Import Quantity,rabbits_and_hares_import_quantity_tle,1000 Head,measure
 Rabbits and hares - Import Value,rabbits_and_hares_import_value_tle,1000 US$,measure
-"Rodents, other - Export Quantity",rodents_other_export_quantity_tle,1000 Head,measure
 "Rodents, other - Export Value",rodents_other_export_value_tle,1000 US$,measure
 "Rodents, other - Import Value",rodents_other_import_value_tle,1000 US$,measure
 Sheep - Export Quantity,sheep_export_quantity_tle,Head,measure
