@@ -9742,8 +9742,6 @@ Coconuts - Yield,coconuts_yield_pce1,hg/ha,measure
 "Coffee, green - Production",coffee_green_production_pce1,tonnes,measure
 "Coffee, green - Yield",coffee_green_yield_pce1,hg/ha,measure
 Coir - Production,coir_production_pce1,tonnes,measure
-Cotton lint - Production,cotton_lint_production_pce1,tonnes,measure
-Cottonseed - Production,cottonseed_production_pce1,tonnes,measure
 "Cow peas, dry - Area harvested",cow_peas_dry_area_harvested_pce1,ha,measure
 "Cow peas, dry - Production",cow_peas_dry_production_pce1,tonnes,measure
 "Cow peas, dry - Yield",cow_peas_dry_yield_pce1,hg/ha,measure
@@ -9835,11 +9833,9 @@ Jojoba seed - Yield,jojoba_seed_yield_pce1,hg/ha,measure
 Jute - Area harvested,jute_area_harvested_pce1,ha,measure
 Jute - Production,jute_production_pce1,tonnes,measure
 Jute - Yield,jute_yield_pce1,hg/ha,measure
-Kapok fibre - Production,kapok_fibre_production_pce1,tonnes,measure
 Kapok fruit - Area harvested,kapok_fruit_area_harvested_pce1,ha,measure
 Kapok fruit - Production,kapok_fruit_production_pce1,tonnes,measure
 Kapok fruit - Yield,kapok_fruit_yield_pce1,hg/ha,measure
-Kapokseed in shell - Production,kapokseed_in_shell_production_pce1,tonnes,measure
 Karite nuts (sheanuts) - Area harvested,karite_nuts_sheanuts_area_harvested_pce1,ha,measure
 Karite nuts (sheanuts) - Production,karite_nuts_sheanuts_production_pce1,tonnes,measure
 Karite nuts (sheanuts) - Yield,karite_nuts_sheanuts_yield_pce1,hg/ha,measure
@@ -9909,12 +9905,15 @@ Oats - Yield,oats_yield_pce1,hg/ha,measure
 Oil palm fruit - Area harvested,oil_palm_fruit_area_harvested_pce1,ha,measure
 Oil palm fruit - Production,oil_palm_fruit_production_pce1,tonnes,measure
 Oil palm fruit - Yield,oil_palm_fruit_yield_pce1,hg/ha,measure
-"Oil, palm - Production",oil_palm_production_pce1,tonnes,measure
 Oilcrops - Area harvested,oilcrops_area_harvested_pce1,ha,measure
 Oilcrops - Production,oilcrops_production_pce1,tonnes,measure
 Oilcrops - Yield,oilcrops_yield_pce1,hg/ha,measure
+"Oilcrops, Cake Equivalent - Area harvested",oilcrops_cake_equivalent_area_harvested_pce1,ha,measure
 "Oilcrops, Cake Equivalent - Production",oilcrops_cake_equivalent_production_pce1,tonnes,measure
+"Oilcrops, Cake Equivalent - Yield",oilcrops_cake_equivalent_yield_pce1,hg/ha,measure
+"Oilcrops, Oil Equivalent - Area harvested",oilcrops_oil_equivalent_area_harvested_pce1,ha,measure
 "Oilcrops, Oil Equivalent - Production",oilcrops_oil_equivalent_production_pce1,tonnes,measure
+"Oilcrops, Oil Equivalent - Yield",oilcrops_oil_equivalent_yield_pce1,hg/ha,measure
 Oilseeds nes - Area harvested,oilseeds_nes_area_harvested_pce1,ha,measure
 Oilseeds nes - Production,oilseeds_nes_production_pce1,tonnes,measure
 Oilseeds nes - Yield,oilseeds_nes_yield_pce1,hg/ha,measure
@@ -9933,7 +9932,6 @@ Olives - Yield,olives_yield_pce1,hg/ha,measure
 Oranges - Area harvested,oranges_area_harvested_pce1,ha,measure
 Oranges - Production,oranges_production_pce1,tonnes,measure
 Oranges - Yield,oranges_yield_pce1,hg/ha,measure
-Palm kernels - Production,palm_kernels_production_pce1,tonnes,measure
 Papayas - Area harvested,papayas_area_harvested_pce1,ha,measure
 Papayas - Production,papayas_production_pce1,tonnes,measure
 Papayas - Yield,papayas_yield_pce1,hg/ha,measure
@@ -10051,6 +10049,9 @@ Strawberries - Yield,strawberries_yield_pce1,hg/ha,measure
 String beans - Area harvested,string_beans_area_harvested_pce1,ha,measure
 String beans - Production,string_beans_production_pce1,tonnes,measure
 String beans - Yield,string_beans_yield_pce1,hg/ha,measure
+Sugar Crops Primary - Area harvested,sugar_crops_primary_area_harvested_pce1,ha,measure
+Sugar Crops Primary - Production,sugar_crops_primary_production_pce1,tonnes,measure
+Sugar Crops Primary - Yield,sugar_crops_primary_yield_pce1,hg/ha,measure
 Sugar beet - Area harvested,sugar_beet_area_harvested_pce1,ha,measure
 Sugar beet - Production,sugar_beet_production_pce1,tonnes,measure
 Sugar beet - Yield,sugar_beet_yield_pce1,hg/ha,measure
