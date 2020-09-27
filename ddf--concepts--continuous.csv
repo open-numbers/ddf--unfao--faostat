@@ -9690,9 +9690,6 @@ Castor oil seed - Yield,castor_oil_seed_yield_pce1,hg/ha,measure
 Cauliflowers and broccoli - Area harvested,cauliflowers_and_broccoli_area_harvested_pce1,ha,measure
 Cauliflowers and broccoli - Production,cauliflowers_and_broccoli_production_pce1,tonnes,measure
 Cauliflowers and broccoli - Yield,cauliflowers_and_broccoli_yield_pce1,hg/ha,measure
-Cereals (Rice Milled Eqv) - Area harvested,cereals_rice_milled_eqv_area_harvested_pce1,ha,measure
-Cereals (Rice Milled Eqv) - Production,cereals_rice_milled_eqv_production_pce1,tonnes,measure
-Cereals (Rice Milled Eqv) - Yield,cereals_rice_milled_eqv_yield_pce1,hg/ha,measure
 Cereals nes - Area harvested,cereals_nes_area_harvested_pce1,ha,measure
 Cereals nes - Production,cereals_nes_production_pce1,tonnes,measure
 Cereals nes - Yield,cereals_nes_yield_pce1,hg/ha,measure
@@ -9729,9 +9726,6 @@ Cinnamon (cannella) - Yield,cinnamon_cannella_yield_pce1,hg/ha,measure
 Cloves - Area harvested,cloves_area_harvested_pce1,ha,measure
 Cloves - Production,cloves_production_pce1,tonnes,measure
 Cloves - Yield,cloves_yield_pce1,hg/ha,measure
-"Coarse Grain, Total - Area harvested",coarse_grain_total_area_harvested_pce1,ha,measure
-"Coarse Grain, Total - Production",coarse_grain_total_production_pce1,tonnes,measure
-"Coarse Grain, Total - Yield",coarse_grain_total_yield_pce1,hg/ha,measure
 "Cocoa, beans - Area harvested",cocoa_beans_area_harvested_pce1,ha,measure
 "Cocoa, beans - Production",cocoa_beans_production_pce1,tonnes,measure
 "Cocoa, beans - Yield",cocoa_beans_yield_pce1,hg/ha,measure
@@ -10007,6 +10001,8 @@ Raspberries - Yield,raspberries_yield_pce1,hg/ha,measure
 "Rice, paddy - Area harvested",rice_paddy_area_harvested_pce1,ha,measure
 "Rice, paddy - Production",rice_paddy_production_pce1,tonnes,measure
 "Rice, paddy - Yield",rice_paddy_yield_pce1,hg/ha,measure
+"Rice, paddy (rice milled equivalent) - Area harvested",rice_paddy_rice_milled_equivalent_area_harvested_pce1,ha,measure
+"Rice, paddy (rice milled equivalent) - Production",rice_paddy_rice_milled_equivalent_production_pce1,tonnes,measure
 "Roots and Tubers, Total - Area harvested",roots_and_tubers_total_area_harvested_pce1,ha,measure
 "Roots and Tubers, Total - Production",roots_and_tubers_total_production_pce1,tonnes,measure
 "Roots and Tubers, Total - Yield",roots_and_tubers_total_yield_pce1,hg/ha,measure
