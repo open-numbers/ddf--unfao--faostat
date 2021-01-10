@@ -25,6 +25,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 1,2015,2.7
 1,2016,2.7
 1,2017,2.7
+1,2018,2.7
 1,2030,2.7
 1,2050,2.7
 10,1961,2.7
@@ -84,6 +85,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 10,2015,2.7
 10,2016,2.7
 10,2017,2.7
+10,2018,2.7
 10,2030,2.7
 10,2050,2.7
 100,1961,2.7
@@ -143,6 +145,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 100,2015,2.7
 100,2016,2.7
 100,2017,2.7
+100,2018,2.7
 100,2030,2.7
 100,2050,2.7
 102,1961,2.7
@@ -202,6 +205,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 102,2015,2.7
 102,2016,2.7
 102,2017,2.7
+102,2018,2.7
 102,2030,2.7
 102,2050,2.7
 103,1961,2.7
@@ -261,6 +265,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 103,2015,2.7
 103,2016,2.7
 103,2017,2.7
+103,2018,2.7
 103,2030,2.7
 103,2050,2.7
 104,1961,2.7
@@ -320,6 +325,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 104,2015,2.7
 104,2016,2.7
 104,2017,2.7
+104,2018,2.7
 104,2030,2.7
 104,2050,2.7
 105,1961,2.7
@@ -379,6 +385,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 105,2015,2.7
 105,2016,2.7
 105,2017,2.7
+105,2018,2.7
 105,2030,2.7
 105,2050,2.7
 106,1961,2.7
@@ -438,6 +445,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 106,2015,2.7
 106,2016,2.7
 106,2017,2.7
+106,2018,2.7
 106,2030,2.7
 106,2050,2.7
 108,1992,2.7
@@ -466,6 +474,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 108,2015,2.7
 108,2016,2.7
 108,2017,2.7
+108,2018,2.7
 108,2030,2.7
 108,2050,2.7
 11,1961,2.7
@@ -525,6 +534,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 11,2015,2.7
 11,2016,2.7
 11,2017,2.7
+11,2018,2.7
 11,2030,2.7
 11,2050,2.7
 110,1961,2.7
@@ -584,6 +594,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 110,2015,2.7
 110,2016,2.7
 110,2017,2.7
+110,2018,2.7
 110,2030,2.7
 110,2050,2.7
 112,1961,2.7
@@ -643,6 +654,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 112,2015,2.7
 112,2016,2.7
 112,2017,2.7
+112,2018,2.7
 112,2030,2.7
 112,2050,2.7
 113,1992,2.7
@@ -671,6 +683,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 113,2015,2.7
 113,2016,2.7
 113,2017,2.7
+113,2018,2.7
 113,2030,2.7
 113,2050,2.7
 114,1961,2.7
@@ -730,6 +743,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 114,2015,2.7
 114,2016,2.7
 114,2017,2.7
+114,2018,2.7
 114,2030,2.7
 114,2050,2.7
 116,1961,2.7
@@ -789,6 +803,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 116,2015,2.7
 116,2016,2.7
 116,2017,2.7
+116,2018,2.7
 116,2030,2.7
 116,2050,2.7
 117,1961,2.7
@@ -848,6 +863,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 117,2015,2.7
 117,2016,2.7
 117,2017,2.7
+117,2018,2.7
 117,2030,2.7
 117,2050,2.7
 118,1985,2.7
@@ -883,6 +899,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 118,2015,2.7
 118,2016,2.7
 118,2017,2.7
+118,2018,2.7
 118,2030,2.7
 118,2050,2.7
 119,1992,2.7
@@ -911,6 +928,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 119,2015,2.7
 119,2016,2.7
 119,2017,2.7
+119,2018,2.7
 119,2030,2.7
 119,2050,2.7
 121,1961,2.7
@@ -970,6 +988,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 121,2015,2.7
 121,2016,2.7
 121,2017,2.7
+121,2018,2.7
 121,2030,2.7
 121,2050,2.7
 122,1961,2.7
@@ -1029,6 +1048,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 122,2015,2.7
 122,2016,2.7
 122,2017,2.7
+122,2018,2.7
 122,2030,2.7
 122,2050,2.7
 124,1961,2.7
@@ -1088,6 +1108,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 124,2015,2.7
 124,2016,2.7
 124,2017,2.7
+124,2018,2.7
 124,2030,2.7
 124,2050,2.7
 126,1992,2.7
@@ -1116,6 +1137,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 126,2015,2.7
 126,2016,2.7
 126,2017,2.7
+126,2018,2.7
 126,2030,2.7
 126,2050,2.7
 129,1976,2.7
@@ -1160,6 +1182,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 129,2015,2.7
 129,2016,2.7
 129,2017,2.7
+129,2018,2.7
 129,2030,2.7
 129,2050,2.7
 130,1961,2.7
@@ -1219,6 +1242,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 130,2015,2.7
 130,2016,2.7
 130,2017,2.7
+130,2018,2.7
 130,2030,2.7
 130,2050,2.7
 133,1961,2.7
@@ -1278,6 +1302,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 133,2015,2.7
 133,2016,2.7
 133,2017,2.7
+133,2018,2.7
 133,2030,2.7
 133,2050,2.7
 134,1961,2.7
@@ -1337,6 +1362,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 134,2015,2.7
 134,2016,2.7
 134,2017,2.7
+134,2018,2.7
 134,2030,2.7
 134,2050,2.7
 136,1961,2.7
@@ -1396,6 +1422,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 136,2015,2.7
 136,2016,2.7
 136,2017,2.7
+136,2018,2.7
 136,2030,2.7
 136,2050,2.7
 138,1961,2.7
@@ -1455,6 +1482,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 138,2015,2.7
 138,2016,2.7
 138,2017,2.7
+138,2018,2.7
 138,2030,2.7
 138,2050,2.7
 141,1961,2.7
@@ -1514,6 +1542,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 141,2015,2.7
 141,2016,2.7
 141,2017,2.7
+141,2018,2.7
 141,2030,2.7
 141,2050,2.7
 143,1961,2.7
@@ -1573,6 +1602,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 143,2015,2.7
 143,2016,2.7
 143,2017,2.7
+143,2018,2.7
 143,2030,2.7
 143,2050,2.7
 144,1961,2.7
@@ -1632,6 +1662,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 144,2015,2.7
 144,2016,2.7
 144,2017,2.7
+144,2018,2.7
 144,2030,2.7
 144,2050,2.7
 146,1992,2.7
@@ -1660,6 +1691,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 146,2015,2.7
 146,2016,2.7
 146,2017,2.7
+146,2018,2.7
 146,2030,2.7
 146,2050,2.7
 147,1961,2.7
@@ -1719,6 +1751,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 147,2015,2.7
 147,2016,2.7
 147,2017,2.7
+147,2018,2.7
 147,2030,2.7
 147,2050,2.7
 149,1961,2.7
@@ -1778,6 +1811,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 149,2015,2.7
 149,2016,2.7
 149,2017,2.7
+149,2018,2.7
 149,2030,2.7
 149,2050,2.7
 15,1961,2.7
@@ -1876,6 +1910,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 150,2015,2.7
 150,2016,2.7
 150,2017,2.7
+150,2018,2.7
 150,2030,2.7
 150,2050,2.7
 153,1961,2.7
@@ -1931,6 +1966,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 153,2015,2.7
 153,2016,2.7
 153,2017,2.7
+153,2018,2.7
 153,2030,2.7
 153,2050,2.7
 154,1992,2.7
@@ -1959,6 +1995,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 154,2015,2.7
 154,2016,2.7
 154,2017,2.7
+154,2018,2.7
 154,2030,2.7
 154,2050,2.7
 156,1961,2.7
@@ -2018,6 +2055,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 156,2015,2.7
 156,2016,2.7
 156,2017,2.7
+156,2018,2.7
 156,2030,2.7
 156,2050,2.7
 158,1961,2.7
@@ -2077,6 +2115,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 158,2015,2.7
 158,2016,2.7
 158,2017,2.7
+158,2018,2.7
 158,2030,2.7
 158,2050,2.7
 159,1961,2.7
@@ -2136,6 +2175,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 159,2015,2.7
 159,2016,2.7
 159,2017,2.7
+159,2018,2.7
 159,2030,2.7
 159,2050,2.7
 16,1961,2.7
@@ -2195,6 +2235,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 16,2015,2.7
 16,2016,2.7
 16,2017,2.7
+16,2018,2.7
 16,2030,2.7
 16,2050,2.7
 162,1961,2.7
@@ -2254,6 +2295,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 162,2015,2.7
 162,2016,2.7
 162,2017,2.7
+162,2018,2.7
 162,2030,2.7
 162,2050,2.7
 165,1961,2.7
@@ -2313,6 +2355,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 165,2015,2.7
 165,2016,2.7
 165,2017,2.7
+165,2018,2.7
 165,2030,2.7
 165,2050,2.7
 167,1993,2.7
@@ -2340,6 +2383,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 167,2015,2.7
 167,2016,2.7
 167,2017,2.7
+167,2018,2.7
 167,2030,2.7
 167,2050,2.7
 169,1961,2.7
@@ -2399,6 +2443,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 169,2015,2.7
 169,2016,2.7
 169,2017,2.7
+169,2018,2.7
 169,2030,2.7
 169,2050,2.7
 170,1961,2.7
@@ -2458,6 +2503,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 170,2015,2.7
 170,2016,2.7
 170,2017,2.7
+170,2018,2.7
 170,2030,2.7
 170,2050,2.7
 173,1961,2.7
@@ -2517,6 +2563,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 173,2015,2.7
 173,2016,2.7
 173,2017,2.7
+173,2018,2.7
 173,2030,2.7
 173,2050,2.7
 174,1961,2.7
@@ -2576,6 +2623,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 174,2015,2.7
 174,2016,2.7
 174,2017,2.7
+174,2018,2.7
 174,2030,2.7
 174,2050,2.7
 178,1993,2.7
@@ -2603,6 +2651,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 178,2015,2.7
 178,2016,2.7
 178,2017,2.7
+178,2018,2.7
 178,2030,2.7
 178,2050,2.7
 179,1971,2.7
@@ -2651,6 +2700,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 179,2014,2.7
 179,2016,2.7
 179,2017,2.7
+179,2018,2.7
 179,2030,2.7
 179,2050,2.7
 18,1961,2.7
@@ -2710,6 +2760,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 18,2015,2.7
 18,2016,2.7
 18,2017,2.7
+18,2018,2.7
 18,2030,2.7
 18,2050,2.7
 181,1961,2.7
@@ -2769,6 +2820,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 181,2015,2.7
 181,2016,2.7
 181,2017,2.7
+181,2018,2.7
 181,2030,2.7
 181,2050,2.7
 183,1961,2.7
@@ -2828,6 +2880,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 183,2015,2.7
 183,2016,2.7
 183,2017,2.7
+183,2018,2.7
 183,2030,2.7
 183,2050,2.7
 184,1961,2.7
@@ -2887,6 +2940,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 184,2015,2.7
 184,2016,2.7
 184,2017,2.7
+184,2018,2.7
 184,2030,2.7
 184,2050,2.7
 185,1992,2.7
@@ -2915,6 +2969,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 185,2015,2.7
 185,2016,2.7
 185,2017,2.7
+185,2018,2.7
 185,2030,2.7
 185,2050,2.7
 186,1992,2.7
@@ -2988,6 +3043,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 19,2015,2.7
 19,2016,2.7
 19,2017,2.7
+19,2018,2.7
 19,2030,2.7
 19,2050,2.7
 194,1961,2.7
@@ -3047,6 +3103,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 194,2015,2.7
 194,2016,2.7
 194,2017,2.7
+194,2018,2.7
 194,2030,2.7
 194,2050,2.7
 198,1992,2.7
@@ -3075,6 +3132,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 198,2015,2.7
 198,2016,2.7
 198,2017,2.7
+198,2018,2.7
 198,2030,2.7
 198,2050,2.7
 199,1993,2.7
@@ -3102,6 +3160,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 199,2015,2.7
 199,2016,2.7
 199,2017,2.7
+199,2018,2.7
 199,2030,2.7
 199,2050,2.7
 2,1961,2.7
@@ -3161,6 +3220,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 2,2015,2.7
 2,2016,2.7
 2,2017,2.7
+2,2018,2.7
 2,2030,2.7
 2,2050,2.7
 20,1961,2.7
@@ -3261,6 +3321,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 201,2015,2.7
 201,2016,2.7
 201,2017,2.7
+201,2018,2.7
 201,2030,2.7
 201,2050,2.7
 202,1961,2.7
@@ -3320,6 +3381,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 202,2015,2.7
 202,2016,2.7
 202,2017,2.7
+202,2018,2.7
 202,2030,2.7
 202,2050,2.7
 203,1961,2.7
@@ -3379,6 +3441,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 203,2015,2.7
 203,2016,2.7
 203,2017,2.7
+203,2018,2.7
 203,2030,2.7
 203,2050,2.7
 206,1961,2.7
@@ -3458,6 +3521,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 208,2015,2.7
 208,2016,2.7
 208,2017,2.7
+208,2018,2.7
 208,2030,2.7
 208,2050,2.7
 209,1970,2.7
@@ -3508,6 +3572,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 209,2015,2.7
 209,2016,2.7
 209,2017,2.7
+209,2018,2.7
 209,2030,2.7
 209,2050,2.7
 21,1961,2.7
@@ -3567,6 +3632,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 21,2015,2.7
 21,2016,2.7
 21,2017,2.7
+21,2018,2.7
 21,2030,2.7
 21,2050,2.7
 210,1961,2.7
@@ -3626,6 +3692,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 210,2015,2.7
 210,2016,2.7
 210,2017,2.7
+210,2018,2.7
 210,2030,2.7
 210,2050,2.7
 211,1961,2.7
@@ -3685,6 +3752,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 211,2015,2.7
 211,2016,2.7
 211,2017,2.7
+211,2018,2.7
 211,2030,2.7
 211,2050,2.7
 212,1961,2.7
@@ -3744,6 +3812,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 212,2015,2.7
 212,2016,2.7
 212,2017,2.7
+212,2018,2.7
 212,2030,2.7
 212,2050,2.7
 213,1992,2.7
@@ -3772,6 +3841,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 213,2015,2.7
 213,2016,2.7
 213,2017,2.7
+213,2018,2.7
 213,2030,2.7
 213,2050,2.7
 214,1961,2.7
@@ -3831,6 +3901,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 214,2015,2.7
 214,2016,2.7
 214,2017,2.7
+214,2018,2.7
 214,2030,2.7
 214,2050,2.7
 215,1961,2.7
@@ -3890,6 +3961,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 215,2015,2.7
 215,2016,2.7
 215,2017,2.7
+215,2018,2.7
 215,2030,2.7
 215,2050,2.7
 216,1986,2.7
@@ -3924,6 +3996,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 216,2015,2.7
 216,2016,2.7
 216,2017,2.7
+216,2018,2.7
 216,2030,2.7
 216,2050,2.7
 221,1961,2.7
@@ -3983,6 +4056,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 221,2015,2.7
 221,2016,2.7
 221,2017,2.7
+221,2018,2.7
 221,2030,2.7
 221,2050,2.7
 222,1961,2.7
@@ -4042,6 +4116,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 222,2015,2.7
 222,2016,2.7
 222,2017,2.7
+222,2018,2.7
 222,2030,2.7
 222,2050,2.7
 223,1961,2.7
@@ -4101,6 +4176,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 223,2015,2.7
 223,2016,2.7
 223,2017,2.7
+223,2018,2.7
 223,2030,2.7
 223,2050,2.7
 225,1977,2.7
@@ -4135,15 +4211,6 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 225,2006,2.7
 225,2007,2.7
 225,2008,2.7
-225,2009,2.7
-225,2010,2.7
-225,2011,2.7
-225,2012,2.7
-225,2013,2.7
-225,2014,2.7
-225,2015,2.7
-225,2016,2.7
-225,2017,2.7
 225,2030,2.7
 225,2050,2.7
 226,1966,2.7
@@ -4198,6 +4265,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 226,2015,2.7
 226,2016,2.7
 226,2017,2.7
+226,2018,2.7
 226,2030,2.7
 226,2050,2.7
 228,1961,2.7
@@ -4288,6 +4356,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 229,2015,2.7
 229,2016,2.7
 229,2017,2.7
+229,2018,2.7
 229,2030,2.7
 229,2050,2.7
 230,1992,2.7
@@ -4316,6 +4385,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 230,2015,2.7
 230,2016,2.7
 230,2017,2.7
+230,2018,2.7
 230,2030,2.7
 230,2050,2.7
 231,1961,2.7
@@ -4375,6 +4445,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 231,2015,2.7
 231,2016,2.7
 231,2017,2.7
+231,2018,2.7
 231,2030,2.7
 231,2050,2.7
 234,1961,2.7
@@ -4434,6 +4505,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 234,2015,2.7
 234,2016,2.7
 234,2017,2.7
+234,2018,2.7
 234,2030,2.7
 234,2050,2.7
 235,1992,2.7
@@ -4462,6 +4534,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 235,2015,2.7
 235,2016,2.7
 235,2017,2.7
+235,2018,2.7
 235,2030,2.7
 235,2050,2.7
 236,1961,2.7
@@ -4521,6 +4594,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 236,2015,2.7
 236,2016,2.7
 236,2017,2.7
+236,2018,2.7
 236,2030,2.7
 236,2050,2.7
 238,1993,2.7
@@ -4548,6 +4622,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 238,2015,2.7
 238,2016,2.7
 238,2017,2.7
+238,2018,2.7
 238,2030,2.7
 238,2050,2.7
 248,1961,2.7
@@ -4638,6 +4713,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 249,2015,2.7
 249,2016,2.7
 249,2017,2.7
+249,2018,2.7
 249,2030,2.7
 249,2050,2.7
 250,1961,2.7
@@ -4697,6 +4773,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 250,2015,2.7
 250,2016,2.7
 250,2017,2.7
+250,2018,2.7
 250,2030,2.7
 250,2050,2.7
 251,1961,2.7
@@ -4756,6 +4833,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 251,2015,2.7
 251,2016,2.7
 251,2017,2.7
+251,2018,2.7
 251,2030,2.7
 251,2050,2.7
 255,2000,2.7
@@ -4776,6 +4854,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 255,2015,2.7
 255,2016,2.7
 255,2017,2.7
+255,2018,2.7
 255,2030,2.7
 255,2050,2.7
 256,2000,2.7
@@ -4796,6 +4875,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 256,2015,2.7
 256,2016,2.7
 256,2017,2.7
+256,2018,2.7
 256,2030,2.7
 256,2050,2.7
 27,1961,2.7
@@ -4855,6 +4935,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 27,2015,2.7
 27,2016,2.7
 27,2017,2.7
+27,2018,2.7
 27,2030,2.7
 27,2050,2.7
 272,2006,2.7
@@ -4869,6 +4950,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 272,2015,2.7
 272,2016,2.7
 272,2017,2.7
+272,2018,2.7
 272,2030,2.7
 272,2050,2.7
 273,2006,2.7
@@ -4883,6 +4965,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 273,2015,2.7
 273,2016,2.7
 273,2017,2.7
+273,2018,2.7
 273,2030,2.7
 273,2050,2.7
 276,2012,2.7
@@ -4891,6 +4974,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 276,2015,2.7
 276,2016,2.7
 276,2017,2.7
+276,2018,2.7
 28,1961,2.7
 28,1962,2.7
 28,1963,2.7
@@ -4948,6 +5032,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 28,2015,2.7
 28,2016,2.7
 28,2017,2.7
+28,2018,2.7
 28,2030,2.7
 28,2050,2.7
 29,1961,2.7
@@ -5007,6 +5092,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 29,2015,2.7
 29,2016,2.7
 29,2017,2.7
+29,2018,2.7
 29,2030,2.7
 29,2050,2.7
 299,1994,2.7
@@ -5033,6 +5119,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 299,2015,2.7
 299,2016,2.7
 299,2017,2.7
+299,2018,2.7
 299,2030,2.7
 299,2050,2.7
 3,1961,2.7
@@ -5092,6 +5179,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 3,2015,2.7
 3,2016,2.7
 3,2017,2.7
+3,2018,2.7
 3,2030,2.7
 3,2050,2.7
 32,1976,2.7
@@ -5136,6 +5224,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 32,2015,2.7
 32,2016,2.7
 32,2017,2.7
+32,2018,2.7
 32,2030,2.7
 32,2050,2.7
 33,1961,2.7
@@ -5195,6 +5284,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 33,2015,2.7
 33,2016,2.7
 33,2017,2.7
+33,2018,2.7
 33,2030,2.7
 33,2050,2.7
 351,1961,2.7
@@ -5254,6 +5344,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 351,2015,2.7
 351,2016,2.7
 351,2017,2.7
+351,2018,2.7
 351,2030,2.7
 351,2050,2.7
 39,1961,2.7
@@ -5312,6 +5403,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 39,2015,2.7
 39,2016,2.7
 39,2017,2.7
+39,2018,2.7
 39,2030,2.7
 39,2050,2.7
 4,1961,2.7
@@ -5371,6 +5463,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 4,2015,2.7
 4,2016,2.7
 4,2017,2.7
+4,2018,2.7
 4,2030,2.7
 4,2050,2.7
 40,1961,2.7
@@ -5430,6 +5523,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 40,2015,2.7
 40,2016,2.7
 40,2017,2.7
+40,2018,2.7
 40,2030,2.7
 40,2050,2.7
 41,1961,2.7
@@ -5489,6 +5583,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 41,2015,2.7
 41,2016,2.7
 41,2017,2.7
+41,2018,2.7
 41,2030,2.7
 41,2050,2.7
 44,1961,2.7
@@ -5548,6 +5643,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 44,2015,2.7
 44,2016,2.7
 44,2017,2.7
+44,2018,2.7
 44,2030,2.7
 44,2050,2.7
 50,1961,2.7
@@ -5607,6 +5703,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 50,2015,2.7
 50,2016,2.7
 50,2017,2.7
+50,2018,2.7
 50,2030,2.7
 50,2050,2.7
 51,1961,2.7
@@ -5667,6 +5764,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 52,2015,2.7
 52,2016,2.7
 52,2017,2.7
+52,2018,2.7
 52,2030,2.7
 52,2050,2.7
 54,1961,2.7
@@ -5726,6 +5824,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 54,2015,2.7
 54,2016,2.7
 54,2017,2.7
+54,2018,2.7
 54,2030,2.7
 54,2050,2.7
 57,1992,2.7
@@ -5754,6 +5853,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 57,2015,2.7
 57,2016,2.7
 57,2017,2.7
+57,2018,2.7
 57,2030,2.7
 57,2050,2.7
 58,1961,2.7
@@ -5813,6 +5913,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 58,2015,2.7
 58,2016,2.7
 58,2017,2.7
+58,2018,2.7
 58,2030,2.7
 58,2050,2.7
 59,1961,2.7
@@ -5872,6 +5973,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 59,2015,2.7
 59,2016,2.7
 59,2017,2.7
+59,2018,2.7
 59,2030,2.7
 59,2050,2.7
 62,1961,2.7
@@ -5932,6 +6034,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 63,2015,2.7
 63,2016,2.7
 63,2017,2.7
+63,2018,2.7
 63,2030,2.7
 63,2050,2.7
 67,1961,2.7
@@ -5991,6 +6094,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 67,2015,2.7
 67,2016,2.7
 67,2017,2.7
+67,2018,2.7
 67,2030,2.7
 67,2050,2.7
 68,1961,2.7
@@ -6050,6 +6154,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 68,2015,2.7
 68,2016,2.7
 68,2017,2.7
+68,2018,2.7
 68,2030,2.7
 68,2050,2.7
 7,1961,2.7
@@ -6109,6 +6214,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 7,2015,2.7
 7,2016,2.7
 7,2017,2.7
+7,2018,2.7
 7,2030,2.7
 7,2050,2.7
 73,1992,2.7
@@ -6137,6 +6243,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 73,2015,2.7
 73,2016,2.7
 73,2017,2.7
+73,2018,2.7
 73,2030,2.7
 73,2050,2.7
 79,1961,2.7
@@ -6196,6 +6303,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 79,2015,2.7
 79,2016,2.7
 79,2017,2.7
+79,2018,2.7
 79,2030,2.7
 79,2050,2.7
 80,1992,2.7
@@ -6224,6 +6332,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 80,2015,2.7
 80,2016,2.7
 80,2017,2.7
+80,2018,2.7
 80,2030,2.7
 80,2050,2.7
 84,1961,2.7
@@ -6283,6 +6392,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 84,2015,2.7
 84,2016,2.7
 84,2017,2.7
+84,2018,2.7
 84,2030,2.7
 84,2050,2.7
 89,1961,2.7
@@ -6342,6 +6452,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 89,2015,2.7
 89,2016,2.7
 89,2017,2.7
+89,2018,2.7
 89,2030,2.7
 89,2050,2.7
 9,1961,2.7
@@ -6401,6 +6512,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 9,2015,2.7
 9,2016,2.7
 9,2017,2.7
+9,2018,2.7
 9,2030,2.7
 9,2050,2.7
 95,1961,2.7
@@ -6460,6 +6572,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 95,2015,2.7
 95,2016,2.7
 95,2017,2.7
+95,2018,2.7
 95,2030,2.7
 95,2050,2.7
 97,1961,2.7
@@ -6519,6 +6632,7 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 97,2015,2.7
 97,2016,2.7
 97,2017,2.7
+97,2018,2.7
 97,2030,2.7
 97,2050,2.7
 98,1992,2.7
@@ -6547,5 +6661,6 @@ geo,year,wheat_implied_emission_factor_for_ch4_burning_crop_residues_eab
 98,2015,2.7
 98,2016,2.7
 98,2017,2.7
+98,2018,2.7
 98,2030,2.7
 98,2050,2.7

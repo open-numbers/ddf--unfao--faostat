@@ -143,6 +143,7 @@ geo,year,offals_edible_goats_import_quantity_tcl
 5000,2015,0
 5000,2017,0
 5000,2018,30
+5000,2019,29
 5200,1961,0
 5200,1962,0
 5200,1963,0
@@ -200,6 +201,7 @@ geo,year,offals_edible_goats_import_quantity_tcl
 5200,2015,0
 5200,2017,0
 5200,2018,30
+5200,2019,29
 5204,2005,1
 5204,2006,0
 5204,2007,0
@@ -266,6 +268,7 @@ geo,year,offals_edible_goats_import_quantity_tcl
 5206,2015,0
 5206,2017,0
 5206,2018,30
+5206,2019,29
 5300,2000,0
 5300,2001,3
 5300,2002,0
@@ -373,6 +376,7 @@ geo,year,offals_edible_goats_import_quantity_tcl
 5803,2015,0
 5803,2017,0
 5803,2018,30
+5803,2019,29
 5815,2000,0
 5815,2001,3
 5815,2002,0
@@ -444,6 +448,7 @@ geo,year,offals_edible_goats_import_quantity_tcl
 5817,2015,0
 5817,2017,0
 5817,2018,30
+5817,2019,29
 8,2011,0
 8,2012,0
 8,2013,0
@@ -451,3 +456,4 @@ geo,year,offals_edible_goats_import_quantity_tcl
 8,2015,0
 8,2017,0
 8,2018,30
+8,2019,29

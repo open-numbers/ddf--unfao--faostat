@@ -25,6 +25,7 @@ geo,year,milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2
 102,2016,28497700
 102,2017,29029800
 102,2018,33894700
+102,2019,42313000
 106,1991,315
 106,1992,315
 106,1993,322.3
@@ -57,6 +58,7 @@ geo,year,milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2
 149,2016,53557.5
 149,2017,56931.6
 149,2018,61020
+149,2019,64220
 16,1991,8500
 16,1992,9000
 16,1993,9000
@@ -110,6 +112,7 @@ geo,year,milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2
 223,2016,3557.4
 223,2017,3969.8
 223,2018,4425
+223,2019,5085.5
 27,1998,643.6
 27,1999,512
 27,2000,667
@@ -131,6 +134,7 @@ geo,year,milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2
 27,2016,1202
 27,2017,1270.8
 27,2018,1329.6
+27,2019,1212.7
 28,1991,7655
 28,1992,8176
 28,1993,10282
@@ -175,6 +179,7 @@ geo,year,milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2
 38,2016,73000
 38,2017,77475.2
 38,2018,79200
+38,2019,81252.1
 52,1995,174
 52,1996,182
 52,1997,190
@@ -199,6 +204,7 @@ geo,year,milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2
 52,2016,637
 52,2017,694
 52,2018,700
+52,2019,770
 59,1991,1060
 59,1992,1110
 59,1993,1155
@@ -226,4 +232,5 @@ geo,year,milk_whole_fresh_buffalo_producer_price_slc_tonne_pea2
 59,2015,5570
 59,2016,5790
 59,2017,7527
+59,2018,8360
 84,2005,392.4

@@ -27,6 +27,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 10,2016,1590
 10,2017,1760
 10,2018,2148
+10,2019,2208
 102,1995,387800
 102,1996,506900
 102,1997,407300
@@ -51,6 +52,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 102,2016,9181400
 102,2017,10546000
 102,2018,20474600
+102,2019,18919000
 103,2011,937000
 103,2012,951000
 103,2013,963000
@@ -58,6 +60,8 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 103,2015,876000
 103,2016,792000
 103,2017,843000
+103,2018,867000
+103,2019,874000
 105,1993,1139
 105,1994,1663
 105,1995,1912
@@ -84,6 +88,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 105,2016,3257
 105,2017,3385
 105,2018,3092
+105,2019,2791
 106,1991,395.2
 106,1992,337.7
 106,1993,295.9
@@ -127,6 +132,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 110,2016,260800
 110,2017,267400
 110,2018,293700
+110,2019,258300
 112,1991,179
 112,1992,160
 112,1993,161
@@ -193,6 +199,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 121,2016,1915000
 121,2017,1943000
 121,2018,1948000
+121,2019,1878000
 131,2006,1800
 131,2007,1710
 131,2008,2250
@@ -222,6 +229,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 134,2016,1109.9
 134,2017,1177.6
 134,2018,1274.7
+134,2019,1339.7
 138,1991,299
 138,1992,563
 138,1993,505
@@ -250,6 +258,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 138,2016,2202
 138,2017,2383.5
 138,2018,2711.1
+138,2019,3050
 143,2000,2630
 143,2001,2820
 143,2002,2620
@@ -267,8 +276,9 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 143,2014,2680
 143,2015,2960
 143,2016,3590
-143,2017,2990
-143,2018,2670
+143,2017,1589
+143,2018,1421
+143,2019,1610
 144,1993,816
 144,1994,1148
 144,1995,1200
@@ -308,6 +318,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 169,2016,293396
 169,2017,313264
 169,2018,285656
+169,2019,1916342.9
 170,1991,110
 170,1992,260
 170,1993,400
@@ -335,7 +346,8 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 170,2015,1122
 170,2016,1078
 170,2017,1060
-170,2018,950.2
+170,2018,950.1
+170,2019,1132.8
 171,1992,9860
 171,1993,10270
 171,1994,9400
@@ -363,6 +375,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 171,2016,13320
 171,2017,13900
 171,2018,13850
+171,2019,14220
 174,1991,395.6
 174,1992,480
 174,1993,510.5
@@ -387,10 +400,11 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 174,2012,526.9
 174,2013,635.6
 174,2014,624.4
-174,2015,613
-174,2016,801.4
-174,2017,810.2
+174,2015,615.6
+174,2016,804.1
+174,2017,821.7
 174,2018,849.6
+174,2019,837.6
 189,1998,1390
 189,1999,1560
 189,2000,1190
@@ -402,6 +416,9 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 189,2006,1810
 189,2007,1910
 189,2008,1940
+189,2017,3430
+189,2018,3780
+189,2019,3500
 19,1995,1587.8
 19,1996,1725.6
 19,1997,1783.3
@@ -428,6 +445,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 191,2014,4708
 191,2015,5192
 191,2016,4499
+194,2019,9190
 202,1991,986
 202,1992,1039
 202,1993,1025
@@ -482,6 +500,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 203,2016,236.4
 203,2017,279.2
 203,2018,261.8
+203,2019,308.4
 206,2002,1250
 207,1999,445.5
 207,2000,644.5
@@ -503,6 +522,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 207,2016,4425
 207,2017,10130
 207,2018,12930
+207,2019,12000
 21,1991,0
 21,1992,0.3
 21,1993,5.2
@@ -540,6 +560,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 216,2016,46670
 216,2017,34240
 216,2018,18380
+216,2019,28440
 222,1991,326
 222,1992,399
 222,1993,373
@@ -594,6 +615,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 223,2016,627.7
 223,2017,730.1
 223,2018,817.1
+223,2019,886
 231,1991,446
 231,1992,397
 231,1993,336
@@ -620,7 +642,9 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 231,2014,725
 231,2015,489
 231,2016,459
-231,2017,488
+231,2017,608
+231,2018,790
+231,2019,768
 234,1991,617
 234,1992,774.4
 234,1993,858
@@ -646,6 +670,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 234,2016,14747.5
 234,2017,15249
 234,2018,20104.2
+234,2019,17255
 236,1995,35.9
 236,1996,68.6
 236,1997,408.6
@@ -686,6 +711,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 249,2015,355000
 249,2016,316667
 249,2017,472500
+249,2018,466173.2
 26,1995,2540
 26,1996,2540
 26,1997,2610
@@ -712,6 +738,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 3,2016,55274.2
 3,2017,61623.6
 3,2018,51674.3
+3,2019,53828
 351,2008,1485
 351,2009,1520
 351,2010,2100
@@ -743,12 +770,14 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 40,2016,469157.5
 40,2017,563359.2
 40,2018,523836.7
+40,2019,568382.5
 41,2008,1485
 41,2009,1520
 41,2010,2100
 41,2011,3877
 41,2012,3400
 41,2013,4500
+44,2019,636471.6
 46,1996,97947
 46,1997,107917
 46,1998,119167
@@ -804,8 +833,9 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 50,2014,308
 50,2015,507
 50,2016,298
-50,2017,1080
-50,2018,295
+50,2017,347
+50,2018,308.1
+50,2019,305
 52,2000,284
 52,2001,340
 52,2002,409
@@ -825,6 +855,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 52,2016,800
 52,2017,750
 52,2018,630
+52,2019,630
 58,1991,7.4
 58,1992,10.5
 58,1993,9.1
@@ -866,6 +897,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 80,2016,675
 80,2017,1306
 80,2018,1038
+80,2019,1194
 84,1991,182.4
 84,1992,186.2
 84,1993,205.1
@@ -894,6 +926,7 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 84,2016,392.8
 84,2017,466.1
 84,2018,432.3
+84,2019,481.9
 9,1991,295
 9,1992,310
 9,1993,380
@@ -932,4 +965,5 @@ geo,year,tangerines_mandarins_clementines_satsumas_producer_price_slc_tonne_pea2
 98,2015,2847.1
 98,2016,1733
 98,2017,3464.7
-98,2018,2016.7
+98,2018,2016.8
+98,2019,2313.8
