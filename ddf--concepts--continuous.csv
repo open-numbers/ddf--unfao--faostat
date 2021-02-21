@@ -10239,6 +10239,7 @@ Sheep and Goat Meat - Yield/Carcass Weight,sheep_and_goat_meat_yield_carcass_wei
 "Skins, sheep, fresh - Yield",skins_sheep_fresh_yield_ple,hg/An,measure
 "Snails, not sea - Production",snails_not_sea_production_ple,tonnes,measure
 "Wool, greasy - Production",wool_greasy_production_ple,tonnes,measure
+"Wool, greasy - Yield",wool_greasy_yield_ple,hg,measure
 Butter and Ghee - Production,butter_and_ghee_production_ple1,tonnes,measure
 "Butter and ghee, sheep milk - Production",butter_and_ghee_sheep_milk_production_ple1,tonnes,measure
 "Butter, buffalo milk - Production",butter_buffalo_milk_production_ple1,tonnes,measure

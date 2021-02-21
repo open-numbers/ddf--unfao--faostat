@@ -98,7 +98,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 62,Ethiopia PDR,1992,230,,,,TRUE,FALSE,"5000,5100,5101,5801,5815,5817,5849"
 5400,Europe,,150,,,,FALSE,TRUE,
 5707,European Union (27),,,,,,FALSE,TRUE,
-5706,European Union (28),,097,,,,FALSE,TRUE,
+5706,European Union (28),,,,,,FALSE,TRUE,
 65,Falkland Islands (Malvinas),,238,FK,FLK,,TRUE,FALSE,"5000,5200,5207,5848"
 64,Faroe Islands,,234,FO,FRO,,TRUE,FALSE,"5000,5400,5402,5848"
 66,Fiji,,242,FJ,FJI,,TRUE,FALSE,"5000,5500,5502,5803,5807,5849,9011"
