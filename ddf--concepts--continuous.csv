@@ -19399,16 +19399,36 @@ Yoghurt - Import Value,yoghurt_import_value_tcl,1000 US$,measure
 "Yoghurt, concentrated or not - Export Value",yoghurt_concentrated_or_not_export_value_tcl,1000 US$,measure
 "Yoghurt, concentrated or not - Import Quantity",yoghurt_concentrated_or_not_import_quantity_tcl,tonnes,measure
 "Yoghurt, concentrated or not - Import Value",yoghurt_concentrated_or_not_import_value_tcl,1000 US$,measure
-"Agricult.Products, Total - Export Quantity Index (2014-2016 = 100)",agricult_products_total_export_quantity_index_2014_2016_100_tie,index,measure
-"Agricult.Products, Total - Export Unit/Value Index (2014-2016 = 100)",agricult_products_total_export_unit_value_index_2014_2016_100_tie,index,measure
-"Agricult.Products, Total - Export Value Base Price",agricult_products_total_export_value_base_price_tie,1000 $,measure
-"Agricult.Products, Total - Export Value Base Quantity",agricult_products_total_export_value_base_quantity_tie,1000 $,measure
-"Agricult.Products, Total - Export Value Index (2014-2016 = 100)",agricult_products_total_export_value_index_2014_2016_100_tie,index,measure
-"Agricult.Products, Total - Import Quantity Index (2014-2016 = 100)",agricult_products_total_import_quantity_index_2014_2016_100_tie,index,measure
-"Agricult.Products, Total - Import Unit/Value Index (2014-2016 = 100)",agricult_products_total_import_unit_value_index_2014_2016_100_tie,index,measure
-"Agricult.Products, Total - Import Value Base Period Price",agricult_products_total_import_value_base_period_price_tie,1000 $,measure
-"Agricult.Products, Total - Import Value Base Period Quantity",agricult_products_total_import_value_base_period_quantity_tie,1000 $,measure
-"Agricult.Products, Total - Import Value Index (2014-2016 = 100)",agricult_products_total_import_value_index_2014_2016_100_tie,index,measure
+Agricultural Products - Export Quantity Index (2014-2016 = 100),agricultural_products_export_quantity_index_2014_2016_100_tie,index,measure
+Agricultural Products - Export Unit/Value Index (2014-2016 = 100),agricultural_products_export_unit_value_index_2014_2016_100_tie,index,measure
+Agricultural Products - Export Value Base Price,agricultural_products_export_value_base_price_tie,1000 $,measure
+Agricultural Products - Export Value Base Quantity,agricultural_products_export_value_base_quantity_tie,1000 $,measure
+Agricultural Products - Export Value Index (2014-2016 = 100),agricultural_products_export_value_index_2014_2016_100_tie,index,measure
+Agricultural Products - Import Quantity Index (2014-2016 = 100),agricultural_products_import_quantity_index_2014_2016_100_tie,index,measure
+Agricultural Products - Import Unit/Value Index (2014-2016 = 100),agricultural_products_import_unit_value_index_2014_2016_100_tie,index,measure
+Agricultural Products - Import Value Base Period Price,agricultural_products_import_value_base_period_price_tie,1000 $,measure
+Agricultural Products - Import Value Base Period Quantity,agricultural_products_import_value_base_period_quantity_tie,1000 $,measure
+Agricultural Products - Import Value Index (2014-2016 = 100),agricultural_products_import_value_index_2014_2016_100_tie,index,measure
+Alcoholic Beverages - Export Quantity Index (2014-2016 = 100),alcoholic_beverages_export_quantity_index_2014_2016_100_tie,index,measure
+Alcoholic Beverages - Export Unit/Value Index (2014-2016 = 100),alcoholic_beverages_export_unit_value_index_2014_2016_100_tie,index,measure
+Alcoholic Beverages - Export Value Base Price,alcoholic_beverages_export_value_base_price_tie,1000 $,measure
+Alcoholic Beverages - Export Value Base Quantity,alcoholic_beverages_export_value_base_quantity_tie,1000 $,measure
+Alcoholic Beverages - Export Value Index (2014-2016 = 100),alcoholic_beverages_export_value_index_2014_2016_100_tie,index,measure
+Alcoholic Beverages - Import Quantity Index (2014-2016 = 100),alcoholic_beverages_import_quantity_index_2014_2016_100_tie,index,measure
+Alcoholic Beverages - Import Unit/Value Index (2014-2016 = 100),alcoholic_beverages_import_unit_value_index_2014_2016_100_tie,index,measure
+Alcoholic Beverages - Import Value Base Period Price,alcoholic_beverages_import_value_base_period_price_tie,1000 $,measure
+Alcoholic Beverages - Import Value Base Period Quantity,alcoholic_beverages_import_value_base_period_quantity_tie,1000 $,measure
+Alcoholic Beverages - Import Value Index (2014-2016 = 100),alcoholic_beverages_import_value_index_2014_2016_100_tie,index,measure
+Animal Fats and Oils (excl. Butter) - Export Quantity Index (2014-2016 = 100),animal_fats_and_oils_excl_butter_export_quantity_index_2014_2016_100_tie,index,measure
+Animal Fats and Oils (excl. Butter) - Export Unit/Value Index (2014-2016 = 100),animal_fats_and_oils_excl_butter_export_unit_value_index_2014_2016_100_tie,index,measure
+Animal Fats and Oils (excl. Butter) - Export Value Base Price,animal_fats_and_oils_excl_butter_export_value_base_price_tie,1000 $,measure
+Animal Fats and Oils (excl. Butter) - Export Value Base Quantity,animal_fats_and_oils_excl_butter_export_value_base_quantity_tie,1000 $,measure
+Animal Fats and Oils (excl. Butter) - Export Value Index (2014-2016 = 100),animal_fats_and_oils_excl_butter_export_value_index_2014_2016_100_tie,index,measure
+Animal Fats and Oils (excl. Butter) - Import Quantity Index (2014-2016 = 100),animal_fats_and_oils_excl_butter_import_quantity_index_2014_2016_100_tie,index,measure
+Animal Fats and Oils (excl. Butter) - Import Unit/Value Index (2014-2016 = 100),animal_fats_and_oils_excl_butter_import_unit_value_index_2014_2016_100_tie,index,measure
+Animal Fats and Oils (excl. Butter) - Import Value Base Period Price,animal_fats_and_oils_excl_butter_import_value_base_period_price_tie,1000 $,measure
+Animal Fats and Oils (excl. Butter) - Import Value Base Period Quantity,animal_fats_and_oils_excl_butter_import_value_base_period_quantity_tie,1000 $,measure
+Animal Fats and Oils (excl. Butter) - Import Value Index (2014-2016 = 100),animal_fats_and_oils_excl_butter_import_value_index_2014_2016_100_tie,index,measure
 Apples - Export Quantity Index (2014-2016 = 100),apples_export_quantity_index_2014_2016_100_tie,index,measure
 Apples - Export Unit/Value Index (2014-2016 = 100),apples_export_unit_value_index_2014_2016_100_tie,index,measure
 Apples - Export Value Base Price,apples_export_value_base_price_tie,1000 $,measure
@@ -19449,6 +19469,36 @@ Barley - Import Unit/Value Index (2014-2016 = 100),barley_import_unit_value_inde
 Barley - Import Value Base Period Price,barley_import_value_base_period_price_tie,1000 $,measure
 Barley - Import Value Base Period Quantity,barley_import_value_base_period_quantity_tie,1000 $,measure
 Barley - Import Value Index (2014-2016 = 100),barley_import_value_index_2014_2016_100_tie,index,measure
+Beer of barley - Export Quantity Index (2014-2016 = 100),beer_of_barley_export_quantity_index_2014_2016_100_tie,index,measure
+Beer of barley - Export Unit/Value Index (2014-2016 = 100),beer_of_barley_export_unit_value_index_2014_2016_100_tie,index,measure
+Beer of barley - Export Value Base Price,beer_of_barley_export_value_base_price_tie,1000 $,measure
+Beer of barley - Export Value Base Quantity,beer_of_barley_export_value_base_quantity_tie,1000 $,measure
+Beer of barley - Export Value Index (2014-2016 = 100),beer_of_barley_export_value_index_2014_2016_100_tie,index,measure
+Beer of barley - Import Quantity Index (2014-2016 = 100),beer_of_barley_import_quantity_index_2014_2016_100_tie,index,measure
+Beer of barley - Import Unit/Value Index (2014-2016 = 100),beer_of_barley_import_unit_value_index_2014_2016_100_tie,index,measure
+Beer of barley - Import Value Base Period Price,beer_of_barley_import_value_base_period_price_tie,1000 $,measure
+Beer of barley - Import Value Base Period Quantity,beer_of_barley_import_value_base_period_quantity_tie,1000 $,measure
+Beer of barley - Import Value Index (2014-2016 = 100),beer_of_barley_import_value_index_2014_2016_100_tie,index,measure
+Beverages - Export Quantity Index (2014-2016 = 100),beverages_export_quantity_index_2014_2016_100_tie,index,measure
+Beverages - Export Unit/Value Index (2014-2016 = 100),beverages_export_unit_value_index_2014_2016_100_tie,index,measure
+Beverages - Export Value Base Price,beverages_export_value_base_price_tie,1000 $,measure
+Beverages - Export Value Base Quantity,beverages_export_value_base_quantity_tie,1000 $,measure
+Beverages - Export Value Index (2014-2016 = 100),beverages_export_value_index_2014_2016_100_tie,index,measure
+Beverages - Import Quantity Index (2014-2016 = 100),beverages_import_quantity_index_2014_2016_100_tie,index,measure
+Beverages - Import Unit/Value Index (2014-2016 = 100),beverages_import_unit_value_index_2014_2016_100_tie,index,measure
+Beverages - Import Value Base Period Price,beverages_import_value_base_period_price_tie,1000 $,measure
+Beverages - Import Value Base Period Quantity,beverages_import_value_base_period_quantity_tie,1000 $,measure
+Beverages - Import Value Index (2014-2016 = 100),beverages_import_value_index_2014_2016_100_tie,index,measure
+Bovine Meat - Export Quantity Index (2014-2016 = 100),bovine_meat_export_quantity_index_2014_2016_100_tie,index,measure
+Bovine Meat - Export Unit/Value Index (2014-2016 = 100),bovine_meat_export_unit_value_index_2014_2016_100_tie,index,measure
+Bovine Meat - Export Value Base Price,bovine_meat_export_value_base_price_tie,1000 $,measure
+Bovine Meat - Export Value Base Quantity,bovine_meat_export_value_base_quantity_tie,1000 $,measure
+Bovine Meat - Export Value Index (2014-2016 = 100),bovine_meat_export_value_index_2014_2016_100_tie,index,measure
+Bovine Meat - Import Quantity Index (2014-2016 = 100),bovine_meat_import_quantity_index_2014_2016_100_tie,index,measure
+Bovine Meat - Import Unit/Value Index (2014-2016 = 100),bovine_meat_import_unit_value_index_2014_2016_100_tie,index,measure
+Bovine Meat - Import Value Base Period Price,bovine_meat_import_value_base_period_price_tie,1000 $,measure
+Bovine Meat - Import Value Base Period Quantity,bovine_meat_import_value_base_period_quantity_tie,1000 $,measure
+Bovine Meat - Import Value Index (2014-2016 = 100),bovine_meat_import_value_index_2014_2016_100_tie,index,measure
 "Butter, cow milk - Export Quantity Index (2014-2016 = 100)",butter_cow_milk_export_quantity_index_2014_2016_100_tie,index,measure
 "Butter, cow milk - Export Unit/Value Index (2014-2016 = 100)",butter_cow_milk_export_unit_value_index_2014_2016_100_tie,index,measure
 "Butter, cow milk - Export Value Base Price",butter_cow_milk_export_value_base_price_tie,1000 $,measure
@@ -19459,6 +19509,88 @@ Barley - Import Value Index (2014-2016 = 100),barley_import_value_index_2014_201
 "Butter, cow milk - Import Value Base Period Price",butter_cow_milk_import_value_base_period_price_tie,1000 $,measure
 "Butter, cow milk - Import Value Base Period Quantity",butter_cow_milk_import_value_base_period_quantity_tie,1000 $,measure
 "Butter, cow milk - Import Value Index (2014-2016 = 100)",butter_cow_milk_import_value_index_2014_2016_100_tie,index,measure
+"Cake, copra - Export Quantity Index (2014-2016 = 100)",cake_copra_export_quantity_index_2014_2016_100_tie,index,measure
+"Cake, copra - Export Unit/Value Index (2014-2016 = 100)",cake_copra_export_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, copra - Export Value Base Price",cake_copra_export_value_base_price_tie,1000 $,measure
+"Cake, copra - Export Value Base Quantity",cake_copra_export_value_base_quantity_tie,1000 $,measure
+"Cake, copra - Export Value Index (2014-2016 = 100)",cake_copra_export_value_index_2014_2016_100_tie,index,measure
+"Cake, copra - Import Quantity Index (2014-2016 = 100)",cake_copra_import_quantity_index_2014_2016_100_tie,index,measure
+"Cake, copra - Import Unit/Value Index (2014-2016 = 100)",cake_copra_import_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, copra - Import Value Base Period Price",cake_copra_import_value_base_period_price_tie,1000 $,measure
+"Cake, copra - Import Value Base Period Quantity",cake_copra_import_value_base_period_quantity_tie,1000 $,measure
+"Cake, copra - Import Value Index (2014-2016 = 100)",cake_copra_import_value_index_2014_2016_100_tie,index,measure
+"Cake, cottonseed - Export Quantity Index (2014-2016 = 100)",cake_cottonseed_export_quantity_index_2014_2016_100_tie,index,measure
+"Cake, cottonseed - Export Unit/Value Index (2014-2016 = 100)",cake_cottonseed_export_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, cottonseed - Export Value Base Price",cake_cottonseed_export_value_base_price_tie,1000 $,measure
+"Cake, cottonseed - Export Value Base Quantity",cake_cottonseed_export_value_base_quantity_tie,1000 $,measure
+"Cake, cottonseed - Export Value Index (2014-2016 = 100)",cake_cottonseed_export_value_index_2014_2016_100_tie,index,measure
+"Cake, cottonseed - Import Quantity Index (2014-2016 = 100)",cake_cottonseed_import_quantity_index_2014_2016_100_tie,index,measure
+"Cake, cottonseed - Import Unit/Value Index (2014-2016 = 100)",cake_cottonseed_import_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, cottonseed - Import Value Base Period Price",cake_cottonseed_import_value_base_period_price_tie,1000 $,measure
+"Cake, cottonseed - Import Value Base Period Quantity",cake_cottonseed_import_value_base_period_quantity_tie,1000 $,measure
+"Cake, cottonseed - Import Value Index (2014-2016 = 100)",cake_cottonseed_import_value_index_2014_2016_100_tie,index,measure
+"Cake, linseed - Export Quantity Index (2014-2016 = 100)",cake_linseed_export_quantity_index_2014_2016_100_tie,index,measure
+"Cake, linseed - Export Unit/Value Index (2014-2016 = 100)",cake_linseed_export_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, linseed - Export Value Base Price",cake_linseed_export_value_base_price_tie,1000 $,measure
+"Cake, linseed - Export Value Base Quantity",cake_linseed_export_value_base_quantity_tie,1000 $,measure
+"Cake, linseed - Export Value Index (2014-2016 = 100)",cake_linseed_export_value_index_2014_2016_100_tie,index,measure
+"Cake, linseed - Import Quantity Index (2014-2016 = 100)",cake_linseed_import_quantity_index_2014_2016_100_tie,index,measure
+"Cake, linseed - Import Unit/Value Index (2014-2016 = 100)",cake_linseed_import_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, linseed - Import Value Base Period Price",cake_linseed_import_value_base_period_price_tie,1000 $,measure
+"Cake, linseed - Import Value Base Period Quantity",cake_linseed_import_value_base_period_quantity_tie,1000 $,measure
+"Cake, linseed - Import Value Index (2014-2016 = 100)",cake_linseed_import_value_index_2014_2016_100_tie,index,measure
+"Cake, palm kernel - Export Quantity Index (2014-2016 = 100)",cake_palm_kernel_export_quantity_index_2014_2016_100_tie,index,measure
+"Cake, palm kernel - Export Unit/Value Index (2014-2016 = 100)",cake_palm_kernel_export_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, palm kernel - Export Value Base Price",cake_palm_kernel_export_value_base_price_tie,1000 $,measure
+"Cake, palm kernel - Export Value Base Quantity",cake_palm_kernel_export_value_base_quantity_tie,1000 $,measure
+"Cake, palm kernel - Export Value Index (2014-2016 = 100)",cake_palm_kernel_export_value_index_2014_2016_100_tie,index,measure
+"Cake, palm kernel - Import Quantity Index (2014-2016 = 100)",cake_palm_kernel_import_quantity_index_2014_2016_100_tie,index,measure
+"Cake, palm kernel - Import Unit/Value Index (2014-2016 = 100)",cake_palm_kernel_import_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, palm kernel - Import Value Base Period Price",cake_palm_kernel_import_value_base_period_price_tie,1000 $,measure
+"Cake, palm kernel - Import Value Base Period Quantity",cake_palm_kernel_import_value_base_period_quantity_tie,1000 $,measure
+"Cake, palm kernel - Import Value Index (2014-2016 = 100)",cake_palm_kernel_import_value_index_2014_2016_100_tie,index,measure
+"Cake, rapeseed - Export Quantity Index (2014-2016 = 100)",cake_rapeseed_export_quantity_index_2014_2016_100_tie,index,measure
+"Cake, rapeseed - Export Unit/Value Index (2014-2016 = 100)",cake_rapeseed_export_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, rapeseed - Export Value Base Price",cake_rapeseed_export_value_base_price_tie,1000 $,measure
+"Cake, rapeseed - Export Value Base Quantity",cake_rapeseed_export_value_base_quantity_tie,1000 $,measure
+"Cake, rapeseed - Export Value Index (2014-2016 = 100)",cake_rapeseed_export_value_index_2014_2016_100_tie,index,measure
+"Cake, rapeseed - Import Quantity Index (2014-2016 = 100)",cake_rapeseed_import_quantity_index_2014_2016_100_tie,index,measure
+"Cake, rapeseed - Import Unit/Value Index (2014-2016 = 100)",cake_rapeseed_import_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, rapeseed - Import Value Base Period Price",cake_rapeseed_import_value_base_period_price_tie,1000 $,measure
+"Cake, rapeseed - Import Value Base Period Quantity",cake_rapeseed_import_value_base_period_quantity_tie,1000 $,measure
+"Cake, rapeseed - Import Value Index (2014-2016 = 100)",cake_rapeseed_import_value_index_2014_2016_100_tie,index,measure
+"Cake, soybeans - Export Quantity Index (2014-2016 = 100)",cake_soybeans_export_quantity_index_2014_2016_100_tie,index,measure
+"Cake, soybeans - Export Unit/Value Index (2014-2016 = 100)",cake_soybeans_export_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, soybeans - Export Value Base Price",cake_soybeans_export_value_base_price_tie,1000 $,measure
+"Cake, soybeans - Export Value Base Quantity",cake_soybeans_export_value_base_quantity_tie,1000 $,measure
+"Cake, soybeans - Export Value Index (2014-2016 = 100)",cake_soybeans_export_value_index_2014_2016_100_tie,index,measure
+"Cake, soybeans - Import Quantity Index (2014-2016 = 100)",cake_soybeans_import_quantity_index_2014_2016_100_tie,index,measure
+"Cake, soybeans - Import Unit/Value Index (2014-2016 = 100)",cake_soybeans_import_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, soybeans - Import Value Base Period Price",cake_soybeans_import_value_base_period_price_tie,1000 $,measure
+"Cake, soybeans - Import Value Base Period Quantity",cake_soybeans_import_value_base_period_quantity_tie,1000 $,measure
+"Cake, soybeans - Import Value Index (2014-2016 = 100)",cake_soybeans_import_value_index_2014_2016_100_tie,index,measure
+"Cake, sunflower - Export Quantity Index (2014-2016 = 100)",cake_sunflower_export_quantity_index_2014_2016_100_tie,index,measure
+"Cake, sunflower - Export Unit/Value Index (2014-2016 = 100)",cake_sunflower_export_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, sunflower - Export Value Base Price",cake_sunflower_export_value_base_price_tie,1000 $,measure
+"Cake, sunflower - Export Value Base Quantity",cake_sunflower_export_value_base_quantity_tie,1000 $,measure
+"Cake, sunflower - Export Value Index (2014-2016 = 100)",cake_sunflower_export_value_index_2014_2016_100_tie,index,measure
+"Cake, sunflower - Import Quantity Index (2014-2016 = 100)",cake_sunflower_import_quantity_index_2014_2016_100_tie,index,measure
+"Cake, sunflower - Import Unit/Value Index (2014-2016 = 100)",cake_sunflower_import_unit_value_index_2014_2016_100_tie,index,measure
+"Cake, sunflower - Import Value Base Period Price",cake_sunflower_import_value_base_period_price_tie,1000 $,measure
+"Cake, sunflower - Import Value Base Period Quantity",cake_sunflower_import_value_base_period_quantity_tie,1000 $,measure
+"Cake, sunflower - Import Value Index (2014-2016 = 100)",cake_sunflower_import_value_index_2014_2016_100_tie,index,measure
+Cattle - Export Value Index (2014-2016 = 100),cattle_export_value_index_2014_2016_100_tie,index,measure
+Cattle - Import Value Index (2014-2016 = 100),cattle_import_value_index_2014_2016_100_tie,index,measure
+Cereal preparations - Export Quantity Index (2014-2016 = 100),cereal_preparations_export_quantity_index_2014_2016_100_tie,index,measure
+Cereal preparations - Export Unit/Value Index (2014-2016 = 100),cereal_preparations_export_unit_value_index_2014_2016_100_tie,index,measure
+Cereal preparations - Export Value Base Price,cereal_preparations_export_value_base_price_tie,1000 $,measure
+Cereal preparations - Export Value Base Quantity,cereal_preparations_export_value_base_quantity_tie,1000 $,measure
+Cereal preparations - Export Value Index (2014-2016 = 100),cereal_preparations_export_value_index_2014_2016_100_tie,index,measure
+Cereal preparations - Import Quantity Index (2014-2016 = 100),cereal_preparations_import_quantity_index_2014_2016_100_tie,index,measure
+Cereal preparations - Import Unit/Value Index (2014-2016 = 100),cereal_preparations_import_unit_value_index_2014_2016_100_tie,index,measure
+Cereal preparations - Import Value Base Period Price,cereal_preparations_import_value_base_period_price_tie,1000 $,measure
+Cereal preparations - Import Value Base Period Quantity,cereal_preparations_import_value_base_period_quantity_tie,1000 $,measure
+Cereal preparations - Import Value Index (2014-2016 = 100),cereal_preparations_import_value_index_2014_2016_100_tie,index,measure
 Cereal preparations nes - Export Quantity Index (2014-2016 = 100),cereal_preparations_nes_export_quantity_index_2014_2016_100_tie,index,measure
 Cereal preparations nes - Export Unit/Value Index (2014-2016 = 100),cereal_preparations_nes_export_unit_value_index_2014_2016_100_tie,index,measure
 Cereal preparations nes - Export Value Base Price,cereal_preparations_nes_export_value_base_price_tie,1000 $,measure
@@ -19469,6 +19601,26 @@ Cereal preparations nes - Import Unit/Value Index (2014-2016 = 100),cereal_prepa
 Cereal preparations nes - Import Value Base Period Price,cereal_preparations_nes_import_value_base_period_price_tie,1000 $,measure
 Cereal preparations nes - Import Value Base Period Quantity,cereal_preparations_nes_import_value_base_period_quantity_tie,1000 $,measure
 Cereal preparations nes - Import Value Index (2014-2016 = 100),cereal_preparations_nes_import_value_index_2014_2016_100_tie,index,measure
+Cereals - Export Quantity Index (2014-2016 = 100),cereals_export_quantity_index_2014_2016_100_tie,index,measure
+Cereals - Export Unit/Value Index (2014-2016 = 100),cereals_export_unit_value_index_2014_2016_100_tie,index,measure
+Cereals - Export Value Base Price,cereals_export_value_base_price_tie,1000 $,measure
+Cereals - Export Value Base Quantity,cereals_export_value_base_quantity_tie,1000 $,measure
+Cereals - Export Value Index (2014-2016 = 100),cereals_export_value_index_2014_2016_100_tie,index,measure
+Cereals - Import Quantity Index (2014-2016 = 100),cereals_import_quantity_index_2014_2016_100_tie,index,measure
+Cereals - Import Unit/Value Index (2014-2016 = 100),cereals_import_unit_value_index_2014_2016_100_tie,index,measure
+Cereals - Import Value Base Period Price,cereals_import_value_base_period_price_tie,1000 $,measure
+Cereals - Import Value Base Period Quantity,cereals_import_value_base_period_quantity_tie,1000 $,measure
+Cereals - Import Value Index (2014-2016 = 100),cereals_import_value_index_2014_2016_100_tie,index,measure
+Cereals and Preparations - Export Quantity Index (2014-2016 = 100),cereals_and_preparations_export_quantity_index_2014_2016_100_tie,index,measure
+Cereals and Preparations - Export Unit/Value Index (2014-2016 = 100),cereals_and_preparations_export_unit_value_index_2014_2016_100_tie,index,measure
+Cereals and Preparations - Export Value Base Price,cereals_and_preparations_export_value_base_price_tie,1000 $,measure
+Cereals and Preparations - Export Value Base Quantity,cereals_and_preparations_export_value_base_quantity_tie,1000 $,measure
+Cereals and Preparations - Export Value Index (2014-2016 = 100),cereals_and_preparations_export_value_index_2014_2016_100_tie,index,measure
+Cereals and Preparations - Import Quantity Index (2014-2016 = 100),cereals_and_preparations_import_quantity_index_2014_2016_100_tie,index,measure
+Cereals and Preparations - Import Unit/Value Index (2014-2016 = 100),cereals_and_preparations_import_unit_value_index_2014_2016_100_tie,index,measure
+Cereals and Preparations - Import Value Base Period Price,cereals_and_preparations_import_value_base_period_price_tie,1000 $,measure
+Cereals and Preparations - Import Value Base Period Quantity,cereals_and_preparations_import_value_base_period_quantity_tie,1000 $,measure
+Cereals and Preparations - Import Value Index (2014-2016 = 100),cereals_and_preparations_import_value_index_2014_2016_100_tie,index,measure
 "Cheese, whole cow milk - Export Quantity Index (2014-2016 = 100)",cheese_whole_cow_milk_export_quantity_index_2014_2016_100_tie,index,measure
 "Cheese, whole cow milk - Export Unit/Value Index (2014-2016 = 100)",cheese_whole_cow_milk_export_unit_value_index_2014_2016_100_tie,index,measure
 "Cheese, whole cow milk - Export Value Base Price",cheese_whole_cow_milk_export_value_base_price_tie,1000 $,measure
@@ -19559,6 +19711,26 @@ Coconuts - Import Value Index (2014-2016 = 100),coconuts_import_value_index_2014
 "Coconuts, desiccated - Import Value Base Period Price",coconuts_desiccated_import_value_base_period_price_tie,1000 $,measure
 "Coconuts, desiccated - Import Value Base Period Quantity",coconuts_desiccated_import_value_base_period_quantity_tie,1000 $,measure
 "Coconuts, desiccated - Import Value Index (2014-2016 = 100)",coconuts_desiccated_import_value_index_2014_2016_100_tie,index,measure
+"Coffee, extracts - Export Quantity Index (2014-2016 = 100)",coffee_extracts_export_quantity_index_2014_2016_100_tie,index,measure
+"Coffee, extracts - Export Unit/Value Index (2014-2016 = 100)",coffee_extracts_export_unit_value_index_2014_2016_100_tie,index,measure
+"Coffee, extracts - Export Value Base Price",coffee_extracts_export_value_base_price_tie,1000 $,measure
+"Coffee, extracts - Export Value Base Quantity",coffee_extracts_export_value_base_quantity_tie,1000 $,measure
+"Coffee, extracts - Export Value Index (2014-2016 = 100)",coffee_extracts_export_value_index_2014_2016_100_tie,index,measure
+"Coffee, extracts - Import Quantity Index (2014-2016 = 100)",coffee_extracts_import_quantity_index_2014_2016_100_tie,index,measure
+"Coffee, extracts - Import Unit/Value Index (2014-2016 = 100)",coffee_extracts_import_unit_value_index_2014_2016_100_tie,index,measure
+"Coffee, extracts - Import Value Base Period Price",coffee_extracts_import_value_base_period_price_tie,1000 $,measure
+"Coffee, extracts - Import Value Base Period Quantity",coffee_extracts_import_value_base_period_quantity_tie,1000 $,measure
+"Coffee, extracts - Import Value Index (2014-2016 = 100)",coffee_extracts_import_value_index_2014_2016_100_tie,index,measure
+"Coffee, green - Export Quantity Index (2014-2016 = 100)",coffee_green_export_quantity_index_2014_2016_100_tie,index,measure
+"Coffee, green - Export Unit/Value Index (2014-2016 = 100)",coffee_green_export_unit_value_index_2014_2016_100_tie,index,measure
+"Coffee, green - Export Value Base Price",coffee_green_export_value_base_price_tie,1000 $,measure
+"Coffee, green - Export Value Base Quantity",coffee_green_export_value_base_quantity_tie,1000 $,measure
+"Coffee, green - Export Value Index (2014-2016 = 100)",coffee_green_export_value_index_2014_2016_100_tie,index,measure
+"Coffee, green - Import Quantity Index (2014-2016 = 100)",coffee_green_import_quantity_index_2014_2016_100_tie,index,measure
+"Coffee, green - Import Unit/Value Index (2014-2016 = 100)",coffee_green_import_unit_value_index_2014_2016_100_tie,index,measure
+"Coffee, green - Import Value Base Period Price",coffee_green_import_value_base_period_price_tie,1000 $,measure
+"Coffee, green - Import Value Base Period Quantity",coffee_green_import_value_base_period_quantity_tie,1000 $,measure
+"Coffee, green - Import Value Index (2014-2016 = 100)",coffee_green_import_value_index_2014_2016_100_tie,index,measure
 Copra - Export Quantity Index (2014-2016 = 100),copra_export_quantity_index_2014_2016_100_tie,index,measure
 Copra - Export Unit/Value Index (2014-2016 = 100),copra_export_unit_value_index_2014_2016_100_tie,index,measure
 Copra - Export Value Base Price,copra_export_value_base_price_tie,1000 $,measure
@@ -19569,6 +19741,16 @@ Copra - Import Unit/Value Index (2014-2016 = 100),copra_import_unit_value_index_
 Copra - Import Value Base Period Price,copra_import_value_base_period_price_tie,1000 $,measure
 Copra - Import Value Base Period Quantity,copra_import_value_base_period_quantity_tie,1000 $,measure
 Copra - Import Value Index (2014-2016 = 100),copra_import_value_index_2014_2016_100_tie,index,measure
+Cotton lint - Export Quantity Index (2014-2016 = 100),cotton_lint_export_quantity_index_2014_2016_100_tie,index,measure
+Cotton lint - Export Unit/Value Index (2014-2016 = 100),cotton_lint_export_unit_value_index_2014_2016_100_tie,index,measure
+Cotton lint - Export Value Base Price,cotton_lint_export_value_base_price_tie,1000 $,measure
+Cotton lint - Export Value Base Quantity,cotton_lint_export_value_base_quantity_tie,1000 $,measure
+Cotton lint - Export Value Index (2014-2016 = 100),cotton_lint_export_value_index_2014_2016_100_tie,index,measure
+Cotton lint - Import Quantity Index (2014-2016 = 100),cotton_lint_import_quantity_index_2014_2016_100_tie,index,measure
+Cotton lint - Import Unit/Value Index (2014-2016 = 100),cotton_lint_import_unit_value_index_2014_2016_100_tie,index,measure
+Cotton lint - Import Value Base Period Price,cotton_lint_import_value_base_period_price_tie,1000 $,measure
+Cotton lint - Import Value Base Period Quantity,cotton_lint_import_value_base_period_quantity_tie,1000 $,measure
+Cotton lint - Import Value Index (2014-2016 = 100),cotton_lint_import_value_index_2014_2016_100_tie,index,measure
 Cottonseed - Export Quantity Index (2014-2016 = 100),cottonseed_export_quantity_index_2014_2016_100_tie,index,measure
 Cottonseed - Export Unit/Value Index (2014-2016 = 100),cottonseed_export_unit_value_index_2014_2016_100_tie,index,measure
 Cottonseed - Export Value Base Price,cottonseed_export_value_base_price_tie,1000 $,measure
@@ -19579,6 +19761,36 @@ Cottonseed - Import Unit/Value Index (2014-2016 = 100),cottonseed_import_unit_va
 Cottonseed - Import Value Base Period Price,cottonseed_import_value_base_period_price_tie,1000 $,measure
 Cottonseed - Import Value Base Period Quantity,cottonseed_import_value_base_period_quantity_tie,1000 $,measure
 Cottonseed - Import Value Index (2014-2016 = 100),cottonseed_import_value_index_2014_2016_100_tie,index,measure
+Crude Materials nes - Export Quantity Index (2014-2016 = 100),crude_materials_nes_export_quantity_index_2014_2016_100_tie,index,measure
+Crude Materials nes - Export Unit/Value Index (2014-2016 = 100),crude_materials_nes_export_unit_value_index_2014_2016_100_tie,index,measure
+Crude Materials nes - Export Value Base Price,crude_materials_nes_export_value_base_price_tie,1000 $,measure
+Crude Materials nes - Export Value Base Quantity,crude_materials_nes_export_value_base_quantity_tie,1000 $,measure
+Crude Materials nes - Export Value Index (2014-2016 = 100),crude_materials_nes_export_value_index_2014_2016_100_tie,index,measure
+Crude Materials nes - Import Quantity Index (2014-2016 = 100),crude_materials_nes_import_quantity_index_2014_2016_100_tie,index,measure
+Crude Materials nes - Import Unit/Value Index (2014-2016 = 100),crude_materials_nes_import_unit_value_index_2014_2016_100_tie,index,measure
+Crude Materials nes - Import Value Base Period Price,crude_materials_nes_import_value_base_period_price_tie,1000 $,measure
+Crude Materials nes - Import Value Base Period Quantity,crude_materials_nes_import_value_base_period_quantity_tie,1000 $,measure
+Crude Materials nes - Import Value Index (2014-2016 = 100),crude_materials_nes_import_value_index_2014_2016_100_tie,index,measure
+Dairy Products - Export Quantity Index (2014-2016 = 100),dairy_products_export_quantity_index_2014_2016_100_tie,index,measure
+Dairy Products - Export Unit/Value Index (2014-2016 = 100),dairy_products_export_unit_value_index_2014_2016_100_tie,index,measure
+Dairy Products - Export Value Base Price,dairy_products_export_value_base_price_tie,1000 $,measure
+Dairy Products - Export Value Base Quantity,dairy_products_export_value_base_quantity_tie,1000 $,measure
+Dairy Products - Export Value Index (2014-2016 = 100),dairy_products_export_value_index_2014_2016_100_tie,index,measure
+Dairy Products - Import Quantity Index (2014-2016 = 100),dairy_products_import_quantity_index_2014_2016_100_tie,index,measure
+Dairy Products - Import Unit/Value Index (2014-2016 = 100),dairy_products_import_unit_value_index_2014_2016_100_tie,index,measure
+Dairy Products - Import Value Base Period Price,dairy_products_import_value_base_period_price_tie,1000 $,measure
+Dairy Products - Import Value Base Period Quantity,dairy_products_import_value_base_period_quantity_tie,1000 $,measure
+Dairy Products - Import Value Index (2014-2016 = 100),dairy_products_import_value_index_2014_2016_100_tie,index,measure
+Dairy Products and Eggs - Export Quantity Index (2014-2016 = 100),dairy_products_and_eggs_export_quantity_index_2014_2016_100_tie,index,measure
+Dairy Products and Eggs - Export Unit/Value Index (2014-2016 = 100),dairy_products_and_eggs_export_unit_value_index_2014_2016_100_tie,index,measure
+Dairy Products and Eggs - Export Value Base Price,dairy_products_and_eggs_export_value_base_price_tie,1000 $,measure
+Dairy Products and Eggs - Export Value Base Quantity,dairy_products_and_eggs_export_value_base_quantity_tie,1000 $,measure
+Dairy Products and Eggs - Export Value Index (2014-2016 = 100),dairy_products_and_eggs_export_value_index_2014_2016_100_tie,index,measure
+Dairy Products and Eggs - Import Quantity Index (2014-2016 = 100),dairy_products_and_eggs_import_quantity_index_2014_2016_100_tie,index,measure
+Dairy Products and Eggs - Import Unit/Value Index (2014-2016 = 100),dairy_products_and_eggs_import_unit_value_index_2014_2016_100_tie,index,measure
+Dairy Products and Eggs - Import Value Base Period Price,dairy_products_and_eggs_import_value_base_period_price_tie,1000 $,measure
+Dairy Products and Eggs - Import Value Base Period Quantity,dairy_products_and_eggs_import_value_base_period_quantity_tie,1000 $,measure
+Dairy Products and Eggs - Import Value Index (2014-2016 = 100),dairy_products_and_eggs_import_value_index_2014_2016_100_tie,index,measure
 Dates - Export Quantity Index (2014-2016 = 100),dates_export_quantity_index_2014_2016_100_tie,index,measure
 Dates - Export Unit/Value Index (2014-2016 = 100),dates_export_unit_value_index_2014_2016_100_tie,index,measure
 Dates - Export Value Base Price,dates_export_value_base_price_tie,1000 $,measure
@@ -19589,6 +19801,16 @@ Dates - Import Unit/Value Index (2014-2016 = 100),dates_import_unit_value_index_
 Dates - Import Value Base Period Price,dates_import_value_base_period_price_tie,1000 $,measure
 Dates - Import Value Base Period Quantity,dates_import_value_base_period_quantity_tie,1000 $,measure
 Dates - Import Value Index (2014-2016 = 100),dates_import_value_index_2014_2016_100_tie,index,measure
+Eggs - Export Quantity Index (2014-2016 = 100),eggs_export_quantity_index_2014_2016_100_tie,index,measure
+Eggs - Export Unit/Value Index (2014-2016 = 100),eggs_export_unit_value_index_2014_2016_100_tie,index,measure
+Eggs - Export Value Base Price,eggs_export_value_base_price_tie,1000 $,measure
+Eggs - Export Value Base Quantity,eggs_export_value_base_quantity_tie,1000 $,measure
+Eggs - Export Value Index (2014-2016 = 100),eggs_export_value_index_2014_2016_100_tie,index,measure
+Eggs - Import Quantity Index (2014-2016 = 100),eggs_import_quantity_index_2014_2016_100_tie,index,measure
+Eggs - Import Unit/Value Index (2014-2016 = 100),eggs_import_unit_value_index_2014_2016_100_tie,index,measure
+Eggs - Import Value Base Period Price,eggs_import_value_base_period_price_tie,1000 $,measure
+Eggs - Import Value Base Period Quantity,eggs_import_value_base_period_quantity_tie,1000 $,measure
+Eggs - Import Value Index (2014-2016 = 100),eggs_import_value_index_2014_2016_100_tie,index,measure
 "Eggs, dried - Export Quantity Index (2014-2016 = 100)",eggs_dried_export_quantity_index_2014_2016_100_tie,index,measure
 "Eggs, dried - Export Unit/Value Index (2014-2016 = 100)",eggs_dried_export_unit_value_index_2014_2016_100_tie,index,measure
 "Eggs, dried - Export Value Base Price",eggs_dried_export_value_base_price_tie,1000 $,measure
@@ -19629,6 +19851,46 @@ Dates - Import Value Index (2014-2016 = 100),dates_import_value_index_2014_2016_
 "Fat nes, prepared - Import Value Base Period Price",fat_nes_prepared_import_value_base_period_price_tie,1000 $,measure
 "Fat nes, prepared - Import Value Base Period Quantity",fat_nes_prepared_import_value_base_period_quantity_tie,1000 $,measure
 "Fat nes, prepared - Import Value Index (2014-2016 = 100)",fat_nes_prepared_import_value_index_2014_2016_100_tie,index,measure
+Fats and Oils (excluding Butter) - Export Quantity Index (2014-2016 = 100),fats_and_oils_excluding_butter_export_quantity_index_2014_2016_100_tie,index,measure
+Fats and Oils (excluding Butter) - Export Unit/Value Index (2014-2016 = 100),fats_and_oils_excluding_butter_export_unit_value_index_2014_2016_100_tie,index,measure
+Fats and Oils (excluding Butter) - Export Value Base Price,fats_and_oils_excluding_butter_export_value_base_price_tie,1000 $,measure
+Fats and Oils (excluding Butter) - Export Value Base Quantity,fats_and_oils_excluding_butter_export_value_base_quantity_tie,1000 $,measure
+Fats and Oils (excluding Butter) - Export Value Index (2014-2016 = 100),fats_and_oils_excluding_butter_export_value_index_2014_2016_100_tie,index,measure
+Fats and Oils (excluding Butter) - Import Quantity Index (2014-2016 = 100),fats_and_oils_excluding_butter_import_quantity_index_2014_2016_100_tie,index,measure
+Fats and Oils (excluding Butter) - Import Unit/Value Index (2014-2016 = 100),fats_and_oils_excluding_butter_import_unit_value_index_2014_2016_100_tie,index,measure
+Fats and Oils (excluding Butter) - Import Value Base Period Price,fats_and_oils_excluding_butter_import_value_base_period_price_tie,1000 $,measure
+Fats and Oils (excluding Butter) - Import Value Base Period Quantity,fats_and_oils_excluding_butter_import_value_base_period_quantity_tie,1000 $,measure
+Fats and Oils (excluding Butter) - Import Value Index (2014-2016 = 100),fats_and_oils_excluding_butter_import_value_index_2014_2016_100_tie,index,measure
+"Feed and meal, gluten - Export Quantity Index (2014-2016 = 100)",feed_and_meal_gluten_export_quantity_index_2014_2016_100_tie,index,measure
+"Feed and meal, gluten - Export Unit/Value Index (2014-2016 = 100)",feed_and_meal_gluten_export_unit_value_index_2014_2016_100_tie,index,measure
+"Feed and meal, gluten - Export Value Base Price",feed_and_meal_gluten_export_value_base_price_tie,1000 $,measure
+"Feed and meal, gluten - Export Value Base Quantity",feed_and_meal_gluten_export_value_base_quantity_tie,1000 $,measure
+"Feed and meal, gluten - Export Value Index (2014-2016 = 100)",feed_and_meal_gluten_export_value_index_2014_2016_100_tie,index,measure
+"Feed and meal, gluten - Import Quantity Index (2014-2016 = 100)",feed_and_meal_gluten_import_quantity_index_2014_2016_100_tie,index,measure
+"Feed and meal, gluten - Import Unit/Value Index (2014-2016 = 100)",feed_and_meal_gluten_import_unit_value_index_2014_2016_100_tie,index,measure
+"Feed and meal, gluten - Import Value Base Period Price",feed_and_meal_gluten_import_value_base_period_price_tie,1000 $,measure
+"Feed and meal, gluten - Import Value Base Period Quantity",feed_and_meal_gluten_import_value_base_period_quantity_tie,1000 $,measure
+"Feed and meal, gluten - Import Value Index (2014-2016 = 100)",feed_and_meal_gluten_import_value_index_2014_2016_100_tie,index,measure
+"Feed, vegetable products nes - Export Quantity Index (2014-2016 = 100)",feed_vegetable_products_nes_export_quantity_index_2014_2016_100_tie,index,measure
+"Feed, vegetable products nes - Export Unit/Value Index (2014-2016 = 100)",feed_vegetable_products_nes_export_unit_value_index_2014_2016_100_tie,index,measure
+"Feed, vegetable products nes - Export Value Base Price",feed_vegetable_products_nes_export_value_base_price_tie,1000 $,measure
+"Feed, vegetable products nes - Export Value Base Quantity",feed_vegetable_products_nes_export_value_base_quantity_tie,1000 $,measure
+"Feed, vegetable products nes - Export Value Index (2014-2016 = 100)",feed_vegetable_products_nes_export_value_index_2014_2016_100_tie,index,measure
+"Feed, vegetable products nes - Import Quantity Index (2014-2016 = 100)",feed_vegetable_products_nes_import_quantity_index_2014_2016_100_tie,index,measure
+"Feed, vegetable products nes - Import Unit/Value Index (2014-2016 = 100)",feed_vegetable_products_nes_import_unit_value_index_2014_2016_100_tie,index,measure
+"Feed, vegetable products nes - Import Value Base Period Price",feed_vegetable_products_nes_import_value_base_period_price_tie,1000 $,measure
+"Feed, vegetable products nes - Import Value Base Period Quantity",feed_vegetable_products_nes_import_value_base_period_quantity_tie,1000 $,measure
+"Feed, vegetable products nes - Import Value Index (2014-2016 = 100)",feed_vegetable_products_nes_import_value_index_2014_2016_100_tie,index,measure
+Flax fibre and tow - Export Quantity Index (2014-2016 = 100),flax_fibre_and_tow_export_quantity_index_2014_2016_100_tie,index,measure
+Flax fibre and tow - Export Unit/Value Index (2014-2016 = 100),flax_fibre_and_tow_export_unit_value_index_2014_2016_100_tie,index,measure
+Flax fibre and tow - Export Value Base Price,flax_fibre_and_tow_export_value_base_price_tie,1000 $,measure
+Flax fibre and tow - Export Value Base Quantity,flax_fibre_and_tow_export_value_base_quantity_tie,1000 $,measure
+Flax fibre and tow - Export Value Index (2014-2016 = 100),flax_fibre_and_tow_export_value_index_2014_2016_100_tie,index,measure
+Flax fibre and tow - Import Quantity Index (2014-2016 = 100),flax_fibre_and_tow_import_quantity_index_2014_2016_100_tie,index,measure
+Flax fibre and tow - Import Unit/Value Index (2014-2016 = 100),flax_fibre_and_tow_import_unit_value_index_2014_2016_100_tie,index,measure
+Flax fibre and tow - Import Value Base Period Price,flax_fibre_and_tow_import_value_base_period_price_tie,1000 $,measure
+Flax fibre and tow - Import Value Base Period Quantity,flax_fibre_and_tow_import_value_base_period_quantity_tie,1000 $,measure
+Flax fibre and tow - Import Value Index (2014-2016 = 100),flax_fibre_and_tow_import_value_index_2014_2016_100_tie,index,measure
 "Flour, cereals - Export Quantity Index (2014-2016 = 100)",flour_cereals_export_quantity_index_2014_2016_100_tie,index,measure
 "Flour, cereals - Export Unit/Value Index (2014-2016 = 100)",flour_cereals_export_unit_value_index_2014_2016_100_tie,index,measure
 "Flour, cereals - Export Value Base Price",flour_cereals_export_value_base_price_tie,1000 $,measure
@@ -19659,16 +19921,56 @@ Dates - Import Value Index (2014-2016 = 100),dates_import_value_index_2014_2016_
 "Flour, wheat - Import Value Base Period Price",flour_wheat_import_value_base_period_price_tie,1000 $,measure
 "Flour, wheat - Import Value Base Period Quantity",flour_wheat_import_value_base_period_quantity_tie,1000 $,measure
 "Flour, wheat - Import Value Index (2014-2016 = 100)",flour_wheat_import_value_index_2014_2016_100_tie,index,measure
-Food Excl Fish - Export Quantity Index (2014-2016 = 100),food_excl_fish_export_quantity_index_2014_2016_100_tie,index,measure
-Food Excl Fish - Export Unit/Value Index (2014-2016 = 100),food_excl_fish_export_unit_value_index_2014_2016_100_tie,index,measure
-Food Excl Fish - Export Value Base Price,food_excl_fish_export_value_base_price_tie,1000 $,measure
-Food Excl Fish - Export Value Base Quantity,food_excl_fish_export_value_base_quantity_tie,1000 $,measure
-Food Excl Fish - Export Value Index (2014-2016 = 100),food_excl_fish_export_value_index_2014_2016_100_tie,index,measure
-Food Excl Fish - Import Quantity Index (2014-2016 = 100),food_excl_fish_import_quantity_index_2014_2016_100_tie,index,measure
-Food Excl Fish - Import Unit/Value Index (2014-2016 = 100),food_excl_fish_import_unit_value_index_2014_2016_100_tie,index,measure
-Food Excl Fish - Import Value Base Period Price,food_excl_fish_import_value_base_period_price_tie,1000 $,measure
-Food Excl Fish - Import Value Base Period Quantity,food_excl_fish_import_value_base_period_quantity_tie,1000 $,measure
-Food Excl Fish - Import Value Index (2014-2016 = 100),food_excl_fish_import_value_index_2014_2016_100_tie,index,measure
+Fodder and Feeding Stuff - Export Quantity Index (2014-2016 = 100),fodder_and_feeding_stuff_export_quantity_index_2014_2016_100_tie,index,measure
+Fodder and Feeding Stuff - Export Unit/Value Index (2014-2016 = 100),fodder_and_feeding_stuff_export_unit_value_index_2014_2016_100_tie,index,measure
+Fodder and Feeding Stuff - Export Value Base Price,fodder_and_feeding_stuff_export_value_base_price_tie,1000 $,measure
+Fodder and Feeding Stuff - Export Value Base Quantity,fodder_and_feeding_stuff_export_value_base_quantity_tie,1000 $,measure
+Fodder and Feeding Stuff - Export Value Index (2014-2016 = 100),fodder_and_feeding_stuff_export_value_index_2014_2016_100_tie,index,measure
+Fodder and Feeding Stuff - Import Quantity Index (2014-2016 = 100),fodder_and_feeding_stuff_import_quantity_index_2014_2016_100_tie,index,measure
+Fodder and Feeding Stuff - Import Unit/Value Index (2014-2016 = 100),fodder_and_feeding_stuff_import_unit_value_index_2014_2016_100_tie,index,measure
+Fodder and Feeding Stuff - Import Value Base Period Price,fodder_and_feeding_stuff_import_value_base_period_price_tie,1000 $,measure
+Fodder and Feeding Stuff - Import Value Base Period Quantity,fodder_and_feeding_stuff_import_value_base_period_quantity_tie,1000 $,measure
+Fodder and Feeding Stuff - Import Value Index (2014-2016 = 100),fodder_and_feeding_stuff_import_value_index_2014_2016_100_tie,index,measure
+Food Excluding Fish - Export Quantity Index (2014-2016 = 100),food_excluding_fish_export_quantity_index_2014_2016_100_tie,index,measure
+Food Excluding Fish - Export Unit/Value Index (2014-2016 = 100),food_excluding_fish_export_unit_value_index_2014_2016_100_tie,index,measure
+Food Excluding Fish - Export Value Base Price,food_excluding_fish_export_value_base_price_tie,1000 $,measure
+Food Excluding Fish - Export Value Base Quantity,food_excluding_fish_export_value_base_quantity_tie,1000 $,measure
+Food Excluding Fish - Export Value Index (2014-2016 = 100),food_excluding_fish_export_value_index_2014_2016_100_tie,index,measure
+Food Excluding Fish - Import Quantity Index (2014-2016 = 100),food_excluding_fish_import_quantity_index_2014_2016_100_tie,index,measure
+Food Excluding Fish - Import Unit/Value Index (2014-2016 = 100),food_excluding_fish_import_unit_value_index_2014_2016_100_tie,index,measure
+Food Excluding Fish - Import Value Base Period Price,food_excluding_fish_import_value_base_period_price_tie,1000 $,measure
+Food Excluding Fish - Import Value Base Period Quantity,food_excluding_fish_import_value_base_period_quantity_tie,1000 $,measure
+Food Excluding Fish - Import Value Index (2014-2016 = 100),food_excluding_fish_import_value_index_2014_2016_100_tie,index,measure
+Food wastes - Export Quantity Index (2014-2016 = 100),food_wastes_export_quantity_index_2014_2016_100_tie,index,measure
+Food wastes - Export Unit/Value Index (2014-2016 = 100),food_wastes_export_unit_value_index_2014_2016_100_tie,index,measure
+Food wastes - Export Value Base Price,food_wastes_export_value_base_price_tie,1000 $,measure
+Food wastes - Export Value Base Quantity,food_wastes_export_value_base_quantity_tie,1000 $,measure
+Food wastes - Export Value Index (2014-2016 = 100),food_wastes_export_value_index_2014_2016_100_tie,index,measure
+Food wastes - Import Quantity Index (2014-2016 = 100),food_wastes_import_quantity_index_2014_2016_100_tie,index,measure
+Food wastes - Import Unit/Value Index (2014-2016 = 100),food_wastes_import_unit_value_index_2014_2016_100_tie,index,measure
+Food wastes - Import Value Base Period Price,food_wastes_import_value_base_period_price_tie,1000 $,measure
+Food wastes - Import Value Base Period Quantity,food_wastes_import_value_base_period_quantity_tie,1000 $,measure
+Food wastes - Import Value Index (2014-2016 = 100),food_wastes_import_value_index_2014_2016_100_tie,index,measure
+Fruit - Export Quantity Index (2014-2016 = 100),fruit_export_quantity_index_2014_2016_100_tie,index,measure
+Fruit - Export Unit/Value Index (2014-2016 = 100),fruit_export_unit_value_index_2014_2016_100_tie,index,measure
+Fruit - Export Value Base Price,fruit_export_value_base_price_tie,1000 $,measure
+Fruit - Export Value Base Quantity,fruit_export_value_base_quantity_tie,1000 $,measure
+Fruit - Export Value Index (2014-2016 = 100),fruit_export_value_index_2014_2016_100_tie,index,measure
+Fruit - Import Quantity Index (2014-2016 = 100),fruit_import_quantity_index_2014_2016_100_tie,index,measure
+Fruit - Import Unit/Value Index (2014-2016 = 100),fruit_import_unit_value_index_2014_2016_100_tie,index,measure
+Fruit - Import Value Base Period Price,fruit_import_value_base_period_price_tie,1000 $,measure
+Fruit - Import Value Base Period Quantity,fruit_import_value_base_period_quantity_tie,1000 $,measure
+Fruit - Import Value Index (2014-2016 = 100),fruit_import_value_index_2014_2016_100_tie,index,measure
+Fruit and Vegetables - Export Quantity Index (2014-2016 = 100),fruit_and_vegetables_export_quantity_index_2014_2016_100_tie,index,measure
+Fruit and Vegetables - Export Unit/Value Index (2014-2016 = 100),fruit_and_vegetables_export_unit_value_index_2014_2016_100_tie,index,measure
+Fruit and Vegetables - Export Value Base Price,fruit_and_vegetables_export_value_base_price_tie,1000 $,measure
+Fruit and Vegetables - Export Value Base Quantity,fruit_and_vegetables_export_value_base_quantity_tie,1000 $,measure
+Fruit and Vegetables - Export Value Index (2014-2016 = 100),fruit_and_vegetables_export_value_index_2014_2016_100_tie,index,measure
+Fruit and Vegetables - Import Quantity Index (2014-2016 = 100),fruit_and_vegetables_import_quantity_index_2014_2016_100_tie,index,measure
+Fruit and Vegetables - Import Unit/Value Index (2014-2016 = 100),fruit_and_vegetables_import_unit_value_index_2014_2016_100_tie,index,measure
+Fruit and Vegetables - Import Value Base Period Price,fruit_and_vegetables_import_value_base_period_price_tie,1000 $,measure
+Fruit and Vegetables - Import Value Base Period Quantity,fruit_and_vegetables_import_value_base_period_quantity_tie,1000 $,measure
+Fruit and Vegetables - Import Value Index (2014-2016 = 100),fruit_and_vegetables_import_value_index_2014_2016_100_tie,index,measure
 "Fruit, dried nes - Export Quantity Index (2014-2016 = 100)",fruit_dried_nes_export_quantity_index_2014_2016_100_tie,index,measure
 "Fruit, dried nes - Export Unit/Value Index (2014-2016 = 100)",fruit_dried_nes_export_unit_value_index_2014_2016_100_tie,index,measure
 "Fruit, dried nes - Export Value Base Price",fruit_dried_nes_export_value_base_price_tie,1000 $,measure
@@ -19719,6 +20021,26 @@ Grapes - Import Value Index (2014-2016 = 100),grapes_import_value_index_2014_201
 "Groundnuts, shelled - Import Value Base Period Price",groundnuts_shelled_import_value_base_period_price_tie,1000 $,measure
 "Groundnuts, shelled - Import Value Base Period Quantity",groundnuts_shelled_import_value_base_period_quantity_tie,1000 $,measure
 "Groundnuts, shelled - Import Value Index (2014-2016 = 100)",groundnuts_shelled_import_value_index_2014_2016_100_tie,index,measure
+Hides and skins - Export Quantity Index (2014-2016 = 100),hides_and_skins_export_quantity_index_2014_2016_100_tie,index,measure
+Hides and skins - Export Unit/Value Index (2014-2016 = 100),hides_and_skins_export_unit_value_index_2014_2016_100_tie,index,measure
+Hides and skins - Export Value Base Price,hides_and_skins_export_value_base_price_tie,1000 $,measure
+Hides and skins - Export Value Base Quantity,hides_and_skins_export_value_base_quantity_tie,1000 $,measure
+Hides and skins - Export Value Index (2014-2016 = 100),hides_and_skins_export_value_index_2014_2016_100_tie,index,measure
+Hides and skins - Import Quantity Index (2014-2016 = 100),hides_and_skins_import_quantity_index_2014_2016_100_tie,index,measure
+Hides and skins - Import Unit/Value Index (2014-2016 = 100),hides_and_skins_import_unit_value_index_2014_2016_100_tie,index,measure
+Hides and skins - Import Value Base Period Price,hides_and_skins_import_value_base_period_price_tie,1000 $,measure
+Hides and skins - Import Value Base Period Quantity,hides_and_skins_import_value_base_period_quantity_tie,1000 $,measure
+Hides and skins - Import Value Index (2014-2016 = 100),hides_and_skins_import_value_index_2014_2016_100_tie,index,measure
+"Hides, cattle, wet salted - Export Quantity Index (2014-2016 = 100)",hides_cattle_wet_salted_export_quantity_index_2014_2016_100_tie,index,measure
+"Hides, cattle, wet salted - Export Unit/Value Index (2014-2016 = 100)",hides_cattle_wet_salted_export_unit_value_index_2014_2016_100_tie,index,measure
+"Hides, cattle, wet salted - Export Value Base Price",hides_cattle_wet_salted_export_value_base_price_tie,1000 $,measure
+"Hides, cattle, wet salted - Export Value Base Quantity",hides_cattle_wet_salted_export_value_base_quantity_tie,1000 $,measure
+"Hides, cattle, wet salted - Export Value Index (2014-2016 = 100)",hides_cattle_wet_salted_export_value_index_2014_2016_100_tie,index,measure
+"Hides, cattle, wet salted - Import Quantity Index (2014-2016 = 100)",hides_cattle_wet_salted_import_quantity_index_2014_2016_100_tie,index,measure
+"Hides, cattle, wet salted - Import Unit/Value Index (2014-2016 = 100)",hides_cattle_wet_salted_import_unit_value_index_2014_2016_100_tie,index,measure
+"Hides, cattle, wet salted - Import Value Base Period Price",hides_cattle_wet_salted_import_value_base_period_price_tie,1000 $,measure
+"Hides, cattle, wet salted - Import Value Base Period Quantity",hides_cattle_wet_salted_import_value_base_period_quantity_tie,1000 $,measure
+"Hides, cattle, wet salted - Import Value Index (2014-2016 = 100)",hides_cattle_wet_salted_import_value_index_2014_2016_100_tie,index,measure
 "Honey, natural - Export Quantity Index (2014-2016 = 100)",honey_natural_export_quantity_index_2014_2016_100_tie,index,measure
 "Honey, natural - Export Unit/Value Index (2014-2016 = 100)",honey_natural_export_unit_value_index_2014_2016_100_tie,index,measure
 "Honey, natural - Export Value Base Price",honey_natural_export_value_base_price_tie,1000 $,measure
@@ -19729,6 +20051,16 @@ Grapes - Import Value Index (2014-2016 = 100),grapes_import_value_index_2014_201
 "Honey, natural - Import Value Base Period Price",honey_natural_import_value_base_period_price_tie,1000 $,measure
 "Honey, natural - Import Value Base Period Quantity",honey_natural_import_value_base_period_quantity_tie,1000 $,measure
 "Honey, natural - Import Value Index (2014-2016 = 100)",honey_natural_import_value_index_2014_2016_100_tie,index,measure
+Hops - Export Quantity Index (2014-2016 = 100),hops_export_quantity_index_2014_2016_100_tie,index,measure
+Hops - Export Unit/Value Index (2014-2016 = 100),hops_export_unit_value_index_2014_2016_100_tie,index,measure
+Hops - Export Value Base Price,hops_export_value_base_price_tie,1000 $,measure
+Hops - Export Value Base Quantity,hops_export_value_base_quantity_tie,1000 $,measure
+Hops - Export Value Index (2014-2016 = 100),hops_export_value_index_2014_2016_100_tie,index,measure
+Hops - Import Quantity Index (2014-2016 = 100),hops_import_quantity_index_2014_2016_100_tie,index,measure
+Hops - Import Unit/Value Index (2014-2016 = 100),hops_import_unit_value_index_2014_2016_100_tie,index,measure
+Hops - Import Value Base Period Price,hops_import_value_base_period_price_tie,1000 $,measure
+Hops - Import Value Base Period Quantity,hops_import_value_base_period_quantity_tie,1000 $,measure
+Hops - Import Value Index (2014-2016 = 100),hops_import_value_index_2014_2016_100_tie,index,measure
 Infant food - Export Quantity Index (2014-2016 = 100),infant_food_export_quantity_index_2014_2016_100_tie,index,measure
 Infant food - Export Unit/Value Index (2014-2016 = 100),infant_food_export_unit_value_index_2014_2016_100_tie,index,measure
 Infant food - Export Value Base Price,infant_food_export_value_base_price_tie,1000 $,measure
@@ -19749,6 +20081,16 @@ Infant food - Import Value Index (2014-2016 = 100),infant_food_import_value_inde
 "Juice, fruit nes - Import Value Base Period Price",juice_fruit_nes_import_value_base_period_price_tie,1000 $,measure
 "Juice, fruit nes - Import Value Base Period Quantity",juice_fruit_nes_import_value_base_period_quantity_tie,1000 $,measure
 "Juice, fruit nes - Import Value Index (2014-2016 = 100)",juice_fruit_nes_import_value_index_2014_2016_100_tie,index,measure
+Jute - Export Quantity Index (2014-2016 = 100),jute_export_quantity_index_2014_2016_100_tie,index,measure
+Jute - Export Unit/Value Index (2014-2016 = 100),jute_export_unit_value_index_2014_2016_100_tie,index,measure
+Jute - Export Value Base Price,jute_export_value_base_price_tie,1000 $,measure
+Jute - Export Value Base Quantity,jute_export_value_base_quantity_tie,1000 $,measure
+Jute - Export Value Index (2014-2016 = 100),jute_export_value_index_2014_2016_100_tie,index,measure
+Jute - Import Quantity Index (2014-2016 = 100),jute_import_quantity_index_2014_2016_100_tie,index,measure
+Jute - Import Unit/Value Index (2014-2016 = 100),jute_import_unit_value_index_2014_2016_100_tie,index,measure
+Jute - Import Value Base Period Price,jute_import_value_base_period_price_tie,1000 $,measure
+Jute - Import Value Base Period Quantity,jute_import_value_base_period_quantity_tie,1000 $,measure
+Jute - Import Value Index (2014-2016 = 100),jute_import_value_index_2014_2016_100_tie,index,measure
 Lard - Export Quantity Index (2014-2016 = 100),lard_export_quantity_index_2014_2016_100_tie,index,measure
 Lard - Export Unit/Value Index (2014-2016 = 100),lard_export_unit_value_index_2014_2016_100_tie,index,measure
 Lard - Export Value Base Price,lard_export_value_base_price_tie,1000 $,measure
@@ -19769,6 +20111,18 @@ Lemons and limes - Import Unit/Value Index (2014-2016 = 100),lemons_and_limes_im
 Lemons and limes - Import Value Base Period Price,lemons_and_limes_import_value_base_period_price_tie,1000 $,measure
 Lemons and limes - Import Value Base Period Quantity,lemons_and_limes_import_value_base_period_quantity_tie,1000 $,measure
 Lemons and limes - Import Value Index (2014-2016 = 100),lemons_and_limes_import_value_index_2014_2016_100_tie,index,measure
+Linseed - Export Quantity Index (2014-2016 = 100),linseed_export_quantity_index_2014_2016_100_tie,index,measure
+Linseed - Export Unit/Value Index (2014-2016 = 100),linseed_export_unit_value_index_2014_2016_100_tie,index,measure
+Linseed - Export Value Base Price,linseed_export_value_base_price_tie,1000 $,measure
+Linseed - Export Value Base Quantity,linseed_export_value_base_quantity_tie,1000 $,measure
+Linseed - Export Value Index (2014-2016 = 100),linseed_export_value_index_2014_2016_100_tie,index,measure
+Linseed - Import Quantity Index (2014-2016 = 100),linseed_import_quantity_index_2014_2016_100_tie,index,measure
+Linseed - Import Unit/Value Index (2014-2016 = 100),linseed_import_unit_value_index_2014_2016_100_tie,index,measure
+Linseed - Import Value Base Period Price,linseed_import_value_base_period_price_tie,1000 $,measure
+Linseed - Import Value Base Period Quantity,linseed_import_value_base_period_quantity_tie,1000 $,measure
+Linseed - Import Value Index (2014-2016 = 100),linseed_import_value_index_2014_2016_100_tie,index,measure
+Live Animals - Export Value Index (2014-2016 = 100),live_animals_export_value_index_2014_2016_100_tie,index,measure
+Live Animals - Import Value Index (2014-2016 = 100),live_animals_import_value_index_2014_2016_100_tie,index,measure
 Maize - Export Quantity Index (2014-2016 = 100),maize_export_quantity_index_2014_2016_100_tie,index,measure
 Maize - Export Unit/Value Index (2014-2016 = 100),maize_export_unit_value_index_2014_2016_100_tie,index,measure
 Maize - Export Value Base Price,maize_export_value_base_price_tie,1000 $,measure
@@ -19789,6 +20143,26 @@ Malt - Import Unit/Value Index (2014-2016 = 100),malt_import_unit_value_index_20
 Malt - Import Value Base Period Price,malt_import_value_base_period_price_tie,1000 $,measure
 Malt - Import Value Base Period Quantity,malt_import_value_base_period_quantity_tie,1000 $,measure
 Malt - Import Value Index (2014-2016 = 100),malt_import_value_index_2014_2016_100_tie,index,measure
+"Meal, meat - Export Quantity Index (2014-2016 = 100)",meal_meat_export_quantity_index_2014_2016_100_tie,index,measure
+"Meal, meat - Export Unit/Value Index (2014-2016 = 100)",meal_meat_export_unit_value_index_2014_2016_100_tie,index,measure
+"Meal, meat - Export Value Base Price",meal_meat_export_value_base_price_tie,1000 $,measure
+"Meal, meat - Export Value Base Quantity",meal_meat_export_value_base_quantity_tie,1000 $,measure
+"Meal, meat - Export Value Index (2014-2016 = 100)",meal_meat_export_value_index_2014_2016_100_tie,index,measure
+"Meal, meat - Import Quantity Index (2014-2016 = 100)",meal_meat_import_quantity_index_2014_2016_100_tie,index,measure
+"Meal, meat - Import Unit/Value Index (2014-2016 = 100)",meal_meat_import_unit_value_index_2014_2016_100_tie,index,measure
+"Meal, meat - Import Value Base Period Price",meal_meat_import_value_base_period_price_tie,1000 $,measure
+"Meal, meat - Import Value Base Period Quantity",meal_meat_import_value_base_period_quantity_tie,1000 $,measure
+"Meal, meat - Import Value Index (2014-2016 = 100)",meal_meat_import_value_index_2014_2016_100_tie,index,measure
+Meat and Meat Preparations - Export Quantity Index (2014-2016 = 100),meat_and_meat_preparations_export_quantity_index_2014_2016_100_tie,index,measure
+Meat and Meat Preparations - Export Unit/Value Index (2014-2016 = 100),meat_and_meat_preparations_export_unit_value_index_2014_2016_100_tie,index,measure
+Meat and Meat Preparations - Export Value Base Price,meat_and_meat_preparations_export_value_base_price_tie,1000 $,measure
+Meat and Meat Preparations - Export Value Base Quantity,meat_and_meat_preparations_export_value_base_quantity_tie,1000 $,measure
+Meat and Meat Preparations - Export Value Index (2014-2016 = 100),meat_and_meat_preparations_export_value_index_2014_2016_100_tie,index,measure
+Meat and Meat Preparations - Import Quantity Index (2014-2016 = 100),meat_and_meat_preparations_import_quantity_index_2014_2016_100_tie,index,measure
+Meat and Meat Preparations - Import Unit/Value Index (2014-2016 = 100),meat_and_meat_preparations_import_unit_value_index_2014_2016_100_tie,index,measure
+Meat and Meat Preparations - Import Value Base Period Price,meat_and_meat_preparations_import_value_base_period_price_tie,1000 $,measure
+Meat and Meat Preparations - Import Value Base Period Quantity,meat_and_meat_preparations_import_value_base_period_quantity_tie,1000 $,measure
+Meat and Meat Preparations - Import Value Index (2014-2016 = 100),meat_and_meat_preparations_import_value_index_2014_2016_100_tie,index,measure
 Meat nes - Export Quantity Index (2014-2016 = 100),meat_nes_export_quantity_index_2014_2016_100_tie,index,measure
 Meat nes - Export Unit/Value Index (2014-2016 = 100),meat_nes_export_unit_value_index_2014_2016_100_tie,index,measure
 Meat nes - Export Value Base Price,meat_nes_export_value_base_price_tie,1000 $,measure
@@ -19889,6 +20263,46 @@ Meat nes - Import Value Index (2014-2016 = 100),meat_nes_import_value_index_2014
 "Milk, whole fresh cow - Import Value Base Period Price",milk_whole_fresh_cow_import_value_base_period_price_tie,1000 $,measure
 "Milk, whole fresh cow - Import Value Base Period Quantity",milk_whole_fresh_cow_import_value_base_period_quantity_tie,1000 $,measure
 "Milk, whole fresh cow - Import Value Index (2014-2016 = 100)",milk_whole_fresh_cow_import_value_index_2014_2016_100_tie,index,measure
+Natural Rubber - Export Quantity Index (2014-2016 = 100),natural_rubber_export_quantity_index_2014_2016_100_tie,index,measure
+Natural Rubber - Export Unit/Value Index (2014-2016 = 100),natural_rubber_export_unit_value_index_2014_2016_100_tie,index,measure
+Natural Rubber - Export Value Base Price,natural_rubber_export_value_base_price_tie,1000 $,measure
+Natural Rubber - Export Value Base Quantity,natural_rubber_export_value_base_quantity_tie,1000 $,measure
+Natural Rubber - Export Value Index (2014-2016 = 100),natural_rubber_export_value_index_2014_2016_100_tie,index,measure
+Natural Rubber - Import Quantity Index (2014-2016 = 100),natural_rubber_import_quantity_index_2014_2016_100_tie,index,measure
+Natural Rubber - Import Unit/Value Index (2014-2016 = 100),natural_rubber_import_unit_value_index_2014_2016_100_tie,index,measure
+Natural Rubber - Import Value Base Period Price,natural_rubber_import_value_base_period_price_tie,1000 $,measure
+Natural Rubber - Import Value Base Period Quantity,natural_rubber_import_value_base_period_quantity_tie,1000 $,measure
+Natural Rubber - Import Value Index (2014-2016 = 100),natural_rubber_import_value_index_2014_2016_100_tie,index,measure
+Non-edible Crude Materials - Export Quantity Index (2014-2016 = 100),non_edible_crude_materials_export_quantity_index_2014_2016_100_tie,index,measure
+Non-edible Crude Materials - Export Unit/Value Index (2014-2016 = 100),non_edible_crude_materials_export_unit_value_index_2014_2016_100_tie,index,measure
+Non-edible Crude Materials - Export Value Base Price,non_edible_crude_materials_export_value_base_price_tie,1000 $,measure
+Non-edible Crude Materials - Export Value Base Quantity,non_edible_crude_materials_export_value_base_quantity_tie,1000 $,measure
+Non-edible Crude Materials - Export Value Index (2014-2016 = 100),non_edible_crude_materials_export_value_index_2014_2016_100_tie,index,measure
+Non-edible Crude Materials - Import Quantity Index (2014-2016 = 100),non_edible_crude_materials_import_quantity_index_2014_2016_100_tie,index,measure
+Non-edible Crude Materials - Import Unit/Value Index (2014-2016 = 100),non_edible_crude_materials_import_unit_value_index_2014_2016_100_tie,index,measure
+Non-edible Crude Materials - Import Value Base Period Price,non_edible_crude_materials_import_value_base_period_price_tie,1000 $,measure
+Non-edible Crude Materials - Import Value Base Period Quantity,non_edible_crude_materials_import_value_base_period_quantity_tie,1000 $,measure
+Non-edible Crude Materials - Import Value Index (2014-2016 = 100),non_edible_crude_materials_import_value_index_2014_2016_100_tie,index,measure
+Non-food - Export Quantity Index (2014-2016 = 100),non_food_export_quantity_index_2014_2016_100_tie,index,measure
+Non-food - Export Unit/Value Index (2014-2016 = 100),non_food_export_unit_value_index_2014_2016_100_tie,index,measure
+Non-food - Export Value Base Price,non_food_export_value_base_price_tie,1000 $,measure
+Non-food - Export Value Base Quantity,non_food_export_value_base_quantity_tie,1000 $,measure
+Non-food - Export Value Index (2014-2016 = 100),non_food_export_value_index_2014_2016_100_tie,index,measure
+Non-food - Import Quantity Index (2014-2016 = 100),non_food_import_quantity_index_2014_2016_100_tie,index,measure
+Non-food - Import Unit/Value Index (2014-2016 = 100),non_food_import_unit_value_index_2014_2016_100_tie,index,measure
+Non-food - Import Value Base Period Price,non_food_import_value_base_period_price_tie,1000 $,measure
+Non-food - Import Value Base Period Quantity,non_food_import_value_base_period_quantity_tie,1000 $,measure
+Non-food - Import Value Index (2014-2016 = 100),non_food_import_value_index_2014_2016_100_tie,index,measure
+Nuts - Export Quantity Index (2014-2016 = 100),nuts_export_quantity_index_2014_2016_100_tie,index,measure
+Nuts - Export Unit/Value Index (2014-2016 = 100),nuts_export_unit_value_index_2014_2016_100_tie,index,measure
+Nuts - Export Value Base Price,nuts_export_value_base_price_tie,1000 $,measure
+Nuts - Export Value Base Quantity,nuts_export_value_base_quantity_tie,1000 $,measure
+Nuts - Export Value Index (2014-2016 = 100),nuts_export_value_index_2014_2016_100_tie,index,measure
+Nuts - Import Quantity Index (2014-2016 = 100),nuts_import_quantity_index_2014_2016_100_tie,index,measure
+Nuts - Import Unit/Value Index (2014-2016 = 100),nuts_import_unit_value_index_2014_2016_100_tie,index,measure
+Nuts - Import Value Base Period Price,nuts_import_value_base_period_price_tie,1000 $,measure
+Nuts - Import Value Base Period Quantity,nuts_import_value_base_period_quantity_tie,1000 $,measure
+Nuts - Import Value Index (2014-2016 = 100),nuts_import_value_index_2014_2016_100_tie,index,measure
 Oats - Export Quantity Index (2014-2016 = 100),oats_export_quantity_index_2014_2016_100_tie,index,measure
 Oats - Export Unit/Value Index (2014-2016 = 100),oats_export_unit_value_index_2014_2016_100_tie,index,measure
 Oats - Export Value Base Price,oats_export_value_base_price_tie,1000 $,measure
@@ -19899,6 +20313,16 @@ Oats - Import Unit/Value Index (2014-2016 = 100),oats_import_unit_value_index_20
 Oats - Import Value Base Period Price,oats_import_value_base_period_price_tie,1000 $,measure
 Oats - Import Value Base Period Quantity,oats_import_value_base_period_quantity_tie,1000 $,measure
 Oats - Import Value Index (2014-2016 = 100),oats_import_value_index_2014_2016_100_tie,index,measure
+"Oil, castor beans - Export Quantity Index (2014-2016 = 100)",oil_castor_beans_export_quantity_index_2014_2016_100_tie,index,measure
+"Oil, castor beans - Export Unit/Value Index (2014-2016 = 100)",oil_castor_beans_export_unit_value_index_2014_2016_100_tie,index,measure
+"Oil, castor beans - Export Value Base Price",oil_castor_beans_export_value_base_price_tie,1000 $,measure
+"Oil, castor beans - Export Value Base Quantity",oil_castor_beans_export_value_base_quantity_tie,1000 $,measure
+"Oil, castor beans - Export Value Index (2014-2016 = 100)",oil_castor_beans_export_value_index_2014_2016_100_tie,index,measure
+"Oil, castor beans - Import Quantity Index (2014-2016 = 100)",oil_castor_beans_import_quantity_index_2014_2016_100_tie,index,measure
+"Oil, castor beans - Import Unit/Value Index (2014-2016 = 100)",oil_castor_beans_import_unit_value_index_2014_2016_100_tie,index,measure
+"Oil, castor beans - Import Value Base Period Price",oil_castor_beans_import_value_base_period_price_tie,1000 $,measure
+"Oil, castor beans - Import Value Base Period Quantity",oil_castor_beans_import_value_base_period_quantity_tie,1000 $,measure
+"Oil, castor beans - Import Value Index (2014-2016 = 100)",oil_castor_beans_import_value_index_2014_2016_100_tie,index,measure
 "Oil, coconut (copra) - Export Quantity Index (2014-2016 = 100)",oil_coconut_copra_export_quantity_index_2014_2016_100_tie,index,measure
 "Oil, coconut (copra) - Export Unit/Value Index (2014-2016 = 100)",oil_coconut_copra_export_unit_value_index_2014_2016_100_tie,index,measure
 "Oil, coconut (copra) - Export Value Base Price",oil_coconut_copra_export_value_base_price_tie,1000 $,measure
@@ -19929,6 +20353,16 @@ Oats - Import Value Index (2014-2016 = 100),oats_import_value_index_2014_2016_10
 "Oil, groundnut - Import Value Base Period Price",oil_groundnut_import_value_base_period_price_tie,1000 $,measure
 "Oil, groundnut - Import Value Base Period Quantity",oil_groundnut_import_value_base_period_quantity_tie,1000 $,measure
 "Oil, groundnut - Import Value Index (2014-2016 = 100)",oil_groundnut_import_value_index_2014_2016_100_tie,index,measure
+"Oil, linseed - Export Quantity Index (2014-2016 = 100)",oil_linseed_export_quantity_index_2014_2016_100_tie,index,measure
+"Oil, linseed - Export Unit/Value Index (2014-2016 = 100)",oil_linseed_export_unit_value_index_2014_2016_100_tie,index,measure
+"Oil, linseed - Export Value Base Price",oil_linseed_export_value_base_price_tie,1000 $,measure
+"Oil, linseed - Export Value Base Quantity",oil_linseed_export_value_base_quantity_tie,1000 $,measure
+"Oil, linseed - Export Value Index (2014-2016 = 100)",oil_linseed_export_value_index_2014_2016_100_tie,index,measure
+"Oil, linseed - Import Quantity Index (2014-2016 = 100)",oil_linseed_import_quantity_index_2014_2016_100_tie,index,measure
+"Oil, linseed - Import Unit/Value Index (2014-2016 = 100)",oil_linseed_import_unit_value_index_2014_2016_100_tie,index,measure
+"Oil, linseed - Import Value Base Period Price",oil_linseed_import_value_base_period_price_tie,1000 $,measure
+"Oil, linseed - Import Value Base Period Quantity",oil_linseed_import_value_base_period_quantity_tie,1000 $,measure
+"Oil, linseed - Import Value Index (2014-2016 = 100)",oil_linseed_import_value_index_2014_2016_100_tie,index,measure
 "Oil, maize - Export Quantity Index (2014-2016 = 100)",oil_maize_export_quantity_index_2014_2016_100_tie,index,measure
 "Oil, maize - Export Unit/Value Index (2014-2016 = 100)",oil_maize_export_unit_value_index_2014_2016_100_tie,index,measure
 "Oil, maize - Export Value Base Price",oil_maize_export_value_base_price_tie,1000 $,measure
@@ -20009,6 +20443,16 @@ Oats - Import Value Index (2014-2016 = 100),oats_import_value_index_2014_2016_10
 "Oil, vegetable origin nes - Import Value Base Period Price",oil_vegetable_origin_nes_import_value_base_period_price_tie,1000 $,measure
 "Oil, vegetable origin nes - Import Value Base Period Quantity",oil_vegetable_origin_nes_import_value_base_period_quantity_tie,1000 $,measure
 "Oil, vegetable origin nes - Import Value Index (2014-2016 = 100)",oil_vegetable_origin_nes_import_value_index_2014_2016_100_tie,index,measure
+Oilseeds - Export Quantity Index (2014-2016 = 100),oilseeds_export_quantity_index_2014_2016_100_tie,index,measure
+Oilseeds - Export Unit/Value Index (2014-2016 = 100),oilseeds_export_unit_value_index_2014_2016_100_tie,index,measure
+Oilseeds - Export Value Base Price,oilseeds_export_value_base_price_tie,1000 $,measure
+Oilseeds - Export Value Base Quantity,oilseeds_export_value_base_quantity_tie,1000 $,measure
+Oilseeds - Export Value Index (2014-2016 = 100),oilseeds_export_value_index_2014_2016_100_tie,index,measure
+Oilseeds - Import Quantity Index (2014-2016 = 100),oilseeds_import_quantity_index_2014_2016_100_tie,index,measure
+Oilseeds - Import Unit/Value Index (2014-2016 = 100),oilseeds_import_unit_value_index_2014_2016_100_tie,index,measure
+Oilseeds - Import Value Base Period Price,oilseeds_import_value_base_period_price_tie,1000 $,measure
+Oilseeds - Import Value Base Period Quantity,oilseeds_import_value_base_period_quantity_tie,1000 $,measure
+Oilseeds - Import Value Index (2014-2016 = 100),oilseeds_import_value_index_2014_2016_100_tie,index,measure
 "Onions, dry - Export Quantity Index (2014-2016 = 100)",onions_dry_export_quantity_index_2014_2016_100_tie,index,measure
 "Onions, dry - Export Unit/Value Index (2014-2016 = 100)",onions_dry_export_unit_value_index_2014_2016_100_tie,index,measure
 "Onions, dry - Export Value Base Price",onions_dry_export_value_base_price_tie,1000 $,measure
@@ -20029,6 +20473,36 @@ Oranges - Import Unit/Value Index (2014-2016 = 100),oranges_import_unit_value_in
 Oranges - Import Value Base Period Price,oranges_import_value_base_period_price_tie,1000 $,measure
 Oranges - Import Value Base Period Quantity,oranges_import_value_base_period_quantity_tie,1000 $,measure
 Oranges - Import Value Index (2014-2016 = 100),oranges_import_value_index_2014_2016_100_tie,index,measure
+Other Meat - Export Quantity Index (2014-2016 = 100),other_meat_export_quantity_index_2014_2016_100_tie,index,measure
+Other Meat - Export Unit/Value Index (2014-2016 = 100),other_meat_export_unit_value_index_2014_2016_100_tie,index,measure
+Other Meat - Export Value Base Price,other_meat_export_value_base_price_tie,1000 $,measure
+Other Meat - Export Value Base Quantity,other_meat_export_value_base_quantity_tie,1000 $,measure
+Other Meat - Export Value Index (2014-2016 = 100),other_meat_export_value_index_2014_2016_100_tie,index,measure
+Other Meat - Import Quantity Index (2014-2016 = 100),other_meat_import_quantity_index_2014_2016_100_tie,index,measure
+Other Meat - Import Unit/Value Index (2014-2016 = 100),other_meat_import_unit_value_index_2014_2016_100_tie,index,measure
+Other Meat - Import Value Base Period Price,other_meat_import_value_base_period_price_tie,1000 $,measure
+Other Meat - Import Value Base Period Quantity,other_meat_import_value_base_period_quantity_tie,1000 $,measure
+Other Meat - Import Value Index (2014-2016 = 100),other_meat_import_value_index_2014_2016_100_tie,index,measure
+Other food - Export Quantity Index (2014-2016 = 100),other_food_export_quantity_index_2014_2016_100_tie,index,measure
+Other food - Export Unit/Value Index (2014-2016 = 100),other_food_export_unit_value_index_2014_2016_100_tie,index,measure
+Other food - Export Value Base Price,other_food_export_value_base_price_tie,1000 $,measure
+Other food - Export Value Base Quantity,other_food_export_value_base_quantity_tie,1000 $,measure
+Other food - Export Value Index (2014-2016 = 100),other_food_export_value_index_2014_2016_100_tie,index,measure
+Other food - Import Quantity Index (2014-2016 = 100),other_food_import_quantity_index_2014_2016_100_tie,index,measure
+Other food - Import Unit/Value Index (2014-2016 = 100),other_food_import_unit_value_index_2014_2016_100_tie,index,measure
+Other food - Import Value Base Period Price,other_food_import_value_base_period_price_tie,1000 $,measure
+Other food - Import Value Base Period Quantity,other_food_import_value_base_period_quantity_tie,1000 $,measure
+Other food - Import Value Index (2014-2016 = 100),other_food_import_value_index_2014_2016_100_tie,index,measure
+Other food nes - Export Quantity Index (2014-2016 = 100),other_food_nes_export_quantity_index_2014_2016_100_tie,index,measure
+Other food nes - Export Unit/Value Index (2014-2016 = 100),other_food_nes_export_unit_value_index_2014_2016_100_tie,index,measure
+Other food nes - Export Value Base Price,other_food_nes_export_value_base_price_tie,1000 $,measure
+Other food nes - Export Value Base Quantity,other_food_nes_export_value_base_quantity_tie,1000 $,measure
+Other food nes - Export Value Index (2014-2016 = 100),other_food_nes_export_value_index_2014_2016_100_tie,index,measure
+Other food nes - Import Quantity Index (2014-2016 = 100),other_food_nes_import_quantity_index_2014_2016_100_tie,index,measure
+Other food nes - Import Unit/Value Index (2014-2016 = 100),other_food_nes_import_unit_value_index_2014_2016_100_tie,index,measure
+Other food nes - Import Value Base Period Price,other_food_nes_import_value_base_period_price_tie,1000 $,measure
+Other food nes - Import Value Base Period Quantity,other_food_nes_import_value_base_period_quantity_tie,1000 $,measure
+Other food nes - Import Value Index (2014-2016 = 100),other_food_nes_import_value_index_2014_2016_100_tie,index,measure
 Pastry - Export Quantity Index (2014-2016 = 100),pastry_export_quantity_index_2014_2016_100_tie,index,measure
 Pastry - Export Unit/Value Index (2014-2016 = 100),pastry_export_unit_value_index_2014_2016_100_tie,index,measure
 Pastry - Export Value Base Price,pastry_export_value_base_price_tie,1000 $,measure
@@ -20069,6 +20543,18 @@ Pepper (piper spp.) - Import Unit/Value Index (2014-2016 = 100),pepper_piper_spp
 Pepper (piper spp.) - Import Value Base Period Price,pepper_piper_spp_import_value_base_period_price_tie,1000 $,measure
 Pepper (piper spp.) - Import Value Base Period Quantity,pepper_piper_spp_import_value_base_period_quantity_tie,1000 $,measure
 Pepper (piper spp.) - Import Value Index (2014-2016 = 100),pepper_piper_spp_import_value_index_2014_2016_100_tie,index,measure
+Pigmeat - Export Quantity Index (2014-2016 = 100),pigmeat_export_quantity_index_2014_2016_100_tie,index,measure
+Pigmeat - Export Unit/Value Index (2014-2016 = 100),pigmeat_export_unit_value_index_2014_2016_100_tie,index,measure
+Pigmeat - Export Value Base Price,pigmeat_export_value_base_price_tie,1000 $,measure
+Pigmeat - Export Value Base Quantity,pigmeat_export_value_base_quantity_tie,1000 $,measure
+Pigmeat - Export Value Index (2014-2016 = 100),pigmeat_export_value_index_2014_2016_100_tie,index,measure
+Pigmeat - Import Quantity Index (2014-2016 = 100),pigmeat_import_quantity_index_2014_2016_100_tie,index,measure
+Pigmeat - Import Unit/Value Index (2014-2016 = 100),pigmeat_import_unit_value_index_2014_2016_100_tie,index,measure
+Pigmeat - Import Value Base Period Price,pigmeat_import_value_base_period_price_tie,1000 $,measure
+Pigmeat - Import Value Base Period Quantity,pigmeat_import_value_base_period_quantity_tie,1000 $,measure
+Pigmeat - Import Value Index (2014-2016 = 100),pigmeat_import_value_index_2014_2016_100_tie,index,measure
+Pigs - Export Value Index (2014-2016 = 100),pigs_export_value_index_2014_2016_100_tie,index,measure
+Pigs - Import Value Index (2014-2016 = 100),pigs_import_value_index_2014_2016_100_tie,index,measure
 Pineapples - Export Quantity Index (2014-2016 = 100),pineapples_export_quantity_index_2014_2016_100_tie,index,measure
 Pineapples - Export Unit/Value Index (2014-2016 = 100),pineapples_export_unit_value_index_2014_2016_100_tie,index,measure
 Pineapples - Export Value Base Price,pineapples_export_value_base_price_tie,1000 $,measure
@@ -20099,6 +20585,26 @@ Potatoes - Import Unit/Value Index (2014-2016 = 100),potatoes_import_unit_value_
 Potatoes - Import Value Base Period Price,potatoes_import_value_base_period_price_tie,1000 $,measure
 Potatoes - Import Value Base Period Quantity,potatoes_import_value_base_period_quantity_tie,1000 $,measure
 Potatoes - Import Value Index (2014-2016 = 100),potatoes_import_value_index_2014_2016_100_tie,index,measure
+Poultry Meat - Export Quantity Index (2014-2016 = 100),poultry_meat_export_quantity_index_2014_2016_100_tie,index,measure
+Poultry Meat - Export Unit/Value Index (2014-2016 = 100),poultry_meat_export_unit_value_index_2014_2016_100_tie,index,measure
+Poultry Meat - Export Value Base Price,poultry_meat_export_value_base_price_tie,1000 $,measure
+Poultry Meat - Export Value Base Quantity,poultry_meat_export_value_base_quantity_tie,1000 $,measure
+Poultry Meat - Export Value Index (2014-2016 = 100),poultry_meat_export_value_index_2014_2016_100_tie,index,measure
+Poultry Meat - Import Quantity Index (2014-2016 = 100),poultry_meat_import_quantity_index_2014_2016_100_tie,index,measure
+Poultry Meat - Import Unit/Value Index (2014-2016 = 100),poultry_meat_import_unit_value_index_2014_2016_100_tie,index,measure
+Poultry Meat - Import Value Base Period Price,poultry_meat_import_value_base_period_price_tie,1000 $,measure
+Poultry Meat - Import Value Base Period Quantity,poultry_meat_import_value_base_period_quantity_tie,1000 $,measure
+Poultry Meat - Import Value Index (2014-2016 = 100),poultry_meat_import_value_index_2014_2016_100_tie,index,measure
+Pulses - Export Quantity Index (2014-2016 = 100),pulses_export_quantity_index_2014_2016_100_tie,index,measure
+Pulses - Export Unit/Value Index (2014-2016 = 100),pulses_export_unit_value_index_2014_2016_100_tie,index,measure
+Pulses - Export Value Base Price,pulses_export_value_base_price_tie,1000 $,measure
+Pulses - Export Value Base Quantity,pulses_export_value_base_quantity_tie,1000 $,measure
+Pulses - Export Value Index (2014-2016 = 100),pulses_export_value_index_2014_2016_100_tie,index,measure
+Pulses - Import Quantity Index (2014-2016 = 100),pulses_import_quantity_index_2014_2016_100_tie,index,measure
+Pulses - Import Unit/Value Index (2014-2016 = 100),pulses_import_unit_value_index_2014_2016_100_tie,index,measure
+Pulses - Import Value Base Period Price,pulses_import_value_base_period_price_tie,1000 $,measure
+Pulses - Import Value Base Period Quantity,pulses_import_value_base_period_quantity_tie,1000 $,measure
+Pulses - Import Value Index (2014-2016 = 100),pulses_import_value_index_2014_2016_100_tie,index,measure
 Raisins - Export Quantity Index (2014-2016 = 100),raisins_export_quantity_index_2014_2016_100_tie,index,measure
 Raisins - Export Unit/Value Index (2014-2016 = 100),raisins_export_unit_value_index_2014_2016_100_tie,index,measure
 Raisins - Export Value Base Price,raisins_export_value_base_price_tie,1000 $,measure
@@ -20129,6 +20635,16 @@ Rapeseed - Import Value Index (2014-2016 = 100),rapeseed_import_value_index_2014
 "Rice, milled - Import Value Base Period Price",rice_milled_import_value_base_period_price_tie,1000 $,measure
 "Rice, milled - Import Value Base Period Quantity",rice_milled_import_value_base_period_quantity_tie,1000 $,measure
 "Rice, milled - Import Value Index (2014-2016 = 100)",rice_milled_import_value_index_2014_2016_100_tie,index,measure
+Roots and Tubers - Export Quantity Index (2014-2016 = 100),roots_and_tubers_export_quantity_index_2014_2016_100_tie,index,measure
+Roots and Tubers - Export Unit/Value Index (2014-2016 = 100),roots_and_tubers_export_unit_value_index_2014_2016_100_tie,index,measure
+Roots and Tubers - Export Value Base Price,roots_and_tubers_export_value_base_price_tie,1000 $,measure
+Roots and Tubers - Export Value Base Quantity,roots_and_tubers_export_value_base_quantity_tie,1000 $,measure
+Roots and Tubers - Export Value Index (2014-2016 = 100),roots_and_tubers_export_value_index_2014_2016_100_tie,index,measure
+Roots and Tubers - Import Quantity Index (2014-2016 = 100),roots_and_tubers_import_quantity_index_2014_2016_100_tie,index,measure
+Roots and Tubers - Import Unit/Value Index (2014-2016 = 100),roots_and_tubers_import_unit_value_index_2014_2016_100_tie,index,measure
+Roots and Tubers - Import Value Base Period Price,roots_and_tubers_import_value_base_period_price_tie,1000 $,measure
+Roots and Tubers - Import Value Base Period Quantity,roots_and_tubers_import_value_base_period_quantity_tie,1000 $,measure
+Roots and Tubers - Import Value Index (2014-2016 = 100),roots_and_tubers_import_value_index_2014_2016_100_tie,index,measure
 Roots and tubers nes - Export Quantity Index (2014-2016 = 100),roots_and_tubers_nes_export_quantity_index_2014_2016_100_tie,index,measure
 Roots and tubers nes - Export Unit/Value Index (2014-2016 = 100),roots_and_tubers_nes_export_unit_value_index_2014_2016_100_tie,index,measure
 Roots and tubers nes - Export Value Base Price,roots_and_tubers_nes_export_value_base_price_tie,1000 $,measure
@@ -20139,6 +20655,16 @@ Roots and tubers nes - Import Unit/Value Index (2014-2016 = 100),roots_and_tuber
 Roots and tubers nes - Import Value Base Period Price,roots_and_tubers_nes_import_value_base_period_price_tie,1000 $,measure
 Roots and tubers nes - Import Value Base Period Quantity,roots_and_tubers_nes_import_value_base_period_quantity_tie,1000 $,measure
 Roots and tubers nes - Import Value Index (2014-2016 = 100),roots_and_tubers_nes_import_value_index_2014_2016_100_tie,index,measure
+Rubber natural dry - Export Quantity Index (2014-2016 = 100),rubber_natural_dry_export_quantity_index_2014_2016_100_tie,index,measure
+Rubber natural dry - Export Unit/Value Index (2014-2016 = 100),rubber_natural_dry_export_unit_value_index_2014_2016_100_tie,index,measure
+Rubber natural dry - Export Value Base Price,rubber_natural_dry_export_value_base_price_tie,1000 $,measure
+Rubber natural dry - Export Value Base Quantity,rubber_natural_dry_export_value_base_quantity_tie,1000 $,measure
+Rubber natural dry - Export Value Index (2014-2016 = 100),rubber_natural_dry_export_value_index_2014_2016_100_tie,index,measure
+Rubber natural dry - Import Quantity Index (2014-2016 = 100),rubber_natural_dry_import_quantity_index_2014_2016_100_tie,index,measure
+Rubber natural dry - Import Unit/Value Index (2014-2016 = 100),rubber_natural_dry_import_unit_value_index_2014_2016_100_tie,index,measure
+Rubber natural dry - Import Value Base Period Price,rubber_natural_dry_import_value_base_period_price_tie,1000 $,measure
+Rubber natural dry - Import Value Base Period Quantity,rubber_natural_dry_import_value_base_period_quantity_tie,1000 $,measure
+Rubber natural dry - Import Value Index (2014-2016 = 100),rubber_natural_dry_import_value_index_2014_2016_100_tie,index,measure
 Rye - Export Quantity Index (2014-2016 = 100),rye_export_quantity_index_2014_2016_100_tie,index,measure
 Rye - Export Unit/Value Index (2014-2016 = 100),rye_export_unit_value_index_2014_2016_100_tie,index,measure
 Rye - Export Value Base Price,rye_export_value_base_price_tie,1000 $,measure
@@ -20159,6 +20685,28 @@ Sesame seed - Import Unit/Value Index (2014-2016 = 100),sesame_seed_import_unit_
 Sesame seed - Import Value Base Period Price,sesame_seed_import_value_base_period_price_tie,1000 $,measure
 Sesame seed - Import Value Base Period Quantity,sesame_seed_import_value_base_period_quantity_tie,1000 $,measure
 Sesame seed - Import Value Index (2014-2016 = 100),sesame_seed_import_value_index_2014_2016_100_tie,index,measure
+Sheep - Export Value Index (2014-2016 = 100),sheep_export_value_index_2014_2016_100_tie,index,measure
+Sheep - Import Value Index (2014-2016 = 100),sheep_import_value_index_2014_2016_100_tie,index,measure
+"Silk, raw - Export Quantity Index (2014-2016 = 100)",silk_raw_export_quantity_index_2014_2016_100_tie,index,measure
+"Silk, raw - Export Unit/Value Index (2014-2016 = 100)",silk_raw_export_unit_value_index_2014_2016_100_tie,index,measure
+"Silk, raw - Export Value Base Price",silk_raw_export_value_base_price_tie,1000 $,measure
+"Silk, raw - Export Value Base Quantity",silk_raw_export_value_base_quantity_tie,1000 $,measure
+"Silk, raw - Export Value Index (2014-2016 = 100)",silk_raw_export_value_index_2014_2016_100_tie,index,measure
+"Silk, raw - Import Quantity Index (2014-2016 = 100)",silk_raw_import_quantity_index_2014_2016_100_tie,index,measure
+"Silk, raw - Import Unit/Value Index (2014-2016 = 100)",silk_raw_import_unit_value_index_2014_2016_100_tie,index,measure
+"Silk, raw - Import Value Base Period Price",silk_raw_import_value_base_period_price_tie,1000 $,measure
+"Silk, raw - Import Value Base Period Quantity",silk_raw_import_value_base_period_quantity_tie,1000 $,measure
+"Silk, raw - Import Value Index (2014-2016 = 100)",silk_raw_import_value_index_2014_2016_100_tie,index,measure
+"Skins, sheep, dry salted - Export Quantity Index (2014-2016 = 100)",skins_sheep_dry_salted_export_quantity_index_2014_2016_100_tie,index,measure
+"Skins, sheep, dry salted - Export Unit/Value Index (2014-2016 = 100)",skins_sheep_dry_salted_export_unit_value_index_2014_2016_100_tie,index,measure
+"Skins, sheep, dry salted - Export Value Base Price",skins_sheep_dry_salted_export_value_base_price_tie,1000 $,measure
+"Skins, sheep, dry salted - Export Value Base Quantity",skins_sheep_dry_salted_export_value_base_quantity_tie,1000 $,measure
+"Skins, sheep, dry salted - Export Value Index (2014-2016 = 100)",skins_sheep_dry_salted_export_value_index_2014_2016_100_tie,index,measure
+"Skins, sheep, dry salted - Import Quantity Index (2014-2016 = 100)",skins_sheep_dry_salted_import_quantity_index_2014_2016_100_tie,index,measure
+"Skins, sheep, dry salted - Import Unit/Value Index (2014-2016 = 100)",skins_sheep_dry_salted_import_unit_value_index_2014_2016_100_tie,index,measure
+"Skins, sheep, dry salted - Import Value Base Period Price",skins_sheep_dry_salted_import_value_base_period_price_tie,1000 $,measure
+"Skins, sheep, dry salted - Import Value Base Period Quantity",skins_sheep_dry_salted_import_value_base_period_quantity_tie,1000 $,measure
+"Skins, sheep, dry salted - Import Value Index (2014-2016 = 100)",skins_sheep_dry_salted_import_value_index_2014_2016_100_tie,index,measure
 Soybeans - Export Quantity Index (2014-2016 = 100),soybeans_export_quantity_index_2014_2016_100_tie,index,measure
 Soybeans - Export Unit/Value Index (2014-2016 = 100),soybeans_export_unit_value_index_2014_2016_100_tie,index,measure
 Soybeans - Export Value Base Price,soybeans_export_value_base_price_tie,1000 $,measure
@@ -20189,6 +20737,16 @@ Sugar Raw Centrifugal - Import Unit/Value Index (2014-2016 = 100),sugar_raw_cent
 Sugar Raw Centrifugal - Import Value Base Period Price,sugar_raw_centrifugal_import_value_base_period_price_tie,1000 $,measure
 Sugar Raw Centrifugal - Import Value Base Period Quantity,sugar_raw_centrifugal_import_value_base_period_quantity_tie,1000 $,measure
 Sugar Raw Centrifugal - Import Value Index (2014-2016 = 100),sugar_raw_centrifugal_import_value_index_2014_2016_100_tie,index,measure
+Sugar and Honey - Export Quantity Index (2014-2016 = 100),sugar_and_honey_export_quantity_index_2014_2016_100_tie,index,measure
+Sugar and Honey - Export Unit/Value Index (2014-2016 = 100),sugar_and_honey_export_unit_value_index_2014_2016_100_tie,index,measure
+Sugar and Honey - Export Value Base Price,sugar_and_honey_export_value_base_price_tie,1000 $,measure
+Sugar and Honey - Export Value Base Quantity,sugar_and_honey_export_value_base_quantity_tie,1000 $,measure
+Sugar and Honey - Export Value Index (2014-2016 = 100),sugar_and_honey_export_value_index_2014_2016_100_tie,index,measure
+Sugar and Honey - Import Quantity Index (2014-2016 = 100),sugar_and_honey_import_quantity_index_2014_2016_100_tie,index,measure
+Sugar and Honey - Import Unit/Value Index (2014-2016 = 100),sugar_and_honey_import_unit_value_index_2014_2016_100_tie,index,measure
+Sugar and Honey - Import Value Base Period Price,sugar_and_honey_import_value_base_period_price_tie,1000 $,measure
+Sugar and Honey - Import Value Base Period Quantity,sugar_and_honey_import_value_base_period_quantity_tie,1000 $,measure
+Sugar and Honey - Import Value Index (2014-2016 = 100),sugar_and_honey_import_value_index_2014_2016_100_tie,index,measure
 Sugar confectionery - Export Quantity Index (2014-2016 = 100),sugar_confectionery_export_quantity_index_2014_2016_100_tie,index,measure
 Sugar confectionery - Export Unit/Value Index (2014-2016 = 100),sugar_confectionery_export_unit_value_index_2014_2016_100_tie,index,measure
 Sugar confectionery - Export Value Base Price,sugar_confectionery_export_value_base_price_tie,1000 $,measure
@@ -20229,6 +20787,66 @@ Sunflower seed - Import Unit/Value Index (2014-2016 = 100),sunflower_seed_import
 Sunflower seed - Import Value Base Period Price,sunflower_seed_import_value_base_period_price_tie,1000 $,measure
 Sunflower seed - Import Value Base Period Quantity,sunflower_seed_import_value_base_period_quantity_tie,1000 $,measure
 Sunflower seed - Import Value Index (2014-2016 = 100),sunflower_seed_import_value_index_2014_2016_100_tie,index,measure
+Tallow - Export Quantity Index (2014-2016 = 100),tallow_export_quantity_index_2014_2016_100_tie,index,measure
+Tallow - Export Unit/Value Index (2014-2016 = 100),tallow_export_unit_value_index_2014_2016_100_tie,index,measure
+Tallow - Export Value Base Price,tallow_export_value_base_price_tie,1000 $,measure
+Tallow - Export Value Base Quantity,tallow_export_value_base_quantity_tie,1000 $,measure
+Tallow - Export Value Index (2014-2016 = 100),tallow_export_value_index_2014_2016_100_tie,index,measure
+Tallow - Import Quantity Index (2014-2016 = 100),tallow_import_quantity_index_2014_2016_100_tie,index,measure
+Tallow - Import Unit/Value Index (2014-2016 = 100),tallow_import_unit_value_index_2014_2016_100_tie,index,measure
+Tallow - Import Value Base Period Price,tallow_import_value_base_period_price_tie,1000 $,measure
+Tallow - Import Value Base Period Quantity,tallow_import_value_base_period_quantity_tie,1000 $,measure
+Tallow - Import Value Index (2014-2016 = 100),tallow_import_value_index_2014_2016_100_tie,index,measure
+Tea - Export Quantity Index (2014-2016 = 100),tea_export_quantity_index_2014_2016_100_tie,index,measure
+Tea - Export Unit/Value Index (2014-2016 = 100),tea_export_unit_value_index_2014_2016_100_tie,index,measure
+Tea - Export Value Base Price,tea_export_value_base_price_tie,1000 $,measure
+Tea - Export Value Base Quantity,tea_export_value_base_quantity_tie,1000 $,measure
+Tea - Export Value Index (2014-2016 = 100),tea_export_value_index_2014_2016_100_tie,index,measure
+Tea - Import Quantity Index (2014-2016 = 100),tea_import_quantity_index_2014_2016_100_tie,index,measure
+Tea - Import Unit/Value Index (2014-2016 = 100),tea_import_unit_value_index_2014_2016_100_tie,index,measure
+Tea - Import Value Base Period Price,tea_import_value_base_period_price_tie,1000 $,measure
+Tea - Import Value Base Period Quantity,tea_import_value_base_period_quantity_tie,1000 $,measure
+Tea - Import Value Index (2014-2016 = 100),tea_import_value_index_2014_2016_100_tie,index,measure
+Textile Fibres - Export Quantity Index (2014-2016 = 100),textile_fibres_export_quantity_index_2014_2016_100_tie,index,measure
+Textile Fibres - Export Unit/Value Index (2014-2016 = 100),textile_fibres_export_unit_value_index_2014_2016_100_tie,index,measure
+Textile Fibres - Export Value Base Price,textile_fibres_export_value_base_price_tie,1000 $,measure
+Textile Fibres - Export Value Base Quantity,textile_fibres_export_value_base_quantity_tie,1000 $,measure
+Textile Fibres - Export Value Index (2014-2016 = 100),textile_fibres_export_value_index_2014_2016_100_tie,index,measure
+Textile Fibres - Import Quantity Index (2014-2016 = 100),textile_fibres_import_quantity_index_2014_2016_100_tie,index,measure
+Textile Fibres - Import Unit/Value Index (2014-2016 = 100),textile_fibres_import_unit_value_index_2014_2016_100_tie,index,measure
+Textile Fibres - Import Value Base Period Price,textile_fibres_import_value_base_period_price_tie,1000 $,measure
+Textile Fibres - Import Value Base Period Quantity,textile_fibres_import_value_base_period_quantity_tie,1000 $,measure
+Textile Fibres - Import Value Index (2014-2016 = 100),textile_fibres_import_value_index_2014_2016_100_tie,index,measure
+Tobacco - Export Quantity Index (2014-2016 = 100),tobacco_export_quantity_index_2014_2016_100_tie,index,measure
+Tobacco - Export Unit/Value Index (2014-2016 = 100),tobacco_export_unit_value_index_2014_2016_100_tie,index,measure
+Tobacco - Export Value Base Price,tobacco_export_value_base_price_tie,1000 $,measure
+Tobacco - Export Value Base Quantity,tobacco_export_value_base_quantity_tie,1000 $,measure
+Tobacco - Export Value Index (2014-2016 = 100),tobacco_export_value_index_2014_2016_100_tie,index,measure
+Tobacco - Import Quantity Index (2014-2016 = 100),tobacco_import_quantity_index_2014_2016_100_tie,index,measure
+Tobacco - Import Unit/Value Index (2014-2016 = 100),tobacco_import_unit_value_index_2014_2016_100_tie,index,measure
+Tobacco - Import Value Base Period Price,tobacco_import_value_base_period_price_tie,1000 $,measure
+Tobacco - Import Value Base Period Quantity,tobacco_import_value_base_period_quantity_tie,1000 $,measure
+Tobacco - Import Value Index (2014-2016 = 100),tobacco_import_value_index_2014_2016_100_tie,index,measure
+Tobacco products nes - Export Quantity Index (2014-2016 = 100),tobacco_products_nes_export_quantity_index_2014_2016_100_tie,index,measure
+Tobacco products nes - Export Unit/Value Index (2014-2016 = 100),tobacco_products_nes_export_unit_value_index_2014_2016_100_tie,index,measure
+Tobacco products nes - Export Value Base Price,tobacco_products_nes_export_value_base_price_tie,1000 $,measure
+Tobacco products nes - Export Value Base Quantity,tobacco_products_nes_export_value_base_quantity_tie,1000 $,measure
+Tobacco products nes - Export Value Index (2014-2016 = 100),tobacco_products_nes_export_value_index_2014_2016_100_tie,index,measure
+Tobacco products nes - Import Quantity Index (2014-2016 = 100),tobacco_products_nes_import_quantity_index_2014_2016_100_tie,index,measure
+Tobacco products nes - Import Unit/Value Index (2014-2016 = 100),tobacco_products_nes_import_unit_value_index_2014_2016_100_tie,index,measure
+Tobacco products nes - Import Value Base Period Price,tobacco_products_nes_import_value_base_period_price_tie,1000 $,measure
+Tobacco products nes - Import Value Base Period Quantity,tobacco_products_nes_import_value_base_period_quantity_tie,1000 $,measure
+Tobacco products nes - Import Value Index (2014-2016 = 100),tobacco_products_nes_import_value_index_2014_2016_100_tie,index,measure
+"Tobacco, unmanufactured - Export Quantity Index (2014-2016 = 100)",tobacco_unmanufactured_export_quantity_index_2014_2016_100_tie,index,measure
+"Tobacco, unmanufactured - Export Unit/Value Index (2014-2016 = 100)",tobacco_unmanufactured_export_unit_value_index_2014_2016_100_tie,index,measure
+"Tobacco, unmanufactured - Export Value Base Price",tobacco_unmanufactured_export_value_base_price_tie,1000 $,measure
+"Tobacco, unmanufactured - Export Value Base Quantity",tobacco_unmanufactured_export_value_base_quantity_tie,1000 $,measure
+"Tobacco, unmanufactured - Export Value Index (2014-2016 = 100)",tobacco_unmanufactured_export_value_index_2014_2016_100_tie,index,measure
+"Tobacco, unmanufactured - Import Quantity Index (2014-2016 = 100)",tobacco_unmanufactured_import_quantity_index_2014_2016_100_tie,index,measure
+"Tobacco, unmanufactured - Import Unit/Value Index (2014-2016 = 100)",tobacco_unmanufactured_import_unit_value_index_2014_2016_100_tie,index,measure
+"Tobacco, unmanufactured - Import Value Base Period Price",tobacco_unmanufactured_import_value_base_period_price_tie,1000 $,measure
+"Tobacco, unmanufactured - Import Value Base Period Quantity",tobacco_unmanufactured_import_value_base_period_quantity_tie,1000 $,measure
+"Tobacco, unmanufactured - Import Value Index (2014-2016 = 100)",tobacco_unmanufactured_import_value_index_2014_2016_100_tie,index,measure
 Tomatoes - Export Quantity Index (2014-2016 = 100),tomatoes_export_quantity_index_2014_2016_100_tie,index,measure
 Tomatoes - Export Unit/Value Index (2014-2016 = 100),tomatoes_export_unit_value_index_2014_2016_100_tie,index,measure
 Tomatoes - Export Value Base Price,tomatoes_export_value_base_price_tie,1000 $,measure
@@ -20249,6 +20867,26 @@ Vanilla - Import Unit/Value Index (2014-2016 = 100),vanilla_import_unit_value_in
 Vanilla - Import Value Base Period Price,vanilla_import_value_base_period_price_tie,1000 $,measure
 Vanilla - Import Value Base Period Quantity,vanilla_import_value_base_period_quantity_tie,1000 $,measure
 Vanilla - Import Value Index (2014-2016 = 100),vanilla_import_value_index_2014_2016_100_tie,index,measure
+Vegetable Oil and Fat - Export Quantity Index (2014-2016 = 100),vegetable_oil_and_fat_export_quantity_index_2014_2016_100_tie,index,measure
+Vegetable Oil and Fat - Export Unit/Value Index (2014-2016 = 100),vegetable_oil_and_fat_export_unit_value_index_2014_2016_100_tie,index,measure
+Vegetable Oil and Fat - Export Value Base Price,vegetable_oil_and_fat_export_value_base_price_tie,1000 $,measure
+Vegetable Oil and Fat - Export Value Base Quantity,vegetable_oil_and_fat_export_value_base_quantity_tie,1000 $,measure
+Vegetable Oil and Fat - Export Value Index (2014-2016 = 100),vegetable_oil_and_fat_export_value_index_2014_2016_100_tie,index,measure
+Vegetable Oil and Fat - Import Quantity Index (2014-2016 = 100),vegetable_oil_and_fat_import_quantity_index_2014_2016_100_tie,index,measure
+Vegetable Oil and Fat - Import Unit/Value Index (2014-2016 = 100),vegetable_oil_and_fat_import_unit_value_index_2014_2016_100_tie,index,measure
+Vegetable Oil and Fat - Import Value Base Period Price,vegetable_oil_and_fat_import_value_base_period_price_tie,1000 $,measure
+Vegetable Oil and Fat - Import Value Base Period Quantity,vegetable_oil_and_fat_import_value_base_period_quantity_tie,1000 $,measure
+Vegetable Oil and Fat - Import Value Index (2014-2016 = 100),vegetable_oil_and_fat_import_value_index_2014_2016_100_tie,index,measure
+Vegetables - Export Quantity Index (2014-2016 = 100),vegetables_export_quantity_index_2014_2016_100_tie,index,measure
+Vegetables - Export Unit/Value Index (2014-2016 = 100),vegetables_export_unit_value_index_2014_2016_100_tie,index,measure
+Vegetables - Export Value Base Price,vegetables_export_value_base_price_tie,1000 $,measure
+Vegetables - Export Value Base Quantity,vegetables_export_value_base_quantity_tie,1000 $,measure
+Vegetables - Export Value Index (2014-2016 = 100),vegetables_export_value_index_2014_2016_100_tie,index,measure
+Vegetables - Import Quantity Index (2014-2016 = 100),vegetables_import_quantity_index_2014_2016_100_tie,index,measure
+Vegetables - Import Unit/Value Index (2014-2016 = 100),vegetables_import_unit_value_index_2014_2016_100_tie,index,measure
+Vegetables - Import Value Base Period Price,vegetables_import_value_base_period_price_tie,1000 $,measure
+Vegetables - Import Value Base Period Quantity,vegetables_import_value_base_period_quantity_tie,1000 $,measure
+Vegetables - Import Value Index (2014-2016 = 100),vegetables_import_value_index_2014_2016_100_tie,index,measure
 "Vegetables, dehydrated - Export Quantity Index (2014-2016 = 100)",vegetables_dehydrated_export_quantity_index_2014_2016_100_tie,index,measure
 "Vegetables, dehydrated - Export Unit/Value Index (2014-2016 = 100)",vegetables_dehydrated_export_unit_value_index_2014_2016_100_tie,index,measure
 "Vegetables, dehydrated - Export Value Base Price",vegetables_dehydrated_export_value_base_price_tie,1000 $,measure
@@ -20319,6 +20957,36 @@ Wheat - Import Value Index (2014-2016 = 100),wheat_import_value_index_2014_2016_
 "Whey, dry - Import Value Base Period Price",whey_dry_import_value_base_period_price_tie,1000 $,measure
 "Whey, dry - Import Value Base Period Quantity",whey_dry_import_value_base_period_quantity_tie,1000 $,measure
 "Whey, dry - Import Value Index (2014-2016 = 100)",whey_dry_import_value_index_2014_2016_100_tie,index,measure
+Wine - Export Quantity Index (2014-2016 = 100),wine_export_quantity_index_2014_2016_100_tie,index,measure
+Wine - Export Unit/Value Index (2014-2016 = 100),wine_export_unit_value_index_2014_2016_100_tie,index,measure
+Wine - Export Value Base Price,wine_export_value_base_price_tie,1000 $,measure
+Wine - Export Value Base Quantity,wine_export_value_base_quantity_tie,1000 $,measure
+Wine - Export Value Index (2014-2016 = 100),wine_export_value_index_2014_2016_100_tie,index,measure
+Wine - Import Quantity Index (2014-2016 = 100),wine_import_quantity_index_2014_2016_100_tie,index,measure
+Wine - Import Unit/Value Index (2014-2016 = 100),wine_import_unit_value_index_2014_2016_100_tie,index,measure
+Wine - Import Value Base Period Price,wine_import_value_base_period_price_tie,1000 $,measure
+Wine - Import Value Base Period Quantity,wine_import_value_base_period_quantity_tie,1000 $,measure
+Wine - Import Value Index (2014-2016 = 100),wine_import_value_index_2014_2016_100_tie,index,measure
+"Wool, degreased - Export Quantity Index (2014-2016 = 100)",wool_degreased_export_quantity_index_2014_2016_100_tie,index,measure
+"Wool, degreased - Export Unit/Value Index (2014-2016 = 100)",wool_degreased_export_unit_value_index_2014_2016_100_tie,index,measure
+"Wool, degreased - Export Value Base Price",wool_degreased_export_value_base_price_tie,1000 $,measure
+"Wool, degreased - Export Value Base Quantity",wool_degreased_export_value_base_quantity_tie,1000 $,measure
+"Wool, degreased - Export Value Index (2014-2016 = 100)",wool_degreased_export_value_index_2014_2016_100_tie,index,measure
+"Wool, degreased - Import Quantity Index (2014-2016 = 100)",wool_degreased_import_quantity_index_2014_2016_100_tie,index,measure
+"Wool, degreased - Import Unit/Value Index (2014-2016 = 100)",wool_degreased_import_unit_value_index_2014_2016_100_tie,index,measure
+"Wool, degreased - Import Value Base Period Price",wool_degreased_import_value_base_period_price_tie,1000 $,measure
+"Wool, degreased - Import Value Base Period Quantity",wool_degreased_import_value_base_period_quantity_tie,1000 $,measure
+"Wool, degreased - Import Value Index (2014-2016 = 100)",wool_degreased_import_value_index_2014_2016_100_tie,index,measure
+"Wool, greasy - Export Quantity Index (2014-2016 = 100)",wool_greasy_export_quantity_index_2014_2016_100_tie,index,measure
+"Wool, greasy - Export Unit/Value Index (2014-2016 = 100)",wool_greasy_export_unit_value_index_2014_2016_100_tie,index,measure
+"Wool, greasy - Export Value Base Price",wool_greasy_export_value_base_price_tie,1000 $,measure
+"Wool, greasy - Export Value Base Quantity",wool_greasy_export_value_base_quantity_tie,1000 $,measure
+"Wool, greasy - Export Value Index (2014-2016 = 100)",wool_greasy_export_value_index_2014_2016_100_tie,index,measure
+"Wool, greasy - Import Quantity Index (2014-2016 = 100)",wool_greasy_import_quantity_index_2014_2016_100_tie,index,measure
+"Wool, greasy - Import Unit/Value Index (2014-2016 = 100)",wool_greasy_import_unit_value_index_2014_2016_100_tie,index,measure
+"Wool, greasy - Import Value Base Period Price",wool_greasy_import_value_base_period_price_tie,1000 $,measure
+"Wool, greasy - Import Value Base Period Quantity",wool_greasy_import_value_base_period_quantity_tie,1000 $,measure
+"Wool, greasy - Import Value Index (2014-2016 = 100)",wool_greasy_import_value_index_2014_2016_100_tie,index,measure
 Yoghurt - Export Quantity Index (2014-2016 = 100),yoghurt_export_quantity_index_2014_2016_100_tie,index,measure
 Yoghurt - Export Unit/Value Index (2014-2016 = 100),yoghurt_export_unit_value_index_2014_2016_100_tie,index,measure
 Yoghurt - Export Value Base Price,yoghurt_export_value_base_price_tie,1000 $,measure
