@@ -8518,45 +8518,38 @@ Track-laying tractors (crawlers) - Import Quantity,track_laying_tractors_crawler
 Track-laying tractors (crawlers) - Import Value,track_laying_tractors_crawlers_import_value_ime1,1000 US$,measure
 Track-laying tractors (crawlers) - In Use,track_laying_tractors_crawlers_in_use_ime1,No,measure
 Gross Domestic Product - Annual growth Local Currency,gross_domestic_product_annual_growth_local_currency_mki,%,measure
+"Gross Domestic Product - Annual growth Local Currency, 2015 prices",gross_domestic_product_annual_growth_local_currency_2015_prices_mki,%,measure
 Gross Domestic Product - Annual growth US$,gross_domestic_product_annual_growth_us_mki,%,measure
-"Gross Domestic Product - Annual growth, Local Currency, 2010 prices",gross_domestic_product_annual_growth_local_currency_2010_prices_mki,%,measure
-"Gross Domestic Product - Annual growth, Local Currency, 2015 prices",gross_domestic_product_annual_growth_local_currency_2015_prices_mki,%,measure
-"Gross Domestic Product - Annual growth, US$, 2010 prices",gross_domestic_product_annual_growth_us_2010_prices_mki,%,measure
-"Gross Domestic Product - Annual growth, US$, 2015 prices",gross_domestic_product_annual_growth_us_2015_prices_mki,%,measure
+Gross Domestic Product - Annual growth US$ per capita,gross_domestic_product_annual_growth_us_per_capita_mki,%,measure
+"Gross Domestic Product - Annual growth US$ per capita, 2015 prices",gross_domestic_product_annual_growth_us_per_capita_2015_prices_mki,%,measure
+"Gross Domestic Product - Annual growth US$, 2015 prices",gross_domestic_product_annual_growth_us_2015_prices_mki,%,measure
 Gross Domestic Product - Value Local Currency,gross_domestic_product_value_local_currency_mki,millions,measure
-"Gross Domestic Product - Value Local Currency, 2010 prices",gross_domestic_product_value_local_currency_2010_prices_mki,millions,measure
 "Gross Domestic Product - Value Local Currency, 2015 prices",gross_domestic_product_value_local_currency_2015_prices_mki,millions,measure
 Gross Domestic Product - Value US$,gross_domestic_product_value_us_mki,millions,measure
-"Gross Domestic Product - Value US$, 2010 prices",gross_domestic_product_value_us_2010_prices_mki,millions,measure
+Gross Domestic Product - Value US$ per capita,gross_domestic_product_value_us_per_capita_mki,US$,measure
+"Gross Domestic Product - Value US$ per capita, 2015 prices",gross_domestic_product_value_us_per_capita_2015_prices_mki,US$,measure
 "Gross Domestic Product - Value US$, 2015 prices",gross_domestic_product_value_us_2015_prices_mki,millions,measure
-Gross Domestic Product per capita - Annual growth US$,gross_domestic_product_per_capita_annual_growth_us_mki,%,measure
-"Gross Domestic Product per capita - Annual growth, US$, 2010 prices",gross_domestic_product_per_capita_annual_growth_us_2010_prices_mki,%,measure
-"Gross Domestic Product per capita - Annual growth, US$, 2015 prices",gross_domestic_product_per_capita_annual_growth_us_2015_prices_mki,%,measure
-Gross Domestic Product per capita - Value US$,gross_domestic_product_per_capita_value_us_mki,,measure
-"Gross Domestic Product per capita - Value US$, 2010 prices",gross_domestic_product_per_capita_value_us_2010_prices_mki,,measure
-"Gross Domestic Product per capita - Value US$, 2015 prices",gross_domestic_product_per_capita_value_us_2015_prices_mki,,measure
 Gross Fixed Capital Formation - Annual growth Local Currency,gross_fixed_capital_formation_annual_growth_local_currency_mki,%,measure
+"Gross Fixed Capital Formation - Annual growth Local Currency, 2015 prices",gross_fixed_capital_formation_annual_growth_local_currency_2015_prices_mki,%,measure
 Gross Fixed Capital Formation - Annual growth US$,gross_fixed_capital_formation_annual_growth_us_mki,%,measure
-"Gross Fixed Capital Formation - Annual growth, Local Currency, 2010 prices",gross_fixed_capital_formation_annual_growth_local_currency_2010_prices_mki,%,measure
-"Gross Fixed Capital Formation - Annual growth, Local Currency, 2015 prices",gross_fixed_capital_formation_annual_growth_local_currency_2015_prices_mki,%,measure
-"Gross Fixed Capital Formation - Annual growth, US$, 2010 prices",gross_fixed_capital_formation_annual_growth_us_2010_prices_mki,%,measure
-"Gross Fixed Capital Formation - Annual growth, US$, 2015 prices",gross_fixed_capital_formation_annual_growth_us_2015_prices_mki,%,measure
-Gross Fixed Capital Formation - Share of GDP in Local Currency,gross_fixed_capital_formation_share_of_gdp_in_local_currency_mki,%,measure
-Gross Fixed Capital Formation - Share of GDP in US$,gross_fixed_capital_formation_share_of_gdp_in_us_mki,%,measure
-"Gross Fixed Capital Formation - Share of GDP, Local Currency, 2010 prices",gross_fixed_capital_formation_share_of_gdp_local_currency_2010_prices_mki,%,measure
-"Gross Fixed Capital Formation - Share of GDP, Local Currency, 2015 prices",gross_fixed_capital_formation_share_of_gdp_local_currency_2015_prices_mki,%,measure
-"Gross Fixed Capital Formation - Share of GDP, US$, 2010 prices",gross_fixed_capital_formation_share_of_gdp_us_2010_prices_mki,%,measure
-"Gross Fixed Capital Formation - Share of GDP, US$, 2015 prices",gross_fixed_capital_formation_share_of_gdp_us_2015_prices_mki,%,measure
+"Gross Fixed Capital Formation - Annual growth US$, 2015 prices",gross_fixed_capital_formation_annual_growth_us_2015_prices_mki,%,measure
+Gross Fixed Capital Formation - Share of GDP Local Currency,gross_fixed_capital_formation_share_of_gdp_local_currency_mki,%,measure
+"Gross Fixed Capital Formation - Share of GDP Local Currency, 2015 prices",gross_fixed_capital_formation_share_of_gdp_local_currency_2015_prices_mki,%,measure
+Gross Fixed Capital Formation - Share of GDP US$,gross_fixed_capital_formation_share_of_gdp_us_mki,%,measure
+"Gross Fixed Capital Formation - Share of GDP US$, 2015 prices",gross_fixed_capital_formation_share_of_gdp_us_2015_prices_mki,%,measure
 Gross Fixed Capital Formation - Value Local Currency,gross_fixed_capital_formation_value_local_currency_mki,millions,measure
-"Gross Fixed Capital Formation - Value Local Currency, 2010 prices",gross_fixed_capital_formation_value_local_currency_2010_prices_mki,millions,measure
 "Gross Fixed Capital Formation - Value Local Currency, 2015 prices",gross_fixed_capital_formation_value_local_currency_2015_prices_mki,millions,measure
 Gross Fixed Capital Formation - Value US$,gross_fixed_capital_formation_value_us_mki,millions,measure
-"Gross Fixed Capital Formation - Value US$, 2010 prices",gross_fixed_capital_formation_value_us_2010_prices_mki,millions,measure
 "Gross Fixed Capital Formation - Value US$, 2015 prices",gross_fixed_capital_formation_value_us_2015_prices_mki,millions,measure
+Gross National Income - Annual growth Local Currency,gross_national_income_annual_growth_local_currency_mki,%,measure
 Gross National Income - Annual growth US$,gross_national_income_annual_growth_us_mki,%,measure
+Gross National Income - Annual growth US$ per capita,gross_national_income_annual_growth_us_per_capita_mki,%,measure
+"Gross National Income - Ratio of Value Added (Agriculture, Forestry and Fishing) US$",gross_national_income_ratio_of_value_added_agriculture_forestry_and_fishing_us_mki,,measure
+Gross National Income - Share of GDP US$,gross_national_income_share_of_gdp_us_mki,%,measure
+Gross National Income - Share of Value Added (Total Manufacturing) US$,gross_national_income_share_of_value_added_total_manufacturing_us_mki,%,measure
 Gross National Income - Value Local Currency,gross_national_income_value_local_currency_mki,millions,measure
 Gross National Income - Value US$,gross_national_income_value_us_mki,millions,measure
-Gross National Income per capita - Value US$,gross_national_income_per_capita_value_us_mki,,measure
+Gross National Income - Value US$ per capita,gross_national_income_value_us_per_capita_mki,US$,measure
 Gross Output (Agriculture) - Annual growth Local Currency,gross_output_agriculture_annual_growth_local_currency_mki,%,measure
 Gross Output (Agriculture) - Annual growth US$,gross_output_agriculture_annual_growth_us_mki,%,measure
 Gross Output (Agriculture) - Value Local Currency,gross_output_agriculture_value_local_currency_mki,millions,measure
@@ -8567,86 +8560,74 @@ Gross Output (Agriculture) - Value US$,gross_output_agriculture_value_us_mki,mil
 "Gross Output (Agriculture, Forestry and Fishing) - Value US$",gross_output_agriculture_forestry_and_fishing_value_us_mki,millions,measure
 Value Added (Agriculture) - Annual growth Local Currency,value_added_agriculture_annual_growth_local_currency_mki,%,measure
 Value Added (Agriculture) - Annual growth US$,value_added_agriculture_annual_growth_us_mki,%,measure
-"Value Added (Agriculture) - Annual growth, US$, 2015 prices",value_added_agriculture_annual_growth_us_2015_prices_mki,%,measure
-Value Added (Agriculture) - Share of GDP in US$,value_added_agriculture_share_of_gdp_in_us_mki,%,measure
+"Value Added (Agriculture) - Annual growth US$, 2015 prices",value_added_agriculture_annual_growth_us_2015_prices_mki,%,measure
+Value Added (Agriculture) - Share of GDP US$,value_added_agriculture_share_of_gdp_us_mki,%,measure
 Value Added (Agriculture) - Value Local Currency,value_added_agriculture_value_local_currency_mki,millions,measure
 "Value Added (Agriculture) - Value Local Currency, 2015 prices",value_added_agriculture_value_local_currency_2015_prices_mki,millions,measure
 Value Added (Agriculture) - Value US$,value_added_agriculture_value_us_mki,millions,measure
 "Value Added (Agriculture) - Value US$, 2015 prices",value_added_agriculture_value_us_2015_prices_mki,millions,measure
 "Value Added (Agriculture, Forestry and Fishing) - Annual growth Local Currency",value_added_agriculture_forestry_and_fishing_annual_growth_local_currency_mki,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Annual growth Local Currency, 2015 prices",value_added_agriculture_forestry_and_fishing_annual_growth_local_currency_2015_prices_mki,%,measure
 "Value Added (Agriculture, Forestry and Fishing) - Annual growth US$",value_added_agriculture_forestry_and_fishing_annual_growth_us_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Annual growth, Local Currency, 2010 prices",value_added_agriculture_forestry_and_fishing_annual_growth_local_currency_2010_prices_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Annual growth, Local Currency, 2015 prices",value_added_agriculture_forestry_and_fishing_annual_growth_local_currency_2015_prices_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Annual growth, US$, 2010 prices",value_added_agriculture_forestry_and_fishing_annual_growth_us_2010_prices_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Annual growth, US$, 2015 prices",value_added_agriculture_forestry_and_fishing_annual_growth_us_2015_prices_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Share of GDP in Local Currency",value_added_agriculture_forestry_and_fishing_share_of_gdp_in_local_currency_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Share of GDP in US$",value_added_agriculture_forestry_and_fishing_share_of_gdp_in_us_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Share of GDP, Local Currency, 2010 prices",value_added_agriculture_forestry_and_fishing_share_of_gdp_local_currency_2010_prices_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Share of GDP, Local Currency, 2015 prices",value_added_agriculture_forestry_and_fishing_share_of_gdp_local_currency_2015_prices_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Share of GDP, US$, 2010 prices",value_added_agriculture_forestry_and_fishing_share_of_gdp_us_2010_prices_mki,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Share of GDP, US$, 2015 prices",value_added_agriculture_forestry_and_fishing_share_of_gdp_us_2015_prices_mki,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Annual growth US$, 2015 prices",value_added_agriculture_forestry_and_fishing_annual_growth_us_2015_prices_mki,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Share of GDP Local Currency",value_added_agriculture_forestry_and_fishing_share_of_gdp_local_currency_mki,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Share of GDP Local Currency, 2015 prices",value_added_agriculture_forestry_and_fishing_share_of_gdp_local_currency_2015_prices_mki,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Share of GDP US$",value_added_agriculture_forestry_and_fishing_share_of_gdp_us_mki,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Share of GDP US$, 2015 prices",value_added_agriculture_forestry_and_fishing_share_of_gdp_us_2015_prices_mki,%,measure
 "Value Added (Agriculture, Forestry and Fishing) - Value Local Currency",value_added_agriculture_forestry_and_fishing_value_local_currency_mki,millions,measure
-"Value Added (Agriculture, Forestry and Fishing) - Value Local Currency, 2010 prices",value_added_agriculture_forestry_and_fishing_value_local_currency_2010_prices_mki,millions,measure
 "Value Added (Agriculture, Forestry and Fishing) - Value Local Currency, 2015 prices",value_added_agriculture_forestry_and_fishing_value_local_currency_2015_prices_mki,millions,measure
 "Value Added (Agriculture, Forestry and Fishing) - Value US$",value_added_agriculture_forestry_and_fishing_value_us_mki,millions,measure
-"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",value_added_agriculture_forestry_and_fishing_value_us_2010_prices_mki,millions,measure
 "Value Added (Agriculture, Forestry and Fishing) - Value US$, 2015 prices",value_added_agriculture_forestry_and_fishing_value_us_2015_prices_mki,millions,measure
 Value Added (Manufacture of food and beverages) - Annual growth Local Currency,value_added_manufacture_of_food_and_beverages_annual_growth_local_currency_mki,%,measure
 Value Added (Manufacture of food and beverages) - Annual growth US$,value_added_manufacture_of_food_and_beverages_annual_growth_us_mki,%,measure
-"Value Added (Manufacture of food and beverages) - Annual growth, US$, 2015 prices",value_added_manufacture_of_food_and_beverages_annual_growth_us_2015_prices_mki,%,measure
-"Value Added (Manufacture of food and beverages) - Ratio of Value Added (Agriculture, Forestry and Fishing) in Local Currency",value_added_manufacture_of_food_and_beverages_ratio_of_value_added_agriculture_forestry_and_fishing_in_local_currency_mki,,measure
-"Value Added (Manufacture of food and beverages) - Ratio of Value Added (Agriculture, Forestry and Fishing) in US$",value_added_manufacture_of_food_and_beverages_ratio_of_value_added_agriculture_forestry_and_fishing_in_us_mki,,measure
-Value Added (Manufacture of food and beverages) - Share of Value Added (Total Manufacturing) in Local Currency,value_added_manufacture_of_food_and_beverages_share_of_value_added_total_manufacturing_in_local_currency_mki,%,measure
-Value Added (Manufacture of food and beverages) - Share of Value Added (Total Manufacturing) in US$,value_added_manufacture_of_food_and_beverages_share_of_value_added_total_manufacturing_in_us_mki,%,measure
+"Value Added (Manufacture of food and beverages) - Annual growth US$, 2015 prices",value_added_manufacture_of_food_and_beverages_annual_growth_us_2015_prices_mki,%,measure
+"Value Added (Manufacture of food and beverages) - Ratio of Value Added (Agriculture, Forestry and Fishing) Local Currency",value_added_manufacture_of_food_and_beverages_ratio_of_value_added_agriculture_forestry_and_fishing_local_currency_mki,,measure
+"Value Added (Manufacture of food and beverages) - Ratio of Value Added (Agriculture, Forestry and Fishing) US$",value_added_manufacture_of_food_and_beverages_ratio_of_value_added_agriculture_forestry_and_fishing_us_mki,,measure
+Value Added (Manufacture of food and beverages) - Share of Value Added (Total Manufacturing) Local Currency,value_added_manufacture_of_food_and_beverages_share_of_value_added_total_manufacturing_local_currency_mki,%,measure
+Value Added (Manufacture of food and beverages) - Share of Value Added (Total Manufacturing) US$,value_added_manufacture_of_food_and_beverages_share_of_value_added_total_manufacturing_us_mki,%,measure
 Value Added (Manufacture of food and beverages) - Value Local Currency,value_added_manufacture_of_food_and_beverages_value_local_currency_mki,millions,measure
 "Value Added (Manufacture of food and beverages) - Value Local Currency, 2015 prices",value_added_manufacture_of_food_and_beverages_value_local_currency_2015_prices_mki,millions,measure
 Value Added (Manufacture of food and beverages) - Value US$,value_added_manufacture_of_food_and_beverages_value_us_mki,millions,measure
 "Value Added (Manufacture of food and beverages) - Value US$, 2015 prices",value_added_manufacture_of_food_and_beverages_value_us_2015_prices_mki,millions,measure
 "Value Added (Manufacture of food, beverages and tobacco products) - Annual growth Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_annual_growth_local_currency_mki,%,measure
 "Value Added (Manufacture of food, beverages and tobacco products) - Annual growth US$",value_added_manufacture_of_food_beverages_and_tobacco_products_annual_growth_us_mki,%,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Annual growth, US$, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_annual_growth_us_2015_prices_mki,%,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) in Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_in_local_currency_mki,,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) in US$",value_added_manufacture_of_food_beverages_and_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_in_us_mki,,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP in Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_in_local_currency_mki,%,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP in US$",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_in_us_mki,%,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP, Local Currency, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_local_currency_2015_prices_mki,%,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP, US$, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_us_2015_prices_mki,%,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Share of Value Added (Total Manufacturing) in Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_value_added_total_manufacturing_in_local_currency_mki,%,measure
-"Value Added (Manufacture of food, beverages and tobacco products) - Share of Value Added (Total Manufacturing) in US$",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_value_added_total_manufacturing_in_us_mki,%,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Annual growth US$, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_annual_growth_us_2015_prices_mki,%,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_local_currency_mki,,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) US$",value_added_manufacture_of_food_beverages_and_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_us_mki,,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_local_currency_mki,%,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP Local Currency, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_local_currency_2015_prices_mki,%,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP US$",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_us_mki,%,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Share of GDP US$, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_us_2015_prices_mki,%,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Share of Value Added (Total Manufacturing) Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_value_added_total_manufacturing_local_currency_mki,%,measure
+"Value Added (Manufacture of food, beverages and tobacco products) - Share of Value Added (Total Manufacturing) US$",value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_value_added_total_manufacturing_us_mki,%,measure
 "Value Added (Manufacture of food, beverages and tobacco products) - Value Local Currency",value_added_manufacture_of_food_beverages_and_tobacco_products_value_local_currency_mki,millions,measure
 "Value Added (Manufacture of food, beverages and tobacco products) - Value Local Currency, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_value_local_currency_2015_prices_mki,millions,measure
 "Value Added (Manufacture of food, beverages and tobacco products) - Value US$",value_added_manufacture_of_food_beverages_and_tobacco_products_value_us_mki,millions,measure
 "Value Added (Manufacture of food, beverages and tobacco products) - Value US$, 2015 prices",value_added_manufacture_of_food_beverages_and_tobacco_products_value_us_2015_prices_mki,millions,measure
 Value Added (Manufacture of tobacco products) - Annual growth Local Currency,value_added_manufacture_of_tobacco_products_annual_growth_local_currency_mki,%,measure
 Value Added (Manufacture of tobacco products) - Annual growth US$,value_added_manufacture_of_tobacco_products_annual_growth_us_mki,%,measure
-"Value Added (Manufacture of tobacco products) - Annual growth, US$, 2015 prices",value_added_manufacture_of_tobacco_products_annual_growth_us_2015_prices_mki,%,measure
-"Value Added (Manufacture of tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) in Local Currency",value_added_manufacture_of_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_in_local_currency_mki,,measure
-"Value Added (Manufacture of tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) in US$",value_added_manufacture_of_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_in_us_mki,,measure
-Value Added (Manufacture of tobacco products) - Share of Value Added (Total Manufacturing) in Local Currency,value_added_manufacture_of_tobacco_products_share_of_value_added_total_manufacturing_in_local_currency_mki,%,measure
-Value Added (Manufacture of tobacco products) - Share of Value Added (Total Manufacturing) in US$,value_added_manufacture_of_tobacco_products_share_of_value_added_total_manufacturing_in_us_mki,%,measure
+"Value Added (Manufacture of tobacco products) - Annual growth US$, 2015 prices",value_added_manufacture_of_tobacco_products_annual_growth_us_2015_prices_mki,%,measure
+"Value Added (Manufacture of tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) Local Currency",value_added_manufacture_of_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_local_currency_mki,,measure
+"Value Added (Manufacture of tobacco products) - Ratio of Value Added (Agriculture, Forestry and Fishing) US$",value_added_manufacture_of_tobacco_products_ratio_of_value_added_agriculture_forestry_and_fishing_us_mki,,measure
+Value Added (Manufacture of tobacco products) - Share of Value Added (Total Manufacturing) Local Currency,value_added_manufacture_of_tobacco_products_share_of_value_added_total_manufacturing_local_currency_mki,%,measure
+Value Added (Manufacture of tobacco products) - Share of Value Added (Total Manufacturing) US$,value_added_manufacture_of_tobacco_products_share_of_value_added_total_manufacturing_us_mki,%,measure
 Value Added (Manufacture of tobacco products) - Value Local Currency,value_added_manufacture_of_tobacco_products_value_local_currency_mki,millions,measure
 "Value Added (Manufacture of tobacco products) - Value Local Currency, 2015 prices",value_added_manufacture_of_tobacco_products_value_local_currency_2015_prices_mki,millions,measure
 Value Added (Manufacture of tobacco products) - Value US$,value_added_manufacture_of_tobacco_products_value_us_mki,millions,measure
 "Value Added (Manufacture of tobacco products) - Value US$, 2015 prices",value_added_manufacture_of_tobacco_products_value_us_2015_prices_mki,millions,measure
 Value Added (Total Manufacturing) - Annual growth Local Currency,value_added_total_manufacturing_annual_growth_local_currency_mki,%,measure
+"Value Added (Total Manufacturing) - Annual growth Local Currency, 2015 prices",value_added_total_manufacturing_annual_growth_local_currency_2015_prices_mki,%,measure
 Value Added (Total Manufacturing) - Annual growth US$,value_added_total_manufacturing_annual_growth_us_mki,%,measure
-"Value Added (Total Manufacturing) - Annual growth, Local Currency, 2010 prices",value_added_total_manufacturing_annual_growth_local_currency_2010_prices_mki,%,measure
-"Value Added (Total Manufacturing) - Annual growth, Local Currency, 2015 prices",value_added_total_manufacturing_annual_growth_local_currency_2015_prices_mki,%,measure
-"Value Added (Total Manufacturing) - Annual growth, US$, 2010 prices",value_added_total_manufacturing_annual_growth_us_2010_prices_mki,%,measure
-"Value Added (Total Manufacturing) - Annual growth, US$, 2015 prices",value_added_total_manufacturing_annual_growth_us_2015_prices_mki,%,measure
-"Value Added (Total Manufacturing) - Ratio of Value Added (Agriculture, Forestry and Fishing) in Local Currency",value_added_total_manufacturing_ratio_of_value_added_agriculture_forestry_and_fishing_in_local_currency_mki,,measure
-"Value Added (Total Manufacturing) - Ratio of Value Added (Agriculture, Forestry and Fishing) in US$",value_added_total_manufacturing_ratio_of_value_added_agriculture_forestry_and_fishing_in_us_mki,,measure
-Value Added (Total Manufacturing) - Share of GDP in Local Currency,value_added_total_manufacturing_share_of_gdp_in_local_currency_mki,%,measure
-Value Added (Total Manufacturing) - Share of GDP in US$,value_added_total_manufacturing_share_of_gdp_in_us_mki,%,measure
-"Value Added (Total Manufacturing) - Share of GDP, Local Currency, 2010 prices",value_added_total_manufacturing_share_of_gdp_local_currency_2010_prices_mki,%,measure
-"Value Added (Total Manufacturing) - Share of GDP, Local Currency, 2015 prices",value_added_total_manufacturing_share_of_gdp_local_currency_2015_prices_mki,%,measure
-"Value Added (Total Manufacturing) - Share of GDP, US$, 2010 prices",value_added_total_manufacturing_share_of_gdp_us_2010_prices_mki,%,measure
-"Value Added (Total Manufacturing) - Share of GDP, US$, 2015 prices",value_added_total_manufacturing_share_of_gdp_us_2015_prices_mki,%,measure
+"Value Added (Total Manufacturing) - Annual growth US$, 2015 prices",value_added_total_manufacturing_annual_growth_us_2015_prices_mki,%,measure
+"Value Added (Total Manufacturing) - Ratio of Value Added (Agriculture, Forestry and Fishing) Local Currency",value_added_total_manufacturing_ratio_of_value_added_agriculture_forestry_and_fishing_local_currency_mki,,measure
+"Value Added (Total Manufacturing) - Ratio of Value Added (Agriculture, Forestry and Fishing) US$",value_added_total_manufacturing_ratio_of_value_added_agriculture_forestry_and_fishing_us_mki,,measure
+Value Added (Total Manufacturing) - Share of GDP Local Currency,value_added_total_manufacturing_share_of_gdp_local_currency_mki,%,measure
+"Value Added (Total Manufacturing) - Share of GDP Local Currency, 2015 prices",value_added_total_manufacturing_share_of_gdp_local_currency_2015_prices_mki,%,measure
+Value Added (Total Manufacturing) - Share of GDP US$,value_added_total_manufacturing_share_of_gdp_us_mki,%,measure
+"Value Added (Total Manufacturing) - Share of GDP US$, 2015 prices",value_added_total_manufacturing_share_of_gdp_us_2015_prices_mki,%,measure
 Value Added (Total Manufacturing) - Value Local Currency,value_added_total_manufacturing_value_local_currency_mki,millions,measure
-"Value Added (Total Manufacturing) - Value Local Currency, 2010 prices",value_added_total_manufacturing_value_local_currency_2010_prices_mki,millions,measure
 "Value Added (Total Manufacturing) - Value Local Currency, 2015 prices",value_added_total_manufacturing_value_local_currency_2015_prices_mki,millions,measure
 Value Added (Total Manufacturing) - Value US$,value_added_total_manufacturing_value_us_mki,millions,measure
-"Value Added (Total Manufacturing) - Value US$, 2010 prices",value_added_total_manufacturing_value_us_2010_prices_mki,millions,measure
 "Value Added (Total Manufacturing) - Value US$, 2015 prices",value_added_total_manufacturing_value_us_2015_prices_mki,millions,measure
 Population - Est. & Proj. - Rural population,population_est_proj_rural_population_pea,1000 persons,measure
 Population - Est. & Proj. - Total Population - Both sexes,population_est_proj_total_population_both_sexes_pea,1000 persons,measure
