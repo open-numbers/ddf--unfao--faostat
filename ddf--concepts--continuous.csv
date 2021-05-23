@@ -3336,6 +3336,22 @@ Sheep and Goats - Livestock units per agricultural land area,sheep_and_goats_liv
 Sheep and Goats - Share in total livestock,sheep_and_goats_share_in_total_livestock_ele3,% of total LSU,measure
 Sheep and Goats - Stocks,sheep_and_goats_stocks_ele3,Livestock units (LSU),measure
 Pesticides (total) - Use per area of cropland,pesticides_total_use_per_area_of_cropland_epe,kg/ha,measure
+Atmospheric Deposition - Cropland nutrient flow,atmospheric_deposition_cropland_nutrient_flow_esn,tonnes,measure
+Atmospheric Deposition - Cropland nutrient flow per unit area,atmospheric_deposition_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
+Biological Fixation - Cropland nutrient flow,biological_fixation_cropland_nutrient_flow_esn,tonnes,measure
+Biological Fixation - Cropland nutrient flow per unit area,biological_fixation_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
+Crop Removal - Cropland nutrient flow,crop_removal_cropland_nutrient_flow_esn,tonnes,measure
+Crop Removal - Cropland nutrient flow per unit area,crop_removal_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
+Input - Cropland nutrient flow,input_cropland_nutrient_flow_esn,tonnes,measure
+Input - Cropland nutrient flow per unit area,input_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
+Manure applied to Soils - Cropland nutrient flow,manure_applied_to_soils_cropland_nutrient_flow_esn,tonnes,measure
+Manure applied to Soils - Cropland nutrient flow per unit area,manure_applied_to_soils_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
+Outputs - Cropland nutrient flow,outputs_cropland_nutrient_flow_esn,tonnes,measure
+Outputs - Cropland nutrient flow per unit area,outputs_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
+Soil nutrient budget - Cropland nutrient flow,soil_nutrient_budget_cropland_nutrient_flow_esn,tonnes,measure
+Soil nutrient budget - Cropland nutrient flow per unit area,soil_nutrient_budget_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
+Synthetic Fertilizers - Cropland nutrient flow,synthetic_fertilizers_cropland_nutrient_flow_esn,tonnes,measure
+Synthetic Fertilizers - Cropland nutrient flow per unit area,synthetic_fertilizers_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
 Standard local currency units per USD,standard_local_currency_units_per_usd_ere,,measure
 "Alcohol, Non-Food - Domestic supply quantity",alcohol_non_food_domestic_supply_quantity_fea,1000 tonnes,measure
 "Alcohol, Non-Food - Export Quantity",alcohol_non_food_export_quantity_fea,1000 tonnes,measure
