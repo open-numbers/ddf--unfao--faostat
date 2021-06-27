@@ -57,6 +57,7 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 170,2016,0
 170,2017,0
 170,2018,0
+170,2019,0
 19,1961,0
 19,1962,0
 19,1963,0
@@ -115,6 +116,7 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 19,2016,0
 19,2017,0
 19,2018,0
+19,2019,0
 5000,1961,0
 5000,1962,0
 5000,1963,0
@@ -173,6 +175,7 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 5000,2016,0
 5000,2017,0
 5000,2018,0
+5000,2019,0
 5200,1961,0
 5200,1962,0
 5200,1963,0
@@ -231,6 +234,7 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 5200,2016,0
 5200,2017,0
 5200,2018,0
+5200,2019,0
 5207,1961,0
 5207,1962,0
 5207,1963,0
@@ -289,6 +293,7 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 5207,2016,0
 5207,2017,0
 5207,2018,0
+5207,2019,0
 5802,1961,0
 5802,1962,0
 5802,1963,0
@@ -347,6 +352,7 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 5802,2016,0
 5802,2017,0
 5802,2018,0
+5802,2019,0
 5817,1961,0
 5817,1962,0
 5817,1963,0
@@ -405,6 +411,7 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 5817,2016,0
 5817,2017,0
 5817,2018,0
+5817,2019,0
 5849,1961,0
 5849,1962,0
 5849,1963,0
@@ -463,3 +470,4 @@ geo,year,llamas_losses_from_manure_treated_n_content_ele2
 5849,2016,0
 5849,2017,0
 5849,2018,0
+5849,2019,0

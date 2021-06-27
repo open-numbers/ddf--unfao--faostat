@@ -26,6 +26,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 1,2016,0.2299
 1,2017,0.1416
 1,2018,0.1416
+1,2019,0.171
 1,2030,0.0709
 1,2050,0.0906
 10,1961,0.055
@@ -86,6 +87,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 10,2016,2.3165
 10,2017,2.3474
 10,2018,2.2176
+10,2019,2.2938
 10,2030,1.8232
 10,2050,2.0394
 100,1961,0.3925
@@ -146,6 +148,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 100,2016,26.2985
 100,2017,26.6483
 100,2018,27.7015
+100,2019,26.8827
 100,2030,37.217
 100,2050,43.5068
 101,1961,0.1332
@@ -206,6 +209,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 101,2016,4.6578
 101,2017,4.6388
 101,2018,5.0869
+101,2019,4.7945
 101,2030,5.2758
 101,2050,5.8667
 102,1961,0.0114
@@ -266,6 +270,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 102,2016,0.8877
 102,2017,0.8877
 102,2018,0.8877
+102,2019,0.8877
 102,2030,2.4708
 102,2050,3.0147
 103,1961,0.0016
@@ -326,6 +331,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 103,2016,0.1642
 103,2017,0.2843
 103,2018,0.2843
+103,2019,0.2443
 103,2030,0.5787
 103,2050,1.0568
 104,1961,0.0453
@@ -386,6 +392,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 104,2016,0.4752
 104,2017,0.5409
 104,2018,0.622
+104,2019,0.546
 104,2030,0.5
 104,2050,0.503
 105,1961,0.0335
@@ -446,6 +453,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 105,2016,0.0735
 105,2017,0.0789
 105,2018,0.0789
+105,2019,0.0771
 105,2030,0.0721
 105,2050,0.0847
 106,1961,0.5465
@@ -506,6 +514,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 106,2016,0.9471
 106,2017,0.9462
 106,2018,0.9462
+106,2019,0.9465
 106,2030,1.236
 106,2050,1.2435
 107,1961,0.0027
@@ -566,6 +575,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 107,2016,0.0733
 107,2017,0.0519
 107,2018,0.0581
+107,2019,0.0611
 107,2030,0.0463
 107,2050,0.0957
 108,1992,0.2357
@@ -595,6 +605,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 108,2016,0.1601
 108,2017,0.1648
 108,2018,0.1648
+108,2019,0.1633
 108,2030,0.0641
 108,2050,0.0818
 109,1961,0.0103
@@ -655,6 +666,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 109,2016,0.0049
 109,2017,0.0059
 109,2018,0.0058
+109,2019,0.0056
 109,2030,0.0099
 109,2050,0.0099
 11,1961,0.0822
@@ -715,6 +727,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 11,2016,0.1852
 11,2017,0.1797
 11,2018,0.1797
+11,2019,0.1815
 11,2030,0.1443
 11,2050,0.1452
 110,1961,0.9953
@@ -775,6 +788,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 110,2016,0.5976
 110,2017,0.6114
 110,2018,0.6114
+110,2019,0.6068
 110,2030,0.7167
 110,2050,0.6036
 112,1961,0.0007
@@ -835,6 +849,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 112,2016,0.0347
 112,2017,0.0316
 112,2018,0.0313
+112,2019,0.0325
 112,2030,0.061
 112,2050,0.077
 113,1992,0.0398
@@ -864,6 +879,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 113,2016,0.0221
 113,2017,0.0146
 113,2018,0.0393
+113,2019,0.0253
 113,2030,0.0617
 113,2050,0.0787
 114,1961,0.0047
@@ -924,6 +940,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 114,2016,0.1564
 114,2017,0.1317
 114,2018,0.0942
+114,2019,0.1274
 114,2030,0.2531
 114,2050,0.4343
 115,1961,0.0066
@@ -973,6 +990,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 115,2016,0.0875
 115,2017,0.1807
 115,2018,0.2008
+115,2019,0.1563
 115,2030,0.078
 115,2050,0.0981
 117,1961,0.3408
@@ -1033,6 +1051,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 117,2016,0.3372
 117,2017,0.3292
 117,2018,0.3397
+117,2019,0.3353
 117,2030,0.4935
 117,2050,0.4462
 118,1977,0.0002
@@ -1075,6 +1094,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 118,2016,0.0031
 118,2017,0.0031
 118,2018,0.0031
+118,2019,0.0031
 118,2030,0.0009
 118,2050,0.001
 119,1992,0.099
@@ -1104,6 +1124,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 119,2016,0.123
 119,2017,0.1217
 119,2018,0.1171
+119,2019,0.1206
 119,2030,0.0673
 119,2050,0.0677
 12,1966,0.0003
@@ -1148,6 +1169,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 12,2016,0.001
 12,2017,0.001
 12,2018,0.001
+12,2019,0.001
 121,1961,0.0123
 121,1962,0.0093
 121,1963,0.0156
@@ -1206,6 +1228,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 121,2016,0.0326
 121,2017,0.036
 121,2018,0.0266
+121,2019,0.0317
 121,2030,0.0248
 121,2050,0.031
 124,1961,0.0039
@@ -1266,6 +1289,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 124,2016,0.0245
 124,2017,0.0231
 124,2018,0.0231
+124,2019,0.0236
 124,2030,0.0947
 124,2050,0.1198
 126,1992,0.1383
@@ -1295,6 +1319,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 126,2016,0.2518
 126,2017,0.2627
 126,2018,0.2505
+126,2019,0.255
 126,2030,0.1886
 126,2050,0.1897
 128,2002,0
@@ -1313,6 +1338,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 128,2016,0
 128,2017,0
 128,2018,0
+128,2019,0
 128,2030,0.0001
 128,2050,0.0001
 129,1961,0.0013
@@ -1373,6 +1399,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 129,2016,0.0147
 129,2017,0.0493
 129,2018,0.045
+129,2019,0.0363
 129,2030,0.0298
 129,2050,0.0579
 13,1972,0
@@ -1419,6 +1446,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 13,2016,0.0003
 13,2017,0.0002
 13,2018,0.0048
+13,2019,0.0018
 13,2030,0.002
 13,2050,0.0022
 130,1961,0.0041
@@ -1479,6 +1507,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 130,2016,0.0994
 130,2017,0.1359
 130,2018,0.1384
+130,2019,0.1246
 130,2030,0.3183
 130,2050,0.6522
 131,1961,0.0412
@@ -1539,6 +1568,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 131,2016,0.8285
 131,2017,0.7494
 131,2018,0.6009
+131,2019,0.7263
 131,2030,0.8806
 131,2050,0.9771
 132,2002,0
@@ -1558,6 +1588,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 132,2016,0.0005
 132,2017,0.0005
 132,2018,0.0006
+132,2019,0.0006
 132,2030,0.0003
 132,2050,0.0003
 133,1961,0
@@ -1618,6 +1649,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 133,2016,0.1895
 133,2017,0.1618
 133,2018,0.1618
+133,2019,0.1711
 133,2030,0.2025
 133,2050,0.3288
 134,1961,0.0006
@@ -1678,6 +1710,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 134,2016,0.0033
 134,2017,0.001
 134,2018,0.002
+134,2019,0.0021
 134,2030,0.0011
 134,2050,0.0011
 137,1961,0.015
@@ -1738,8 +1771,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 137,2016,0.0142
 137,2017,0.0132
 137,2018,0.0116
-137,2030,0.0116
-137,2050,0.0116
+137,2019,0.013
 138,1961,0.2153
 138,1962,0.2288
 138,1963,0.3473
@@ -1798,6 +1830,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 138,2016,2.3434
 138,2017,2.288
 138,2018,2.0929
+138,2019,2.2414
 138,2030,2.5529
 138,2050,3.1133
 14,1961,0.004
@@ -1858,6 +1891,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 14,2016,0.0004
 14,2017,0.0009
 14,2018,0.0004
+14,2019,0.0006
 14,2030,0.0022
 14,2050,0.0022
 141,1970,0.0002
@@ -1909,6 +1943,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 141,2016,0.0361
 141,2017,0.0561
 141,2018,0.0637
+141,2019,0.0519
 141,2030,0.0121
 141,2050,0.0154
 143,1961,0.0135
@@ -1969,6 +2004,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 143,2016,0.1793
 143,2017,0.3905
 143,2018,0.3905
+143,2019,0.3201
 143,2030,0.7626
 143,2050,0.9905
 144,1961,0.0039
@@ -2029,6 +2065,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 144,2016,0.0302
 144,2017,0.0355
 144,2018,0.0417
+144,2019,0.0358
 144,2030,0.0658
 144,2050,0.1285
 146,1992,0.1017
@@ -2058,6 +2095,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 146,2016,0.0722
 146,2017,0.0727
 146,2018,0.1002
+146,2019,0.0817
 146,2030,0.0319
 146,2050,0.034
 147,1998,0.0002
@@ -2081,6 +2119,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 147,2016,0.0309
 147,2017,0.0296
 147,2018,0.032
+147,2019,0.0308
 147,2030,0.0044
 147,2050,0.0089
 148,2012,0
@@ -2090,6 +2129,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 148,2016,0
 148,2017,0
 148,2018,0
+148,2019,0
 149,1961,0.0002
 149,1962,0.0006
 149,1963,0.0009
@@ -2148,6 +2188,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 149,2016,0.1661
 149,2017,0.144
 149,2018,0.2
+149,2019,0.17
 149,2030,0.0135
 149,2050,0.0235
 15,1961,0.1715
@@ -2247,6 +2288,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 150,2016,0.3521
 150,2017,0.3526
 150,2018,0.3159
+150,2019,0.3402
 150,2030,0.4142
 150,2050,0.4167
 153,1975,0.0004
@@ -2293,6 +2335,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 153,2016,0.0009
 153,2017,0.0009
 153,2018,0.0009
+153,2019,0.0009
 153,2030,0.0016
 153,2050,0.0018
 154,1994,0.0568
@@ -2320,6 +2363,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 154,2016,0.0354
 154,2017,0.033
 154,2018,0.0282
+154,2019,0.0322
 154,2030,0.0385
 154,2050,0.0411
 156,1961,0.0067
@@ -2380,6 +2424,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 156,2016,0.6789
 156,2017,0.6961
 156,2018,0.7197
+156,2019,0.6982
 156,2030,0.1504
 156,2050,0.1551
 157,1961,0.0053
@@ -2440,6 +2485,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 157,2016,0.0934
 157,2017,0.122
 157,2018,0.0759
+157,2019,0.0971
 157,2030,0.1227
 157,2050,0.1542
 158,1964,0.0002
@@ -2497,6 +2543,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 158,2016,0.0101
 158,2017,0.0101
 158,2018,0.0101
+158,2019,0.0101
 158,2030,0.0232
 158,2050,0.0722
 159,1961,0.0006
@@ -2557,6 +2604,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 159,2016,0.4537
 159,2017,0.717
 159,2018,0.6965
+159,2019,0.6224
 159,2030,0.5813
 159,2050,0.9561
 16,1961,0.0314
@@ -2617,6 +2665,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 16,2016,1.8422
 16,2017,1.9493
 16,2018,2.0909
+16,2019,1.9608
 16,2030,2.9603
 16,2050,3.2196
 162,1961,0.0784
@@ -2677,6 +2726,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 162,2016,0.1606
 162,2017,0.1561
 162,2018,0.1609
+162,2019,0.1592
 162,2030,0.205
 162,2050,0.2313
 165,1961,0.0655
@@ -2737,6 +2787,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 165,2016,5.0944
 165,2017,5.4166
 165,2018,5.4166
+165,2019,5.3092
 165,2030,7.89
 165,2050,9.9277
 166,1961,0.0079
@@ -2797,6 +2848,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 166,2016,0.015
 166,2017,0.0189
 166,2018,0.0183
+166,2019,0.0174
 166,2030,0.0407
 166,2050,0.0579
 167,1993,0.3193
@@ -2825,6 +2877,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 167,2016,0.6351
 167,2017,0.5752
 167,2018,0.5528
+167,2019,0.5877
 167,2030,0.3468
 167,2050,0.3489
 168,1961,0.0002
@@ -2885,6 +2938,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 168,2016,0.033
 168,2017,0.0414
 168,2018,0.0499
+168,2019,0.0414
 168,2030,0.0268
 168,2050,0.0298
 169,1961,0.0001
@@ -2945,6 +2999,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 169,2016,0.1889
 169,2017,0.2103
 169,2018,0.2092
+169,2019,0.2028
 169,2030,0.2089
 169,2050,0.307
 17,1976,0.0002
@@ -2977,6 +3032,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 17,2016,0
 17,2017,0
 17,2018,0.0001
+17,2019,0
 170,1961,0.0853
 170,1962,0.1116
 170,1963,0.11
@@ -3035,6 +3091,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 170,2016,0.4546
 170,2017,0.5187
 170,2018,0.3866
+170,2019,0.4533
 170,2030,0.5186
 170,2050,0.6239
 171,1961,0.0563
@@ -3095,6 +3152,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 171,2016,0.9871
 171,2017,1.1963
 171,2018,1.0209
+171,2019,1.0681
 171,2030,1.4479
 171,2050,1.9311
 173,1961,0.4705
@@ -3155,6 +3213,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 173,2016,1.8081
 173,2017,1.7148
 173,2018,1.7148
+173,2019,1.7459
 173,2030,1.6372
 173,2050,1.6472
 174,1961,0.1075
@@ -3215,6 +3274,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 174,2016,0.1704
 174,2017,0.1661
 174,2018,0.1579
+174,2019,0.1648
 174,2030,0.1553
 174,2050,0.1562
 178,1993,0.0011
@@ -3242,6 +3302,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 178,2016,0.003
 178,2017,0.0028
 178,2018,0.0073
+178,2019,0.0044
 178,2030,0.0022
 178,2050,0.0033
 179,1975,0.0003
@@ -3288,6 +3349,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 179,2016,0.002
 179,2017,0.0022
 179,2018,0.0022
+179,2019,0.0021
 179,2030,0.0009
 179,2050,0.001
 18,1974,0.0001
@@ -3331,6 +3393,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 18,2016,0.0012
 18,2017,0.002
 18,2018,0.0044
+18,2019,0.0026
 18,2030,0.0024
 18,2050,0.0042
 181,1961,0.029
@@ -3391,6 +3454,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 181,2016,0.0913
 181,2017,0.1021
 181,2018,0.1021
+181,2019,0.0985
 181,2030,0.1648
 181,2050,0.2804
 183,1961,0.4307
@@ -3451,6 +3515,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 183,2016,0.5411
 183,2017,0.5411
 183,2018,0.5411
+183,2019,0.5411
 183,2030,0.4186
 183,2050,0.4212
 184,1967,0.0001
@@ -3503,6 +3568,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 184,2016,0.0068
 184,2017,0.0068
 184,2018,0.0068
+184,2019,0.0068
 184,2030,0.0115
 184,2050,0.0229
 185,1992,4.1203
@@ -3532,6 +3598,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 185,2016,2.271
 185,2017,2.3772
 185,2018,2.4232
+185,2019,2.3572
 185,2030,2.2995
 185,2050,2.5209
 186,1992,0.1226
@@ -3606,6 +3673,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 188,2016,0
 188,2017,0
 188,2018,0
+188,2019,0
 188,2030,0.0001
 188,2050,0.0001
 189,1961,0.0003
@@ -3660,6 +3728,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 189,2016,0.0004
 189,2017,0.0002
 189,2018,0.0002
+189,2019,0.0003
 19,1961,0.0006
 19,1962,0.0006
 19,1963,0.0007
@@ -3718,6 +3787,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 19,2016,0.0316
 19,2017,0.0223
 19,2018,0.0223
+19,2019,0.0254
 19,2030,0.0406
 19,2050,0.0578
 194,1961,0.0031
@@ -3778,6 +3848,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 194,2016,0.3173
 194,2017,0.2723
 194,2018,0.2723
+194,2019,0.2873
 194,2030,0.1846
 194,2050,0.2081
 195,1961,0.004
@@ -3838,6 +3909,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 195,2016,0.0558
 195,2017,0.0581
 195,2018,0.0581
+195,2019,0.0574
 195,2030,0.0383
 195,2050,0.0831
 196,1982,0.0013
@@ -3861,6 +3933,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 196,2016,0.0001
 196,2017,0.0001
 196,2018,0.0001
+196,2019,0.0001
 196,2030,0.0001
 196,2050,0.0001
 198,1992,0.0751
@@ -3890,6 +3963,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 198,2016,0.0426
 198,2017,0.0426
 198,2018,0.0429
+198,2019,0.0427
 198,2030,0.0451
 198,2050,0.0454
 199,1993,0.102
@@ -3918,6 +3992,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 199,2016,0.1984
 199,2017,0.1926
 199,2018,0.2027
+199,2019,0.1979
 199,2030,0.1309
 199,2050,0.1316
 2,1961,0.0016
@@ -3976,6 +4051,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 2,2016,0.1519
 2,2017,0.2212
 2,2018,0.0732
+2,2019,0.1488
 2,2030,0.0671
 2,2050,0.1245
 20,1961,0.0016
@@ -4029,6 +4105,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 20,2016,0.0332
 20,2017,0.0332
 20,2018,0.0332
+20,2019,0.0332
 200,1961,0.0016
 200,1962,0.0016
 200,1963,0.0016
@@ -4087,6 +4164,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 200,2016,0
 200,2017,0
 200,2018,0
+200,2019,0
 200,2030,0.0131
 200,2050,0.0145
 202,1961,0.0856
@@ -4147,6 +4225,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 202,2016,0.5139
 202,2017,0.7386
 202,2018,0.7386
+202,2019,0.6637
 202,2030,0.9542
 202,2050,1.1271
 203,1961,0.5141
@@ -4207,6 +4286,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 203,2016,1.5434
 203,2017,1.6961
 203,2018,1.6241
+203,2019,1.6212
 203,2030,1.4755
 203,2050,1.4845
 206,1961,0.0384
@@ -4320,6 +4400,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 207,2016,0.0191
 207,2017,0.0195
 207,2018,0.011
+207,2019,0.0165
 207,2030,0.0118
 207,2050,0.0133
 208,1992,0.1006
@@ -4349,6 +4430,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 208,2016,0.0125
 208,2017,0.0125
 208,2018,0.0125
+208,2019,0.0125
 208,2030,0.0193
 208,2050,0.0246
 21,1961,0.0865
@@ -4409,6 +4491,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 21,2016,6.84
 21,2017,8.1285
 21,2018,8.0453
+21,2019,7.6713
 21,2030,11.782
 21,2050,13.4198
 210,1961,0.1752
@@ -4469,6 +4552,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 210,2016,0.2924
 210,2017,0.3119
 210,2018,0.2894
+210,2019,0.2979
 210,2030,0.2505
 210,2050,0.2521
 211,1961,0.0251
@@ -4529,6 +4613,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 211,2016,0.0826
 211,2017,0.0763
 211,2018,0.07
+211,2019,0.0763
 211,2030,0.1009
 211,2050,0.1139
 212,1961,0.015
@@ -4589,6 +4674,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 212,2016,0.0279
 212,2017,0.0118
 212,2018,0.0085
+212,2019,0.0161
 212,2030,0.5539
 212,2050,0.7207
 214,2002,0.3392
@@ -4608,6 +4694,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 214,2016,0.2432
 214,2017,0.2432
 214,2018,0.2432
+214,2019,0.2432
 214,2030,0.3218
 214,2050,0.3323
 215,1961,0.0022
@@ -4668,6 +4755,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 215,2016,0.169
 215,2017,0.1666
 215,2018,0.2228
+215,2019,0.1861
 215,2030,0.1769
 215,2050,0.3992
 216,1961,0.0174
@@ -4728,6 +4816,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 216,2016,2.3282
 216,2017,2.7135
 216,2018,2.3822
+216,2019,2.4746
 216,2030,2.4879
 216,2050,2.4832
 217,1969,0.0001
@@ -4780,6 +4869,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 217,2016,0.0194
 217,2017,0.0067
 217,2018,0.0067
+217,2019,0.0109
 217,2030,0.0007
 217,2050,0.0012
 219,1982,0.0001
@@ -4803,6 +4893,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 219,2016,0.0001
 219,2017,0.0002
 219,2018,0.0001
+219,2019,0.0001
 219,2030,0
 219,2050,0
 220,1961,0.0047
@@ -4863,6 +4954,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 220,2016,0.0102
 220,2017,0.0102
 220,2018,0.0102
+220,2019,0.0102
 220,2030,0.0111
 220,2050,0.0111
 221,1973,0.0002
@@ -4911,6 +5003,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 221,2016,0.0189
 221,2017,0.0138
 221,2018,0.0161
+221,2019,0.0163
 221,2030,0.0071
 221,2050,0.008
 222,1961,0.0047
@@ -4971,6 +5064,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 222,2016,0.1465
 222,2017,0.1128
 222,2018,0.1128
+222,2019,0.124
 222,2030,0.2044
 222,2050,0.3798
 223,1961,0.0856
@@ -5031,6 +5125,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 223,2016,2.9802
 223,2017,2.773
 223,2018,2.4005
+223,2019,2.7179
 223,2030,2.4569
 223,2050,2.7127
 225,1972,0.0007
@@ -5080,6 +5175,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 225,2016,0.0238
 225,2017,0.0238
 225,2018,0.0238
+225,2019,0.0238
 225,2030,0.0285
 225,2050,0.0321
 226,1961,0.0019
@@ -5136,6 +5232,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 226,2016,0.0134
 226,2017,0.012
 226,2018,0.0176
+226,2019,0.0143
 226,2030,0.0158
 226,2050,0.0358
 228,1961,1.3499
@@ -5227,6 +5324,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 229,2016,1.6123
 229,2017,1.6359
 229,2018,1.6233
+229,2019,1.6238
 229,2030,1.5742
 229,2050,1.5838
 23,1961,0.0002
@@ -5287,6 +5385,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 23,2016,0.0264
 23,2017,0.0213
 23,2018,0.0168
+23,2019,0.0215
 23,2030,0.008
 23,2050,0.0091
 230,1992,2.1026
@@ -5316,6 +5415,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 230,2016,1.8816
 230,2017,2.1455
 230,2018,2.2077
+230,2019,2.0783
 230,2030,1.012
 230,2050,1.0803
 231,1961,4.6447
@@ -5376,6 +5476,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 231,2016,18.3948
 231,2017,18.4996
 231,2018,18.2984
+231,2019,18.3976
 231,2030,16.0318
 231,2050,16.8709
 233,1969,0.0005
@@ -5428,6 +5529,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 233,2016,0.1063
 233,2017,0.0916
 233,2018,0.089
+233,2019,0.0956
 233,2030,0.1125
 233,2050,0.1865
 234,1961,0.0071
@@ -5488,6 +5590,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 234,2016,0.246
 234,2017,0.2443
 234,2018,0.2718
+234,2019,0.2541
 234,2030,0.3726
 234,2050,0.4436
 235,1992,0.6443
@@ -5517,6 +5620,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 235,2016,1.1335
 235,2017,1.1335
 235,2018,1.1335
+235,2019,1.1335
 235,2030,1.1988
 235,2050,1.5306
 236,1961,0.0157
@@ -5577,6 +5681,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 236,2016,0.3963
 236,2017,0.4095
 236,2018,0.4095
+236,2019,0.4051
 236,2030,0.471
 236,2050,0.5654
 237,1961,0.022
@@ -5637,6 +5742,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 237,2016,2.434
 237,2017,2.4565
 237,2018,2.4716
+237,2019,2.454
 237,2030,1.981
 237,2050,2.1312
 238,1993,0.0464
@@ -5665,6 +5771,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 238,2016,0.5462
 238,2017,0.5918
 238,2018,0.6602
+238,2019,0.5994
 238,2030,0.4094
 238,2050,0.7352
 244,1975,0
@@ -5691,6 +5798,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 244,2016,0
 244,2017,0
 244,2018,0
+244,2019,0
 244,2030,0
 244,2050,0
 248,1961,0.1696
@@ -5777,6 +5885,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 249,2016,0.0294
 249,2017,0.0207
 249,2018,0.0057
+249,2019,0.0186
 249,2030,0.0583
 249,2050,0.1008
 250,1961,0.0001
@@ -5835,6 +5944,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 250,2016,0.0178
 250,2017,0.0252
 250,2018,0.0152
+250,2019,0.0194
 250,2030,0.0078
 250,2050,0.0181
 251,1961,0.0083
@@ -5895,6 +6005,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 251,2016,0.2956
 251,2017,0.3311
 251,2018,0.2325
+251,2019,0.2864
 251,2030,0.2303
 251,2050,0.4764
 255,2002,0.2374
@@ -5914,6 +6025,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 255,2016,0.27
 255,2017,0.2678
 255,2018,0.2678
+255,2019,0.2686
 255,2030,0.2242
 255,2050,0.2255
 256,2002,0.0203
@@ -5933,6 +6045,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 256,2016,0.0216
 256,2017,0.0213
 256,2018,0.0205
+256,2019,0.0211
 256,2030,0.0213
 256,2050,0.0214
 26,1980,0
@@ -5965,6 +6078,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 26,2016,0.0004
 26,2017,0.0004
 26,2018,0.0004
+26,2019,0.0004
 26,2030,0.0004
 26,2050,0.0004
 27,1961,0.1151
@@ -6025,6 +6139,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 27,2016,0.5243
 27,2017,0.5257
 27,2018,0.5257
+27,2019,0.5253
 27,2030,0.2751
 27,2050,0.2768
 272,2006,0.385
@@ -6040,6 +6155,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 272,2016,0.3707
 272,2017,0.3415
 272,2018,0.1825
+272,2019,0.2982
 272,2030,0.5976
 272,2050,0.638
 273,2006,0.0027
@@ -6055,6 +6171,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 273,2016,0.0021
 273,2017,0.0016
 273,2018,0.002
+273,2019,0.0019
 273,2030,0.0033
 273,2050,0.0036
 276,2012,0.0451
@@ -6064,6 +6181,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 276,2016,0.281
 276,2017,0.2576
 276,2018,0.2562
+276,2019,0.265
 28,1961,0.0071
 28,1962,0.0079
 28,1963,0.0079
@@ -6122,6 +6240,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 28,2016,0.2352
 28,2017,0.4027
 28,2018,0.4263
+28,2019,0.3547
 28,2030,0.1845
 28,2050,0.2373
 29,1966,0.0002
@@ -6177,6 +6296,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 29,2016,0.0127
 29,2017,0.0159
 29,2018,0.0211
+29,2019,0.0166
 29,2030,0.0053
 29,2050,0.0124
 3,1961,0.005
@@ -6237,6 +6357,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 3,2016,0.0674
 3,2017,0.0616
 3,2018,0.0389
+3,2019,0.056
 3,2030,0.0705
 3,2050,0.0752
 32,1961,0.0024
@@ -6297,6 +6418,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 32,2016,0.0625
 32,2017,0.073
 32,2018,0.0731
+32,2019,0.0695
 32,2030,0.0846
 32,2050,0.1415
 33,1961,0.1545
@@ -6357,6 +6479,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 33,2016,3.8673
 33,2017,3.883
 33,2018,4.3513
+33,2019,4.0339
 33,2030,3.2018
 33,2050,3.5639
 351,1961,0.8549
@@ -6417,6 +6540,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 351,2016,48.0073
 351,2017,46.6838
 351,2018,44.4815
+351,2019,46.3909
 351,2030,47.5537
 351,2050,49.1025
 37,1961,0.0002
@@ -6477,6 +6601,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 37,2016,0.0003
 37,2017,0.0001
 37,2018,0.0001
+37,2019,0.0002
 37,2030,0.0011
 37,2050,0.0019
 38,1961,0.0573
@@ -6537,6 +6662,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 38,2016,0.1851
 38,2017,0.1724
 38,2018,0.1082
+38,2019,0.1552
 38,2030,0.5027
 38,2050,0.514
 4,1961,0.0141
@@ -6597,6 +6723,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 4,2016,0.1103
 4,2017,0.1103
 4,2018,0.1103
+4,2019,0.1103
 4,2030,0.0886
 4,2050,0.1202
 40,1961,0.0245
@@ -6657,6 +6784,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 40,2016,0.4144
 40,2017,0.4144
 40,2018,0.4144
+40,2019,0.4144
 40,2030,0.5008
 40,2050,0.6039
 41,1961,0.8549
@@ -6717,6 +6845,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 41,2016,47.7525
 41,2017,46.4278
 41,2018,44.2223
+41,2019,46.1342
 41,2030,47.2304
 41,2050,48.7686
 44,1961,0.0361
@@ -6777,6 +6906,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 44,2016,0.8101
 44,2017,0.9626
 44,2018,0.8882
+44,2019,0.887
 44,2030,1.0898
 44,2050,1.3917
 46,1961,0.0003
@@ -6832,6 +6962,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 46,2016,0.0005
 46,2017,0.0005
 46,2018,0.0005
+46,2019,0.0005
 46,2030,0.0002
 46,2050,0.0004
 47,2002,0
@@ -6851,6 +6982,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 47,2016,0.0001
 47,2017,0
 47,2018,0
+47,2019,0
 47,2030,0
 47,2050,0
 48,1961,0.0098
@@ -6911,6 +7043,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 48,2016,0.1555
 48,2017,0.1426
 48,2018,0.1512
+48,2019,0.1498
 48,2030,0.1463
 48,2050,0.1702
 49,1961,0.0629
@@ -6971,6 +7104,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 49,2016,0.1
 49,2017,0.1067
 49,2018,0.0841
+49,2019,0.0969
 49,2030,0.1008
 49,2050,0.1272
 50,1961,0.0127
@@ -7031,6 +7165,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 50,2016,0.0125
 50,2017,0.0125
 50,2018,0.0122
+50,2019,0.0124
 50,2030,0.0104
 50,2050,0.0104
 5000,1961,17.9014
@@ -7091,8 +7226,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5000,2016,169.6259
 5000,2017,172.7082
 5000,2018,170.7483
-5000,2030,190.4757
-5000,2050,213.2614
+5000,2019,171.0275
+5000,2030,190.4543
+5000,2050,213.2498
 51,1961,0.224
 51,1962,0.2493
 51,1963,0.2778
@@ -7183,8 +7319,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5100,2016,5.9119
 5100,2017,6.7698
 5100,2018,6.7554
-5100,2030,7.5516
-5100,2050,11.176
+5100,2019,6.479
+5100,2030,7.5302
+5100,2050,11.1643
 5101,1961,0.0708
 5101,1962,0.0677
 5101,1963,0.0776
@@ -7243,8 +7380,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5101,2016,1.4531
 5101,2017,1.5948
 5101,2018,1.6016
-5101,2030,1.6947
-5101,2050,3.2504
+5101,2019,1.5498
+5101,2030,1.683
+5101,2050,3.2388
 5102,1961,0.0038
 5102,1962,0.0049
 5102,1963,0.006
@@ -7303,7 +7441,8 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5102,2016,0.1195
 5102,2017,0.153
 5102,2018,0.1332
-5102,2030,0.135
+5102,2019,0.1352
+5102,2030,0.1253
 5102,2050,0.2309
 5103,1961,0.3762
 5103,1962,0.3941
@@ -7363,6 +7502,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5103,2016,2.7532
 5103,2017,2.9575
 5103,2018,2.9561
+5103,2019,2.8889
 5103,2030,3.6702
 5103,2050,4.6932
 5104,1961,0.0872
@@ -7423,6 +7563,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5104,2016,0.578
 5104,2017,0.8014
 5104,2018,0.8038
+5104,2019,0.7277
 5104,2030,0.9587
 5104,2050,1.136
 5105,1961,0.0084
@@ -7483,6 +7624,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5105,2016,1.0081
 5105,2017,1.2631
 5105,2018,1.2607
+5105,2019,1.1773
 5105,2030,1.093
 5105,2050,1.8655
 52,1992,0.0786
@@ -7512,6 +7654,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 52,2016,0.1361
 52,2017,0.1127
 52,2018,0.1869
+52,2019,0.1452
 52,2030,0.0409
 52,2050,0.0522
 5200,1961,5.4628
@@ -7572,6 +7715,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5200,2016,36.7611
 5200,2017,38.5024
 5200,2018,38.616
+5200,2019,37.9598
 5200,2030,40.8045
 5200,2050,45.7492
 5203,1961,4.7992
@@ -7632,6 +7776,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5203,2016,22.2621
 5203,2017,22.3827
 5203,2018,22.6498
+5203,2019,22.4315
 5203,2030,19.2336
 5203,2050,20.4349
 5204,1961,0.2798
@@ -7692,6 +7837,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5204,2016,3.1298
 5204,2017,3.1344
 5204,2018,2.886
+5204,2019,3.0501
 5204,2030,3.5871
 5204,2050,4.4139
 5206,1961,0.0991
@@ -7752,6 +7898,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5206,2016,0.2204
 5206,2017,0.2359
 5206,2018,0.2427
+5206,2019,0.233
 5206,2030,0.2495
 5206,2050,0.3081
 5207,1961,0.2846
@@ -7812,6 +7959,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5207,2016,11.1487
 5207,2017,12.7494
 5207,2018,12.8375
+5207,2019,12.2452
 5207,2030,17.7343
 5207,2050,20.5923
 53,1961,0
@@ -7872,6 +8020,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 53,2016,0.0223
 53,2017,0.0001
 53,2018,0.0755
+53,2019,0.0326
 53,2030,0.0012
 53,2050,0.0021
 5300,1961,3.2006
@@ -7932,6 +8081,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5300,2016,100.6594
 5300,2017,100.6673
 5300,2018,99.0833
+5300,2019,100.1367
 5300,2030,117.793
 5300,2050,131.2087
 5301,1992,1.0203
@@ -7961,6 +8111,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5301,2016,1.3282
 5301,2017,1.3254
 5301,2018,1.3501
+5301,2019,1.3346
 5301,2030,1.3439
 5301,2050,1.7157
 5302,1961,2.191
@@ -8021,6 +8172,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5302,2016,48.9782
 5302,2017,47.6805
 5302,2018,45.4962
+5302,2019,47.385
 5302,2030,48.776
 5302,2050,50.1676
 5303,1961,0.5599
@@ -8081,6 +8233,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5303,2016,34.6277
 5303,2017,35.4421
 5303,2018,36.4831
+5303,2019,35.5176
 5303,2030,51.1242
 5303,2050,60.3353
 5304,1961,0.2852
@@ -8141,6 +8294,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5304,2016,11.5586
 5304,2017,12.3383
 5304,2018,12.1899
+5304,2019,12.0289
 5304,2030,12.3492
 5304,2050,13.7396
 5305,1961,0.1645
@@ -8201,6 +8355,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5305,2016,4.1667
 5305,2017,3.881
 5305,2018,3.5639
+5305,2019,3.8705
 5305,2030,4.1998
 5305,2050,5.2504
 54,1961,0.2098
@@ -8261,6 +8416,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 54,2016,0.3585
 54,2017,0.3447
 54,2018,0.3016
+54,2019,0.3349
 54,2030,0.2881
 54,2050,0.2899
 5400,1961,8.6274
@@ -8321,6 +8477,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5400,2016,23.2569
 5400,2017,23.6742
 5400,2018,23.3001
+5400,2019,23.4104
 5400,2030,22.3133
 5400,2050,22.8888
 5401,1961,2.7394
@@ -8381,6 +8538,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5401,2016,9.0253
 5401,2017,9.3729
 5401,2018,9.57
+5401,2019,9.3228
 5401,2030,7.5458
 5401,2050,7.9215
 5402,1961,1.3933
@@ -8441,6 +8599,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5402,2016,3.565
 5402,2017,3.6713
 5402,2018,3.6619
+5402,2019,3.6328
 5402,2030,3.4059
 5402,2050,3.4547
 5403,1961,1.4743
@@ -8501,6 +8660,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5403,2016,3.7042
 5403,2017,3.8699
 5403,2018,3.5719
+5403,2019,3.7153
 5403,2030,4.3057
 5403,2050,4.4013
 5404,1961,3.0203
@@ -8561,6 +8721,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5404,2016,6.9624
 5404,2017,6.76
 5404,2018,6.4962
+5404,2019,6.7395
 5404,2030,7.0559
 5404,2050,7.1113
 55,1976,0.0025
@@ -8606,6 +8767,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 55,2016,0.0001
 55,2017,0.0002
 55,2018,0.0001
+55,2019,0.0001
 55,2030,0.0007
 55,2050,0.0007
 5500,1961,0.0642
@@ -8666,6 +8828,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5500,2016,3.0366
 5500,2017,3.0946
 5500,2018,2.9935
+5500,2019,3.0416
 5500,2030,2.0134
 5500,2050,2.2387
 5501,1961,0.0617
@@ -8726,6 +8889,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5501,2016,2.9953
 5501,2017,3.0436
 5501,2018,2.9373
+5501,2019,2.9921
 5501,2030,1.9736
 5501,2050,2.1945
 5502,1961,0.0025
@@ -8786,6 +8950,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5502,2016,0.0405
 5502,2017,0.0503
 5502,2018,0.0555
+5502,2019,0.0488
 5502,2030,0.039
 5502,2050,0.0434
 5503,2012,0
@@ -8795,6 +8960,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5503,2016,0
 5503,2017,0
 5503,2018,0
+5503,2019,0
 5504,1974,0.0001
 5504,1975,0.0002
 5504,1976,0.0003
@@ -8840,6 +9006,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5504,2016,0.0008
 5504,2017,0.0007
 5504,2018,0.0007
+5504,2019,0.0007
 5504,2030,0.0007
 5504,2050,0.0008
 56,1961,0.0168
@@ -8900,6 +9067,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 56,2016,0.1031
 56,2017,0.1108
 56,2018,0.1409
+56,2019,0.1182
 56,2030,0.1247
 56,2050,0.1569
 57,1992,0.3929
@@ -8929,6 +9097,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 57,2016,0.5477
 57,2017,0.6393
 57,2018,0.6363
+57,2019,0.6077
 57,2030,0.9485
 57,2050,1.0125
 5706,1961,6.7764
@@ -8989,6 +9158,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5706,2016,17.6251
 5706,2017,17.6212
 5706,2018,17.3349
+5706,2019,17.5271
 5706,2030,16.9487
 5706,2050,17.0751
 5707,1961,5.9963
@@ -9049,6 +9219,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5707,2016,16.0128
 5707,2017,15.9854
 5707,2018,15.7116
+5707,2019,15.9033
 5707,2030,15.3745
 5707,2050,15.4913
 58,1961,0.0073
@@ -9109,6 +9280,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 58,2016,0.2694
 58,2017,0.285
 58,2018,0.3244
+58,2019,0.2929
 58,2030,0.2819
 58,2050,0.3433
 5801,1961,0.1133
@@ -9169,6 +9341,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5801,2016,4.45
 5801,2017,4.9586
 5801,2018,5.1204
+5801,2019,4.843
 5801,2030,5.1934
 5801,2050,7.3414
 5802,1961,0.0475
@@ -9229,6 +9402,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5802,2016,3.7826
 5802,2017,3.8338
 5802,2018,3.853
+5802,2019,3.8232
 5802,2030,3.3652
 5802,2050,5.2709
 5803,1961,0.1267
@@ -9289,8 +9463,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5803,2016,0.3399
 5803,2017,0.3425
 5803,2018,0.375
-5803,2030,0.3534
-5803,2050,0.4254
+5803,2019,0.3525
+5803,2030,0.3417
+5803,2050,0.4138
 5815,1961,0.5647
 5815,1962,0.6898
 5815,1963,0.8042
@@ -9349,6 +9524,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5815,2016,34.2713
 5815,2017,34.8874
 5815,2018,36.0792
+5815,2019,35.0793
 5815,2030,46.4367
 5815,2050,55.6582
 5817,1961,0.8079
@@ -9409,8 +9585,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5817,2016,13.7557
 5817,2017,14.9049
 5817,2018,14.8432
-5817,2030,18.9569
-5817,2050,24.6885
+5817,2019,14.5013
+5817,2030,18.9355
+5817,2050,24.6768
 5848,1961,14.4073
 5848,1962,15.9412
 5848,1963,17.7856
@@ -9469,6 +9646,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5848,2016,51.4222
 5848,2017,51.8483
 5848,2018,51.4519
+5848,2019,51.5741
 5848,2030,45.9211
 5848,2050,48.0087
 5849,1961,3.4941
@@ -9529,8 +9707,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5849,2016,118.2036
 5849,2017,120.86
 5849,2018,119.2964
-5849,2030,144.5546
-5849,2050,165.2527
+5849,2019,119.4533
+5849,2030,144.5332
+5849,2050,165.241
 5873,1961,12.8883
 5873,1962,14.4353
 5873,1963,15.8133
@@ -9589,6 +9768,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 5873,2016,48.4423
 5873,2017,48.2976
 5873,2018,47.6212
+5873,2019,48.1204
 5873,2030,44.0084
 5873,2050,46.3399
 59,1961,0.3015
@@ -9649,6 +9829,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 59,2016,2.0116
 59,2017,2.0631
 59,2018,2.0631
+59,2019,2.0459
 59,2030,2.3949
 59,2050,2.8732
 60,1961,0.019
@@ -9709,6 +9890,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 60,2016,0.0823
 60,2017,0.0947
 60,2018,0.0862
+60,2019,0.0877
 60,2030,0.1865
 60,2050,0.2445
 62,1961,0.0003
@@ -9770,6 +9952,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 63,2016,0.0572
 63,2017,0.0587
 63,2018,0.0611
+63,2019,0.059
 63,2030,0.0347
 63,2050,0.0349
 66,1961,0.0023
@@ -9830,6 +10013,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 66,2016,0.0066
 66,2017,0.008
 66,2018,0.0047
+66,2019,0.0064
 66,2030,0.0106
 66,2050,0.0118
 67,1961,0.0929
@@ -9890,6 +10074,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 67,2016,0.2171
 67,2017,0.2183
 67,2018,0.2175
+67,2019,0.2176
 67,2030,0.2741
 67,2050,0.2758
 68,1961,0.9817
@@ -9950,6 +10135,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 68,2016,3.4441
 68,2017,3.5104
 68,2018,3.533
+68,2019,3.4958
 68,2030,3.4905
 68,2050,3.5118
 7,1961,0.0008
@@ -10009,6 +10195,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 7,2016,0.0326
 7,2017,0.042
 7,2018,0.0345
+7,2019,0.0364
 7,2030,0.0317
 7,2050,0.0667
 70,1974,0.0001
@@ -10056,6 +10243,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 70,2016,0.0005
 70,2017,0.0005
 70,2018,0.0005
+70,2019,0.0005
 70,2030,0.0007
 70,2050,0.0008
 73,1992,0.0974
@@ -10085,6 +10273,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 73,2016,0.0801
 73,2017,0.0624
 73,2018,0.0651
+73,2019,0.0692
 73,2030,0.0478
 73,2050,0.061
 74,1972,0.0001
@@ -10134,7 +10323,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 74,2016,0.0058
 74,2017,0.0122
 74,2018,0.0098
-74,2030,0.0098
+74,2019,0.0092
 74,2050,0.0024
 75,1964,0
 75,1965,0
@@ -10190,6 +10379,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 75,2016,0.0002
 75,2017,0.0001
 75,2018,0.0032
+75,2019,0.0011
 75,2030,0.0051
 75,2050,0.0115
 79,1961,1.3781
@@ -10250,6 +10440,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 79,2016,2.6067
 79,2017,2.3519
 79,2018,2.1093
+79,2019,2.356
 79,2030,2.6605
 79,2050,2.6768
 8,2002,0
@@ -10269,6 +10460,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 8,2016,0.0001
 8,2017,0
 8,2018,0
+8,2019,0
 8,2030,0
 8,2050,0
 80,1995,0.0079
@@ -10295,6 +10487,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 80,2016,0.136
 80,2017,0.1401
 80,2018,0.1091
+80,2019,0.1284
 80,2030,0.0438
 80,2050,0.0468
 81,1961,0.0003
@@ -10355,6 +10548,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 81,2016,0.0674
 81,2017,0.1289
 81,2018,0.0867
+81,2019,0.0943
 81,2030,0.0669
 81,2050,0.1003
 84,1961,0.131
@@ -10415,6 +10609,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 84,2016,0.2721
 84,2017,0.2856
 84,2018,0.282
+84,2019,0.2799
 84,2030,0.2629
 84,2050,0.2645
 89,1961,0.0142
@@ -10475,6 +10670,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 89,2016,0.2629
 89,2017,0.2737
 89,2018,0.2716
+89,2019,0.2694
 89,2030,0.3451
 89,2050,0.3906
 9,1961,0.0132
@@ -10535,6 +10731,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 9,2016,1.4607
 9,2017,1.5335
 9,2018,1.8237
+9,2019,1.606
 9,2030,2.4393
 9,2050,2.8008
 90,1961,0.0008
@@ -10594,6 +10791,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 90,2016,0.01
 90,2017,0.0368
 90,2018,0.0149
+90,2019,0.0206
 90,2030,0.0149
 90,2050,0.028
 91,1961,0.0072
@@ -10654,6 +10852,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 91,2016,0.0175
 91,2017,0.0007
 91,2018,0.0311
+91,2019,0.0164
 91,2030,0.0172
 91,2050,0.0218
 95,1961,0.0083
@@ -10714,6 +10913,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 95,2016,0.151
 95,2017,0.1732
 95,2018,0.1731
+95,2019,0.1658
 95,2030,0.1849
 95,2050,0.2742
 96,2002,0.0027
@@ -10733,6 +10933,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 96,2016,0.0117
 96,2017,0.0128
 96,2018,0.016
+96,2019,0.0135
 96,2030,0.0015
 96,2050,0.0015
 97,1961,0.1493
@@ -10793,6 +10994,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 97,2016,0.5459
 97,2017,0.5889
 97,2018,0.6657
+97,2019,0.6001
 97,2030,0.4453
 97,2050,0.448
 98,1992,0.2098
@@ -10822,6 +11024,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 98,2016,0.1136
 98,2017,0.1546
 98,2018,0.1562
+98,2019,0.1415
 98,2030,0.3761
 98,2050,0.4015
 99,1961,0.0116
@@ -10882,5 +11085,6 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_volatilises_synth
 99,2016,0.017
 99,2017,0.0205
 99,2018,0.0185
+99,2019,0.0187
 99,2030,0.0234
 99,2050,0.0264

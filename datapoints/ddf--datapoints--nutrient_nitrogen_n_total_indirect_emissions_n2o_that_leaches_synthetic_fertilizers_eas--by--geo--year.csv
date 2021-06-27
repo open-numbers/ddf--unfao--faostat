@@ -26,6 +26,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 1,2016,0.5172
 1,2017,0.3186
 1,2018,0.3186
+1,2019,0.3848
 1,2030,0.1596
 1,2050,0.2038
 10,1961,0.1238
@@ -86,6 +87,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 10,2016,5.212
 10,2017,5.2817
 10,2018,4.9897
+10,2019,5.1611
 10,2030,4.1023
 10,2050,4.5887
 100,1961,0.8832
@@ -146,6 +148,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 100,2016,59.1716
 100,2017,59.9586
 100,2018,62.3283
+100,2019,60.4862
 100,2030,83.7383
 100,2050,97.8903
 101,1961,0.2997
@@ -206,6 +209,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 101,2016,10.48
 101,2017,10.4374
 101,2018,11.4454
+101,2019,10.7876
 101,2030,11.8706
 101,2050,13.2001
 102,1961,0.0257
@@ -266,6 +270,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 102,2016,1.9974
 102,2017,1.9974
 102,2018,1.9974
+102,2019,1.9974
 102,2030,5.5594
 102,2050,6.7831
 103,1961,0.0037
@@ -326,6 +331,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 103,2016,0.3694
 103,2017,0.6397
 103,2018,0.6397
+103,2019,0.5496
 103,2030,1.3021
 103,2050,2.3777
 104,1961,0.102
@@ -386,6 +392,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 104,2016,1.0692
 104,2017,1.2171
 104,2018,1.3995
+104,2019,1.2286
 104,2030,1.125
 104,2050,1.1318
 105,1961,0.0753
@@ -446,6 +453,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 105,2016,0.1655
 105,2017,0.1775
 105,2018,0.1775
+105,2019,0.1735
 105,2030,0.1623
 105,2050,0.1906
 106,1961,1.2295
@@ -506,6 +514,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 106,2016,2.1311
 106,2017,2.1289
 106,2018,2.1289
+106,2019,2.1296
 106,2030,2.781
 106,2050,2.7979
 107,1961,0.0061
@@ -566,6 +575,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 107,2016,0.1649
 107,2017,0.1168
 107,2018,0.1307
+107,2019,0.1374
 107,2030,0.1042
 107,2050,0.2154
 108,1992,0.5304
@@ -595,6 +605,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 108,2016,0.3603
 108,2017,0.3709
 108,2018,0.3709
+108,2019,0.3674
 108,2030,0.1442
 108,2050,0.1841
 109,1961,0.0232
@@ -655,6 +666,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 109,2016,0.0111
 109,2017,0.0133
 109,2018,0.0131
+109,2019,0.0125
 109,2030,0.0222
 109,2050,0.0222
 11,1961,0.1849
@@ -715,6 +727,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 11,2016,0.4166
 11,2017,0.4043
 11,2018,0.4043
+11,2019,0.4084
 11,2030,0.3247
 11,2050,0.3267
 110,1961,2.2395
@@ -775,6 +788,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 110,2016,1.3446
 110,2017,1.3757
 110,2018,1.3757
+110,2019,1.3654
 110,2030,1.6126
 110,2050,1.358
 112,1961,0.0015
@@ -835,6 +849,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 112,2016,0.0782
 112,2017,0.071
 112,2018,0.0704
+112,2019,0.0732
 112,2030,0.1372
 112,2050,0.1733
 113,1992,0.0895
@@ -864,6 +879,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 113,2016,0.0498
 113,2017,0.0329
 113,2018,0.0883
+113,2019,0.057
 113,2030,0.1388
 113,2050,0.1772
 114,1961,0.0106
@@ -924,6 +940,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 114,2016,0.352
 114,2017,0.2963
 114,2018,0.2119
+114,2019,0.2867
 114,2030,0.5694
 114,2050,0.9771
 115,1961,0.0149
@@ -973,6 +990,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 115,2016,0.1968
 115,2017,0.4065
 115,2018,0.4518
+115,2019,0.3517
 115,2030,0.1754
 115,2050,0.2207
 117,1961,0.7668
@@ -1033,6 +1051,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 117,2016,0.7587
 117,2017,0.7407
 117,2018,0.7642
+117,2019,0.7545
 117,2030,1.1104
 117,2050,1.004
 118,1977,0.0004
@@ -1075,6 +1094,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 118,2016,0.0071
 118,2017,0.0071
 118,2018,0.0071
+118,2019,0.0071
 118,2030,0.002
 118,2050,0.0023
 119,1992,0.2227
@@ -1104,6 +1124,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 119,2016,0.2768
 119,2017,0.2738
 119,2018,0.2636
+119,2019,0.2714
 119,2030,0.1514
 119,2050,0.1524
 12,1966,0.0007
@@ -1148,6 +1169,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 12,2016,0.0023
 12,2017,0.0023
 12,2018,0.0023
+12,2019,0.0023
 121,1961,0.0278
 121,1962,0.0209
 121,1963,0.0352
@@ -1206,6 +1228,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 121,2016,0.0734
 121,2017,0.081
 121,2018,0.0598
+121,2019,0.0714
 121,2030,0.0559
 121,2050,0.0698
 124,1961,0.0088
@@ -1266,6 +1289,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 124,2016,0.0552
 124,2017,0.052
 124,2018,0.052
+124,2019,0.053
 124,2030,0.2131
 124,2050,0.2697
 126,1992,0.3111
@@ -1295,6 +1319,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 126,2016,0.5666
 126,2017,0.591
 126,2018,0.5637
+126,2019,0.5738
 126,2030,0.4243
 126,2050,0.4269
 128,2002,0.0001
@@ -1313,6 +1338,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 128,2016,0
 128,2017,0
 128,2018,0
+128,2019,0
 128,2030,0.0001
 128,2050,0.0001
 129,1961,0.0029
@@ -1373,6 +1399,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 129,2016,0.033
 129,2017,0.111
 129,2018,0.1013
+129,2019,0.0818
 129,2030,0.067
 129,2050,0.1302
 13,1972,0
@@ -1419,6 +1446,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 13,2016,0.0007
 13,2017,0.0006
 13,2018,0.0109
+13,2019,0.004
 13,2030,0.0045
 13,2050,0.005
 130,1961,0.0092
@@ -1479,6 +1507,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 130,2016,0.2237
 130,2017,0.3057
 130,2018,0.3114
+130,2019,0.2803
 130,2030,0.7161
 130,2050,1.4675
 131,1961,0.0926
@@ -1539,6 +1568,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 131,2016,1.8642
 131,2017,1.6862
 131,2018,1.352
+131,2019,1.6341
 131,2030,1.9813
 131,2050,2.1985
 132,2002,0
@@ -1558,6 +1588,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 132,2016,0.0012
 132,2017,0.0012
 132,2018,0.0014
+132,2019,0.0013
 132,2030,0.0007
 132,2050,0.0007
 133,1961,0.0001
@@ -1618,6 +1649,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 133,2016,0.4265
 133,2017,0.3641
 133,2018,0.3641
+133,2019,0.3849
 133,2030,0.4557
 133,2050,0.7399
 134,1961,0.0014
@@ -1678,6 +1710,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 134,2016,0.0075
 134,2017,0.0022
 134,2018,0.0046
+134,2019,0.0048
 134,2030,0.0024
 134,2050,0.0024
 137,1961,0.0338
@@ -1738,8 +1771,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 137,2016,0.032
 137,2017,0.0296
 137,2018,0.0262
-137,2030,0.0262
-137,2050,0.0262
+137,2019,0.0293
 138,1961,0.4844
 138,1962,0.5148
 138,1963,0.7814
@@ -1798,6 +1830,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 138,2016,5.2726
 138,2017,5.148
 138,2018,4.709
+138,2019,5.0432
 138,2030,5.744
 138,2050,7.005
 14,1961,0.0089
@@ -1858,6 +1891,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 14,2016,0.001
 14,2017,0.0019
 14,2018,0.0008
+14,2019,0.0012
 14,2030,0.005
 14,2050,0.005
 141,1970,0.0004
@@ -1909,6 +1943,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 141,2016,0.0812
 141,2017,0.1261
 141,2018,0.1433
+141,2019,0.1169
 141,2030,0.0271
 141,2050,0.0347
 143,1961,0.0304
@@ -1969,6 +2004,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 143,2016,0.4035
 143,2017,0.8786
 143,2018,0.8786
+143,2019,0.7202
 143,2030,1.7158
 143,2050,2.2287
 144,1961,0.0088
@@ -2029,6 +2065,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 144,2016,0.0679
 144,2017,0.0799
 144,2018,0.0937
+144,2019,0.0805
 144,2030,0.1479
 144,2050,0.289
 146,1992,0.2288
@@ -2058,6 +2095,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 146,2016,0.1624
 146,2017,0.1635
 146,2018,0.2254
+146,2019,0.1838
 146,2030,0.0717
 146,2050,0.0765
 147,1998,0.0004
@@ -2081,6 +2119,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 147,2016,0.0695
 147,2017,0.0666
 147,2018,0.072
+147,2019,0.0694
 147,2030,0.01
 147,2050,0.02
 148,2012,0
@@ -2090,6 +2129,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 148,2016,0
 148,2017,0
 148,2018,0
+148,2019,0
 149,1961,0.0005
 149,1962,0.0014
 149,1963,0.0021
@@ -2148,6 +2188,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 149,2016,0.3738
 149,2017,0.324
 149,2018,0.4499
+149,2019,0.3826
 149,2030,0.0304
 149,2050,0.0528
 15,1961,0.3859
@@ -2247,6 +2288,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 150,2016,0.7923
 150,2017,0.7933
 150,2018,0.7107
+150,2019,0.7654
 150,2030,0.9319
 150,2050,0.9376
 153,1975,0.0008
@@ -2293,6 +2335,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 153,2016,0.002
 153,2017,0.002
 153,2018,0.002
+153,2019,0.002
 153,2030,0.0036
 153,2050,0.004
 154,1994,0.1279
@@ -2320,6 +2363,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 154,2016,0.0796
 154,2017,0.0742
 154,2018,0.0633
+154,2019,0.0724
 154,2030,0.0866
 154,2050,0.0924
 156,1961,0.0151
@@ -2380,6 +2424,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 156,2016,1.5274
 156,2017,1.5663
 156,2018,1.6194
+156,2019,1.571
 156,2030,0.3383
 156,2050,0.3489
 157,1961,0.0119
@@ -2440,6 +2485,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 157,2016,0.2102
 157,2017,0.2745
 157,2018,0.1708
+157,2019,0.2185
 157,2030,0.2761
 157,2050,0.3469
 158,1964,0.0004
@@ -2497,6 +2543,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 158,2016,0.0228
 158,2017,0.0228
 158,2018,0.0228
+158,2019,0.0228
 158,2030,0.0523
 158,2050,0.1624
 159,1961,0.0013
@@ -2557,6 +2604,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 159,2016,1.0209
 159,2017,1.6133
 159,2018,1.5672
+159,2019,1.4005
 159,2030,1.3079
 159,2050,2.1511
 16,1961,0.0707
@@ -2617,6 +2665,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 16,2016,4.1449
 16,2017,4.3858
 16,2018,4.7046
+16,2019,4.4118
 16,2030,6.6607
 16,2050,7.244
 162,1961,0.1764
@@ -2677,6 +2726,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 162,2016,0.3613
 162,2017,0.3512
 162,2018,0.362
+162,2019,0.3582
 162,2030,0.4612
 162,2050,0.5205
 165,1961,0.1473
@@ -2737,6 +2787,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 165,2016,11.4625
 165,2017,12.1873
 165,2018,12.1873
+165,2019,11.9457
 165,2030,17.7524
 165,2050,22.3373
 166,1961,0.0177
@@ -2797,6 +2848,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 166,2016,0.0337
 166,2017,0.0424
 166,2018,0.0411
+166,2019,0.0391
 166,2030,0.0916
 166,2050,0.1303
 167,1993,0.7183
@@ -2825,6 +2877,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 167,2016,1.4291
 167,2017,1.2942
 167,2018,1.2438
+167,2019,1.3224
 167,2030,0.7802
 167,2050,0.785
 168,1961,0.0004
@@ -2885,6 +2938,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 168,2016,0.0743
 168,2017,0.0932
 168,2018,0.1122
+168,2019,0.0932
 168,2030,0.0603
 168,2050,0.0671
 169,1961,0.0002
@@ -2945,6 +2999,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 169,2016,0.4251
 169,2017,0.4731
 169,2018,0.4706
+169,2019,0.4563
 169,2030,0.4699
 169,2050,0.6908
 17,1976,0.0004
@@ -2977,6 +3032,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 17,2016,0.0001
 17,2017,0.0001
 17,2018,0.0001
+17,2019,0.0001
 170,1961,0.192
 170,1962,0.251
 170,1963,0.2475
@@ -3035,6 +3091,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 170,2016,1.023
 170,2017,1.167
 170,2018,0.8699
+170,2019,1.02
 170,2030,1.1669
 170,2050,1.4038
 171,1961,0.1266
@@ -3095,6 +3152,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 171,2016,2.2209
 171,2017,2.6917
 171,2018,2.2971
+171,2019,2.4032
 171,2030,3.2579
 171,2050,4.345
 173,1961,1.0586
@@ -3155,6 +3213,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 173,2016,4.0682
 173,2017,3.8582
 173,2018,3.8582
+173,2019,3.9282
 173,2030,3.6838
 173,2050,3.7062
 174,1961,0.2418
@@ -3215,6 +3274,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 174,2016,0.3834
 174,2017,0.3737
 174,2018,0.3552
+174,2019,0.3707
 174,2030,0.3494
 174,2050,0.3516
 178,1993,0.0025
@@ -3242,6 +3302,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 178,2016,0.0068
 178,2017,0.0063
 178,2018,0.0164
+178,2019,0.0098
 178,2030,0.005
 178,2050,0.0074
 179,1975,0.0007
@@ -3288,6 +3349,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 179,2016,0.0046
 179,2017,0.0049
 179,2018,0.0049
+179,2019,0.0048
 179,2030,0.002
 179,2050,0.0023
 18,1974,0.0003
@@ -3331,6 +3393,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 18,2016,0.0028
 18,2017,0.0045
 18,2018,0.01
+18,2019,0.0058
 18,2030,0.0055
 18,2050,0.0095
 181,1961,0.0653
@@ -3391,6 +3454,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 181,2016,0.2054
 181,2017,0.2298
 181,2018,0.2298
+181,2019,0.2217
 181,2030,0.3708
 181,2050,0.631
 183,1961,0.9691
@@ -3451,6 +3515,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 183,2016,1.2174
 183,2017,1.2174
 183,2018,1.2174
+183,2019,1.2174
 183,2030,0.9418
 183,2050,0.9476
 184,1967,0.0002
@@ -3503,6 +3568,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 184,2016,0.0153
 184,2017,0.0153
 184,2018,0.0153
+184,2019,0.0153
 184,2030,0.0258
 184,2050,0.0516
 185,1992,9.2706
@@ -3532,6 +3598,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 185,2016,5.1099
 185,2017,5.3488
 185,2018,5.4521
+185,2019,5.3036
 185,2030,5.1738
 185,2050,5.6721
 186,1992,0.2758
@@ -3606,6 +3673,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 188,2016,0.0001
 188,2017,0
 188,2018,0
+188,2019,0
 188,2030,0.0001
 188,2050,0.0001
 189,1961,0.0007
@@ -3660,6 +3728,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 189,2016,0.001
 189,2017,0.0004
 189,2018,0.0005
+189,2019,0.0006
 19,1961,0.0012
 19,1962,0.0014
 19,1963,0.0016
@@ -3718,6 +3787,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 19,2016,0.0711
 19,2017,0.0503
 19,2018,0.0503
+19,2019,0.0572
 19,2030,0.0913
 19,2050,0.13
 194,1961,0.0071
@@ -3778,6 +3848,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 194,2016,0.7139
 194,2017,0.6127
 194,2018,0.6127
+194,2019,0.6464
 194,2030,0.4154
 194,2050,0.4681
 195,1961,0.009
@@ -3838,6 +3909,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 195,2016,0.1255
 195,2017,0.1308
 195,2018,0.1308
+195,2019,0.1291
 195,2030,0.0863
 195,2050,0.1869
 196,1982,0.003
@@ -3861,6 +3933,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 196,2016,0.0002
 196,2017,0.0002
 196,2018,0.0002
+196,2019,0.0002
 196,2030,0.0002
 196,2050,0.0003
 198,1992,0.169
@@ -3890,6 +3963,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 198,2016,0.0958
 198,2017,0.0958
 198,2018,0.0965
+198,2019,0.096
 198,2030,0.1015
 198,2050,0.1021
 199,1993,0.2294
@@ -3918,6 +3992,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 199,2016,0.4463
 199,2017,0.4333
 199,2018,0.456
+199,2019,0.4452
 199,2030,0.2944
 199,2050,0.2962
 2,1961,0.0035
@@ -3976,6 +4051,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 2,2016,0.3418
 2,2017,0.4977
 2,2018,0.1648
+2,2019,0.3348
 2,2030,0.151
 2,2050,0.2801
 20,1961,0.0035
@@ -4029,6 +4105,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 20,2016,0.0748
 20,2017,0.0748
 20,2018,0.0748
+20,2019,0.0748
 200,1961,0.0035
 200,1962,0.0035
 200,1963,0.0035
@@ -4087,6 +4164,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 200,2016,0
 200,2017,0
 200,2018,0
+200,2019,0
 200,2030,0.0294
 200,2050,0.0326
 202,1961,0.1926
@@ -4147,6 +4225,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 202,2016,1.1562
 202,2017,1.6618
 202,2018,1.6618
+202,2019,1.4932
 202,2030,2.147
 202,2050,2.5361
 203,1961,1.1568
@@ -4207,6 +4286,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 203,2016,3.4726
 203,2017,3.8162
 203,2018,3.6541
+203,2019,3.6476
 203,2030,3.3199
 203,2050,3.3401
 206,1961,0.0864
@@ -4320,6 +4400,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 207,2016,0.043
 207,2017,0.0439
 207,2018,0.0247
+207,2019,0.0372
 207,2030,0.0266
 207,2050,0.0299
 208,1992,0.2263
@@ -4349,6 +4430,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 208,2016,0.0281
 208,2017,0.0281
 208,2018,0.0281
+208,2019,0.0281
 208,2030,0.0433
 208,2050,0.0553
 21,1961,0.1947
@@ -4409,6 +4491,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 21,2016,15.3899
 21,2017,18.2892
 21,2018,18.102
+21,2019,17.2604
 21,2030,26.5095
 21,2050,30.1945
 210,1961,0.3941
@@ -4469,6 +4552,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 210,2016,0.6578
 210,2017,0.7017
 210,2018,0.6512
+210,2019,0.6702
 210,2030,0.5637
 210,2050,0.5671
 211,1961,0.0566
@@ -4529,6 +4613,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 211,2016,0.1858
 211,2017,0.1717
 211,2018,0.1575
+211,2019,0.1717
 211,2030,0.227
 211,2050,0.2562
 212,1961,0.0337
@@ -4589,6 +4674,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 212,2016,0.0628
 212,2017,0.0264
 212,2018,0.0191
+212,2019,0.0361
 212,2030,1.2463
 212,2050,1.6217
 214,2002,0.7631
@@ -4608,6 +4694,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 214,2016,0.5471
 214,2017,0.5471
 214,2018,0.5471
+214,2019,0.5471
 214,2030,0.724
 214,2050,0.7476
 215,1961,0.005
@@ -4668,6 +4755,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 215,2016,0.3803
 215,2017,0.3748
 215,2018,0.5012
+215,2019,0.4188
 215,2030,0.3979
 215,2050,0.8983
 216,1961,0.0391
@@ -4728,6 +4816,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 216,2016,5.2384
 216,2017,6.1053
 216,2018,5.3599
+216,2019,5.5678
 216,2030,5.5979
 216,2050,5.5871
 217,1969,0.0003
@@ -4780,6 +4869,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 217,2016,0.0436
 217,2017,0.0151
 217,2018,0.0151
+217,2019,0.0246
 217,2030,0.0016
 217,2050,0.0028
 219,1982,0.0002
@@ -4803,6 +4893,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 219,2016,0.0003
 219,2017,0.0004
 219,2018,0.0002
+219,2019,0.0003
 219,2030,0
 219,2050,0
 220,1961,0.0106
@@ -4863,6 +4954,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 220,2016,0.023
 220,2017,0.023
 220,2018,0.023
+220,2019,0.023
 220,2030,0.025
 220,2050,0.025
 221,1973,0.0005
@@ -4911,6 +5003,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 221,2016,0.0426
 221,2017,0.0311
 221,2018,0.0361
+221,2019,0.0366
 221,2030,0.016
 221,2050,0.018
 222,1961,0.0106
@@ -4971,6 +5064,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 222,2016,0.3295
 222,2017,0.2539
 222,2018,0.2539
+222,2019,0.2791
 222,2030,0.4599
 222,2050,0.8546
 223,1961,0.1926
@@ -5031,6 +5125,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 223,2016,6.7054
 223,2017,6.2393
 223,2018,5.4011
+223,2019,6.1153
 223,2030,5.5281
 223,2050,6.1037
 225,1972,0.0016
@@ -5080,6 +5175,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 225,2016,0.0536
 225,2017,0.0536
 225,2018,0.0536
+225,2019,0.0536
 225,2030,0.0641
 225,2050,0.0723
 226,1961,0.0042
@@ -5136,6 +5232,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 226,2016,0.0302
 226,2017,0.0269
 226,2018,0.0396
+226,2019,0.0322
 226,2030,0.0354
 226,2050,0.0805
 228,1961,3.0372
@@ -5227,6 +5324,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 229,2016,3.6276
 229,2017,3.6807
 229,2018,3.6524
+229,2019,3.6536
 229,2030,3.5419
 229,2050,3.5635
 23,1961,0.0005
@@ -5287,6 +5385,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 23,2016,0.0594
 23,2017,0.048
 23,2018,0.0378
+23,2019,0.0484
 23,2030,0.0181
 23,2050,0.0205
 230,1992,4.7308
@@ -5316,6 +5415,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 230,2016,4.2336
 230,2017,4.8273
 230,2018,4.9674
+230,2019,4.6761
 230,2030,2.2771
 230,2050,2.4308
 231,1961,10.4505
@@ -5376,6 +5476,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 231,2016,41.3882
 231,2017,41.6241
 231,2018,41.1715
+231,2019,41.3946
 231,2030,36.0715
 231,2050,37.9596
 233,1969,0.001
@@ -5428,6 +5529,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 233,2016,0.2391
 233,2017,0.2061
 233,2018,0.2003
+233,2019,0.2152
 233,2030,0.253
 233,2050,0.4196
 234,1961,0.0159
@@ -5488,6 +5590,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 234,2016,0.5536
 234,2017,0.5498
 234,2018,0.6115
+234,2019,0.5716
 234,2030,0.8383
 234,2050,0.9981
 235,1992,1.4496
@@ -5517,6 +5620,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 235,2016,2.5504
 235,2017,2.5504
 235,2018,2.5504
+235,2019,2.5504
 235,2030,2.6974
 235,2050,3.4438
 236,1961,0.0354
@@ -5577,6 +5681,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 236,2016,0.8917
 236,2017,0.9214
 236,2018,0.9214
+236,2019,0.9115
 236,2030,1.0597
 236,2050,1.2721
 237,1961,0.0495
@@ -5637,6 +5742,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 237,2016,5.4765
 237,2017,5.5272
 237,2018,5.5611
+237,2019,5.5216
 237,2030,4.4572
 237,2050,4.7953
 238,1993,0.1043
@@ -5665,6 +5771,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 238,2016,1.2289
 238,2017,1.3316
 238,2018,1.4855
+238,2019,1.3487
 238,2030,0.9211
 238,2050,1.6542
 244,1975,0
@@ -5691,6 +5798,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 244,2016,0
 244,2017,0
 244,2018,0
+244,2019,0
 244,2030,0.0001
 244,2050,0.0001
 248,1961,0.3817
@@ -5777,6 +5885,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 249,2016,0.0662
 249,2017,0.0467
 249,2018,0.0128
+249,2019,0.0419
 249,2030,0.1311
 249,2050,0.2268
 250,1961,0.0003
@@ -5835,6 +5944,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 250,2016,0.04
 250,2017,0.0567
 250,2018,0.0342
+250,2019,0.0436
 250,2030,0.0175
 250,2050,0.0408
 251,1961,0.0187
@@ -5895,6 +6005,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 251,2016,0.6651
 251,2017,0.7449
 251,2018,0.5232
+251,2019,0.6444
 251,2030,0.5183
 251,2050,1.072
 255,2002,0.5342
@@ -5914,6 +6025,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 255,2016,0.6075
 255,2017,0.6027
 255,2018,0.6027
+255,2019,0.6043
 255,2030,0.5043
 255,2050,0.5074
 256,2002,0.0456
@@ -5933,6 +6045,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 256,2016,0.0485
 256,2017,0.048
 256,2018,0.0461
+256,2019,0.0475
 256,2030,0.0479
 256,2050,0.0482
 26,1980,0
@@ -5965,6 +6078,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 26,2016,0.0009
 26,2017,0.0009
 26,2018,0.0009
+26,2019,0.0009
 26,2030,0.0008
 26,2050,0.0009
 27,1961,0.2589
@@ -6025,6 +6139,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 27,2016,1.1796
 27,2017,1.1829
 27,2018,1.1829
+27,2019,1.1818
 27,2030,0.6191
 27,2050,0.6229
 272,2006,0.8663
@@ -6040,6 +6155,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 272,2016,0.8341
 272,2017,0.7684
 272,2018,0.4107
+272,2019,0.6711
 272,2030,1.3447
 272,2050,1.4354
 273,2006,0.0061
@@ -6055,6 +6171,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 273,2016,0.0047
 273,2017,0.0037
 273,2018,0.0044
+273,2019,0.0043
 273,2030,0.0075
 273,2050,0.008
 276,2012,0.1015
@@ -6064,6 +6181,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 276,2016,0.6323
 276,2017,0.5796
 276,2018,0.5766
+276,2019,0.5962
 28,1961,0.0159
 28,1962,0.0177
 28,1963,0.0177
@@ -6122,6 +6240,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 28,2016,0.5292
 28,2017,0.9061
 28,2018,0.9593
+28,2019,0.7982
 28,2030,0.4152
 28,2050,0.5338
 29,1966,0.0004
@@ -6177,6 +6296,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 29,2016,0.0286
 29,2017,0.0359
 29,2018,0.0476
+29,2019,0.0374
 29,2030,0.012
 29,2050,0.028
 3,1961,0.0113
@@ -6237,6 +6357,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 3,2016,0.1517
 3,2017,0.1385
 3,2018,0.0876
+3,2019,0.1259
 3,2030,0.1586
 3,2050,0.1693
 32,1961,0.0053
@@ -6297,6 +6418,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 32,2016,0.1406
 32,2017,0.1643
 32,2018,0.1644
+32,2019,0.1564
 32,2030,0.1903
 32,2050,0.3183
 33,1961,0.3477
@@ -6357,6 +6479,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 33,2016,8.7014
 33,2017,8.7367
 33,2018,9.7904
+33,2019,9.0762
 33,2030,7.2041
 33,2050,8.0188
 351,1961,1.9234
@@ -6417,6 +6540,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 351,2016,108.0164
 351,2017,105.0386
 351,2018,100.0833
+351,2019,104.3794
 351,2030,106.9958
 351,2050,110.4805
 37,1961,0.0005
@@ -6477,6 +6601,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 37,2016,0.0007
 37,2017,0.0003
 37,2018,0.0003
+37,2019,0.0005
 37,2030,0.0025
 37,2050,0.0042
 38,1961,0.1288
@@ -6537,6 +6662,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 38,2016,0.4164
 38,2017,0.388
 38,2018,0.2434
+38,2019,0.3493
 38,2030,1.1311
 38,2050,1.1565
 4,1961,0.0318
@@ -6597,6 +6723,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 4,2016,0.2482
 4,2017,0.2482
 4,2018,0.2482
+4,2019,0.2482
 4,2030,0.1993
 4,2050,0.2705
 40,1961,0.0551
@@ -6657,6 +6784,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 40,2016,0.9323
 40,2017,0.9323
 40,2018,0.9323
+40,2019,0.9323
 40,2030,1.1269
 40,2050,1.3588
 41,1961,1.9234
@@ -6717,6 +6845,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 41,2016,107.443
 41,2017,104.4626
 41,2018,99.5002
+41,2019,103.802
 41,2030,106.2684
 41,2050,109.7294
 44,1961,0.0813
@@ -6777,6 +6906,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 44,2016,1.8228
 44,2017,2.1659
 44,2018,1.9985
+44,2019,1.9958
 44,2030,2.4521
 44,2050,3.1314
 46,1961,0.0007
@@ -6832,6 +6962,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 46,2016,0.0011
 46,2017,0.0012
 46,2018,0.0012
+46,2019,0.0012
 46,2030,0.0003
 46,2050,0.0008
 47,2002,0
@@ -6851,6 +6982,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 47,2016,0.0001
 47,2017,0
 47,2018,0
+47,2019,0.0001
 47,2030,0.0001
 47,2050,0.0001
 48,1961,0.022
@@ -6911,6 +7043,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 48,2016,0.3498
 48,2017,0.3208
 48,2018,0.3402
+48,2019,0.337
 48,2030,0.3291
 48,2050,0.3828
 49,1961,0.1414
@@ -6971,6 +7104,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 49,2016,0.225
 49,2017,0.2401
 49,2018,0.1891
+49,2019,0.2181
 49,2030,0.2268
 49,2050,0.2862
 50,1961,0.0286
@@ -7031,6 +7165,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 50,2016,0.0282
 50,2017,0.0282
 50,2018,0.0275
+50,2019,0.0279
 50,2030,0.0233
 50,2050,0.0234
 5000,1961,40.2782
@@ -7091,8 +7226,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5000,2016,381.6582
 5000,2017,388.5936
 5000,2018,384.1836
-5000,2030,428.5704
-5000,2050,479.8382
+5000,2019,384.8118
+5000,2030,428.5222
+5000,2050,479.812
 51,1961,0.504
 51,1962,0.561
 51,1963,0.625
@@ -7183,8 +7319,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5100,2016,13.3017
 5100,2017,15.232
 5100,2018,15.1997
-5100,2030,16.991
-5100,2050,25.1459
+5100,2019,14.5778
+5100,2030,16.9428
+5100,2050,25.1197
 5101,1961,0.1593
 5101,1962,0.1523
 5101,1963,0.1745
@@ -7243,8 +7380,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5101,2016,3.2694
 5101,2017,3.5883
 5101,2018,3.6035
-5101,2030,3.813
-5101,2050,7.3134
+5101,2019,3.4871
+5101,2030,3.7868
+5101,2050,7.2872
 5102,1961,0.0086
 5102,1962,0.011
 5102,1963,0.0136
@@ -7303,7 +7441,8 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5102,2016,0.2689
 5102,2017,0.3444
 5102,2018,0.2996
-5102,2030,0.3038
+5102,2019,0.3043
+5102,2030,0.2818
 5102,2050,0.5195
 5103,1961,0.8465
 5103,1962,0.8867
@@ -7363,6 +7502,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5103,2016,6.1948
 5103,2017,6.6543
 5103,2018,6.6513
+5103,2019,6.5001
 5103,2030,8.258
 5103,2050,10.5597
 5104,1961,0.1961
@@ -7423,6 +7563,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5104,2016,1.3005
 5104,2017,1.8032
 5104,2018,1.8086
+5104,2019,1.6374
 5104,2030,2.157
 5104,2050,2.556
 5105,1961,0.0189
@@ -7483,6 +7624,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5105,2016,2.2682
 5105,2017,2.8419
 5105,2018,2.8367
+5105,2019,2.6489
 5105,2030,2.4593
 5105,2050,4.1974
 52,1992,0.1768
@@ -7512,6 +7654,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 52,2016,0.3061
 52,2017,0.2535
 52,2018,0.4205
+52,2019,0.3267
 52,2030,0.092
 52,2050,0.1174
 5200,1961,12.2913
@@ -7572,6 +7715,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5200,2016,82.7124
 5200,2017,86.6303
 5200,2018,86.8861
+5200,2019,85.4096
 5200,2030,91.8102
 5200,2050,102.9358
 5203,1961,10.7982
@@ -7632,6 +7776,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5203,2016,50.0897
 5203,2017,50.361
 5203,2018,50.962
+5203,2019,50.4709
 5203,2030,43.2756
 5203,2050,45.9785
 5204,1961,0.6297
@@ -7692,6 +7837,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5204,2016,7.0421
 5204,2017,7.0525
 5204,2018,6.4936
+5204,2019,6.8627
 5204,2030,8.071
 5204,2050,9.9314
 5206,1961,0.223
@@ -7752,6 +7898,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5206,2016,0.4959
 5206,2017,0.5307
 5206,2018,0.546
+5206,2019,0.5242
 5206,2030,0.5614
 5206,2050,0.6933
 5207,1961,0.6404
@@ -7812,6 +7959,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5207,2016,25.0846
 5207,2017,28.6861
 5207,2018,28.8845
+5207,2019,27.5517
 5207,2030,39.9022
 5207,2050,46.3326
 53,1961,0.0001
@@ -7872,6 +8020,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 53,2016,0.0501
 53,2017,0.0002
 53,2018,0.1699
+53,2019,0.0734
 53,2030,0.0028
 53,2050,0.0047
 5300,1961,7.2014
@@ -7932,6 +8081,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5300,2016,226.4837
 5300,2017,226.5015
 5300,2018,222.9373
+5300,2019,225.3075
 5300,2030,265.0342
 5300,2050,295.2196
 5301,1992,2.2957
@@ -7961,6 +8111,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5301,2016,2.9885
 5301,2017,2.9823
 5301,2018,3.0376
+5301,2019,3.0028
 5301,2030,3.0237
 5301,2050,3.8604
 5302,1961,4.9297
@@ -8021,6 +8172,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5302,2016,110.2009
 5302,2017,107.2812
 5302,2018,102.3665
+5302,2019,106.6162
 5302,2030,109.746
 5302,2050,112.8772
 5303,1961,1.2598
@@ -8081,6 +8233,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5303,2016,77.9124
 5303,2017,79.7446
 5303,2018,82.087
+5303,2019,79.9147
 5303,2030,115.0294
 5303,2050,135.7544
 5304,1961,0.6418
@@ -8141,6 +8294,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5304,2016,26.0068
 5304,2017,27.7613
 5304,2018,27.4273
+5304,2019,27.0651
 5304,2030,27.7856
 5304,2050,30.9141
 5305,1961,0.3701
@@ -8201,6 +8355,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5305,2016,9.3751
 5305,2017,8.7322
 5305,2018,8.0188
+5305,2019,8.7087
 5305,2030,9.4494
 5305,2050,11.8134
 54,1961,0.472
@@ -8261,6 +8416,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 54,2016,0.8066
 54,2017,0.7756
 54,2018,0.6786
+54,2019,0.7536
 54,2030,0.6483
 54,2050,0.6523
 5400,1961,19.4115
@@ -8321,6 +8477,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5400,2016,52.328
 5400,2017,53.2669
 5400,2018,52.4252
+5400,2019,52.6734
 5400,2030,50.2049
 5400,2050,51.4997
 5401,1961,6.1637
@@ -8381,6 +8538,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5401,2016,20.307
 5401,2017,21.0891
 5401,2018,21.5326
+5401,2019,20.9762
 5401,2030,16.978
 5401,2050,17.8234
 5402,1961,3.1348
@@ -8441,6 +8599,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5402,2016,8.0213
 5402,2017,8.2605
 5402,2018,8.2393
+5402,2019,8.1737
 5402,2030,7.6633
 5402,2050,7.773
 5403,1961,3.3172
@@ -8501,6 +8660,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5403,2016,8.3344
 5403,2017,8.7073
 5403,2018,8.0369
+5403,2019,8.3595
 5403,2030,9.6878
 5403,2050,9.9029
 5404,1961,6.7958
@@ -8561,6 +8721,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5404,2016,15.6653
 5404,2017,15.21
 5404,2018,14.6165
+5404,2019,15.1639
 5404,2030,15.8757
 5404,2050,16.0004
 55,1976,0.0057
@@ -8606,6 +8767,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 55,2016,0.0003
 55,2017,0.0004
 55,2018,0.0002
+55,2019,0.0003
 55,2030,0.0017
 55,2050,0.0017
 5500,1961,0.1445
@@ -8666,6 +8828,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5500,2016,6.8323
 5500,2017,6.9628
 5500,2018,6.7353
+5500,2019,6.8435
 5500,2030,4.5301
 5500,2050,5.0372
 5501,1961,0.1389
@@ -8726,6 +8889,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5501,2016,6.7395
 5501,2017,6.848
 5501,2018,6.609
+5501,2019,6.7322
 5501,2030,4.4406
 5501,2050,4.9376
 5502,1961,0.0056
@@ -8786,6 +8950,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5502,2016,0.0912
 5502,2017,0.1131
 5502,2018,0.1248
+5502,2019,0.1097
 5502,2030,0.0878
 5502,2050,0.0977
 5503,2012,0
@@ -8795,6 +8960,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5503,2016,0
 5503,2017,0
 5503,2018,0
+5503,2019,0
 5504,1974,0.0002
 5504,1975,0.0004
 5504,1976,0.0007
@@ -8840,6 +9006,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5504,2016,0.0017
 5504,2017,0.0017
 5504,2018,0.0015
+5504,2019,0.0016
 5504,2030,0.0017
 5504,2050,0.0019
 56,1961,0.0378
@@ -8900,6 +9067,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 56,2016,0.2319
 56,2017,0.2492
 56,2018,0.3169
+56,2019,0.266
 56,2030,0.2806
 56,2050,0.353
 57,1992,0.8839
@@ -8929,6 +9097,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 57,2016,1.2322
 57,2017,1.4385
 57,2018,1.4316
+57,2019,1.3674
 57,2030,2.1342
 57,2050,2.2782
 5706,1961,15.2468
@@ -8989,6 +9158,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5706,2016,39.6564
 5706,2017,39.6478
 5706,2018,39.0035
+5706,2019,39.4359
 5706,2030,38.1346
 5706,2050,38.4191
 5707,1961,13.4917
@@ -9049,6 +9219,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5707,2016,36.0288
 5707,2017,35.9671
 5707,2018,35.3511
+5707,2019,35.7823
 5707,2030,34.5926
 5707,2050,34.8555
 58,1961,0.0163
@@ -9109,6 +9280,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 58,2016,0.6062
 58,2017,0.6413
 58,2018,0.7298
+58,2019,0.6591
 58,2030,0.6342
 58,2050,0.7723
 5801,1961,0.255
@@ -9169,6 +9341,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5801,2016,10.0126
 5801,2017,11.1567
 5801,2018,11.5208
+5801,2019,10.8967
 5801,2030,11.6852
 5801,2050,16.5182
 5802,1961,0.107
@@ -9229,6 +9402,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5802,2016,8.5109
 5802,2017,8.6261
 5802,2018,8.6692
+5802,2019,8.6021
 5802,2030,7.5717
 5802,2050,11.8595
 5803,1961,0.2851
@@ -9289,8 +9463,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5803,2016,0.7647
 5803,2017,0.7707
 5803,2018,0.8437
-5803,2030,0.7951
-5803,2050,0.9572
+5803,2019,0.793
+5803,2030,0.7689
+5803,2050,0.931
 5815,1961,1.2706
 5815,1962,1.5521
 5815,1963,1.8095
@@ -9349,6 +9524,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5815,2016,77.1103
 5815,2017,78.4967
 5815,2018,81.1782
+5815,2019,78.9284
 5815,2030,104.4825
 5815,2050,125.2309
 5817,1961,1.8177
@@ -9409,8 +9585,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5817,2016,30.9503
 5817,2017,33.5361
 5817,2018,33.3973
-5817,2030,42.6531
-5817,2050,55.5491
+5817,2019,32.6279
+5817,2030,42.605
+5817,2050,55.5229
 5848,1961,32.4164
 5848,1962,35.8677
 5848,1963,40.0176
@@ -9469,6 +9646,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5848,2016,115.7
 5848,2017,116.6587
 5848,2018,115.7667
+5848,2019,116.0418
 5848,2030,103.3226
 5848,2050,108.0197
 5849,1961,7.8617
@@ -9529,8 +9707,9 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5849,2016,265.9582
 5849,2017,271.9349
 5849,2018,268.4169
-5849,2030,325.2478
-5849,2050,371.8185
+5849,2019,268.77
+5849,2030,325.1997
+5849,2050,371.7923
 5873,1961,28.9988
 5873,1962,32.4794
 5873,1963,35.58
@@ -9589,6 +9768,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 5873,2016,108.9952
 5873,2017,108.6695
 5873,2018,107.1477
+5873,2019,108.2708
 5873,2030,99.019
 5873,2050,104.2649
 59,1961,0.6784
@@ -9649,6 +9829,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 59,2016,4.5261
 59,2017,4.642
 59,2018,4.642
+59,2019,4.6034
 59,2030,5.3885
 59,2050,6.4648
 60,1961,0.0427
@@ -9709,6 +9890,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 60,2016,0.1851
 60,2017,0.213
 60,2018,0.194
+60,2019,0.1974
 60,2030,0.4197
 60,2050,0.5502
 62,1961,0.0007
@@ -9770,6 +9952,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 63,2016,0.1287
 63,2017,0.132
 63,2018,0.1374
+63,2019,0.1327
 63,2030,0.078
 63,2050,0.0785
 66,1961,0.0053
@@ -9830,6 +10013,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 66,2016,0.0149
 66,2017,0.0179
 66,2018,0.0106
+66,2019,0.0145
 66,2030,0.024
 66,2050,0.0266
 67,1961,0.209
@@ -9890,6 +10074,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 67,2016,0.4884
 67,2017,0.4913
 67,2018,0.4893
+67,2019,0.4897
 67,2030,0.6168
 67,2050,0.6206
 68,1961,2.2088
@@ -9950,6 +10135,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 68,2016,7.7493
 68,2017,7.8984
 68,2018,7.9493
+68,2019,7.8657
 68,2030,7.8537
 68,2050,7.9016
 7,1961,0.0018
@@ -10009,6 +10195,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 7,2016,0.0735
 7,2017,0.0945
 7,2018,0.0776
+7,2019,0.0818
 7,2030,0.0712
 7,2050,0.15
 70,1974,0.0002
@@ -10056,6 +10243,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 70,2016,0.0012
 70,2017,0.0012
 70,2018,0.0012
+70,2019,0.0012
 70,2030,0.0015
 70,2050,0.0017
 73,1992,0.2192
@@ -10085,6 +10273,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 73,2016,0.1803
 73,2017,0.1404
 73,2018,0.1464
+73,2019,0.1557
 73,2030,0.1075
 73,2050,0.1373
 74,1972,0.0002
@@ -10134,7 +10323,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 74,2016,0.013
 74,2017,0.0274
 74,2018,0.022
-74,2030,0.022
+74,2019,0.0208
 74,2050,0.0053
 75,1964,0
 75,1965,0.0001
@@ -10190,6 +10379,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 75,2016,0.0005
 75,2017,0.0001
 75,2018,0.0071
+75,2019,0.0026
 75,2030,0.0115
 75,2050,0.0258
 79,1961,3.1008
@@ -10250,6 +10440,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 79,2016,5.8652
 79,2017,5.2917
 79,2018,4.7459
+79,2019,5.3009
 79,2030,5.9862
 79,2050,6.0227
 8,2002,0
@@ -10269,6 +10460,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 8,2016,0.0002
 8,2017,0
 8,2018,0
+8,2019,0.0001
 8,2030,0
 8,2050,0
 80,1995,0.0177
@@ -10295,6 +10487,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 80,2016,0.3061
 80,2017,0.3153
 80,2018,0.2456
+80,2019,0.289
 80,2030,0.0986
 80,2050,0.1052
 81,1961,0.0006
@@ -10355,6 +10548,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 81,2016,0.1517
 81,2017,0.2899
 81,2018,0.1952
+81,2019,0.2123
 81,2030,0.1505
 81,2050,0.2257
 84,1961,0.2947
@@ -10415,6 +10609,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 84,2016,0.6121
 84,2017,0.6425
 84,2018,0.6344
+84,2019,0.6297
 84,2030,0.5915
 84,2050,0.5951
 89,1961,0.0319
@@ -10475,6 +10670,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 89,2016,0.5915
 89,2017,0.6159
 89,2018,0.6111
+89,2019,0.6062
 89,2030,0.7764
 89,2050,0.8787
 9,1961,0.0297
@@ -10535,6 +10731,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 9,2016,3.2867
 9,2017,3.4503
 9,2018,4.1033
+9,2019,3.6134
 9,2030,5.4884
 9,2050,6.3018
 90,1961,0.0018
@@ -10594,6 +10791,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 90,2016,0.0226
 90,2017,0.0827
 90,2018,0.0335
+90,2019,0.0463
 90,2030,0.0336
 90,2050,0.063
 91,1961,0.0162
@@ -10654,6 +10852,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 91,2016,0.0393
 91,2017,0.0016
 91,2018,0.0701
+91,2019,0.037
 91,2030,0.0386
 91,2050,0.0491
 95,1961,0.0186
@@ -10714,6 +10913,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 95,2016,0.3397
 95,2017,0.3898
 95,2018,0.3895
+95,2019,0.373
 95,2030,0.4159
 95,2050,0.6169
 96,2002,0.006
@@ -10733,6 +10933,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 96,2016,0.0262
 96,2017,0.0289
 96,2018,0.036
+96,2019,0.0304
 96,2030,0.0033
 96,2050,0.0034
 97,1961,0.3359
@@ -10793,6 +10994,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 97,2016,1.2283
 97,2017,1.3249
 97,2018,1.4977
+97,2019,1.3503
 97,2030,1.0019
 97,2050,1.008
 98,1992,0.4721
@@ -10822,6 +11024,7 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 98,2016,0.2557
 98,2017,0.348
 98,2018,0.3515
+98,2019,0.3184
 98,2030,0.8462
 98,2050,0.9033
 99,1961,0.0262
@@ -10882,5 +11085,6 @@ geo,year,nutrient_nitrogen_n_total_indirect_emissions_n2o_that_leaches_synthetic
 99,2016,0.0383
 99,2017,0.0462
 99,2018,0.0415
+99,2019,0.042
 99,2030,0.0526
 99,2050,0.0594
