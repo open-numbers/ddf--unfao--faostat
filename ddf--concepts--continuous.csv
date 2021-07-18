@@ -1415,49 +1415,6 @@ Food price inflation,food_price_inflation_cea,%,measure
 "Value Added Deflator (Agriculture, forestry and fishery) - Value US$, 2015 prices",value_added_deflator_agriculture_forestry_and_fishery_value_us_2015_prices_dea,US$,measure
 "Value Added Deflator (Manufacturing) - Value Local Currency, 2015 prices",value_added_deflator_manufacturing_value_local_currency_2015_prices_dea,LCU,measure
 "Value Added Deflator (Manufacturing) - Value US$, 2015 prices",value_added_deflator_manufacturing_value_us_2015_prices_dea,US$,measure
-Agricultural Soils - Emissions (CO2eq),agricultural_soils_emissions_co2eq_eaa,gigagrams,measure
-Agricultural Soils - Emissions (CO2eq) from N2O,agricultural_soils_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Agriculture total - CH4 emissions,agriculture_total_ch4_emissions_eaa,gigagrams,measure
-Agriculture total - Emissions (CO2eq),agriculture_total_emissions_co2eq_eaa,gigagrams,measure
-Agriculture total - Emissions (CO2eq) from CH4,agriculture_total_emissions_co2eq_from_ch4_eaa,gigagrams,measure
-Agriculture total - Emissions (CO2eq) from N2O,agriculture_total_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Agriculture total - N2O emissions,agriculture_total_n2o_emissions_eaa,gigagrams,measure
-Burning - Crop residues - CH4 emissions,burning_crop_residues_ch4_emissions_eaa,gigagrams,measure
-Burning - Crop residues - Emissions (CO2eq),burning_crop_residues_emissions_co2eq_eaa,gigagrams,measure
-Burning - Crop residues - Emissions (CO2eq) from CH4,burning_crop_residues_emissions_co2eq_from_ch4_eaa,gigagrams,measure
-Burning - Crop residues - Emissions (CO2eq) from N2O,burning_crop_residues_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Burning - Crop residues - N2O emissions,burning_crop_residues_n2o_emissions_eaa,gigagrams,measure
-Burning - Savanna - CH4 emissions,burning_savanna_ch4_emissions_eaa,gigagrams,measure
-Burning - Savanna - Emissions (CO2eq),burning_savanna_emissions_co2eq_eaa,gigagrams,measure
-Burning - Savanna - Emissions (CO2eq) from CH4,burning_savanna_emissions_co2eq_from_ch4_eaa,gigagrams,measure
-Burning - Savanna - Emissions (CO2eq) from N2O,burning_savanna_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Burning - Savanna - N2O emissions,burning_savanna_n2o_emissions_eaa,gigagrams,measure
-Crop Residues - Emissions (CO2eq),crop_residues_emissions_co2eq_eaa,gigagrams,measure
-Crop Residues - Emissions (CO2eq) from N2O,crop_residues_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Crop Residues - N2O emissions,crop_residues_n2o_emissions_eaa,gigagrams,measure
-Cultivation of Organic Soils - Emissions (CO2eq),cultivation_of_organic_soils_emissions_co2eq_eaa,gigagrams,measure
-Cultivation of Organic Soils - Emissions (CO2eq) from N2O,cultivation_of_organic_soils_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Cultivation of Organic Soils - N2O emissions,cultivation_of_organic_soils_n2o_emissions_eaa,gigagrams,measure
-Enteric Fermentation - CH4 emissions,enteric_fermentation_ch4_emissions_eaa,gigagrams,measure
-Enteric Fermentation - Emissions (CO2eq),enteric_fermentation_emissions_co2eq_eaa,gigagrams,measure
-Enteric Fermentation - Emissions (CO2eq) from CH4,enteric_fermentation_emissions_co2eq_from_ch4_eaa,gigagrams,measure
-Manure Management - CH4 emissions,manure_management_ch4_emissions_eaa,gigagrams,measure
-Manure Management - Emissions (CO2eq),manure_management_emissions_co2eq_eaa,gigagrams,measure
-Manure Management - Emissions (CO2eq) from CH4,manure_management_emissions_co2eq_from_ch4_eaa,gigagrams,measure
-Manure Management - Emissions (CO2eq) from N2O,manure_management_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Manure Management - N2O emissions,manure_management_n2o_emissions_eaa,gigagrams,measure
-Manure applied to Soils - Emissions (CO2eq),manure_applied_to_soils_emissions_co2eq_eaa,gigagrams,measure
-Manure applied to Soils - Emissions (CO2eq) from N2O,manure_applied_to_soils_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Manure applied to Soils - N2O emissions,manure_applied_to_soils_n2o_emissions_eaa,gigagrams,measure
-Manure left on Pasture - Emissions (CO2eq),manure_left_on_pasture_emissions_co2eq_eaa,gigagrams,measure
-Manure left on Pasture - Emissions (CO2eq) from N2O,manure_left_on_pasture_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Manure left on Pasture - N2O emissions,manure_left_on_pasture_n2o_emissions_eaa,gigagrams,measure
-Rice Cultivation - CH4 emissions,rice_cultivation_ch4_emissions_eaa,gigagrams,measure
-Rice Cultivation - Emissions (CO2eq),rice_cultivation_emissions_co2eq_eaa,gigagrams,measure
-Rice Cultivation - Emissions (CO2eq) from CH4,rice_cultivation_emissions_co2eq_from_ch4_eaa,gigagrams,measure
-Synthetic Fertilizers - Emissions (CO2eq),synthetic_fertilizers_emissions_co2eq_eaa,gigagrams,measure
-Synthetic Fertilizers - Emissions (CO2eq) from N2O,synthetic_fertilizers_emissions_co2eq_from_n2o_eaa,gigagrams,measure
-Synthetic Fertilizers - N2O emissions,synthetic_fertilizers_n2o_emissions_eaa,gigagrams,measure
 All Crops - Biomass burned (dry matter),all_crops_biomass_burned_dry_matter_eab,tonnes,measure
 All Crops - Emissions (CH4),all_crops_emissions_ch4_eab,kilotonnes,measure
 All Crops - Emissions (N2O),all_crops_emissions_n2o_eab,kilotonnes,measure
@@ -1473,72 +1430,6 @@ Sugar cane - Emissions (N2O),sugar_cane_emissions_n2o_eab,kilotonnes,measure
 Wheat - Biomass burned (dry matter),wheat_biomass_burned_dry_matter_eab,tonnes,measure
 Wheat - Emissions (CH4),wheat_emissions_ch4_eab,kilotonnes,measure
 Wheat - Emissions (N2O),wheat_emissions_n2o_eab,kilotonnes,measure
-Burning - all categories - Biomass burned (dry matter),burning_all_categories_biomass_burned_dry_matter_eab1,tonnes,measure
-Burning - all categories - Burned Area,burning_all_categories_burned_area_eab1,ha,measure
-Burning - all categories - Emissions (CH4) (Burning - savanna),burning_all_categories_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Burning - all categories - Emissions (CO2eq) (Burning - savanna),burning_all_categories_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Burning - all categories - Emissions (CO2eq) from CH4 (Burning - savanna),burning_all_categories_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Burning - all categories - Emissions (CO2eq) from N2O (Burning - savanna),burning_all_categories_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Burning - all categories - Emissions (N2O) (Burning - savanna),burning_all_categories_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Closed and open shrubland - Biomass burned (dry matter),closed_and_open_shrubland_biomass_burned_dry_matter_eab1,tonnes,measure
-Closed and open shrubland - Burned Area,closed_and_open_shrubland_burned_area_eab1,ha,measure
-Closed and open shrubland - Emissions (CH4) (Burning - savanna),closed_and_open_shrubland_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Closed and open shrubland - Emissions (CO2eq) (Burning - savanna),closed_and_open_shrubland_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Closed and open shrubland - Emissions (CO2eq) from CH4 (Burning - savanna),closed_and_open_shrubland_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Closed and open shrubland - Emissions (CO2eq) from N2O (Burning - savanna),closed_and_open_shrubland_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Closed and open shrubland - Emissions (N2O) (Burning - savanna),closed_and_open_shrubland_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Closed shrubland - Biomass burned (dry matter),closed_shrubland_biomass_burned_dry_matter_eab1,tonnes,measure
-Closed shrubland - Burned Area,closed_shrubland_burned_area_eab1,ha,measure
-Closed shrubland - Emissions (CH4) (Burning - savanna),closed_shrubland_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Closed shrubland - Emissions (CO2eq) (Burning - savanna),closed_shrubland_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Closed shrubland - Emissions (CO2eq) from CH4 (Burning - savanna),closed_shrubland_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Closed shrubland - Emissions (CO2eq) from N2O (Burning - savanna),closed_shrubland_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Closed shrubland - Emissions (N2O) (Burning - savanna),closed_shrubland_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Closed shrubland - Implied emission factor for CH4 (Burning - savanna),closed_shrubland_implied_emission_factor_for_ch4_burning_savanna_eab1,g CH4/kg dry matter,measure
-Closed shrubland - Implied emission factor for N2O (Burning - savanna),closed_shrubland_implied_emission_factor_for_n2o_burning_savanna_eab1,g N20/kg dry matter,measure
-Grassland - Biomass burned (dry matter),grassland_biomass_burned_dry_matter_eab1,tonnes,measure
-Grassland - Burned Area,grassland_burned_area_eab1,ha,measure
-Grassland - Emissions (CH4) (Burning - savanna),grassland_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Grassland - Emissions (CO2eq) (Burning - savanna),grassland_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Grassland - Emissions (CO2eq) from CH4 (Burning - savanna),grassland_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Grassland - Emissions (CO2eq) from N2O (Burning - savanna),grassland_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Grassland - Emissions (N2O) (Burning - savanna),grassland_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Grassland - Implied emission factor for CH4 (Burning - savanna),grassland_implied_emission_factor_for_ch4_burning_savanna_eab1,g CH4/kg dry matter,measure
-Grassland - Implied emission factor for N2O (Burning - savanna),grassland_implied_emission_factor_for_n2o_burning_savanna_eab1,g N20/kg dry matter,measure
-Open shrubland - Biomass burned (dry matter),open_shrubland_biomass_burned_dry_matter_eab1,tonnes,measure
-Open shrubland - Burned Area,open_shrubland_burned_area_eab1,ha,measure
-Open shrubland - Emissions (CH4) (Burning - savanna),open_shrubland_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Open shrubland - Emissions (CO2eq) (Burning - savanna),open_shrubland_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Open shrubland - Emissions (CO2eq) from CH4 (Burning - savanna),open_shrubland_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Open shrubland - Emissions (CO2eq) from N2O (Burning - savanna),open_shrubland_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Open shrubland - Emissions (N2O) (Burning - savanna),open_shrubland_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Open shrubland - Implied emission factor for CH4 (Burning - savanna),open_shrubland_implied_emission_factor_for_ch4_burning_savanna_eab1,g CH4/kg dry matter,measure
-Open shrubland - Implied emission factor for N2O (Burning - savanna),open_shrubland_implied_emission_factor_for_n2o_burning_savanna_eab1,g N20/kg dry matter,measure
-Savanna - Biomass burned (dry matter),savanna_biomass_burned_dry_matter_eab1,tonnes,measure
-Savanna - Burned Area,savanna_burned_area_eab1,ha,measure
-Savanna - Emissions (CH4) (Burning - savanna),savanna_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Savanna - Emissions (CO2eq) (Burning - savanna),savanna_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Savanna - Emissions (CO2eq) from CH4 (Burning - savanna),savanna_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Savanna - Emissions (CO2eq) from N2O (Burning - savanna),savanna_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Savanna - Emissions (N2O) (Burning - savanna),savanna_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Savanna - Implied emission factor for CH4 (Burning - savanna),savanna_implied_emission_factor_for_ch4_burning_savanna_eab1,g CH4/kg dry matter,measure
-Savanna - Implied emission factor for N2O (Burning - savanna),savanna_implied_emission_factor_for_n2o_burning_savanna_eab1,g N20/kg dry matter,measure
-Savanna and woody savanna - Biomass burned (dry matter),savanna_and_woody_savanna_biomass_burned_dry_matter_eab1,tonnes,measure
-Savanna and woody savanna - Burned Area,savanna_and_woody_savanna_burned_area_eab1,ha,measure
-Savanna and woody savanna - Emissions (CH4) (Burning - savanna),savanna_and_woody_savanna_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Savanna and woody savanna - Emissions (CO2eq) (Burning - savanna),savanna_and_woody_savanna_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Savanna and woody savanna - Emissions (CO2eq) from CH4 (Burning - savanna),savanna_and_woody_savanna_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Savanna and woody savanna - Emissions (CO2eq) from N2O (Burning - savanna),savanna_and_woody_savanna_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Savanna and woody savanna - Emissions (N2O) (Burning - savanna),savanna_and_woody_savanna_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Woody savanna - Biomass burned (dry matter),woody_savanna_biomass_burned_dry_matter_eab1,tonnes,measure
-Woody savanna - Burned Area,woody_savanna_burned_area_eab1,ha,measure
-Woody savanna - Emissions (CH4) (Burning - savanna),woody_savanna_emissions_ch4_burning_savanna_eab1,gigagrams,measure
-Woody savanna - Emissions (CO2eq) (Burning - savanna),woody_savanna_emissions_co2eq_burning_savanna_eab1,gigagrams,measure
-Woody savanna - Emissions (CO2eq) from CH4 (Burning - savanna),woody_savanna_emissions_co2eq_from_ch4_burning_savanna_eab1,gigagrams,measure
-Woody savanna - Emissions (CO2eq) from N2O (Burning - savanna),woody_savanna_emissions_co2eq_from_n2o_burning_savanna_eab1,gigagrams,measure
-Woody savanna - Emissions (N2O) (Burning - savanna),woody_savanna_emissions_n2o_burning_savanna_eab1,gigagrams,measure
-Woody savanna - Implied emission factor for CH4 (Burning - savanna),woody_savanna_implied_emission_factor_for_ch4_burning_savanna_eab1,g CH4/kg dry matter,measure
-Woody savanna - Implied emission factor for N2O (Burning - savanna),woody_savanna_implied_emission_factor_for_n2o_burning_savanna_eab1,g N20/kg dry matter,measure
 All Crops - Direct emissions (N2O) (Crop residues),all_crops_direct_emissions_n2o_crop_residues_eac,kilotonnes,measure
 All Crops - Emissions (N2O),all_crops_emissions_n2o_eac,kilotonnes,measure
 All Crops - Indirect emissions (N2O) (Crop residues),all_crops_indirect_emissions_n2o_crop_residues_eac,kilotonnes,measure
@@ -1587,23 +1478,6 @@ Wheat - Direct emissions (N2O) (Crop residues),wheat_direct_emissions_n2o_crop_r
 Wheat - Emissions (N2O),wheat_emissions_n2o_eac,kilotonnes,measure
 Wheat - Indirect emissions (N2O) (Crop residues),wheat_indirect_emissions_n2o_crop_residues_eac,kilotonnes,measure
 Wheat - Residues (Crop residues),wheat_residues_crop_residues_eac,kg of nutrients,measure
-Cropland and grassland organic soils - Area,cropland_and_grassland_organic_soils_area_eac1,ha,measure
-Cropland and grassland organic soils - Emissions (CO2eq) from N2O (AR4),cropland_and_grassland_organic_soils_emissions_co2eq_from_n2o_ar4_eac1,gigagrams,measure
-Cropland and grassland organic soils - Emissions (CO2eq) from N2O (AR5),cropland_and_grassland_organic_soils_emissions_co2eq_from_n2o_ar5_eac1,gigagrams,measure
-Cropland and grassland organic soils - Emissions (CO2eq) from N2O (SAR),cropland_and_grassland_organic_soils_emissions_co2eq_from_n2o_sar_eac1,gigagrams,measure
-Cropland and grassland organic soils - Emissions (N2O) (Cultivation of organic soils),cropland_and_grassland_organic_soils_emissions_n2o_cultivation_of_organic_soils_eac1,gigagrams,measure
-Cropland organic soils - Area,cropland_organic_soils_area_eac1,ha,measure
-Cropland organic soils - Emissions (CO2eq) from N2O (AR4),cropland_organic_soils_emissions_co2eq_from_n2o_ar4_eac1,gigagrams,measure
-Cropland organic soils - Emissions (CO2eq) from N2O (AR5),cropland_organic_soils_emissions_co2eq_from_n2o_ar5_eac1,gigagrams,measure
-Cropland organic soils - Emissions (CO2eq) from N2O (SAR),cropland_organic_soils_emissions_co2eq_from_n2o_sar_eac1,gigagrams,measure
-Cropland organic soils - Emissions (N2O) (Cultivation of organic soils),cropland_organic_soils_emissions_n2o_cultivation_of_organic_soils_eac1,gigagrams,measure
-Cropland organic soils - Implied emission factor for N2O (Cultivation of organic soils),cropland_organic_soils_implied_emission_factor_for_n2o_cultivation_of_organic_soils_eac1,kg N2O-N/ha,measure
-Grassland organic soils - Area,grassland_organic_soils_area_eac1,ha,measure
-Grassland organic soils - Emissions (CO2eq) from N2O (AR4),grassland_organic_soils_emissions_co2eq_from_n2o_ar4_eac1,gigagrams,measure
-Grassland organic soils - Emissions (CO2eq) from N2O (AR5),grassland_organic_soils_emissions_co2eq_from_n2o_ar5_eac1,gigagrams,measure
-Grassland organic soils - Emissions (CO2eq) from N2O (SAR),grassland_organic_soils_emissions_co2eq_from_n2o_sar_eac1,gigagrams,measure
-Grassland organic soils - Emissions (N2O) (Cultivation of organic soils),grassland_organic_soils_emissions_n2o_cultivation_of_organic_soils_eac1,gigagrams,measure
-Grassland organic soils - Implied emission factor for N2O (Cultivation of organic soils),grassland_organic_soils_implied_emission_factor_for_n2o_cultivation_of_organic_soils_eac1,kg N2O-N/ha,measure
 Coal - Emissions (CH4),coal_emissions_ch4_eae,kilotonnes,measure
 Coal - Emissions (CO2),coal_emissions_co2_eae,kilotonnes,measure
 Coal - Emissions (N2O),coal_emissions_n2o_eae,kilotonnes,measure
@@ -2282,126 +2156,58 @@ Grassland organic soils - Area,grassland_organic_soils_area_edo,ha,measure
 Grassland organic soils - Emissions (CO2),grassland_organic_soils_emissions_co2_edo,kilotonnes,measure
 Grassland organic soils - Emissions (N2O),grassland_organic_soils_emissions_n2o_edo,kilotonnes,measure
 Grassland organic soils - Net stock change (C),grassland_organic_soils_net_stock_change_c_edo,kilotonnes,measure
-Burning - all categories - Biomass burned (dry matter),burning_all_categories_biomass_burned_dry_matter_elu,tonnes,measure
-Burning - all categories - Burned Area,burning_all_categories_burned_area_elu,ha,measure
-Burning - all categories - Emissions (CH4) (Burning biomass),burning_all_categories_emissions_ch4_burning_biomass_elu,gigagrams,measure
-Burning - all categories - Emissions (CO2) (Burning biomass),burning_all_categories_emissions_co2_burning_biomass_elu,gigagrams,measure
-Burning - all categories - Emissions (CO2eq) (Burning biomass),burning_all_categories_emissions_co2eq_burning_biomass_elu,gigagrams,measure
-Burning - all categories - Emissions (CO2eq) from CH4 (Burning biomass),burning_all_categories_emissions_co2eq_from_ch4_burning_biomass_elu,gigagrams,measure
-Burning - all categories - Emissions (CO2eq) from N2O (Burning biomass),burning_all_categories_emissions_co2eq_from_n2o_burning_biomass_elu,gigagrams,measure
-Burning - all categories - Emissions (N2O) (Burning biomass),burning_all_categories_emissions_n2o_burning_biomass_elu,gigagrams,measure
+Closed and open shrubland - Biomass burned (dry matter),closed_and_open_shrubland_biomass_burned_dry_matter_elu,tonnes,measure
+Closed and open shrubland - Burned Area,closed_and_open_shrubland_burned_area_elu,ha,measure
+Closed shrubland - Biomass burned (dry matter),closed_shrubland_biomass_burned_dry_matter_elu,tonnes,measure
+Closed shrubland - Burned Area,closed_shrubland_burned_area_elu,ha,measure
+Closed shrubland - Emissions (CH4),closed_shrubland_emissions_ch4_elu,kilotonnes,measure
+Closed shrubland - Emissions (N2O),closed_shrubland_emissions_n2o_elu,kilotonnes,measure
+Fires in organic soils - Biomass burned (dry matter),fires_in_organic_soils_biomass_burned_dry_matter_elu,tonnes,measure
+Fires in organic soils - Burned Area,fires_in_organic_soils_burned_area_elu,ha,measure
+Fires in organic soils - Emissions (CH4),fires_in_organic_soils_emissions_ch4_elu,kilotonnes,measure
+Fires in organic soils - Emissions (CO2),fires_in_organic_soils_emissions_co2_elu,kilotonnes,measure
+Forest fires - Biomass burned (dry matter),forest_fires_biomass_burned_dry_matter_elu,tonnes,measure
+Forest fires - Burned Area,forest_fires_burned_area_elu,ha,measure
+Forest fires - Emissions (CH4),forest_fires_emissions_ch4_elu,kilotonnes,measure
+Forest fires - Emissions (CO2),forest_fires_emissions_co2_elu,kilotonnes,measure
+Forest fires - Emissions (N2O),forest_fires_emissions_n2o_elu,kilotonnes,measure
+Grassland - Biomass burned (dry matter),grassland_biomass_burned_dry_matter_elu,tonnes,measure
+Grassland - Burned Area,grassland_burned_area_elu,ha,measure
+Grassland - Emissions (CH4),grassland_emissions_ch4_elu,kilotonnes,measure
+Grassland - Emissions (N2O),grassland_emissions_n2o_elu,kilotonnes,measure
 Humid tropical forest - Biomass burned (dry matter),humid_tropical_forest_biomass_burned_dry_matter_elu,tonnes,measure
 Humid tropical forest - Burned Area,humid_tropical_forest_burned_area_elu,ha,measure
-Humid tropical forest - Emissions (CH4) (Burning biomass),humid_tropical_forest_emissions_ch4_burning_biomass_elu,gigagrams,measure
-Humid tropical forest - Emissions (CO2eq) (Burning biomass),humid_tropical_forest_emissions_co2eq_burning_biomass_elu,gigagrams,measure
-Humid tropical forest - Emissions (CO2eq) from CH4 (Burning biomass),humid_tropical_forest_emissions_co2eq_from_ch4_burning_biomass_elu,gigagrams,measure
-Humid tropical forest - Emissions (CO2eq) from N2O (Burning biomass),humid_tropical_forest_emissions_co2eq_from_n2o_burning_biomass_elu,gigagrams,measure
-Humid tropical forest - Emissions (N2O) (Burning biomass),humid_tropical_forest_emissions_n2o_burning_biomass_elu,gigagrams,measure
-Humid tropical forest - Implied emission factor for CH4 (Burning biomass),humid_tropical_forest_implied_emission_factor_for_ch4_burning_biomass_elu,g CH4/kg dry matter,measure
-Humid tropical forest - Implied emission factor for N2O (Burning biomass),humid_tropical_forest_implied_emission_factor_for_n2o_burning_biomass_elu,g N20/kg dry matter,measure
-Organic soils - Biomass burned (dry matter),organic_soils_biomass_burned_dry_matter_elu,tonnes,measure
-Organic soils - Burned Area,organic_soils_burned_area_elu,ha,measure
-Organic soils - Emissions (CH4) (Burning biomass),organic_soils_emissions_ch4_burning_biomass_elu,gigagrams,measure
-Organic soils - Emissions (CO2) (Burning biomass),organic_soils_emissions_co2_burning_biomass_elu,gigagrams,measure
-Organic soils - Emissions (CO2eq) (Burning biomass),organic_soils_emissions_co2eq_burning_biomass_elu,gigagrams,measure
-Organic soils - Emissions (CO2eq) from CH4 (Burning biomass),organic_soils_emissions_co2eq_from_ch4_burning_biomass_elu,gigagrams,measure
-Organic soils - Implied emission factor for CH4 (Burning biomass),organic_soils_implied_emission_factor_for_ch4_burning_biomass_elu,g CH4/kg dry matter,measure
-Organic soils - Implied emission factor for CO2,organic_soils_implied_emission_factor_for_co2_elu,g CO2/kg dry matter,measure
+Humid tropical forest - Emissions (CH4),humid_tropical_forest_emissions_ch4_elu,kilotonnes,measure
+Humid tropical forest - Emissions (N2O),humid_tropical_forest_emissions_n2o_elu,kilotonnes,measure
+Open shrubland - Biomass burned (dry matter),open_shrubland_biomass_burned_dry_matter_elu,tonnes,measure
+Open shrubland - Burned Area,open_shrubland_burned_area_elu,ha,measure
+Open shrubland - Emissions (CH4),open_shrubland_emissions_ch4_elu,kilotonnes,measure
+Open shrubland - Emissions (N2O),open_shrubland_emissions_n2o_elu,kilotonnes,measure
 Other forest - Biomass burned (dry matter),other_forest_biomass_burned_dry_matter_elu,tonnes,measure
 Other forest - Burned Area,other_forest_burned_area_elu,ha,measure
-Other forest - Emissions (CH4) (Burning biomass),other_forest_emissions_ch4_burning_biomass_elu,gigagrams,measure
-Other forest - Emissions (CO2eq) (Burning biomass),other_forest_emissions_co2eq_burning_biomass_elu,gigagrams,measure
-Other forest - Emissions (CO2eq) from CH4 (Burning biomass),other_forest_emissions_co2eq_from_ch4_burning_biomass_elu,gigagrams,measure
-Other forest - Emissions (CO2eq) from N2O (Burning biomass),other_forest_emissions_co2eq_from_n2o_burning_biomass_elu,gigagrams,measure
-Other forest - Emissions (N2O) (Burning biomass),other_forest_emissions_n2o_burning_biomass_elu,gigagrams,measure
-Other forest - Implied emission factor for CH4 (Burning biomass),other_forest_implied_emission_factor_for_ch4_burning_biomass_elu,g CH4/kg dry matter,measure
-Other forest - Implied emission factor for N2O (Burning biomass),other_forest_implied_emission_factor_for_n2o_burning_biomass_elu,g N20/kg dry matter,measure
-Cropland organic soils - Area,cropland_organic_soils_area_elu1,ha,measure
-Cropland organic soils - Implied emission factor for C (Cropland),cropland_organic_soils_implied_emission_factor_for_c_cropland_elu1,tonnes C/ha,measure
-Cropland organic soils - Net emissions/removal (CO2eq) (Cropland),cropland_organic_soils_net_emissions_removal_co2eq_cropland_elu1,gigagrams,measure
-Cropland organic soils - Net emissions/removals (CO2) (Cropland),cropland_organic_soils_net_emissions_removals_co2_cropland_elu1,gigagrams,measure
-Cropland organic soils - Net stock change (C) (Cropland),cropland_organic_soils_net_stock_change_c_cropland_elu1,gigagrams,measure
-Closed and open shrubland - Biomass burned (dry matter),closed_and_open_shrubland_biomass_burned_dry_matter_elu2,tonnes,measure
-Closed and open shrubland - Burned Area,closed_and_open_shrubland_burned_area_elu2,ha,measure
-Closed shrubland - Biomass burned (dry matter),closed_shrubland_biomass_burned_dry_matter_elu2,tonnes,measure
-Closed shrubland - Burned Area,closed_shrubland_burned_area_elu2,ha,measure
-Closed shrubland - Emissions (CH4),closed_shrubland_emissions_ch4_elu2,kilotonnes,measure
-Closed shrubland - Emissions (N2O),closed_shrubland_emissions_n2o_elu2,kilotonnes,measure
-Fires in organic soils - Biomass burned (dry matter),fires_in_organic_soils_biomass_burned_dry_matter_elu2,tonnes,measure
-Fires in organic soils - Burned Area,fires_in_organic_soils_burned_area_elu2,ha,measure
-Fires in organic soils - Emissions (CH4),fires_in_organic_soils_emissions_ch4_elu2,kilotonnes,measure
-Fires in organic soils - Emissions (CO2),fires_in_organic_soils_emissions_co2_elu2,kilotonnes,measure
-Forest fires - Biomass burned (dry matter),forest_fires_biomass_burned_dry_matter_elu2,tonnes,measure
-Forest fires - Burned Area,forest_fires_burned_area_elu2,ha,measure
-Forest fires - Emissions (CH4),forest_fires_emissions_ch4_elu2,kilotonnes,measure
-Forest fires - Emissions (CO2),forest_fires_emissions_co2_elu2,kilotonnes,measure
-Forest fires - Emissions (N2O),forest_fires_emissions_n2o_elu2,kilotonnes,measure
-Grassland - Biomass burned (dry matter),grassland_biomass_burned_dry_matter_elu2,tonnes,measure
-Grassland - Burned Area,grassland_burned_area_elu2,ha,measure
-Grassland - Emissions (CH4),grassland_emissions_ch4_elu2,kilotonnes,measure
-Grassland - Emissions (N2O),grassland_emissions_n2o_elu2,kilotonnes,measure
-Humid tropical forest - Biomass burned (dry matter),humid_tropical_forest_biomass_burned_dry_matter_elu2,tonnes,measure
-Humid tropical forest - Burned Area,humid_tropical_forest_burned_area_elu2,ha,measure
-Humid tropical forest - Emissions (CH4),humid_tropical_forest_emissions_ch4_elu2,kilotonnes,measure
-Humid tropical forest - Emissions (N2O),humid_tropical_forest_emissions_n2o_elu2,kilotonnes,measure
-Open shrubland - Biomass burned (dry matter),open_shrubland_biomass_burned_dry_matter_elu2,tonnes,measure
-Open shrubland - Burned Area,open_shrubland_burned_area_elu2,ha,measure
-Open shrubland - Emissions (CH4),open_shrubland_emissions_ch4_elu2,kilotonnes,measure
-Open shrubland - Emissions (N2O),open_shrubland_emissions_n2o_elu2,kilotonnes,measure
-Other forest - Biomass burned (dry matter),other_forest_biomass_burned_dry_matter_elu2,tonnes,measure
-Other forest - Burned Area,other_forest_burned_area_elu2,ha,measure
-Other forest - Emissions (CH4),other_forest_emissions_ch4_elu2,kilotonnes,measure
-Other forest - Emissions (CO2),other_forest_emissions_co2_elu2,kilotonnes,measure
-Other forest - Emissions (N2O),other_forest_emissions_n2o_elu2,kilotonnes,measure
-Savanna - Biomass burned (dry matter),savanna_biomass_burned_dry_matter_elu2,tonnes,measure
-Savanna - Burned Area,savanna_burned_area_elu2,ha,measure
-Savanna - Emissions (CH4),savanna_emissions_ch4_elu2,kilotonnes,measure
-Savanna - Emissions (N2O),savanna_emissions_n2o_elu2,kilotonnes,measure
-Savanna and woody savanna - Biomass burned (dry matter),savanna_and_woody_savanna_biomass_burned_dry_matter_elu2,tonnes,measure
-Savanna and woody savanna - Burned Area,savanna_and_woody_savanna_burned_area_elu2,ha,measure
-Savanna fires - Biomass burned (dry matter),savanna_fires_biomass_burned_dry_matter_elu2,tonnes,measure
-Savanna fires - Burned Area,savanna_fires_burned_area_elu2,ha,measure
-Savanna fires - Emissions (CH4),savanna_fires_emissions_ch4_elu2,kilotonnes,measure
-Savanna fires - Emissions (CO2),savanna_fires_emissions_co2_elu2,kilotonnes,measure
-Savanna fires - Emissions (N2O),savanna_fires_emissions_n2o_elu2,kilotonnes,measure
-Woody savanna - Biomass burned (dry matter),woody_savanna_biomass_burned_dry_matter_elu2,tonnes,measure
-Woody savanna - Burned Area,woody_savanna_burned_area_elu2,ha,measure
-Woody savanna - Emissions (CH4),woody_savanna_emissions_ch4_elu2,kilotonnes,measure
-Woody savanna - Emissions (N2O),woody_savanna_emissions_n2o_elu2,kilotonnes,measure
-Carbon stock change in forests - Net emissions/removals (CO2) (Forest land),carbon_stock_change_in_forests_net_emissions_removals_co2_forest_land_elu3,kilotonnes,measure
-Forestland - Area,forestland_area_elu3,1000 ha,measure
-Forestland - Net emissions/removals (CO2) (Forest land),forestland_net_emissions_removals_co2_forest_land_elu3,kilotonnes,measure
-Net Forest conversion - Area,net_forest_conversion_area_elu3,1000 ha,measure
-Net Forest conversion - Net emissions/removals (CO2) (Forest land),net_forest_conversion_net_emissions_removals_co2_forest_land_elu3,kilotonnes,measure
-Forest land - Area,forest_land_area_elu4,1000 ha,measure
-Forest land - Implied emission factor for CO2,forest_land_implied_emission_factor_for_co2_elu4,tonnes CO2/ha,measure
-Forest land - Net emissions/removal (CO2eq) (Forest land),forest_land_net_emissions_removal_co2eq_forest_land_elu4,gigagrams,measure
-Forest land - Net emissions/removals (CO2) (Forest land),forest_land_net_emissions_removals_co2_forest_land_elu4,gigagrams,measure
-Forest land (total) - Net emissions/removal (CO2eq) (Forest land),forest_land_total_net_emissions_removal_co2eq_forest_land_elu4,gigagrams,measure
-Forest land (total) - Net emissions/removals (CO2) (Forest land),forest_land_total_net_emissions_removals_co2_forest_land_elu4,gigagrams,measure
-Net Forest conversion - Area,net_forest_conversion_area_elu4,1000 ha,measure
-Net Forest conversion - Implied emission factor for CO2,net_forest_conversion_implied_emission_factor_for_co2_elu4,tonnes CO2/ha,measure
-Net Forest conversion - Net emissions/removal (CO2eq) (Forest land),net_forest_conversion_net_emissions_removal_co2eq_forest_land_elu4,gigagrams,measure
-Net Forest conversion - Net emissions/removals (CO2) (Forest land),net_forest_conversion_net_emissions_removals_co2_forest_land_elu4,gigagrams,measure
-Grassland organic soils - Area,grassland_organic_soils_area_elu5,ha,measure
-Grassland organic soils - Implied emission factor for C (Grassland),grassland_organic_soils_implied_emission_factor_for_c_grassland_elu5,tonnes C/ha,measure
-Grassland organic soils - Net emissions/removal (CO2eq) (Grassland),grassland_organic_soils_net_emissions_removal_co2eq_grassland_elu5,gigagrams,measure
-Grassland organic soils - Net emissions/removals (CO2) (Grassland),grassland_organic_soils_net_emissions_removals_co2_grassland_elu5,gigagrams,measure
-Grassland organic soils - Net stock change (C) (Grassland),grassland_organic_soils_net_stock_change_c_grassland_elu5,gigagrams,measure
-Burning Biomass - Emissions (CO2eq) from CH4,burning_biomass_emissions_co2eq_from_ch4_elu6,gigagrams,measure
-Burning Biomass - Emissions (CO2eq) from N2O,burning_biomass_emissions_co2eq_from_n2o_elu6,gigagrams,measure
-Burning Biomass - Net emissions/removals (CO2),burning_biomass_net_emissions_removals_co2_elu6,gigagrams,measure
-Burning Biomass - Net emissions/removals (CO2eq),burning_biomass_net_emissions_removals_co2eq_elu6,gigagrams,measure
-Cropland - Net emissions/removals (CO2),cropland_net_emissions_removals_co2_elu6,gigagrams,measure
-Cropland - Net emissions/removals (CO2eq),cropland_net_emissions_removals_co2eq_elu6,gigagrams,measure
-Forest land - Net emissions/removals (CO2),forest_land_net_emissions_removals_co2_elu6,gigagrams,measure
-Forest land - Net emissions/removals (CO2eq),forest_land_net_emissions_removals_co2eq_elu6,gigagrams,measure
-Grassland - Net emissions/removals (CO2),grassland_net_emissions_removals_co2_elu6,gigagrams,measure
-Grassland - Net emissions/removals (CO2eq),grassland_net_emissions_removals_co2eq_elu6,gigagrams,measure
-Land Use total - Emissions (CO2eq) from CH4,land_use_total_emissions_co2eq_from_ch4_elu6,gigagrams,measure
-Land Use total - Emissions (CO2eq) from N2O,land_use_total_emissions_co2eq_from_n2o_elu6,gigagrams,measure
-Land Use total - Net emissions/removals (CO2),land_use_total_net_emissions_removals_co2_elu6,gigagrams,measure
-Land Use total - Net emissions/removals (CO2eq),land_use_total_net_emissions_removals_co2eq_elu6,gigagrams,measure
+Other forest - Emissions (CH4),other_forest_emissions_ch4_elu,kilotonnes,measure
+Other forest - Emissions (CO2),other_forest_emissions_co2_elu,kilotonnes,measure
+Other forest - Emissions (N2O),other_forest_emissions_n2o_elu,kilotonnes,measure
+Savanna - Biomass burned (dry matter),savanna_biomass_burned_dry_matter_elu,tonnes,measure
+Savanna - Burned Area,savanna_burned_area_elu,ha,measure
+Savanna - Emissions (CH4),savanna_emissions_ch4_elu,kilotonnes,measure
+Savanna - Emissions (N2O),savanna_emissions_n2o_elu,kilotonnes,measure
+Savanna and woody savanna - Biomass burned (dry matter),savanna_and_woody_savanna_biomass_burned_dry_matter_elu,tonnes,measure
+Savanna and woody savanna - Burned Area,savanna_and_woody_savanna_burned_area_elu,ha,measure
+Savanna fires - Biomass burned (dry matter),savanna_fires_biomass_burned_dry_matter_elu,tonnes,measure
+Savanna fires - Burned Area,savanna_fires_burned_area_elu,ha,measure
+Savanna fires - Emissions (CH4),savanna_fires_emissions_ch4_elu,kilotonnes,measure
+Savanna fires - Emissions (CO2),savanna_fires_emissions_co2_elu,kilotonnes,measure
+Savanna fires - Emissions (N2O),savanna_fires_emissions_n2o_elu,kilotonnes,measure
+Woody savanna - Biomass burned (dry matter),woody_savanna_biomass_burned_dry_matter_elu,tonnes,measure
+Woody savanna - Burned Area,woody_savanna_burned_area_elu,ha,measure
+Woody savanna - Emissions (CH4),woody_savanna_emissions_ch4_elu,kilotonnes,measure
+Woody savanna - Emissions (N2O),woody_savanna_emissions_n2o_elu,kilotonnes,measure
+Carbon stock change in forests - Net emissions/removals (CO2) (Forest land),carbon_stock_change_in_forests_net_emissions_removals_co2_forest_land_elu1,kilotonnes,measure
+Forestland - Area,forestland_area_elu1,1000 ha,measure
+Forestland - Net emissions/removals (CO2) (Forest land),forestland_net_emissions_removals_co2_forest_land_elu1,kilotonnes,measure
+Net Forest conversion - Area,net_forest_conversion_area_elu1,1000 ha,measure
+Net Forest conversion - Net emissions/removals (CO2) (Forest land),net_forest_conversion_net_emissions_removals_co2_forest_land_elu1,kilotonnes,measure
 AFOLU - Direct emissions (N2O),afolu_direct_emissions_n2o_ete,kilotonnes,measure
 AFOLU - Emissions (CH4),afolu_emissions_ch4_ete,kilotonnes,measure
 AFOLU - Emissions (CO2),afolu_emissions_co2_ete,kilotonnes,measure
@@ -8054,97 +7860,98 @@ Total FDI outflows - Value US$,total_fdi_outflows_value_us_ife3,millions,measure
 "Total FDI outflows - Value US$, 2015 prices",total_fdi_outflows_value_us_2015_prices_ife3,millions,measure
 Agriculture (Central Government) - Value Local Currency,agriculture_central_government_value_local_currency_ige,millions,measure
 Agriculture (Central Government) - Value US$,agriculture_central_government_value_us_ige,millions,measure
-"Agriculture (Central Government) - Value US$, 2010 prices",agriculture_central_government_value_us_2010_prices_ige,millions,measure
+"Agriculture (Central Government) - Value US$, 2015 prices",agriculture_central_government_value_us_2015_prices_ige,millions,measure
 Agriculture (General Government) - Value Local Currency,agriculture_general_government_value_local_currency_ige,millions,measure
 Agriculture (General Government) - Value US$,agriculture_general_government_value_us_ige,millions,measure
-"Agriculture (General Government) - Value US$, 2010 prices",agriculture_general_government_value_us_2010_prices_ige,millions,measure
+"Agriculture (General Government) - Value US$, 2015 prices",agriculture_general_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, Capital (Central Government) - Value Local Currency",agriculture_capital_central_government_value_local_currency_ige,millions,measure
 "Agriculture, Capital (Central Government) - Value US$",agriculture_capital_central_government_value_us_ige,millions,measure
-"Agriculture, Capital (Central Government) - Value US$, 2010 prices",agriculture_capital_central_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, Capital (Central Government) - Value US$, 2015 prices",agriculture_capital_central_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, Capital (General Government) - Value Local Currency",agriculture_capital_general_government_value_local_currency_ige,millions,measure
 "Agriculture, Capital (General Government) - Value US$",agriculture_capital_general_government_value_us_ige,millions,measure
-"Agriculture, Capital (General Government) - Value US$, 2010 prices",agriculture_capital_general_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, Capital (General Government) - Value US$, 2015 prices",agriculture_capital_general_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, Recurrent (Central Government) - Value Local Currency",agriculture_recurrent_central_government_value_local_currency_ige,millions,measure
 "Agriculture, Recurrent (Central Government) - Value US$",agriculture_recurrent_central_government_value_us_ige,millions,measure
-"Agriculture, Recurrent (Central Government) - Value US$, 2010 prices",agriculture_recurrent_central_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, Recurrent (Central Government) - Value US$, 2015 prices",agriculture_recurrent_central_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, Recurrent (General Government) - Value Local Currency",agriculture_recurrent_general_government_value_local_currency_ige,millions,measure
 "Agriculture, Recurrent (General Government) - Value US$",agriculture_recurrent_general_government_value_us_ige,millions,measure
-"Agriculture, Recurrent (General Government) - Value US$, 2010 prices",agriculture_recurrent_general_government_value_us_2010_prices_ige,millions,measure
-"Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",agriculture_forestry_fishing_central_government_agriculture_orientation_index_ige,index,measure
-"Agriculture, forestry, fishing (Central Government) - Share of Total Outlays",agriculture_forestry_fishing_central_government_share_of_total_outlays_ige,%,measure
+"Agriculture, Recurrent (General Government) - Value US$, 2015 prices",agriculture_recurrent_general_government_value_us_2015_prices_ige,millions,measure
+"Agriculture, forestry, fishing (Central Government) - Share of Total Expenditure",agriculture_forestry_fishing_central_government_share_of_total_expenditure_ige,%,measure
 "Agriculture, forestry, fishing (Central Government) - Value Local Currency",agriculture_forestry_fishing_central_government_value_local_currency_ige,millions,measure
 "Agriculture, forestry, fishing (Central Government) - Value US$",agriculture_forestry_fishing_central_government_value_us_ige,millions,measure
-"Agriculture, forestry, fishing (Central Government) - Value US$, 2010 prices",agriculture_forestry_fishing_central_government_value_us_2010_prices_ige,millions,measure
-"Agriculture, forestry, fishing (General Government) - Share of Total Outlays",agriculture_forestry_fishing_general_government_share_of_total_outlays_ige,%,measure
+"Agriculture, forestry, fishing (Central Government) - Value US$, 2015 prices",agriculture_forestry_fishing_central_government_value_us_2015_prices_ige,millions,measure
+"Agriculture, forestry, fishing (General Government) - Share of Total Expenditure",agriculture_forestry_fishing_general_government_share_of_total_expenditure_ige,%,measure
 "Agriculture, forestry, fishing (General Government) - Value Local Currency",agriculture_forestry_fishing_general_government_value_local_currency_ige,millions,measure
 "Agriculture, forestry, fishing (General Government) - Value US$",agriculture_forestry_fishing_general_government_value_us_ige,millions,measure
-"Agriculture, forestry, fishing (General Government) - Value US$, 2010 prices",agriculture_forestry_fishing_general_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, forestry, fishing (General Government) - Value US$, 2015 prices",agriculture_forestry_fishing_general_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, forestry, fishing, Capital (Central Government) - Value Local Currency",agriculture_forestry_fishing_capital_central_government_value_local_currency_ige,millions,measure
 "Agriculture, forestry, fishing, Capital (Central Government) - Value US$",agriculture_forestry_fishing_capital_central_government_value_us_ige,millions,measure
-"Agriculture, forestry, fishing, Capital (Central Government) - Value US$, 2010 prices",agriculture_forestry_fishing_capital_central_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, forestry, fishing, Capital (Central Government) - Value US$, 2015 prices",agriculture_forestry_fishing_capital_central_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, forestry, fishing, Capital (General Government) - Value Local Currency",agriculture_forestry_fishing_capital_general_government_value_local_currency_ige,millions,measure
 "Agriculture, forestry, fishing, Capital (General Government) - Value US$",agriculture_forestry_fishing_capital_general_government_value_us_ige,millions,measure
-"Agriculture, forestry, fishing, Capital (General Government) - Value US$, 2010 prices",agriculture_forestry_fishing_capital_general_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, forestry, fishing, Capital (General Government) - Value US$, 2015 prices",agriculture_forestry_fishing_capital_general_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, forestry, fishing, Recurrent (Central Government) - Value Local Currency",agriculture_forestry_fishing_recurrent_central_government_value_local_currency_ige,millions,measure
 "Agriculture, forestry, fishing, Recurrent (Central Government) - Value US$",agriculture_forestry_fishing_recurrent_central_government_value_us_ige,millions,measure
-"Agriculture, forestry, fishing, Recurrent (Central Government) - Value US$, 2010 prices",agriculture_forestry_fishing_recurrent_central_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, forestry, fishing, Recurrent (Central Government) - Value US$, 2015 prices",agriculture_forestry_fishing_recurrent_central_government_value_us_2015_prices_ige,millions,measure
 "Agriculture, forestry, fishing, Recurrent (General Government) - Value Local Currency",agriculture_forestry_fishing_recurrent_general_government_value_local_currency_ige,millions,measure
 "Agriculture, forestry, fishing, Recurrent (General Government) - Value US$",agriculture_forestry_fishing_recurrent_general_government_value_us_ige,millions,measure
-"Agriculture, forestry, fishing, Recurrent (General Government) - Value US$, 2010 prices",agriculture_forestry_fishing_recurrent_general_government_value_us_2010_prices_ige,millions,measure
+"Agriculture, forestry, fishing, Recurrent (General Government) - Value US$, 2015 prices",agriculture_forestry_fishing_recurrent_general_government_value_us_2015_prices_ige,millions,measure
 Environmental protection (Central Government) - Value Local Currency,environmental_protection_central_government_value_local_currency_ige,millions,measure
 Environmental protection (Central Government) - Value US$,environmental_protection_central_government_value_us_ige,millions,measure
-"Environmental protection (Central Government) - Value US$, 2010 prices",environmental_protection_central_government_value_us_2010_prices_ige,millions,measure
+"Environmental protection (Central Government) - Value US$, 2015 prices",environmental_protection_central_government_value_us_2015_prices_ige,millions,measure
 Environmental protection (General Government) - Value Local Currency,environmental_protection_general_government_value_local_currency_ige,millions,measure
 Environmental protection (General Government) - Value US$,environmental_protection_general_government_value_us_ige,millions,measure
-"Environmental protection (General Government) - Value US$, 2010 prices",environmental_protection_general_government_value_us_2010_prices_ige,millions,measure
+"Environmental protection (General Government) - Value US$, 2015 prices",environmental_protection_general_government_value_us_2015_prices_ige,millions,measure
 Fishing (Central Government) - Value Local Currency,fishing_central_government_value_local_currency_ige,millions,measure
 Fishing (Central Government) - Value US$,fishing_central_government_value_us_ige,millions,measure
-"Fishing (Central Government) - Value US$, 2010 prices",fishing_central_government_value_us_2010_prices_ige,millions,measure
+"Fishing (Central Government) - Value US$, 2015 prices",fishing_central_government_value_us_2015_prices_ige,millions,measure
 Fishing (General Government) - Value Local Currency,fishing_general_government_value_local_currency_ige,millions,measure
 Fishing (General Government) - Value US$,fishing_general_government_value_us_ige,millions,measure
-"Fishing (General Government) - Value US$, 2010 prices",fishing_general_government_value_us_2010_prices_ige,millions,measure
+"Fishing (General Government) - Value US$, 2015 prices",fishing_general_government_value_us_2015_prices_ige,millions,measure
 "Fishing, Capital (Central Government) - Value Local Currency",fishing_capital_central_government_value_local_currency_ige,millions,measure
 "Fishing, Capital (Central Government) - Value US$",fishing_capital_central_government_value_us_ige,millions,measure
-"Fishing, Capital (Central Government) - Value US$, 2010 prices",fishing_capital_central_government_value_us_2010_prices_ige,millions,measure
+"Fishing, Capital (Central Government) - Value US$, 2015 prices",fishing_capital_central_government_value_us_2015_prices_ige,millions,measure
 "Fishing, Capital (General Government) - Value Local Currency",fishing_capital_general_government_value_local_currency_ige,millions,measure
 "Fishing, Capital (General Government) - Value US$",fishing_capital_general_government_value_us_ige,millions,measure
-"Fishing, Capital (General Government) - Value US$, 2010 prices",fishing_capital_general_government_value_us_2010_prices_ige,millions,measure
+"Fishing, Capital (General Government) - Value US$, 2015 prices",fishing_capital_general_government_value_us_2015_prices_ige,millions,measure
 "Fishing, Recurrent (Central Government) - Value Local Currency",fishing_recurrent_central_government_value_local_currency_ige,millions,measure
 "Fishing, Recurrent (Central Government) - Value US$",fishing_recurrent_central_government_value_us_ige,millions,measure
-"Fishing, Recurrent (Central Government) - Value US$, 2010 prices",fishing_recurrent_central_government_value_us_2010_prices_ige,millions,measure
+"Fishing, Recurrent (Central Government) - Value US$, 2015 prices",fishing_recurrent_central_government_value_us_2015_prices_ige,millions,measure
 "Fishing, Recurrent (General Government) - Value Local Currency",fishing_recurrent_general_government_value_local_currency_ige,millions,measure
 "Fishing, Recurrent (General Government) - Value US$",fishing_recurrent_general_government_value_us_ige,millions,measure
-"Fishing, Recurrent (General Government) - Value US$, 2010 prices",fishing_recurrent_general_government_value_us_2010_prices_ige,millions,measure
+"Fishing, Recurrent (General Government) - Value US$, 2015 prices",fishing_recurrent_general_government_value_us_2015_prices_ige,millions,measure
 Forestry (Central Government) - Value Local Currency,forestry_central_government_value_local_currency_ige,millions,measure
 Forestry (Central Government) - Value US$,forestry_central_government_value_us_ige,millions,measure
-"Forestry (Central Government) - Value US$, 2010 prices",forestry_central_government_value_us_2010_prices_ige,millions,measure
+"Forestry (Central Government) - Value US$, 2015 prices",forestry_central_government_value_us_2015_prices_ige,millions,measure
 Forestry (General Government) - Value Local Currency,forestry_general_government_value_local_currency_ige,millions,measure
 Forestry (General Government) - Value US$,forestry_general_government_value_us_ige,millions,measure
-"Forestry (General Government) - Value US$, 2010 prices",forestry_general_government_value_us_2010_prices_ige,millions,measure
+"Forestry (General Government) - Value US$, 2015 prices",forestry_general_government_value_us_2015_prices_ige,millions,measure
 "Forestry, Capital (Central Government) - Value Local Currency",forestry_capital_central_government_value_local_currency_ige,millions,measure
 "Forestry, Capital (Central Government) - Value US$",forestry_capital_central_government_value_us_ige,millions,measure
-"Forestry, Capital (Central Government) - Value US$, 2010 prices",forestry_capital_central_government_value_us_2010_prices_ige,millions,measure
+"Forestry, Capital (Central Government) - Value US$, 2015 prices",forestry_capital_central_government_value_us_2015_prices_ige,millions,measure
 "Forestry, Capital (General Government) - Value Local Currency",forestry_capital_general_government_value_local_currency_ige,millions,measure
 "Forestry, Capital (General Government) - Value US$",forestry_capital_general_government_value_us_ige,millions,measure
-"Forestry, Capital (General Government) - Value US$, 2010 prices",forestry_capital_general_government_value_us_2010_prices_ige,millions,measure
+"Forestry, Capital (General Government) - Value US$, 2015 prices",forestry_capital_general_government_value_us_2015_prices_ige,millions,measure
 "Forestry, Recurrent (Central Government) - Value Local Currency",forestry_recurrent_central_government_value_local_currency_ige,millions,measure
 "Forestry, Recurrent (Central Government) - Value US$",forestry_recurrent_central_government_value_us_ige,millions,measure
-"Forestry, Recurrent (Central Government) - Value US$, 2010 prices",forestry_recurrent_central_government_value_us_2010_prices_ige,millions,measure
+"Forestry, Recurrent (Central Government) - Value US$, 2015 prices",forestry_recurrent_central_government_value_us_2015_prices_ige,millions,measure
 "Forestry, Recurrent (General Government) - Value Local Currency",forestry_recurrent_general_government_value_local_currency_ige,millions,measure
 "Forestry, Recurrent (General Government) - Value US$",forestry_recurrent_general_government_value_us_ige,millions,measure
-"Forestry, Recurrent (General Government) - Value US$, 2010 prices",forestry_recurrent_general_government_value_us_2010_prices_ige,millions,measure
+"Forestry, Recurrent (General Government) - Value US$, 2015 prices",forestry_recurrent_general_government_value_us_2015_prices_ige,millions,measure
 "R&D Agriculture, forestry, fishing (Central Government) - Value Local Currency",r_d_agriculture_forestry_fishing_central_government_value_local_currency_ige,millions,measure
 "R&D Agriculture, forestry, fishing (Central Government) - Value US$",r_d_agriculture_forestry_fishing_central_government_value_us_ige,millions,measure
-"R&D Agriculture, forestry, fishing (Central Government) - Value US$, 2010 prices",r_d_agriculture_forestry_fishing_central_government_value_us_2010_prices_ige,millions,measure
+"R&D Agriculture, forestry, fishing (Central Government) - Value US$, 2015 prices",r_d_agriculture_forestry_fishing_central_government_value_us_2015_prices_ige,millions,measure
 "R&D Agriculture, forestry, fishing (General Government) - Value Local Currency",r_d_agriculture_forestry_fishing_general_government_value_local_currency_ige,millions,measure
 "R&D Agriculture, forestry, fishing (General Government) - Value US$",r_d_agriculture_forestry_fishing_general_government_value_us_ige,millions,measure
-"R&D Agriculture, forestry, fishing (General Government) - Value US$, 2010 prices",r_d_agriculture_forestry_fishing_general_government_value_us_2010_prices_ige,millions,measure
-Total outlays (Central Government) - Value Local Currency,total_outlays_central_government_value_local_currency_ige,millions,measure
-Total outlays (Central Government) - Value US$,total_outlays_central_government_value_us_ige,millions,measure
-"Total outlays (Central Government) - Value US$, 2010 prices",total_outlays_central_government_value_us_2010_prices_ige,millions,measure
-Total outlays (General Government) - Value Local Currency,total_outlays_general_government_value_local_currency_ige,millions,measure
-Total outlays (General Government) - Value US$,total_outlays_general_government_value_us_ige,millions,measure
-"Total outlays (General Government) - Value US$, 2010 prices",total_outlays_general_government_value_us_2010_prices_ige,millions,measure
+"R&D Agriculture, forestry, fishing (General Government) - Value US$, 2015 prices",r_d_agriculture_forestry_fishing_general_government_value_us_2015_prices_ige,millions,measure
+SDG 2.a.1: Highest Government level - SDG 2.a.1: Agriculture Orientation Index (AOI) for Government Expenditure,sdg_2_a_1_highest_government_level_sdg_2_a_1_agriculture_orientation_index_aoi_for_government_expenditure_ige,index,measure
+SDG 2.a.1: Highest Government level - SDG 2.a.1: Agriculture share of Govt expenditures,sdg_2_a_1_highest_government_level_sdg_2_a_1_agriculture_share_of_govt_expenditures_ige,%,measure
+Total Expenditure (Central Government) - Value Local Currency,total_expenditure_central_government_value_local_currency_ige,millions,measure
+Total Expenditure (Central Government) - Value US$,total_expenditure_central_government_value_us_ige,millions,measure
+"Total Expenditure (Central Government) - Value US$, 2015 prices",total_expenditure_central_government_value_us_2015_prices_ige,millions,measure
+Total Expenditure (General Government) - Value Local Currency,total_expenditure_general_government_value_local_currency_ige,millions,measure
+Total Expenditure (General Government) - Value US$,total_expenditure_general_government_value_us_ige,millions,measure
+"Total Expenditure (General Government) - Value US$, 2015 prices",total_expenditure_general_government_value_us_2015_prices_ige,millions,measure
 Agricultural machinery nes (trade) - Export Value,agricultural_machinery_nes_trade_export_value_ime1,1000 US$,measure
 Agricultural machinery nes (trade) - Import Value,agricultural_machinery_nes_trade_import_value_ime1,1000 US$,measure
 Agricultural tractors - Export Quantity,agricultural_tractors_export_quantity_ime1,No,measure

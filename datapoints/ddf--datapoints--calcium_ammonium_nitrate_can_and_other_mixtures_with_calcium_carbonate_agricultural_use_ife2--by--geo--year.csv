@@ -4,6 +4,8 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 1,2009,6
 1,2010,58
 1,2011,204
+1,2018,1536
+1,2019,1080
 10,2002,534
 10,2003,398
 10,2004,12971
@@ -26,6 +28,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 100,2016,7100
 100,2017,100
 100,2018,2000
+100,2019,2000
 101,2004,960
 102,2002,1359962
 102,2012,0
@@ -47,10 +50,12 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 104,2015,547532
 104,2016,490345
 104,2017,630527
+104,2019,450439
 106,2015,62099
 106,2016,54087
 106,2017,55301
 106,2018,96809
+106,2019,53768
 108,2005,4818
 108,2006,1592
 109,2002,566
@@ -66,6 +71,10 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 11,2009,200000
 11,2010,220000
 11,2011,225000
+11,2016,254185.54
+11,2017,249391.57
+11,2018,252657.41
+11,2019,217219.69
 112,2008,378
 112,2009,237
 112,2010,627
@@ -94,6 +103,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 119,2016,3929
 119,2017,6418
 119,2018,6406
+119,2019,9852
 121,2007,2016
 121,2009,1101
 121,2010,22
@@ -103,13 +113,6 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 126,2009,21321
 126,2010,43720
 126,2011,19704
-128,2012,0
-128,2013,0
-128,2014,0
-128,2015,0
-128,2016,0
-128,2017,0
-128,2018,0
 129,2009,20
 129,2010,20
 130,2002,45774
@@ -148,6 +151,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 137,2016,4533
 137,2017,4611
 137,2018,5337
+137,2019,4079
 138,2002,419
 138,2003,411
 138,2004,275
@@ -178,6 +182,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 146,2016,21
 146,2017,35
 146,2018,88
+146,2019,71
 147,2004,37
 147,2005,34
 147,2006,55
@@ -195,7 +200,8 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 149,2014,0
 150,2016,511884
 150,2017,499813
-150,2018,432414
+150,2018,446328
+150,2019,433162
 153,2004,22
 153,2005,19
 153,2006,9
@@ -238,9 +244,10 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 162,2013,39681
 162,2014,40057
 162,2015,31100
-162,2016,20851
-162,2017,15499
+162,2016,20968
+162,2017,15582
 162,2018,16747
+162,2019,16144
 165,2003,373044
 165,2004,326293
 165,2005,298246
@@ -256,6 +263,8 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 165,2015,454044
 165,2016,550457
 165,2017,731236
+165,2018,608542
+165,2019,472035
 166,2002,882
 166,2009,13
 167,2010,8025
@@ -266,6 +275,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 167,2016,514571
 167,2017,542356
 167,2018,617731
+167,2019,619255
 168,2003,1
 168,2007,34
 169,2011,780
@@ -299,9 +309,10 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 18,2013,0.2
 18,2014,0.2
 18,2015,0.08
-18,2016,0.5
-18,2017,0.7
+18,2016,0.08
+18,2017,0.07
 18,2018,0.2
+18,2019,0.5
 181,2003,9914
 181,2004,4460
 181,2005,7756
@@ -319,6 +330,8 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 195,2009,18
 195,2010,23
 195,2011,47
+195,2018,290
+195,2019,1279
 196,2005,0
 196,2009,26.25
 196,2010,6
@@ -339,6 +352,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 198,2016,49454
 198,2017,51148.63
 198,2018,47809
+198,2019,54603
 199,2012,153571
 199,2013,153571
 199,2014,140133.43
@@ -346,14 +360,12 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 199,2016,130269
 199,2017,104926.77
 199,2018,106067.88
+199,2019,112640.91
 20,2010,820
 20,2011,720
 20,2012,1468
 20,2013,312
 20,2014,60
-200,2002,64
-200,2003,8
-200,2004,30
 202,2010,82459
 202,2011,128987
 203,2002,685210
@@ -375,10 +387,6 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 21,2011,236670
 21,2012,341533
 21,2013,216704.84
-21,2014,0
-21,2015,0
-21,2016,0
-21,2017,0
 210,2008,466971
 210,2009,303188
 210,2010,384701
@@ -390,6 +398,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 210,2016,406891.99
 210,2017,458751.37
 210,2018,403747
+210,2019,415980
 211,2002,65227
 211,2003,70194
 211,2004,74729
@@ -407,6 +416,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 211,2016,54743
 211,2017,56315
 211,2018,48109
+211,2019,66970
 212,2011,100
 214,2006,8606
 214,2007,6691
@@ -419,6 +429,9 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 214,2014,176
 214,2015,252
 214,2016,365
+214,2017,728
+214,2018,1053
+214,2019,1076
 215,2002,12577
 215,2003,21494
 215,2004,12680
@@ -475,6 +488,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 223,2016,624205
 223,2017,625090
 223,2018,679466
+223,2019,918600
 226,2003,43
 226,2004,104
 226,2006,16
@@ -487,6 +501,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 23,2010,0.93
 230,2002,2330
 230,2018,67086
+230,2019,65245
 234,2011,3857
 234,2012,852
 234,2013,323
@@ -525,6 +540,10 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 256,2009,44810
 256,2010,46430
 256,2011,38265
+256,2016,45949.45
+256,2017,45369.61
+256,2018,42286.34
+256,2019,45812.89
 26,2010,0.5
 27,2008,3838
 27,2009,14755
@@ -543,6 +562,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 3,2005,2
 3,2006,5
 3,2007,118
+3,2019,470.4
 32,2004,24
 32,2009,3
 32,2011,60
@@ -555,6 +575,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 38,2016,65
 38,2017,103.9
 38,2018,258.5
+38,2019,380.7
 40,2004,34804
 40,2005,34803
 40,2007,14255
@@ -586,6 +607,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 50,2016,405
 50,2017,189
 50,2018,265
+50,2019,0
 52,2002,5687
 52,2003,4232
 52,2004,5743
@@ -604,7 +626,9 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 54,2014,41417
 54,2015,95360
 54,2016,29295
-54,2017,28.92
+54,2017,28924
+54,2018,18076.01
+54,2019,28100
 56,2006,636
 56,2009,282
 56,2010,687.47
@@ -623,9 +647,10 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 58,2007,609800
 58,2014,0.75
 58,2015,19476.49
-58,2016,20600.33
-58,2017,19628.64
-58,2018,20638.15
+58,2016,0
+58,2017,0
+58,2018,0
+58,2019,0
 60,2005,500
 60,2006,4953
 60,2007,3000
@@ -657,6 +682,10 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 7,2009,35
 7,2011,20.34
 70,2011,64
+70,2016,0
+70,2017,0
+70,2018,0
+70,2019,0
 73,2007,455.99
 73,2008,257.77
 73,2009,201.1
@@ -680,6 +709,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 81,2016,0
 81,2017,0
 81,2018,3.24
+81,2019,0
 84,2004,42739
 84,2005,90575
 84,2006,33462
@@ -702,6 +732,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 9,2016,89089
 9,2017,103095
 9,2018,128830
+9,2019,108947
 90,2002,615
 90,2003,306
 90,2006,1420
@@ -719,9 +750,10 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 97,2013,642000
 97,2014,603602
 97,2015,627106
-97,2016,679419
-97,2017,664264
-97,2018,762688
+97,2016,803200
+97,2017,789775
+97,2018,763050
+97,2019,769380
 98,2005,137286
 98,2006,134451
 98,2007,154371
@@ -735,6 +767,7 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 98,2016,105201
 98,2017,123506
 98,2018,126449
+98,2019,124713
 99,2004,138
 99,2005,186
 99,2006,163
@@ -748,3 +781,4 @@ geo,year,calcium_ammonium_nitrate_can_and_other_mixtures_with_calcium_carbonate_
 99,2016,7221
 99,2017,7268
 99,2018,6055
+99,2019,5940

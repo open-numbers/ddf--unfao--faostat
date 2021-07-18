@@ -52,7 +52,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 37,Central African Republic,,140,CF,CAF,,TRUE,FALSE,"420,5000,5100,5102,5801,5802,5810,5815,5817,5849,5858"
 5204,Central America,,013,,,,FALSE,TRUE,
 5301,Central Asia,,143,,,,FALSE,TRUE,
-5306,Central Asia and Southern Asia,,,,,,FALSE,TRUE,
+5306,Central Asia and Southern Asia,,062,,,,FALSE,TRUE,
 39,Chad,,148,TD,TCD,,TRUE,FALSE,"420,5000,5100,5102,5801,5802,5810,5815,5817,5849,5858"
 24,Chagos Archipelago,,086,IO,IOT,,TRUE,FALSE,"5000,5100,5101"
 259,Channel Islands,,830,,CHA,,TRUE,FALSE,"5000,5400,5402,5848"
@@ -82,7 +82,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 72,Djibouti,,262,DJ,DJI,,TRUE,FALSE,"420,5000,5100,5101,5801,5810,5815,5817,5849,5859"
 55,Dominica,,212,DM,DMA,,TRUE,FALSE,"5000,5200,5205,5206,5803,5817,5849,9011"
 56,Dominican Republic,,214,DO,DOM,,TRUE,FALSE,"5000,5200,5205,5206,5803,5817,5849,9011"
-5854,East Asia (excluding China),,223,,,,FALSE,TRUE,
+5854,East Asia (excluding China),,,,,,FALSE,TRUE,
 5101,Eastern Africa,,014,,,,FALSE,TRUE,
 5302,Eastern Asia,,030,,,,FALSE,TRUE,
 5307,Eastern Asia and South-eastern Asia,,753,,,,FALSE,TRUE,
@@ -126,7 +126,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 91,Guyana,,328,GY,GUY,,TRUE,FALSE,"5000,5200,5205,5207,5803,5849,9011"
 93,Haiti,,332,HT,HTI,,TRUE,FALSE,"5000,5200,5205,5206,5801,5803,5815,5817,5849,5858"
 92,Heard and McDonald Islands,,334,HM,HMD,,TRUE,FALSE,"5000,5500,5501"
-9010,High-income economies,,,,,,FALSE,TRUE,
+9010,High-income economies,,903,,,,FALSE,TRUE,
 94,Holy See,,336,VA,VAT,,TRUE,FALSE,"5000,5400,5403"
 95,Honduras,,340,HN,HND,,TRUE,FALSE,"5000,5200,5204,5205,5817,5849,5859"
 97,Hungary,,348,HU,HUN,,TRUE,FALSE,"5000,5208,5400,5401,5706,5707,5848,5873,9010"
@@ -160,9 +160,9 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 124,Libya,,434,LY,LBY,,TRUE,FALSE,"429,5000,5100,5103,5308,5849,9011"
 125,Liechtenstein,,438,LI,LIE,,TRUE,FALSE,"5000,5400,5404,5848"
 126,Lithuania,,440,LT,LTU,1992,TRUE,FALSE,"5000,5208,5400,5402,5706,5707,5848,9010"
-5858,Low income economies,,,,,,FALSE,TRUE,
+5858,Low income economies,,904,,,,FALSE,TRUE,
 5815,Low Income Food Deficit Countries,,,,,,FALSE,TRUE,
-5859,Lower-middle-income economies,,,,,,FALSE,TRUE,
+5859,Lower-middle-income economies,,905,,,,FALSE,TRUE,
 256,Luxembourg,,442,LU,LUX,2000,TRUE,FALSE,"5000,5208,5400,5404,5706,5707,5848,5873,9010"
 129,Madagascar,,450,MG,MDG,,TRUE,FALSE,"420,5000,5100,5101,5801,5810,5815,5817,5849,5858"
 130,Malawi,,454,MW,MWI,,TRUE,FALSE,"420,5000,5100,5101,5801,5802,5810,5815,5817,5849,5858"
@@ -206,12 +206,12 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 154,North Macedonia,,807,MK,MKD,1992,TRUE,FALSE,"5000,5208,5400,5403,5802,5849,9011"
 5103,Northern Africa,,015,,,,FALSE,TRUE,
 5203,Northern America,,021,,,,FALSE,TRUE,
-5208,Northern America and Europe,,,,,,FALSE,TRUE,
+5208,Northern America and Europe,,513,,,,FALSE,TRUE,
 5402,Northern Europe,,154,,,,FALSE,TRUE,
 163,Northern Mariana Islands,,580,MP,MNP,1991,TRUE,FALSE,"5000,5500,5503,5803,5848"
 162,Norway,,578,NO,NOR,,TRUE,FALSE,"5000,5208,5400,5402,5848,5873,9010"
 5500,Oceania,,009,,,,FALSE,TRUE,
-5807,Oceania excluding Australia and New Zealand,,,,,,FALSE,TRUE,
+5807,Oceania excluding Australia and New Zealand,,543,,,,FALSE,TRUE,
 5873,OECD,,198,,,,FALSE,TRUE,
 221,Oman,,512,OM,OMN,,TRUE,FALSE,"5000,5300,5305,5308,5849,9010"
 164,Pacific Islands Trust Territory,1990,582,,,,TRUE,FALSE,"5000,5500,5503"
@@ -261,7 +261,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 201,Somalia,,706,SO,SOM,,TRUE,FALSE,"420,5000,5100,5101,5801,5810,5815,5817,5849,5858"
 202,South Africa,,710,ZA,ZAF,,TRUE,FALSE,"420,5000,5100,5104,5810,5849,9011"
 5207,South America,,005,,,,FALSE,TRUE,
-5855,South Asia (excluding India),,,,,,FALSE,TRUE,
+5855,South Asia (excluding India),,127,,,,FALSE,TRUE,
 271,South Georgia and the South Sandwich Islands,,239,GS,SGS,,TRUE,FALSE,"5000,5200,5207"
 277,South Sudan,,728,SS,SSD,2012,TRUE,FALSE,"420,5000,5100,5101,5801,5802,5810,5815,5817,5849,5858"
 5304,South-eastern Asia,,035,,,,FALSE,TRUE,
@@ -299,7 +299,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 232,United States Minor Outlying Islands,,581,UM,UMI,,TRUE,FALSE,"5000,5500,5503"
 231,United States of America,,840,US,USA,,TRUE,FALSE,"5000,5200,5203,5208,5848,5873,9010"
 240,United States Virgin Islands,,850,VI,VIR,,TRUE,FALSE,"5000,5200,5206,5803,5848"
-9011,Upper-middle-income economies,,,,,,FALSE,TRUE,
+9011,Upper-middle-income economies,,906,,,,FALSE,TRUE,
 234,Uruguay,,858,UY,URY,,TRUE,FALSE,"5000,5200,5205,5207,5849,9010"
 228,USSR,1991,810,,,,TRUE,FALSE,"5000,5400,5401,5848"
 235,Uzbekistan,,860,UZ,UZB,1992,TRUE,FALSE,"5000,5300,5301,5306,5802,5815,5849,5859"
@@ -310,7 +310,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 243,Wallis and Futuna Islands,,876,WF,WLF,,TRUE,FALSE,"5000,5500,5504,5848"
 5105,Western Africa,,011,,,,FALSE,TRUE,
 5305,Western Asia,,145,,,,FALSE,TRUE,
-5308,Western Asia and Northern Africa,,,,,,FALSE,TRUE,
+5308,Western Asia and Northern Africa,,747,,,,FALSE,TRUE,
 5404,Western Europe,,155,,,,FALSE,TRUE,
 205,Western Sahara,,732,EH,ESH,,TRUE,FALSE,"5000,5100,5103"
 5000,World,,001,,X01,,FALSE,TRUE,
