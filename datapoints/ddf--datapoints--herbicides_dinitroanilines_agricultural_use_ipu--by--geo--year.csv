@@ -55,6 +55,7 @@ geo,year,herbicides_dinitroanilines_agricultural_use_ipu
 104,2013,43
 104,2014,34
 104,2017,50
+104,2018,88
 105,2008,46
 105,2009,16
 105,2010,18
@@ -233,6 +234,9 @@ geo,year,herbicides_dinitroanilines_agricultural_use_ipu
 134,2007,0
 134,2014,0
 14,1997,1
+144,2015,8
+144,2016,42
+144,2017,0
 146,1992,239
 146,1993,216
 147,1990,1
@@ -338,6 +342,7 @@ geo,year,herbicides_dinitroanilines_agricultural_use_ipu
 173,2015,362
 173,2016,408
 173,2017,250
+173,2018,295
 174,1991,86
 174,1992,67
 174,1995,9
@@ -517,6 +522,9 @@ geo,year,herbicides_dinitroanilines_agricultural_use_ipu
 216,2012,217
 216,2013,41
 216,2014,541
+217,2016,0
+217,2017,0
+217,2018,0
 219,2016,0
 219,2017,0
 220,2010,16
@@ -638,6 +646,9 @@ geo,year,herbicides_dinitroanilines_agricultural_use_ipu
 256,2018,3
 27,1992,256
 276,2012,393
+276,2016,229
+276,2017,204
+276,2018,259
 28,2010,1
 28,2011,3
 28,2012,13

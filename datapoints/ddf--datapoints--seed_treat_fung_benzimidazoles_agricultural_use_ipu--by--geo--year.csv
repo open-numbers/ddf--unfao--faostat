@@ -58,6 +58,7 @@ geo,year,seed_treat_fung_benzimidazoles_agricultural_use_ipu
 173,2015,2
 173,2016,0
 173,2017,0
+173,2018,0
 195,2000,0
 195,2001,0
 195,2015,0
@@ -123,6 +124,9 @@ geo,year,seed_treat_fung_benzimidazoles_agricultural_use_ipu
 234,2012,5
 234,2013,8
 234,2018,53
+276,2016,0
+276,2017,0
+276,2018,0
 29,1999,1
 29,2000,0
 29,2001,1

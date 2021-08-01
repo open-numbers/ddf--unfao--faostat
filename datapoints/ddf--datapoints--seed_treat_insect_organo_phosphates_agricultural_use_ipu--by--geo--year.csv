@@ -35,6 +35,7 @@ geo,year,seed_treat_insect_organo_phosphates_agricultural_use_ipu
 167,2005,108
 167,2006,116
 167,2007,142
+173,2018,0
 195,2000,0
 195,2001,0
 195,2012,1
@@ -46,6 +47,9 @@ geo,year,seed_treat_insect_organo_phosphates_agricultural_use_ipu
 199,2001,0
 216,1999,4
 216,2000,3
+217,2016,1
+217,2017,1
+217,2018,1
 229,1998,8
 229,1999,7
 229,2000,1
@@ -68,6 +72,9 @@ geo,year,seed_treat_insect_organo_phosphates_agricultural_use_ipu
 229,2017,0
 229,2018,0
 23,2018,0
+276,2016,0
+276,2017,0
+276,2018,0
 29,2002,0
 29,2003,1
 40,1999,1090

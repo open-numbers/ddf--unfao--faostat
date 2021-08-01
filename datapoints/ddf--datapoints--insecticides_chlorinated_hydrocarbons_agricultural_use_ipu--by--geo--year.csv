@@ -31,6 +31,7 @@ geo,year,insecticides_chlorinated_hydrocarbons_agricultural_use_ipu
 104,1999,2
 104,2000,1
 104,2017,0
+104,2018,0
 106,1998,191
 106,1999,195
 106,2000,132
@@ -114,6 +115,9 @@ geo,year,insecticides_chlorinated_hydrocarbons_agricultural_use_ipu
 144,1995,0
 144,1996,0
 144,1997,1
+144,2015,0
+144,2016,0
+144,2017,0
 146,1992,55
 146,1993,62
 147,1990,1
@@ -215,6 +219,7 @@ geo,year,insecticides_chlorinated_hydrocarbons_agricultural_use_ipu
 173,2015,0
 173,2016,0
 173,2017,0
+173,2018,0
 174,1991,26
 174,1992,18
 174,1993,53
@@ -367,6 +372,9 @@ geo,year,insecticides_chlorinated_hydrocarbons_agricultural_use_ipu
 216,1999,979
 216,2000,562
 216,2003,1678
+217,2016,0
+217,2017,0
+217,2018,0
 219,2016,0
 219,2017,0
 221,1990,0
@@ -465,6 +473,9 @@ geo,year,insecticides_chlorinated_hydrocarbons_agricultural_use_ipu
 256,2017,0
 256,2018,0
 276,2012,131
+276,2016,35
+276,2017,0
+276,2018,0
 28,1990,10
 28,1991,9
 28,1992,12

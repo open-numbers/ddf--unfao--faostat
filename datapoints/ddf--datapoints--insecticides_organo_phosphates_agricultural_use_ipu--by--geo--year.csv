@@ -70,6 +70,7 @@ geo,year,insecticides_organo_phosphates_agricultural_use_ipu
 104,2014,28
 104,2016,19
 104,2017,27
+104,2018,14
 105,2008,234
 105,2009,158
 105,2010,165
@@ -318,6 +319,9 @@ geo,year,insecticides_organo_phosphates_agricultural_use_ipu
 144,1995,7
 144,1996,8
 144,1997,8
+144,2015,6
+144,2016,0
+144,2017,42
 146,1992,750
 146,1993,295
 147,1990,1
@@ -405,6 +409,9 @@ geo,year,insecticides_organo_phosphates_agricultural_use_ipu
 158,2010,6
 158,2011,10
 158,2012,21
+158,2016,46
+158,2017,32
+158,2018,17
 16,1990,720
 16,1991,751
 16,1992,821
@@ -520,6 +527,7 @@ geo,year,insecticides_organo_phosphates_agricultural_use_ipu
 173,2015,1206
 173,2016,1159
 173,2017,1467
+173,2018,1277
 174,1991,345
 174,1992,290
 174,1993,272
@@ -836,7 +844,9 @@ geo,year,insecticides_organo_phosphates_agricultural_use_ipu
 217,2013,97
 217,2014,101
 217,2015,199
-217,2016,201
+217,2016,195
+217,2017,210
+217,2018,220
 219,2016,0
 219,2017,1
 219,2018,1
@@ -1007,6 +1017,9 @@ geo,year,insecticides_organo_phosphates_agricultural_use_ipu
 26,2014,0
 27,1992,212
 276,2012,282
+276,2016,261
+276,2017,285
+276,2018,584
 28,1990,72
 28,1991,60
 28,1992,94

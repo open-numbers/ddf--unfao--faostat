@@ -51,6 +51,7 @@ geo,year,fung_bact_triazoles_diazoles_agricultural_use_ipu
 104,2014,79
 104,2016,84
 104,2017,81
+104,2018,67
 105,2008,6
 105,2009,7
 105,2010,7
@@ -238,6 +239,9 @@ geo,year,fung_bact_triazoles_diazoles_agricultural_use_ipu
 144,1995,0
 144,1996,0
 144,1997,0
+144,2015,0
+144,2016,0
+144,2017,87
 146,1992,64
 146,1993,88
 147,1990,2
@@ -384,6 +388,7 @@ geo,year,fung_bact_triazoles_diazoles_agricultural_use_ipu
 173,2015,1267
 173,2016,1235
 173,2017,1161
+173,2018,1387
 174,1991,40
 174,1992,22
 174,1993,24
@@ -596,6 +601,9 @@ geo,year,fung_bact_triazoles_diazoles_agricultural_use_ipu
 216,2012,718
 216,2013,71
 216,2014,828
+217,2016,6
+217,2017,6
+217,2018,6
 219,2016,0
 219,2017,0
 219,2018,0
@@ -734,6 +742,9 @@ geo,year,fung_bact_triazoles_diazoles_agricultural_use_ipu
 26,2014,0
 27,1992,60
 276,2012,6
+276,2016,6
+276,2017,2
+276,2018,12
 28,1996,0
 28,2005,12
 28,2006,4

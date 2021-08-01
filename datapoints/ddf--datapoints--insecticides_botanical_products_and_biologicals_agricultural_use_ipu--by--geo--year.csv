@@ -25,6 +25,7 @@ geo,year,insecticides_botanical_products_and_biologicals_agricultural_use_ipu
 104,2014,0
 104,2016,0
 104,2017,0
+104,2018,0
 105,2008,293
 106,1998,1
 106,1999,39
@@ -156,6 +157,9 @@ geo,year,insecticides_botanical_products_and_biologicals_agricultural_use_ipu
 14,1997,0
 144,1994,1
 144,1995,0
+144,2015,0
+144,2016,0
+144,2017,0
 149,2004,0
 149,2005,0
 149,2006,0
@@ -275,6 +279,7 @@ geo,year,insecticides_botanical_products_and_biologicals_agricultural_use_ipu
 173,2015,0
 173,2016,3
 173,2017,1
+173,2018,4
 174,1993,1
 174,1994,2
 174,1995,0
@@ -442,8 +447,8 @@ geo,year,insecticides_botanical_products_and_biologicals_agricultural_use_ipu
 211,2014,0
 211,2015,0
 211,2016,1
-211,2017,1
-211,2018,1
+211,2017,2
+211,2018,4
 212,1998,6
 212,1999,3
 212,2000,2
@@ -460,6 +465,9 @@ geo,year,insecticides_botanical_products_and_biologicals_agricultural_use_ipu
 216,2007,143
 216,2008,62
 216,2009,145
+217,2016,3
+217,2017,5
+217,2018,10
 219,2016,1
 219,2017,0
 219,2018,0
@@ -573,6 +581,9 @@ geo,year,insecticides_botanical_products_and_biologicals_agricultural_use_ipu
 256,2016,0
 256,2017,0
 256,2018,0
+276,2016,0
+276,2017,0
+276,2018,0
 28,1990,5
 28,1991,1
 28,1992,1
