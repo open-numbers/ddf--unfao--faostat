@@ -1,7 +1,7 @@
 geo,year,value_added_manufacture_of_food_beverages_and_tobacco_products_share_of_gdp_local_currency_2015_prices_mki
 1,2015,5.92308
 1,2016,4.4208
-1,2017,6.69779
+1,2017,6.6978
 1,2018,7.08254
 100,2008,1.45171
 100,2009,1.39001
@@ -70,7 +70,7 @@ geo,year,value_added_manufacture_of_food_beverages_and_tobacco_products_share_of
 114,2007,3.33245
 114,2008,3.16689
 114,2009,3.73752
-114,2010,3.72326
+114,2010,3.72325
 114,2011,3.92699
 114,2012,3.8347
 114,2013,3.90433
@@ -90,7 +90,7 @@ geo,year,value_added_manufacture_of_food_beverages_and_tobacco_products_share_of
 117,1998,1.77093
 117,1999,1.90435
 117,2000,1.8959
-117,2001,1.8221
+117,2001,1.82211
 117,2002,1.78397
 117,2003,1.75244
 117,2004,1.7838
@@ -190,7 +190,7 @@ geo,year,value_added_manufacture_of_food_beverages_and_tobacco_products_share_of
 17,2010,0.09072
 17,2011,0.08616
 17,2012,0.07577
-17,2013,0.05079
+17,2013,0.05078
 17,2014,0.0549
 17,2015,0.05506
 17,2016,0.04849
@@ -215,8 +215,8 @@ geo,year,value_added_manufacture_of_food_beverages_and_tobacco_products_share_of
 170,2017,3.44303
 170,2018,3.47503
 181,2009,3.02453
-181,2010,3.51982
-181,2011,3.60648
+181,2010,3.51981
+181,2011,3.60649
 181,2012,3.60345
 181,2013,3.87486
 181,2014,4.48651
@@ -296,7 +296,7 @@ geo,year,value_added_manufacture_of_food_beverages_and_tobacco_products_share_of
 200,2013,0.95258
 200,2014,1.05153
 200,2015,0.98649
-200,2016,0.9806
+200,2016,0.98059
 200,2017,0.96965
 200,2018,1.00331
 202,1991,2.43953

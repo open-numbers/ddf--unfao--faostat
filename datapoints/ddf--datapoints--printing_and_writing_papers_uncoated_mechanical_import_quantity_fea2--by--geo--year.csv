@@ -18,7 +18,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 1,2016,274
 1,2017,206
 1,2018,199
-1,2019,131
+1,2019,99
+1,2020,193
 10,1998,97000
 10,1999,128000
 10,2000,130000
@@ -41,6 +42,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 10,2017,114846
 10,2018,141228
 10,2019,150493
+10,2020,150493
 100,1998,58310
 100,1999,45668
 100,2000,30600
@@ -63,6 +65,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 100,2017,31143
 100,2018,28716
 100,2019,29718
+100,2020,29718
 101,1998,3300
 101,1999,1100
 101,2000,6500
@@ -85,6 +88,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 101,2017,12825
 101,2018,12825
 101,2019,13277
+101,2020,13277
 102,1998,12279
 102,1999,21800
 102,2000,22600
@@ -107,6 +111,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 102,2017,4018
 102,2018,6340
 102,2019,19351
+102,2020,19351
 103,2004,11
 103,2005,11
 103,2006,11
@@ -123,6 +128,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 103,2017,516
 103,2018,516
 103,2019,1070
+103,2020,1070
 104,1998,5000
 104,1999,6000
 104,2000,4000
@@ -145,6 +151,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 104,2017,3798
 104,2018,1340
 104,2019,1340
+104,2020,1340
 105,1999,15087
 105,2000,17530
 105,2001,18244
@@ -166,6 +173,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 105,2017,14609
 105,2018,11871
 105,2019,11704
+105,2020,11704
 106,1999,590000
 106,2000,754000
 106,2001,743000
@@ -186,7 +194,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 106,2016,304532
 106,2017,298713
 106,2018,376838
-106,2019,311075
+106,2019,296922
+106,2020,265093
 107,1998,8130
 107,1999,8943
 107,2000,5787
@@ -209,6 +218,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 107,2017,61
 107,2018,62
 107,2019,608
+107,2020,608
 108,2000,680
 108,2001,680
 108,2002,1300
@@ -228,7 +238,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 108,2016,1482
 108,2017,1482
 108,2018,7487
-108,2019,8035
+108,2019,8032
+108,2020,5199
 109,1998,582
 109,1999,1030
 109,2000,1500
@@ -251,6 +262,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 109,2017,2971
 109,2018,3214
 109,2019,2630
+109,2020,2630
 11,1998,62900
 11,1999,71000
 11,2000,62000
@@ -272,7 +284,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 11,2016,53858
 11,2017,73457
 11,2018,69270
-11,2019,57960
+11,2019,52628
+11,2020,43695
 110,1998,61000
 110,1999,40000
 110,2000,45000
@@ -295,6 +308,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 110,2017,113295
 110,2018,43791
 110,2019,40514
+110,2020,40514
 112,2004,207
 112,2005,207
 112,2006,207
@@ -311,6 +325,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 112,2017,183
 112,2018,183
 112,2019,869
+112,2020,869
 113,1999,40
 113,2000,20
 113,2001,200
@@ -331,7 +346,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 113,2016,457
 113,2017,600
 113,2018,400
-113,2019,400
+113,2019,900
+113,2020,700
 114,1998,3772
 114,1999,3772
 114,2000,2641
@@ -354,6 +370,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 114,2017,2503
 114,2018,2503
 114,2019,6666
+114,2020,6666
 115,1998,24
 115,1999,46
 115,2000,55
@@ -376,6 +393,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 115,2017,31750
 115,2018,31750
 115,2019,1436
+115,2020,1436
 116,2008,252
 116,2009,194
 116,2010,121
@@ -388,6 +406,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 116,2017,390
 116,2018,390
 116,2019,390
+116,2020,390
 117,2000,2000
 117,2001,2000
 117,2002,4000
@@ -408,6 +427,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 117,2017,32195
 117,2018,19247
 117,2019,15384
+117,2020,15384
 118,1998,990
 118,1999,2698
 118,2000,2698
@@ -430,6 +450,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 118,2017,6036
 118,2018,6036
 118,2019,3447
+118,2020,3447
 119,1998,0
 119,1999,900
 119,2000,3590
@@ -451,7 +472,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 119,2016,12161
 119,2017,13476
 119,2018,13476
-119,2019,13476
+119,2019,12357
+119,2020,12949
 12,1998,2600
 12,1999,2300
 12,2000,2400
@@ -474,6 +496,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 12,2017,87
 12,2018,87
 12,2019,25
+12,2020,25
 120,2008,507
 120,2009,204
 120,2010,529
@@ -486,6 +509,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 120,2017,2
 120,2018,2
 120,2019,648
+120,2020,648
 121,1998,1492
 121,1999,1896
 121,2000,1400
@@ -508,6 +532,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 121,2017,2351
 121,2018,2351
 121,2019,1724
+121,2020,1724
 122,2009,10
 122,2010,2459
 122,2011,3604
@@ -519,6 +544,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 122,2017,500
 122,2018,500
 122,2019,259
+122,2020,259
 123,2003,18
 123,2004,34
 123,2005,34
@@ -536,6 +562,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 123,2017,60
 123,2018,60
 123,2019,29
+123,2020,29
 124,1998,872
 124,1999,964
 124,2000,964
@@ -558,6 +585,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 124,2017,175
 124,2018,175
 124,2019,238
+124,2020,238
 125,2006,0
 125,2007,0
 125,2008,0
@@ -572,6 +600,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 125,2017,0
 125,2018,0
 125,2019,0
+125,2020,0
 126,1998,1200
 126,1999,1890
 126,2000,1880
@@ -593,8 +622,10 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 126,2016,19281
 126,2017,20160
 126,2018,20978
-126,2019,17029
+126,2019,17274
+126,2020,20197
 127,2019,3
+127,2020,3
 128,1998,2
 128,1999,2
 128,2000,0
@@ -617,6 +648,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 128,2017,5
 128,2018,7
 128,2019,3
+128,2020,3
 129,1998,2400
 129,1999,1700
 129,2000,2600
@@ -639,6 +671,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 129,2017,2962
 129,2018,2962
 129,2019,845
+129,2020,845
 13,1998,693
 13,1999,1063
 13,2000,1063
@@ -661,6 +694,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 13,2017,611
 13,2018,627
 13,2019,519
+13,2020,519
 130,1998,36
 130,1999,832
 130,2000,12
@@ -683,6 +717,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 130,2017,624
 130,2018,624
 130,2019,223
+130,2020,223
 131,1998,6232
 131,1999,16157
 131,2000,8800
@@ -705,7 +740,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 131,2017,8318
 131,2018,10105
 131,2019,7498
+131,2020,7498
 132,2019,125
+132,2020,125
 133,1998,209
 133,1999,233
 133,2000,233
@@ -728,6 +765,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 133,2017,676
 133,2018,639
 133,2019,230
+133,2020,230
 134,2001,510
 134,2002,38680
 134,2003,258
@@ -747,6 +785,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 134,2017,384
 134,2018,237
 134,2019,283
+134,2020,283
 136,1998,1
 136,1999,23
 136,2000,5
@@ -769,6 +808,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 136,2017,75
 136,2018,75
 136,2019,40
+136,2020,40
 137,1998,300
 137,1999,300
 137,2000,100
@@ -791,6 +831,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 137,2017,383
 137,2018,629
 137,2019,352
+137,2020,352
 138,1998,34500
 138,1999,42194
 138,2000,116900
@@ -813,6 +854,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 138,2017,97351
 138,2018,123338
 138,2019,101323
+138,2020,101323
 14,1998,523
 14,1999,631
 14,2000,631
@@ -835,6 +877,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 14,2017,1414
 14,2018,1414
 14,2019,49
+14,2020,49
 141,1998,9
 141,1999,28
 141,2000,56
@@ -857,7 +900,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 141,2017,395
 141,2018,395
 141,2019,158
+141,2020,158
 142,2019,2
+142,2020,2
 143,1998,3000
 143,1999,4000
 143,2000,4000
@@ -880,6 +925,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 143,2017,6001
 143,2018,6963
 143,2019,6496
+143,2020,6496
 144,1999,6
 144,2000,2
 144,2001,2
@@ -901,6 +947,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 144,2017,5535
 144,2018,4000
 144,2019,5000
+144,2020,5000
 146,2006,2076
 146,2007,695
 146,2008,695
@@ -914,7 +961,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 146,2016,88
 146,2017,188
 146,2018,6
-146,2019,6
+146,2019,60
+146,2020,61
 147,2000,341
 147,2001,118
 147,2002,267
@@ -935,6 +983,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 147,2017,2109
 147,2018,2109
 147,2019,2774
+147,2020,2774
 149,1998,6
 149,1999,62
 149,2000,62
@@ -957,6 +1006,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 149,2017,5237
 149,2018,5237
 149,2019,4096
+149,2020,4096
 15,1999,333000
 150,1998,218000
 150,1999,252000
@@ -980,6 +1030,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 150,2017,93500
 150,2018,80500
 150,2019,35100
+150,2020,35100
 151,1998,48
 151,1999,39
 151,2000,57
@@ -1015,6 +1066,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 153,2017,54
 153,2018,54
 153,2019,19
+153,2020,19
 154,1998,0
 154,1999,0
 154,2000,213
@@ -1036,7 +1088,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 154,2016,927
 154,2017,419
 154,2018,438
-154,2019,438
+154,2019,400
+154,2020,355
 155,1998,4
 155,1999,5
 155,2000,27
@@ -1059,6 +1112,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 155,2017,56
 155,2018,3
 155,2019,0
+155,2020,0
 156,1998,20000
 156,1999,17000
 156,2000,16000
@@ -1081,6 +1135,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 156,2017,7388
 156,2018,4515
 156,2019,5265
+156,2020,5265
 157,1998,67
 157,1999,78
 157,2000,100
@@ -1103,6 +1158,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 157,2017,236
 157,2018,236
 157,2019,108
+157,2020,108
 158,1998,128
 158,1999,191
 158,2000,121
@@ -1125,6 +1181,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 158,2017,3
 158,2018,3
 158,2019,53
+158,2020,53
 159,1998,3927
 159,1999,3060
 159,2000,5000
@@ -1147,6 +1204,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 159,2017,2447
 159,2018,1186
 159,2019,11962
+159,2020,11962
 16,1998,861
 16,1999,1697
 16,2000,1697
@@ -1169,7 +1227,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 16,2017,43000
 16,2018,23755
 16,2019,3142
+16,2020,3142
 161,2019,0
+161,2020,0
 162,1998,17000
 162,1999,14000
 162,2000,15000
@@ -1192,7 +1252,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 162,2017,5241
 162,2018,5493
 162,2019,3834
+162,2020,2887
 163,2019,0
+163,2020,0
 165,2001,3500
 165,2002,3500
 165,2003,3500
@@ -1212,6 +1274,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 165,2017,55243
 165,2018,55243
 165,2019,57470
+165,2020,57470
 166,1998,1600
 166,1999,900
 166,2000,1400
@@ -1234,6 +1297,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 166,2017,1463
 166,2018,1145
 166,2019,1126
+166,2020,1126
 167,1998,33000
 167,1999,29000
 167,2000,41000
@@ -1256,6 +1320,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 167,2017,67406
 167,2018,73323
 167,2019,71457
+167,2020,105898
 168,2008,251
 168,2009,197
 168,2010,269
@@ -1268,6 +1333,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 168,2017,260
 168,2018,387
 168,2019,138
+168,2020,138
 169,2004,390
 169,2005,390
 169,2006,390
@@ -1284,7 +1350,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 169,2017,193
 169,2018,193
 169,2019,1
+169,2020,1
 17,2019,839
+17,2020,839
 170,1998,4571
 170,1999,9000
 170,2000,12000
@@ -1307,6 +1375,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 170,2017,5598
 170,2018,9236
 170,2019,12801
+170,2020,12801
 171,1998,3400
 171,1999,6335
 171,2000,5100
@@ -1329,6 +1398,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 171,2017,1482
 171,2018,1482
 171,2019,9064
+171,2020,9064
 173,1998,155400
 173,1999,180200
 173,2000,205600
@@ -1350,7 +1420,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 173,2016,303090
 173,2017,258822
 173,2018,219361
-173,2019,174181
+173,2019,188230
+173,2020,164791
 174,1998,17600
 174,1999,20000
 174,2000,25140
@@ -1372,7 +1443,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 174,2016,28583
 174,2017,26276
 174,2018,26633
-174,2019,23618
+174,2019,24261
+174,2020,17381
 175,1998,11
 175,1999,7
 175,2000,7
@@ -1395,6 +1467,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 175,2017,20
 175,2018,20
 175,2019,6
+175,2020,6
 176,2003,2
 176,2004,9
 176,2005,9
@@ -1412,6 +1485,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 176,2017,1
 176,2018,7
 176,2019,0
+176,2020,0
 178,1998,525
 178,1999,438
 178,2000,438
@@ -1434,6 +1508,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 178,2017,57
 178,2018,57
 178,2019,0
+178,2020,0
 179,1998,984
 179,1999,1055
 179,2000,892
@@ -1456,6 +1531,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 179,2017,1458
 179,2018,2969
 179,2019,2066
+179,2020,2066
 18,2003,302
 18,2004,37
 18,2005,37
@@ -1473,6 +1549,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 18,2017,16
 18,2018,16
 18,2019,8
+18,2020,8
 180,2012,5
 180,2013,6
 180,2014,16
@@ -1481,6 +1558,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 180,2017,3
 180,2018,3
 180,2019,3
+180,2020,3
 181,2004,7231
 181,2005,7231
 181,2006,7231
@@ -1497,6 +1575,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 181,2017,861
 181,2018,861
 181,2019,360
+181,2020,360
 183,1998,3500
 183,1999,7800
 183,2000,3900
@@ -1519,6 +1598,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 183,2017,48730
 183,2018,51273
 183,2019,48891
+183,2020,27604
 184,1998,50
 184,1999,42
 184,2000,47
@@ -1541,6 +1621,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 184,2017,29
 184,2018,29
 184,2019,120
+184,2020,120
 185,1998,0
 185,1999,0
 185,2000,0
@@ -1562,7 +1643,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 185,2016,23669
 185,2017,28549
 185,2018,25006
-185,2019,25006
+185,2019,26918
+185,2020,26918
 186,1998,29800
 186,1999,44300
 186,2000,38200
@@ -1572,6 +1654,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 186,2004,64000
 186,2005,190000
 187,2019,0
+187,2020,0
 188,2009,10
 188,2010,7
 188,2011,4
@@ -1583,6 +1666,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 188,2017,4
 188,2018,4
 188,2019,4
+188,2020,4
 189,2009,175
 189,2010,175
 189,2011,199
@@ -1594,6 +1678,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 189,2017,35
 189,2018,35
 189,2019,35
+189,2020,35
 19,1998,649
 19,1999,323
 19,2000,326
@@ -1616,7 +1701,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 19,2017,467
 19,2018,467
 19,2019,3
+19,2020,3
 190,2019,1
+190,2020,1
 191,2004,38
 191,2005,38
 191,2006,38
@@ -1633,7 +1720,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 191,2017,37
 191,2018,37
 191,2019,37
+191,2020,37
 192,2019,613
+192,2020,613
 193,1998,6
 193,1999,3
 193,2000,3
@@ -1656,6 +1745,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 193,2017,10
 193,2018,10
 193,2019,34
+193,2020,34
 194,1998,20021
 194,1999,19846
 194,2000,17500
@@ -1678,6 +1768,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 194,2017,62262
 194,2018,59242
 194,2019,13140
+194,2020,13140
 195,1998,105
 195,1999,800
 195,2000,800
@@ -1700,6 +1791,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 195,2017,434
 195,2018,434
 195,2019,731
+195,2020,731
 196,2009,32
 196,2010,104
 196,2011,73
@@ -1711,6 +1803,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 196,2017,82
 196,2018,82
 196,2019,8
+196,2020,8
 197,1998,47
 197,1999,57
 197,2000,28
@@ -1733,6 +1826,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 197,2017,235
 197,2018,235
 197,2019,174
+197,2020,174
 198,1998,13000
 198,1999,9000
 198,2000,13340
@@ -1755,6 +1849,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 198,2017,48103
 198,2018,51239
 198,2019,49026
+198,2020,42787
 199,1998,32500
 199,1999,27434
 199,2000,41000
@@ -1777,6 +1872,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 199,2017,74351
 199,2018,64485
 199,2019,75774
+199,2020,66557
 2,2000,25
 2,2001,25
 2,2002,0
@@ -1797,6 +1893,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 2,2017,439
 2,2018,439
 2,2019,61
+2,2020,61
 20,2009,1068
 20,2010,1814
 20,2011,1232
@@ -1808,6 +1905,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 20,2017,4650
 20,2018,4650
 20,2019,5063
+20,2020,5063
 200,1998,4016
 200,1999,5108
 200,2000,4600
@@ -1830,6 +1928,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 200,2017,3676
 200,2018,12
 200,2019,1253
+200,2020,1253
 201,2007,9
 201,2008,21
 201,2009,7
@@ -1843,6 +1942,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 201,2017,354
 201,2018,354
 201,2019,81
+201,2020,81
 202,1998,1756
 202,1999,1951
 202,2000,1951
@@ -1865,6 +1965,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 202,2017,62273
 202,2018,127006
 202,2019,60325
+202,2020,60325
 203,1998,171000
 203,1999,206000
 203,2000,239372
@@ -1887,6 +1988,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 203,2017,202888
 203,2018,187256
 203,2019,162818
+203,2020,139858
 206,1998,1853
 206,1999,561
 206,2000,1
@@ -1923,6 +2025,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 207,2017,933
 207,2018,1235
 207,2019,180
+207,2020,180
 208,2004,0
 208,2005,0
 208,2006,0
@@ -1939,6 +2042,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 208,2017,140
 208,2018,140
 208,2019,140
+208,2020,140
 209,2010,298
 209,2011,559
 209,2012,277
@@ -1949,6 +2053,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 209,2017,672
 209,2018,512
 209,2019,488
+209,2020,488
 21,1998,14666
 21,1999,35900
 21,2000,57300
@@ -1971,6 +2076,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 21,2017,51251
 21,2018,46439
 21,2019,41706
+21,2020,41706
 210,1998,16300
 210,1999,71000
 210,2000,109000
@@ -1992,7 +2098,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 210,2016,151590
 210,2017,201942
 210,2018,174791
-210,2019,172665
+210,2019,172735
+210,2020,173091
 211,1999,56000
 211,2000,53630
 211,2001,50490
@@ -2014,6 +2121,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 211,2017,10966
 211,2018,12657
 211,2019,10497
+211,2020,7828
 212,1998,412
 212,1999,356
 212,2000,3700
@@ -2036,6 +2144,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 212,2017,1319
 212,2018,1319
 212,2019,997
+212,2020,997
 213,2011,14
 213,2012,2890
 213,2013,2423
@@ -2045,6 +2154,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 213,2017,2423
 213,2018,283
 213,2019,95
+213,2020,95
 214,1998,9671
 214,1999,3970
 214,2000,6277
@@ -2067,6 +2177,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 214,2017,47359
 214,2018,69611
 214,2019,63865
+214,2020,63865
 215,1998,399
 215,1999,565
 215,2000,136
@@ -2089,6 +2200,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 215,2017,448
 215,2018,448
 215,2019,2059
+215,2020,2059
 216,1999,1000
 216,2000,300
 216,2001,400
@@ -2110,6 +2222,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 216,2017,12649
 216,2018,12649
 216,2019,7122
+216,2020,7122
 217,1999,111
 217,2000,233
 217,2001,200
@@ -2131,6 +2244,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 217,2017,210
 217,2018,210
 217,2019,69
+217,2020,69
 219,1998,1
 219,1999,1
 219,2000,1
@@ -2153,6 +2267,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 219,2017,13
 219,2018,1
 219,2019,0
+219,2020,0
 22,2009,546
 22,2010,590
 22,2011,554
@@ -2164,6 +2279,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 22,2017,701
 22,2018,701
 22,2019,23
+22,2020,23
 220,1998,246
 220,1999,414
 220,2000,411
@@ -2186,6 +2302,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 220,2017,24
 220,2018,24
 220,2019,95
+220,2020,95
 221,1998,350
 221,1999,313
 221,2000,313
@@ -2208,6 +2325,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 221,2017,5060
 221,2018,3936
 221,2019,1849
+221,2020,1849
 222,1998,1067
 222,1999,1304
 222,2000,1400
@@ -2230,6 +2348,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 222,2017,565
 222,2018,565
 222,2019,1306
+222,2020,1306
 223,1998,7000
 223,1999,9000
 223,2000,16000
@@ -2252,6 +2371,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 223,2017,80000
 223,2018,79995
 223,2019,64000
+223,2020,60000
 224,2011,4
 224,2012,3
 224,2013,3
@@ -2261,6 +2381,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 224,2017,3
 224,2018,3
 224,2019,3
+224,2020,3
 225,1998,25935
 225,1999,30607
 225,2000,25000
@@ -2283,6 +2404,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 225,2017,42187
 225,2018,25327
 225,2019,25896
+225,2020,25896
 226,1998,603
 226,1999,1319
 226,2000,1319
@@ -2305,7 +2427,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 226,2017,3610
 226,2018,3610
 226,2019,3233
+226,2020,3233
 227,2019,0
+227,2020,0
 229,1998,467200
 229,1999,502900
 229,2000,444900
@@ -2327,7 +2451,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 229,2016,370760
 229,2017,310047
 229,2018,330823
-229,2019,286068
+229,2019,268609
+229,2020,252074
 23,2000,9
 23,2001,9
 23,2002,9
@@ -2348,6 +2473,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 23,2017,106
 23,2018,106
 23,2019,352
+23,2020,352
 230,1998,24472
 230,1999,28522
 230,2000,28522
@@ -2369,7 +2495,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 230,2016,25550
 230,2017,16000
 230,2018,14000
-230,2019,14300
+230,2019,14284
+230,2020,8624
 231,1998,2332000
 231,1999,2534000
 231,2000,2782728
@@ -2392,6 +2519,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 231,2017,1620036
 231,2018,1618091
 231,2019,1341528
+231,2020,1069575
 233,1998,1829
 233,1999,800
 233,2000,600
@@ -2414,6 +2542,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 233,2017,85
 233,2018,85
 233,2019,0
+233,2020,0
 234,1998,9104
 234,1999,9727
 234,2000,9727
@@ -2436,6 +2565,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 234,2017,0
 234,2018,0
 234,2019,0
+234,2020,0
 235,2000,1769
 235,2001,5857
 235,2002,5646
@@ -2456,6 +2586,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 235,2017,9693
 235,2018,8818
 235,2019,8818
+235,2020,8818
 236,1998,1667
 236,1999,2559
 236,2000,49700
@@ -2478,6 +2609,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 236,2017,123
 236,2018,123
 236,2019,18
+236,2020,18
 237,1998,362
 237,1999,586
 237,2000,586
@@ -2500,6 +2632,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 237,2017,13340
 237,2018,13340
 237,2019,20643
+237,2020,20643
 238,2000,61
 238,2001,21
 238,2002,326
@@ -2520,7 +2653,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 238,2017,17280
 238,2018,17280
 238,2019,3972
+238,2020,3972
 239,2019,0
+239,2020,0
 244,1998,2
 244,1999,2
 244,2000,10
@@ -2543,6 +2678,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 244,2017,123
 244,2018,123
 244,2019,4
+244,2020,4
 249,2004,5896
 249,2005,5896
 249,2006,5896
@@ -2559,6 +2695,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 249,2017,567
 249,2018,567
 249,2019,695
+249,2020,695
 25,2004,41
 25,2005,41
 25,2006,41
@@ -2575,6 +2712,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 25,2017,168
 25,2018,168
 25,2019,3
+25,2020,3
 250,1998,2717
 250,1999,3560
 250,2000,3560
@@ -2597,6 +2735,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 250,2017,753
 250,2018,753
 250,2019,468
+250,2020,468
 251,1998,8
 251,1999,49
 251,2000,49
@@ -2619,6 +2758,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 251,2017,1747
 251,2018,1747
 251,2019,1306
+251,2020,1306
 255,2000,330000
 255,2001,294170
 255,2002,390367
@@ -2639,6 +2779,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 255,2017,264420
 255,2018,245622
 255,2019,240769
+255,2020,240769
 256,2000,570
 256,2001,2770
 256,2002,1633
@@ -2658,7 +2799,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 256,2016,180
 256,2017,2337
 256,2018,3016
-256,2019,3016
+256,2019,640
+256,2020,503
 26,1998,268
 26,1999,321
 26,2000,321
@@ -2681,6 +2823,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 26,2017,986
 26,2018,986
 26,2019,777
+26,2020,777
 27,1999,14000
 27,2000,15000
 27,2001,15000
@@ -2702,6 +2845,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 27,2017,7723
 27,2018,9980
 27,2019,9302
+27,2020,6813
 272,2006,1000
 272,2007,8000
 272,2008,9000
@@ -2716,6 +2860,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 272,2017,14000
 272,2018,14000
 272,2019,12000
+272,2020,9000
 273,2006,72
 273,2007,72
 273,2008,72
@@ -2730,6 +2875,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 273,2017,20
 273,2018,20
 273,2019,20
+273,2020,20
 276,2012,558
 276,2013,5000
 276,2014,10400
@@ -2738,6 +2884,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 276,2017,8115
 276,2018,7906
 276,2019,10509
+276,2020,10509
 277,2012,1
 277,2013,1
 277,2014,1
@@ -2746,6 +2893,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 277,2017,1
 277,2018,1
 277,2019,0
+277,2020,0
 279,2011,332
 279,2012,332
 279,2013,332
@@ -2755,6 +2903,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 279,2017,332
 279,2018,332
 279,2019,27
+279,2020,27
 28,1998,19
 28,1999,82
 28,2000,72
@@ -2777,6 +2926,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 28,2017,5131
 28,2018,213
 28,2019,17494
+28,2020,17494
 281,2011,2
 281,2012,2
 281,2013,2
@@ -2786,6 +2936,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 281,2017,2
 281,2018,2
 281,2019,2
+281,2020,2
 29,2003,33
 29,2004,3
 29,2005,3
@@ -2803,12 +2954,14 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 29,2017,109
 29,2018,109
 29,2019,2
+29,2020,2
 299,2014,514
 299,2015,709
 299,2016,1650
 299,2017,483
 299,2018,485
 299,2019,1
+299,2020,1
 3,1999,835
 3,2000,863
 3,2001,863
@@ -2830,6 +2983,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 3,2017,3290
 3,2018,3630
 3,2019,3630
+3,2020,3630
 32,1998,4918
 32,1999,4180
 32,2000,4180
@@ -2852,6 +3006,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 32,2017,1189
 32,2018,1189
 32,2019,381
+32,2020,381
 33,1998,66900
 33,1999,70000
 33,2000,80947
@@ -2873,7 +3028,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 33,2016,29238
 33,2017,19795
 33,2018,21818
-33,2019,20210
+33,2019,20211
+33,2020,16135
 35,1999,92
 35,2000,100
 35,2001,100
@@ -2895,6 +3051,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 35,2017,280
 35,2018,280
 35,2019,74
+35,2020,74
 351,1998,52791
 351,1999,39754
 351,2000,56032
@@ -2917,6 +3074,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 351,2017,159880
 351,2018,246738
 351,2019,276443
+351,2020,276443
 36,2009,213
 36,2010,100
 36,2011,73
@@ -2928,6 +3086,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 36,2017,15
 36,2018,0
 36,2019,1
+36,2020,1
 37,2003,1
 37,2004,17
 37,2005,17
@@ -2945,6 +3104,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 37,2017,3
 37,2018,3
 37,2019,58
+37,2020,58
 38,2002,2002
 38,2003,21120
 38,2004,5519
@@ -2963,6 +3123,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 38,2017,3828
 38,2018,3828
 38,2019,14487
+38,2020,14487
 39,1998,57
 39,1999,57
 39,2000,57
@@ -2985,6 +3146,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 39,2017,6
 39,2018,6
 39,2019,3
+39,2020,3
 4,2001,2900
 4,2002,1600
 4,2003,3554
@@ -3004,6 +3166,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 4,2017,3943
 4,2018,3943
 4,2019,2453
+4,2020,2453
 40,1998,3993
 40,1999,4443
 40,2000,2672
@@ -3026,6 +3189,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 40,2017,1499
 40,2018,174
 40,2019,279
+40,2020,279
 41,1998,43118
 41,1999,35127
 41,2000,49079
@@ -3048,6 +3212,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 41,2017,111999
 41,2018,177113
 41,2019,203773
+41,2020,203773
 44,1998,17300
 44,1999,15000
 44,2000,33500
@@ -3070,7 +3235,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 44,2017,10387
 44,2018,11952
 44,2019,13108
+44,2020,13108
 45,2019,11
+45,2020,11
 46,1998,44
 46,1999,81
 46,2000,81
@@ -3093,7 +3260,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 46,2017,284
 46,2018,284
 46,2019,24
+46,2020,24
 47,2019,1
+47,2020,1
 48,1998,295
 48,1999,730
 48,2000,600
@@ -3116,6 +3285,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 48,2017,656
 48,2018,763
 48,2019,951
+48,2020,951
 49,2004,2120
 49,2005,2120
 49,2006,890
@@ -3132,7 +3302,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 49,2017,144
 49,2018,144
 49,2019,51
+49,2020,51
 5,2019,0
+5,2020,0
 50,2000,1250
 50,2001,480
 50,2002,1090
@@ -3153,6 +3325,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 50,2017,2296
 50,2018,1975
 50,2019,1842
+50,2020,1246
 5000,1998,5646993
 5000,1999,7084573
 5000,2000,7673728
@@ -3173,8 +3346,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5000,2015,6321399
 5000,2016,6173283
 5000,2017,6278667
-5000,2018,6229503
-5000,2019,5423232
+5000,2018,6229507
+5000,2019,5415986
+5000,2020,4991771
 5100,1998,81090
 5100,1999,81917
 5100,2000,47617
@@ -3197,6 +3371,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5100,2017,143869
 5100,2018,204601
 5100,2019,140759
+5100,2020,140759
 5101,1998,8109
 5101,1999,9053
 5101,2000,7426
@@ -3219,6 +3394,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5101,2017,39031
 5101,2018,37742
 5101,2019,25287
+5101,2020,25287
 5102,1998,8148
 5102,1999,8243
 5102,2000,7951
@@ -3241,6 +3417,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5102,2017,3259
 5102,2018,4795
 5102,2019,1634
+5102,2020,1634
 5103,1998,48074
 5103,1999,47622
 5103,2000,16365
@@ -3263,6 +3440,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5103,2017,24393
 5103,2018,22408
 5103,2019,28828
+5103,2020,28828
 5104,1998,1756
 5104,1999,1951
 5104,2000,2292
@@ -3285,6 +3463,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5104,2017,70204
 5104,2018,134777
 5104,2019,68909
+5104,2020,68909
 5105,1998,15003
 5105,1999,15048
 5105,2000,13583
@@ -3307,6 +3486,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5105,2017,6982
 5105,2018,4879
 5105,2019,16101
+5105,2020,16101
 52,1999,377
 52,2000,361
 52,2001,400
@@ -3328,6 +3508,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 52,2017,1000
 52,2018,1200
 52,2019,2800
+52,2020,600
 5200,1998,2523229
 5200,1999,2753966
 5200,2000,3176104
@@ -3349,7 +3530,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5200,2016,1919868
 5200,2017,1839404
 5200,2018,1868524
-5200,2019,1550633
+5200,2019,1550634
+5200,2020,1274605
 5203,1998,2398900
 5203,1999,2604000
 5203,2000,2863676
@@ -3371,7 +3553,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5203,2016,1745174
 5203,2017,1639881
 5203,2018,1639959
-5203,2019,1362607
+5203,2019,1362608
+5203,2020,1086579
 5204,1998,38560
 5204,1999,46486
 5204,2000,121593
@@ -3394,6 +3577,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5204,2017,107430
 5204,2018,133206
 5204,2019,108287
+5204,2020,108287
 5206,1998,4285
 5206,1999,4700
 5206,2000,5110
@@ -3416,6 +3600,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5206,2017,11451
 5206,2018,11679
 5206,2019,4274
+5206,2020,4274
 5207,1998,81484
 5207,1999,98780
 5207,2000,185725
@@ -3438,6 +3623,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5207,2017,80642
 5207,2018,83680
 5207,2019,75465
+5207,2020,75465
 53,1998,129
 53,1999,177
 53,2000,117
@@ -3460,6 +3646,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 53,2017,165
 53,2018,165
 53,2019,154
+53,2020,154
 5300,1998,260754
 5300,1999,262082
 5300,2000,274954
@@ -3481,7 +3668,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5300,2016,689135
 5300,2017,775306
 5300,2018,736366
-5300,2019,691666
+5300,2019,692131
+5300,2020,682261
 5301,1999,40
 5301,2000,2469
 5301,2001,6737
@@ -3502,7 +3690,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5301,2016,4733
 5301,2017,14338
 5301,2018,17128
-5301,2019,17488
+5301,2019,17985
+5301,2020,14952
 5302,1998,113800
 5302,1999,79782
 5302,2000,103088
@@ -3525,6 +3714,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5302,2017,306155
 5302,2018,310561
 5302,2019,332889
+5302,2020,332889
 5303,1998,71456
 5303,1999,69227
 5303,2000,54984
@@ -3547,6 +3737,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5303,2017,142924
 5303,2018,123574
 5303,2019,128458
+5303,2020,128458
 5304,1998,17621
 5304,1999,30735
 5304,2000,26334
@@ -3569,6 +3760,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5304,2017,90160
 5304,2018,83371
 5304,2019,79212
+5304,2020,79212
 5305,1998,57877
 5305,1999,82298
 5305,2000,88079
@@ -3590,7 +3782,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5305,2016,229069
 5305,2017,221729
 5305,2018,201732
-5305,2019,133619
+5305,2019,133587
+5305,2020,126750
 54,1998,43000
 54,1999,37000
 54,2000,49000
@@ -3613,6 +3806,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 54,2017,20433
 54,2018,22363
 54,2019,14591
+54,2020,14591
 5400,1998,2664272
 5400,1999,3840753
 5400,2000,4028430
@@ -3633,8 +3827,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5400,2015,3316245
 5400,2016,3305116
 5400,2017,3391658
-5400,2018,3273398
-5400,2019,2884051
+5400,2018,3273402
+5400,2019,2876339
+5400,2020,2738023
 5401,1998,263172
 5401,1999,303456
 5401,2000,371222
@@ -3656,7 +3851,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5401,2016,597919
 5401,2017,559740
 5401,2018,518613
-5401,2019,480190
+5401,2019,501229
+5401,2020,472679
 5402,1998,561300
 5402,1999,641562
 5402,2000,635172
@@ -3678,7 +3874,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5402,2016,603373
 5402,2017,592264
 5402,2018,589421
-5402,2019,517729
+5402,2019,499466
+5402,2020,485401
 5403,1998,246000
 5403,1999,898735
 5403,2000,1150382
@@ -3700,7 +3897,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5403,2016,637640
 5403,2017,638133
 5403,2018,699212
-5403,2019,602719
+5403,2019,598971
+5403,2020,517572
 5404,1998,1593800
 5404,1999,1997000
 5404,2000,1871654
@@ -3721,8 +3919,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5404,2015,1485878
 5404,2016,1466184
 5404,2017,1601521
-5404,2018,1466152
-5404,2019,1283413
+5404,2018,1466156
+5404,2019,1276673
+5404,2020,1262371
 55,1998,24
 55,1999,48
 55,2000,11
@@ -3745,6 +3944,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 55,2017,3
 55,2018,3
 55,2019,8
+55,2020,8
 5500,1998,117648
 5500,1999,145855
 5500,2000,146623
@@ -3767,6 +3967,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5500,2017,128430
 5500,2018,146614
 5500,2019,156123
+5500,2020,156123
 5501,1998,117000
 5501,1999,145000
 5501,2000,146000
@@ -3789,6 +3990,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5501,2017,122234
 5501,2018,145743
 5501,2019,155758
+5501,2020,155758
 5502,1998,467
 5502,1999,645
 5502,2000,545
@@ -3811,6 +4013,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5502,2017,5927
 5502,2018,614
 5502,2019,257
+5502,2020,257
 5503,2012,5
 5503,2013,6
 5503,2014,16
@@ -3819,6 +4022,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5503,2017,3
 5503,2018,3
 5503,2019,12
+5503,2020,12
 5504,1998,181
 5504,1999,210
 5504,2000,78
@@ -3841,6 +4045,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5504,2017,266
 5504,2018,254
 5504,2019,96
+5504,2020,96
 56,2004,3733
 56,2005,3733
 56,2006,3794
@@ -3857,6 +4062,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 56,2017,5608
 56,2018,5608
 56,2019,1264
+56,2020,1264
 57,1999,1000
 57,2000,900
 57,2001,31500
@@ -3877,29 +4083,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 57,2016,1100
 57,2017,2400
 57,2018,2340
-57,2019,2434
-5707,1998,2125800
-5707,1999,3193196
-5707,2000,3446833
-5707,2001,3763789
-5707,2002,3321116
-5707,2003,3413137
-5707,2004,3652950
-5707,2005,3585306
-5707,2006,3832987
-5707,2007,4332748
-5707,2008,4459333
-5707,2009,3763828
-5707,2010,3831955
-5707,2011,3582725
-5707,2012,3416132
-5707,2013,3253935
-5707,2014,3007590
-5707,2015,2778387
-5707,2016,2850345
-5707,2017,3001980
-5707,2018,2865764
-5707,2019,2525591
+57,2019,2400
+57,2020,1500
 58,1998,1034
 58,1999,728
 58,2000,1000
@@ -3922,6 +4107,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 58,2017,1084
 58,2018,1084
 58,2019,1155
+58,2020,1155
 5801,1998,12651
 5801,1999,14004
 5801,2000,12507
@@ -3944,6 +4130,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5801,2017,134086
 5801,2018,109631
 5801,2019,59135
+5801,2020,59135
 5802,1998,3584
 5802,1999,4353
 5802,2000,6383
@@ -3965,7 +4152,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5802,2016,33161
 5802,2017,53756
 5802,2018,56379
-5802,2019,41208
+5802,2019,41689
+5802,2020,36506
 5803,1998,10211
 5803,1999,12589
 5803,2000,12058
@@ -3988,6 +4176,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5803,2017,23854
 5803,2018,15663
 5803,2019,8392
+5803,2020,8392
 5815,1998,88752
 5815,1999,77767
 5815,2000,62301
@@ -4009,7 +4198,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5815,2016,101011
 5815,2017,158261
 5815,2018,132928
-5815,2019,108634
+5815,2019,109134
+5815,2020,108934
 5817,1998,79601
 5817,1999,89080
 5817,2000,103339
@@ -4032,6 +4222,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 5817,2017,237276
 5817,2018,215013
 5817,2019,183621
+5817,2020,183621
 59,1998,41282
 59,1999,40793
 59,2000,10000
@@ -4054,7 +4245,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 59,2017,5594
 59,2018,2856
 59,2019,7826
+59,2020,7826
 6,2019,77
+6,2020,77
 60,2003,4124
 60,2004,4067
 60,2005,2935
@@ -4072,6 +4265,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 60,2017,1406
 60,2018,1406
 60,2019,2230
+60,2020,2230
 61,2004,18
 61,2005,18
 61,2006,18
@@ -4088,6 +4282,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 61,2017,9
 61,2018,9
 61,2019,29
+61,2020,29
 63,1998,6100
 63,1999,1872
 63,2000,2120
@@ -4110,8 +4305,11 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 63,2017,3538
 63,2018,5414
 63,2019,5885
+63,2020,3996
 64,2019,7
+64,2020,7
 65,2019,5
+65,2020,5
 66,1998,45
 66,1999,107
 66,2000,107
@@ -4134,6 +4332,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 66,2017,5389
 66,2018,2
 66,2019,97
+66,2020,97
 67,1998,5500
 67,1999,6000
 67,2000,5063
@@ -4156,6 +4355,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 67,2017,13425
 67,2018,14627
 67,2019,2742
+67,2020,4192
 68,1998,416900
 68,1999,417000
 68,2000,370454
@@ -4178,6 +4378,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 68,2017,389464
 68,2018,413372
 68,2019,410039
+68,2020,351261
 7,1998,343
 7,1999,308
 7,2000,16
@@ -4200,6 +4401,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 7,2017,899
 7,2018,2435
 7,2019,631
+7,2020,631
 70,1998,178
 70,1999,207
 70,2000,67
@@ -4222,6 +4424,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 70,2017,130
 70,2018,130
 70,2019,91
+70,2020,91
 72,1998,16
 72,1999,30
 72,2000,21
@@ -4244,6 +4447,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 72,2017,2446
 72,2018,2446
 72,2019,1049
+72,2020,1049
 73,2006,169
 73,2007,200
 73,2008,200
@@ -4258,6 +4462,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 73,2017,585
 73,2018,2934
 73,2019,869
+73,2020,734
 74,1998,63
 74,1999,54
 74,2000,54
@@ -4280,6 +4485,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 74,2017,106
 74,2018,106
 74,2019,6
+74,2020,6
 75,1998,3
 75,1999,5
 75,2000,3
@@ -4302,6 +4508,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 75,2017,70
 75,2018,70
 75,2019,17
+75,2020,17
 79,1998,896000
 79,1999,868000
 79,2000,809000
@@ -4322,8 +4529,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 79,2015,612000
 79,2016,657000
 79,2017,767377
-79,2018,641715
-79,2019,526032
+79,2018,641719
+79,2019,527000
+79,2020,583215
 8,2009,12
 8,2010,7
 8,2011,47
@@ -4335,6 +4543,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 8,2017,6
 8,2018,6
 8,2019,9
+8,2020,9
 80,2004,1371
 80,2005,1133
 80,2006,1133
@@ -4351,6 +4560,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 80,2017,650
 80,2018,1080
 80,2019,1260
+80,2020,1660
 81,1998,484
 81,1999,549
 81,2000,549
@@ -4373,8 +4583,11 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 81,2017,2018
 81,2018,1212
 81,2019,1772
+81,2020,1772
 82,2019,20
+82,2020,20
 83,2019,3
+83,2020,3
 84,1999,13000
 84,2000,22254
 84,2001,21872
@@ -4395,7 +4608,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 84,2016,21016
 84,2017,25184
 84,2018,19635
-84,2019,19635
+84,2019,29435
+84,2020,18589
 85,2000,1
 85,2001,1
 85,2002,157
@@ -4416,6 +4630,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 85,2017,50
 85,2018,50
 85,2019,29
+85,2020,29
 86,2013,1
 86,2014,10
 86,2015,10
@@ -4423,7 +4638,9 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 86,2017,10
 86,2018,10
 86,2019,8
+86,2020,8
 88,2019,3
+88,2020,3
 89,1998,384
 89,1999,384
 89,2000,384
@@ -4446,6 +4663,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 89,2017,2698
 89,2018,2698
 89,2019,1644
+89,2020,1644
 9,1998,28200
 9,1999,20600
 9,2000,19000
@@ -4468,6 +4686,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 9,2017,9000
 9,2018,12670
 9,2019,6207
+9,2020,6207
 90,2004,14
 90,2005,14
 90,2006,14
@@ -4484,6 +4703,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 90,2017,143
 90,2018,143
 90,2019,182
+90,2020,182
 91,2003,51
 91,2004,51
 91,2005,58
@@ -4501,6 +4721,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 91,2017,107
 91,2018,107
 91,2019,2
+91,2020,2
 93,1998,262
 93,1999,238
 93,2000,100
@@ -4523,6 +4744,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 93,2017,55
 93,2018,55
 93,2019,1
+93,2020,1
 95,1998,1714
 95,1999,2200
 95,2000,2200
@@ -4545,6 +4767,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 95,2017,3514
 95,2018,3514
 95,2019,553
+95,2020,553
 96,1999,655
 96,2000,676
 96,2001,863
@@ -4566,6 +4789,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 96,2017,517
 96,2018,7
 96,2019,8802
+96,2020,8802
 97,1998,14300
 97,1999,15500
 97,2000,35300
@@ -4587,7 +4811,8 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 97,2016,36661
 97,2017,55571
 97,2018,58839
-97,2019,58839
+97,2019,63913
+97,2020,63913
 98,1998,14600
 98,1999,15600
 98,2000,57000
@@ -4610,6 +4835,7 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 98,2017,18206
 98,2018,18206
 98,2019,18206
+98,2020,18206
 99,2000,619
 99,2001,740
 99,2002,729
@@ -4630,3 +4856,4 @@ geo,year,printing_and_writing_papers_uncoated_mechanical_import_quantity_fea2
 99,2017,204
 99,2018,116
 99,2019,92
+99,2020,77

@@ -18,7 +18,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 1,2016,5975
 1,2017,5804
 1,2018,7000
-1,2019,8000
+1,2019,7648
+1,2020,7079
 10,1998,76000
 10,1999,87000
 10,2000,81000
@@ -41,6 +42,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 10,2017,125547
 10,2018,99291
 10,2019,71315
+10,2020,71315
 100,1998,43828
 100,1999,34325
 100,2000,23000
@@ -63,6 +65,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 100,2017,355782
 100,2018,209508
 100,2019,346092
+100,2020,346092
 101,1998,19600
 101,1999,20600
 101,2000,26300
@@ -85,6 +88,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 101,2017,40527
 101,2018,37092
 101,2019,32852
+101,2020,32852
 102,1998,95757
 102,1999,170000
 102,2000,260000
@@ -107,6 +111,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 102,2017,344373
 102,2018,310377
 102,2019,72360
+102,2020,72360
 103,1998,2870
 103,1999,3030
 103,2000,1549
@@ -129,6 +134,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 103,2017,29876
 103,2018,43626
 103,2019,47687
+103,2020,47687
 104,1998,54000
 104,1999,60000
 104,2000,52000
@@ -151,6 +157,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 104,2017,75109
 104,2018,67965
 104,2019,67965
+104,2020,67965
 105,1999,959
 105,2000,43568
 105,2001,34300
@@ -172,6 +179,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 105,2017,39130
 105,2018,69501
 105,2019,69396
+105,2020,69396
 106,2001,0
 106,2002,439355
 106,2003,417709
@@ -190,7 +198,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 106,2016,484346
 106,2017,487615
 106,2018,461177
-106,2019,459211
+106,2019,462442
+106,2020,412855
 107,1998,4435
 107,1999,4878
 107,2000,3157
@@ -213,6 +222,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 107,2017,28102
 107,2018,29045
 107,2019,30476
+107,2020,30476
 108,2000,25612
 108,2001,25612
 108,2002,17600
@@ -232,7 +242,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 108,2016,48123
 108,2017,48123
 108,2018,66008
-108,2019,58324
+108,2019,55407
+108,2020,64202
 109,1998,1009
 109,1999,4489
 109,2000,4291
@@ -255,6 +266,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 109,2017,3238
 109,2018,2567
 109,2019,3638
+109,2020,3638
 11,1998,140400
 11,1999,158000
 11,2000,136000
@@ -276,7 +288,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 11,2016,130729
 11,2017,126381
 11,2018,113870
-11,2019,114109
+11,2019,118543
+11,2020,105843
 110,1998,62000
 110,1999,63000
 110,2000,108000
@@ -299,6 +312,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 110,2017,512756
 110,2018,472289
 110,2019,481964
+110,2020,481964
 112,1998,40592
 112,1999,30200
 112,2000,25800
@@ -321,6 +335,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 112,2017,37758
 112,2018,36802
 112,2019,38187
+112,2020,38187
 113,1999,100
 113,2000,500
 113,2001,800
@@ -341,7 +356,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 113,2016,7621
 113,2017,6300
 113,2018,10000
-113,2019,10000
+113,2019,11200
+113,2020,5200
 114,1998,7173
 114,1999,7173
 114,2000,5021
@@ -364,6 +380,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 114,2017,75804
 114,2018,94434
 114,2019,106350
+114,2020,106350
 115,1998,1047
 115,1999,1985
 115,2000,2371
@@ -386,6 +403,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 115,2017,7814
 115,2018,25841
 115,2019,27204
+115,2020,27204
 116,1998,2540
 116,1999,2540
 116,2000,2540
@@ -408,6 +426,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 116,2017,8681
 116,2018,1
 116,2019,1
+116,2020,1
 117,1998,8000
 117,1999,62000
 117,2000,126200
@@ -429,7 +448,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 117,2016,222000
 117,2017,221384
 117,2018,223567
-117,2019,205672
+117,2019,205648
+117,2020,205648
 118,1998,2320
 118,1999,6320
 118,2000,6320
@@ -452,6 +472,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 118,2017,23898
 118,2018,17966
 118,2019,27738
+118,2020,27738
 119,1998,7000
 119,1999,3000
 119,2000,9350
@@ -473,7 +494,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 119,2016,36870
 119,2017,33672
 119,2018,33672
-119,2019,33672
+119,2019,29272
+119,2020,30215
 12,2002,182
 12,2003,587
 12,2004,731
@@ -492,6 +514,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 12,2017,1286
 12,2018,1405
 12,2019,1557
+12,2020,1557
 120,1998,240
 120,1999,240
 120,2000,60
@@ -514,6 +537,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 120,2017,1819
 120,2018,5635
 120,2019,2400
+120,2020,2400
 121,1998,26959
 121,1999,34269
 121,2000,25300
@@ -536,6 +560,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 121,2017,63475
 121,2018,58609
 121,2019,46544
+121,2020,46544
 122,2010,142
 122,2011,1499
 122,2012,580
@@ -546,6 +571,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 122,2017,900
 122,2018,1771
 122,2019,1141
+122,2020,1141
 123,2003,344
 123,2004,264
 123,2005,264
@@ -563,6 +589,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 123,2017,1484
 123,2018,1697
 123,2019,1983
+123,2020,1983
 124,1998,6756
 124,1999,7472
 124,2000,7472
@@ -585,6 +612,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 124,2017,4323
 124,2018,7389
 124,2019,4630
+124,2020,4630
 125,2006,0
 125,2007,0
 125,2008,0
@@ -599,6 +627,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 125,2017,0
 125,2018,0
 125,2019,0
+125,2020,0
 126,1998,9300
 126,1999,8582
 126,2000,14590
@@ -620,8 +649,10 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 126,2016,32581
 126,2017,36199
 126,2018,36942
-126,2019,33709
+126,2019,33982
+126,2020,30316
 127,2019,78
+127,2020,78
 128,1998,3783
 128,1999,3488
 128,2000,3282
@@ -644,6 +675,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 128,2017,5480
 128,2018,5042
 128,2019,5024
+128,2020,5024
 129,2001,1000
 129,2002,400
 129,2003,400
@@ -663,6 +695,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 129,2017,4933
 129,2018,7882
 129,2019,6864
+129,2020,6864
 13,1998,1144
 13,1999,1755
 13,2000,1755
@@ -685,6 +718,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 13,2017,8384
 13,2018,8553
 13,2019,8561
+13,2020,8561
 130,1998,31
 130,1999,713
 130,2000,528
@@ -707,6 +741,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 130,2017,4372
 130,2018,4889
 130,2019,4271
+130,2020,4271
 131,1998,116205
 131,1999,301292
 131,2000,164100
@@ -729,6 +764,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 131,2017,335088
 131,2018,330055
 131,2019,318692
+131,2020,318692
 132,2009,1997
 132,2010,1860
 132,2011,1772
@@ -740,6 +776,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 132,2017,1740
 132,2018,1740
 132,2019,1727
+132,2020,1727
 133,1998,1982
 133,1999,2202
 133,2000,2202
@@ -762,6 +799,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 133,2017,3087
 133,2018,1457
 133,2019,1530
+133,2020,1530
 134,2001,130
 134,2002,130
 134,2003,7207
@@ -781,6 +819,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 134,2017,8138
 134,2018,7701
 134,2019,7937
+134,2020,7937
 136,1998,162
 136,1999,3470
 136,2000,756
@@ -803,6 +842,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 136,2017,617
 136,2018,1607
 136,2019,1640
+136,2020,1640
 137,1998,6400
 137,1999,9300
 137,2000,9300
@@ -825,6 +865,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 137,2017,5777
 137,2018,4679
 137,2019,6791
+137,2020,6791
 138,1998,83250
 138,1999,101815
 138,2000,373200
@@ -847,6 +888,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 138,2017,295139
 138,2018,282022
 138,2019,337408
+138,2020,337408
 14,1998,2528
 14,1999,3049
 14,2000,3049
@@ -869,6 +911,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 14,2017,1132
 14,2018,1040
 14,2019,1601
+14,2020,1601
 141,1998,366
 141,1999,1198
 141,2000,746
@@ -891,6 +934,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 141,2017,3233
 141,2018,8979
 141,2019,10560
+141,2020,10560
 143,1998,1000
 143,1999,18000
 143,2000,28000
@@ -913,6 +957,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 143,2017,74375
 143,2018,80568
 143,2019,77675
+143,2020,77675
 144,1998,157
 144,1999,2895
 144,2000,528
@@ -935,6 +980,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 144,2017,4762
 144,2018,5324
 144,2019,9371
+144,2020,9371
 145,2011,2
 145,2012,10
 145,2013,33
@@ -944,6 +990,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 145,2017,33
 145,2018,33
 145,2019,90
+145,2020,90
 146,2006,0
 146,2007,0
 146,2008,0
@@ -957,7 +1004,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 146,2016,8696
 146,2017,8890
 146,2018,9083
-146,2019,9083
+146,2019,9351
+146,2020,8720
 147,2000,128
 147,2001,111
 147,2002,145
@@ -978,7 +1026,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 147,2017,477
 147,2018,477
 147,2019,2645
+147,2020,2645
 148,2019,19
+148,2020,19
 149,1998,3
 149,1999,34
 149,2000,34
@@ -1001,6 +1051,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 149,2017,35126
 149,2018,32081
 149,2019,32408
+149,2020,32408
 15,1998,0
 15,1999,295000
 150,1998,383000
@@ -1025,6 +1076,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 150,2017,264200
 150,2018,234300
 150,2019,215800
+150,2020,215800
 151,1998,391
 151,1999,319
 151,2000,210
@@ -1060,6 +1112,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 153,2017,1576
 153,2018,2001
 153,2019,1978
+153,2020,1978
 154,1998,2500
 154,1999,2200
 154,2000,125
@@ -1081,7 +1134,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 154,2016,8399
 154,2017,8399
 154,2018,8421
-154,2019,8421
+154,2019,8572
+154,2020,7647
 155,1998,61
 155,1999,85
 155,2000,100
@@ -1104,6 +1158,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 155,2017,94
 155,2018,143
 155,2019,235
+155,2020,235
 156,1998,48000
 156,1999,43000
 156,2000,37000
@@ -1126,6 +1181,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 156,2017,63243
 156,2018,62143
 156,2019,57436
+156,2020,57436
 157,1998,3000
 157,1999,3505
 157,2000,4100
@@ -1148,6 +1204,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 157,2017,14091
 157,2018,9655
 157,2019,6879
+157,2020,6879
 158,1998,220
 158,1999,330
 158,2000,341
@@ -1170,6 +1227,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 158,2017,1013
 158,2018,930
 158,2019,1029
+158,2020,1029
 159,1998,57238
 159,1999,44671
 159,2000,73000
@@ -1192,6 +1250,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 159,2017,272763
 159,2018,251956
 159,2019,197183
+159,2020,197183
 16,1998,6632
 16,1999,13077
 16,2000,13077
@@ -1214,8 +1273,11 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 16,2017,56469
 16,2018,23755
 16,2019,20632
+16,2020,20632
 160,2019,1
+160,2020,1
 161,2019,13
+161,2020,13
 162,1998,51000
 162,1999,54000
 162,2000,51000
@@ -1238,7 +1300,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 162,2017,115363
 162,2018,153634
 162,2019,92718
+162,2020,65762
 163,2019,59
+163,2020,59
 165,1998,30000
 165,1999,14600
 165,2000,11800
@@ -1261,6 +1325,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 165,2017,57351
 165,2018,44590
 165,2019,25856
+165,2020,25856
 166,1998,16700
 166,1999,17300
 166,2000,16200
@@ -1283,6 +1348,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 166,2017,18060
 166,2018,15681
 166,2019,15179
+166,2020,15179
 167,1998,30000
 167,1999,29000
 167,2000,45000
@@ -1305,6 +1371,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 167,2017,163359
 167,2018,171591
 167,2019,160335
+167,2020,127165
 168,1998,1115
 168,1999,2788
 168,2000,1952
@@ -1327,6 +1394,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 168,2017,2354
 168,2018,3545
 168,2019,4793
+168,2020,4793
 169,1998,9438
 169,1999,13000
 169,2000,10000
@@ -1349,7 +1417,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 169,2017,26755
 169,2018,31240
 169,2019,25720
+169,2020,25720
 17,2019,307
+17,2020,307
 170,1998,15238
 170,1999,30000
 170,2000,31000
@@ -1372,6 +1442,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 170,2017,201214
 170,2018,241119
 170,2019,186932
+170,2020,186932
 171,1998,31867
 171,1999,59371
 171,2000,47800
@@ -1394,6 +1465,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 171,2017,171356
 171,2018,166947
 171,2019,184773
+171,2020,184773
 173,1998,47100
 173,1999,52700
 173,2000,56500
@@ -1415,7 +1487,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 173,2016,193505
 173,2017,203502
 173,2018,204475
-173,2019,195454
+173,2019,189834
+173,2020,171365
 174,1998,32500
 174,1999,39000
 174,2000,32754
@@ -1437,7 +1510,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 174,2016,46803
 174,2017,48271
 174,2018,38872
-174,2019,36328
+174,2019,36523
+174,2020,36844
 175,1998,9
 175,1999,9
 175,2000,6
@@ -1460,6 +1534,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 175,2017,64
 175,2018,266
 175,2019,372
+175,2020,372
 176,2003,2
 176,2004,16
 176,2005,16
@@ -1477,6 +1552,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 176,2017,377
 176,2018,535
 176,2019,1028
+176,2020,1028
 178,1998,525
 178,1999,438
 178,2000,438
@@ -1499,6 +1575,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 178,2017,687
 178,2018,1651
 178,2019,46
+178,2020,46
 179,1998,1142
 179,1999,1224
 179,2000,1377
@@ -1521,6 +1598,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 179,2017,17422
 179,2018,22414
 179,2019,18040
+179,2020,18040
 18,1998,3
 18,1999,3
 18,2000,10
@@ -1543,6 +1621,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 18,2017,235
 18,2018,771
 18,2019,1095
+18,2020,1095
 180,2013,2
 180,2014,14
 180,2015,40
@@ -1550,6 +1629,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 180,2017,1
 180,2018,1
 180,2019,153
+180,2020,153
 181,2004,10684
 181,2005,10684
 181,2006,10684
@@ -1566,6 +1646,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 181,2017,10480
 181,2018,10471
 181,2019,7992
+181,2020,7992
 183,1998,30100
 183,1999,19800
 183,2000,17900
@@ -1588,6 +1669,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 183,2017,123599
 183,2018,122523
 183,2019,123667
+183,2020,110361
 184,1998,433
 184,1999,361
 184,2000,407
@@ -1610,6 +1692,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 184,2017,3541
 184,2018,4910
 184,2019,8707
+184,2020,8707
 185,1998,24000
 185,1999,17000
 185,2000,17200
@@ -1631,7 +1714,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 185,2016,64640
 185,2017,100650
 185,2018,86474
-185,2019,86474
+185,2019,105005
+185,2020,105005
 186,1998,0
 186,1999,0
 186,2000,0
@@ -1641,6 +1725,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 186,2004,0
 186,2005,12000
 187,2019,27
+187,2020,27
 188,2009,15
 188,2010,11
 188,2011,9
@@ -1652,6 +1737,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 188,2017,9
 188,2018,9
 188,2019,19
+188,2020,19
 189,2009,301
 189,2010,197
 189,2011,292
@@ -1663,6 +1749,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 189,2017,180
 189,2018,180
 189,2019,138
+189,2020,138
 19,1998,5444
 19,1999,10566
 19,2000,14380
@@ -1685,7 +1772,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 19,2017,42964
 19,2018,41685
 19,2019,38139
+19,2020,38139
 190,2019,35
+190,2020,35
 191,2004,75
 191,2005,75
 191,2006,75
@@ -1702,7 +1791,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 191,2017,58
 191,2018,41
 191,2019,55
+191,2020,55
 192,2019,629
+192,2020,629
 193,1998,19
 193,1999,9
 193,2000,9
@@ -1725,6 +1816,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 193,2017,59
 193,2018,111
 193,2019,36
+193,2020,36
 194,1998,83860
 194,1999,83126
 194,2000,73300
@@ -1747,6 +1839,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 194,2017,106269
 194,2018,90758
 194,2019,107837
+194,2020,107837
 195,1998,576
 195,1999,4400
 195,2000,4400
@@ -1769,6 +1862,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 195,2017,5695
 195,2018,6602
 195,2019,9203
+195,2020,9203
 196,2009,253
 196,2010,185
 196,2011,264
@@ -1780,6 +1874,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 196,2017,389
 196,2018,389
 196,2019,451
+196,2020,451
 197,1998,110
 197,1999,133
 197,2000,193
@@ -1802,6 +1897,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 197,2017,830
 197,2018,2636
 197,2019,2729
+197,2020,2729
 198,1998,6000
 198,1999,8000
 198,2000,13500
@@ -1823,7 +1919,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 198,2016,88670
 198,2017,67051
 198,2018,89148
-198,2019,114491
+198,2019,114497
+198,2020,90337
 199,1998,9400
 199,1999,9226
 199,2000,8000
@@ -1846,6 +1943,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 199,2017,51535
 199,2018,45668
 199,2019,51312
+199,2020,39818
 2,1998,17
 2,1999,53
 2,2000,3
@@ -1868,6 +1966,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 2,2017,575
 2,2018,3453
 2,2019,2923
+2,2020,2923
 20,2009,2101
 20,2010,2344
 20,2011,4801
@@ -1879,6 +1978,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 20,2017,1247
 20,2018,1247
 20,2019,2444
+20,2020,2444
 200,1998,124148
 200,1999,157918
 200,2000,142200
@@ -1901,6 +2001,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 200,2017,1110340
 200,2018,776901
 200,2019,917050
+200,2020,917050
 201,2003,56
 201,2004,28
 201,2005,28
@@ -1918,6 +2019,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 201,2017,1915
 201,2018,3165
 201,2019,3170
+201,2020,3170
 202,1998,468
 202,1999,520
 202,2000,520
@@ -1940,6 +2042,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 202,2017,127731
 202,2018,70272
 202,2019,80220
+202,2020,80220
 203,1998,262000
 203,1999,288000
 203,2000,306815
@@ -1962,6 +2065,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 203,2017,259006
 203,2018,273532
 203,2019,253008
+203,2020,228470
 206,1998,13535
 206,1999,4098
 206,2000,4193
@@ -1994,6 +2098,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 207,2017,878
 207,2018,875
 207,2019,930
+207,2020,930
 208,2004,0
 208,2005,0
 208,2006,0
@@ -2010,6 +2115,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 208,2017,2360
 208,2018,2360
 208,2019,2360
+208,2020,2360
 209,2010,18
 209,2011,803
 209,2012,946
@@ -2020,6 +2126,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 209,2017,1664
 209,2018,1818
 209,2019,1486
+209,2020,1486
 21,1998,730
 21,1999,10000
 21,2000,2300
@@ -2042,6 +2149,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 21,2017,62023
 21,2018,51463
 21,2019,46010
+21,2020,46010
 210,1998,41400
 210,1999,31000
 210,2000,46000
@@ -2063,7 +2171,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 210,2016,33321
 210,2017,34674
 210,2018,29509
-210,2019,30625
+210,2019,36302
+210,2020,32203
 211,1999,109000
 211,2000,116740
 211,2001,201910
@@ -2085,6 +2194,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 211,2017,201405
 211,2018,194163
 211,2019,187563
+211,2020,168232
 212,1998,33716
 212,1999,29115
 212,2000,35000
@@ -2107,6 +2217,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 212,2017,22717
 212,2018,15839
 212,2019,13741
+212,2020,13741
 213,2011,1894
 213,2012,0
 213,2013,0
@@ -2116,6 +2227,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 213,2017,0
 213,2018,4389
 213,2019,5405
+213,2020,5405
 214,1998,24290
 214,1999,106933
 214,2000,100742
@@ -2138,6 +2250,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 214,2017,172632
 214,2018,177026
 214,2019,164950
+214,2020,164950
 215,1998,2398
 215,1999,3393
 215,2000,1933
@@ -2160,6 +2273,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 215,2017,26691
 215,2018,27079
 215,2019,36497
+215,2020,36497
 216,1998,11000
 216,1999,23000
 216,2000,31000
@@ -2182,6 +2296,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 216,2017,152447
 216,2018,136292
 216,2019,112100
+216,2020,112100
 217,1999,722
 217,2000,1517
 217,2001,1300
@@ -2203,6 +2318,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 217,2017,2135
 217,2018,13203
 217,2019,5206
+217,2020,5206
 219,1998,3
 219,1999,3
 219,2000,44
@@ -2225,6 +2341,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 219,2017,216
 219,2018,198
 219,2019,183
+219,2020,183
 22,2009,378
 22,2010,320
 22,2011,125
@@ -2236,6 +2353,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 22,2017,310
 22,2018,310
 22,2019,640
+22,2020,640
 220,1998,6764
 220,1999,11379
 220,2000,11316
@@ -2258,6 +2376,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 220,2017,11506
 220,2018,14021
 220,2019,12688
+220,2020,12688
 221,1998,5976
 221,1999,5344
 221,2000,5344
@@ -2280,6 +2399,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 221,2017,12424
 221,2018,12085
 221,2019,13241
+221,2020,13241
 222,1998,9145
 222,1999,11177
 222,2000,12000
@@ -2302,6 +2422,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 222,2017,45763
 222,2018,45109
 222,2019,51068
+222,2020,51068
 223,1998,34000
 223,1999,28000
 223,2000,57540
@@ -2324,6 +2445,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 223,2017,425000
 223,2018,314237
 223,2019,442000
+223,2020,459000
 224,2011,3
 224,2012,3
 224,2013,3
@@ -2333,6 +2455,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 224,2017,3
 224,2018,3
 224,2019,220
+224,2020,220
 225,1998,28009
 225,1999,33056
 225,2000,27000
@@ -2355,6 +2478,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 225,2017,152075
 225,2018,153344
 225,2019,269654
+225,2020,269654
 226,1998,1739
 226,1999,3806
 226,2000,3806
@@ -2377,6 +2501,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 226,2017,37383
 226,2018,39741
 226,2019,22278
+226,2020,22278
 229,1998,658900
 229,1999,725000
 229,2000,683000
@@ -2398,7 +2523,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 229,2016,888982
 229,2017,897419
 229,2018,848782
-229,2019,801486
+229,2019,752570
+229,2020,605959
 23,1998,84
 23,1999,100
 23,2000,251
@@ -2421,6 +2547,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 23,2017,635
 23,2018,484
 23,2019,583
+23,2020,583
 230,1998,24472
 230,1999,28522
 230,2000,28522
@@ -2442,7 +2569,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 230,2016,61720
 230,2017,128000
 230,2018,129000
-230,2019,130800
+230,2019,130753
+230,2020,115033
 231,1998,1165000
 231,1999,1294000
 231,2000,1272535
@@ -2465,6 +2593,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 231,2017,842186
 231,2018,902328
 231,2019,1019171
+231,2020,859325
 233,1998,457
 233,1999,200
 233,2000,200
@@ -2487,6 +2616,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 233,2017,3293
 233,2018,3148
 233,2019,3198
+233,2020,3198
 234,1998,5304
 234,1999,5667
 234,2000,5667
@@ -2509,6 +2639,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 234,2017,19270
 234,2018,17752
 234,2019,17330
+234,2020,17330
 235,2000,2772
 235,2001,2960
 235,2002,4710
@@ -2529,6 +2660,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 235,2017,42853
 235,2018,48245
 235,2019,48245
+235,2020,48245
 236,1998,15883
 236,1999,24232
 236,2000,24232
@@ -2551,6 +2683,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 236,2017,11277
 236,2018,10310
 236,2019,13947
+236,2020,13947
 237,1998,13611
 237,1999,22035
 237,2000,22035
@@ -2573,6 +2706,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 237,2017,177596
 237,2018,256554
 237,2019,223874
+237,2020,223874
 238,1998,4300
 238,1999,11500
 238,2000,8400
@@ -2595,6 +2729,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 238,2017,19261
 238,2018,18910
 238,2019,38356
+238,2020,38356
 239,2009,25
 239,2010,46
 239,2011,39
@@ -2606,7 +2741,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 239,2017,8
 239,2018,8
 239,2019,121
+239,2020,121
 243,2019,3
+243,2020,3
 244,1998,77
 244,1999,83
 244,2000,97
@@ -2629,6 +2766,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 244,2017,234
 244,2018,366
 244,2019,467
+244,2020,467
 249,2004,16437
 249,2005,16437
 249,2006,16437
@@ -2645,6 +2783,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 249,2017,11840
 249,2018,8775
 249,2019,15163
+249,2020,15163
 25,2004,132
 25,2005,132
 25,2006,132
@@ -2661,6 +2800,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 25,2017,200
 25,2018,161
 25,2019,309
+25,2020,309
 250,1998,136
 250,1999,178
 250,2000,178
@@ -2683,6 +2823,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 250,2017,4552
 250,2018,5244
 250,2019,7305
+250,2020,7305
 251,1998,3321
 251,1999,20820
 251,2000,489
@@ -2705,6 +2846,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 251,2017,8481
 251,2018,8353
 251,2019,9610
+251,2020,9610
 255,2000,246000
 255,2001,264270
 255,2002,468993
@@ -2725,6 +2867,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 255,2017,435314
 255,2018,409898
 255,2019,526318
+255,2020,526318
 256,2000,16896
 256,2001,31360
 256,2002,20999
@@ -2743,8 +2886,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 256,2015,25900
 256,2016,23884
 256,2017,24617
-256,2018,23736
-256,2019,23736
+256,2018,24333
+256,2019,26862
+256,2020,27601
 26,1998,431
 26,1999,2614
 26,2000,120
@@ -2767,6 +2911,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 26,2017,1379
 26,2018,2201
 26,2019,1469
+26,2020,1469
 27,1999,8000
 27,2000,10000
 27,2001,10000
@@ -2786,8 +2931,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 27,2015,38342
 27,2016,39160
 27,2017,42247
-27,2018,40429
+27,2018,40430
 27,2019,41665
+27,2020,38192
 272,2006,6000
 272,2007,85000
 272,2008,88000
@@ -2802,6 +2948,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 272,2017,46000
 272,2018,50000
 272,2019,45000
+272,2020,44000
 273,2006,1342
 273,2007,1342
 273,2008,1342
@@ -2816,6 +2963,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 273,2017,2540
 273,2018,2540
 273,2019,2540
+273,2020,2540
 276,2012,20778
 276,2013,7800
 276,2014,17161
@@ -2824,6 +2972,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 276,2017,28653
 276,2018,23600
 276,2019,7057
+276,2020,7057
 277,2012,1
 277,2013,0
 277,2014,0
@@ -2832,6 +2981,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 277,2017,0
 277,2018,0
 277,2019,332
+277,2020,332
 279,2011,1803
 279,2012,1803
 279,2013,1803
@@ -2841,6 +2991,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 279,2017,1803
 279,2018,1803
 279,2019,1114
+279,2020,1114
 28,1998,2473
 28,1999,10699
 28,2000,9376
@@ -2863,6 +3014,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 28,2017,195657
 28,2018,192787
 28,2019,128884
+28,2020,128884
 281,2011,0
 281,2012,0
 281,2013,0
@@ -2872,6 +3024,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 281,2017,0
 281,2018,0
 281,2019,0
+281,2020,0
 29,1998,356
 29,1999,890
 29,2000,198
@@ -2894,12 +3047,14 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 29,2017,630
 29,2018,1362
 29,2019,740
+29,2020,740
 299,2014,46000
 299,2015,30000
 299,2016,20000
 299,2017,23727
 299,2018,26540
 299,2019,1025
+299,2020,1025
 3,1999,1259
 3,2000,2877
 3,2001,2877
@@ -2921,6 +3076,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 3,2017,2710
 3,2018,1486
 3,2019,1486
+3,2020,1486
 32,1998,2623
 32,1999,2230
 32,2000,2230
@@ -2943,6 +3099,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 32,2017,32409
 32,2018,14318
 32,2019,18768
+32,2020,18768
 33,1998,212000
 33,1999,238000
 33,2000,241063
@@ -2964,7 +3121,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 33,2016,221255
 33,2017,227673
 33,2018,223422
-33,2019,211841
+33,2019,211843
+33,2020,153098
 35,1999,147
 35,2000,147
 35,2001,400
@@ -2986,6 +3144,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 35,2017,306
 35,2018,411
 35,2019,711
+35,2020,711
 351,1998,370809
 351,1999,684818
 351,2000,793906
@@ -3008,6 +3167,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 351,2017,844015
 351,2018,983128
 351,2019,707219
+351,2020,707219
 36,2009,9030
 36,2010,41199
 36,2011,23446
@@ -3019,6 +3179,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 36,2017,5338
 36,2018,5338
 36,2019,16977
+36,2020,16977
 37,2002,100
 37,2003,469
 37,2004,401
@@ -3037,6 +3198,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 37,2017,24
 37,2018,24
 37,2019,26
+37,2020,26
 38,1998,9527
 38,1999,9527
 38,2000,9527
@@ -3059,6 +3221,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 38,2017,117635
 38,2018,92589
 38,2019,98338
+38,2020,98338
 39,1998,1
 39,1999,1
 39,2000,1
@@ -3081,6 +3244,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 39,2017,49
 39,2018,84
 39,2019,63
+39,2020,63
 4,1998,27380
 4,1999,34447
 4,2000,33200
@@ -3103,6 +3267,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 4,2017,157780
 4,2018,107857
 4,2019,91483
+4,2020,91483
 40,1998,48013
 40,1999,48013
 40,2000,48013
@@ -3125,6 +3290,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 40,2017,150775
 40,2018,169097
 40,2019,139620
+40,2020,139620
 41,1998,342736
 41,1999,279217
 41,2000,390115
@@ -3147,6 +3313,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 41,2017,519999
 41,2018,672095
 41,2019,419061
+41,2020,419061
 44,1998,23800
 44,1999,14500
 44,2000,34400
@@ -3169,7 +3336,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 44,2017,32293
 44,2018,33405
 44,2019,28874
+44,2020,28874
 45,2019,158
+45,2020,158
 46,1998,510
 46,1999,948
 46,2000,1300
@@ -3192,7 +3361,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 46,2017,3437
 46,2018,7096
 46,2019,3955
+46,2020,3955
 47,2019,21
+47,2020,21
 48,1998,8164
 48,1999,20192
 48,2000,16600
@@ -3215,6 +3386,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 48,2017,25895
 48,2018,29602
 48,2019,23304
+48,2020,23304
 49,1998,5468
 49,1999,5468
 49,2000,8600
@@ -3237,7 +3409,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 49,2017,14319
 49,2018,11896
 49,2019,5201
+49,2020,5201
 5,2019,109
+5,2020,109
 50,2000,2000
 50,2001,5400
 50,2002,7000
@@ -3258,6 +3432,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 50,2017,9724
 50,2018,10106
 50,2019,8933
+50,2020,7422
 5000,1998,7201670
 5000,1999,9000811
 5000,2000,9402772
@@ -3278,8 +3453,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5000,2015,14538298
 5000,2016,14749116
 5000,2017,16021722
-5000,2018,15456631
-5000,2019,15153451
+5000,2018,15457220
+5000,2019,15131434
+5000,2020,14367740
 5100,1998,349846
 5100,1999,398817
 5100,2000,295719
@@ -3302,6 +3478,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5100,2017,1296795
 5100,2018,1278411
 5100,2019,1319487
+5100,2020,1319487
 5101,1998,28555
 5101,1999,64554
 5101,2000,34936
@@ -3324,6 +3501,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5101,2017,222757
 5101,2018,247689
 5101,2019,283584
+5101,2020,283584
 5102,1998,4273
 5102,1999,4226
 5102,2000,4909
@@ -3346,6 +3524,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5102,2017,55348
 5102,2018,47554
 5102,2019,52854
+5102,2020,52854
 5103,1998,241043
 5103,1999,256250
 5103,2000,157865
@@ -3368,6 +3547,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5103,2017,519487
 5103,2018,539262
 5103,2019,561082
+5103,2020,561082
 5104,1998,468
 5104,1999,520
 5104,2000,648
@@ -3390,6 +3570,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5104,2017,132019
 5104,2018,75585
 5104,2019,87936
+5104,2020,87936
 5105,1998,75507
 5105,1999,73267
 5105,2000,97361
@@ -3412,6 +3593,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5105,2017,367184
 5105,2018,368321
 5105,2019,334031
+5105,2020,334031
 52,1999,740
 52,2000,1574
 52,2001,1600
@@ -3433,6 +3615,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 52,2017,17000
 52,2018,19900
 52,2019,23600
+52,2020,18100
 5200,1998,1744765
 5200,1999,1970250
 5200,2000,2229699
@@ -3454,7 +3637,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5200,2016,2329883
 5200,2017,2306322
 5200,2018,2385800
-5200,2019,2386770
+5200,2019,2386772
+5200,2020,2168181
 5203,1998,1377000
 5203,1999,1532000
 5203,2000,1513845
@@ -3476,7 +3660,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5203,2016,1198624
 5203,2017,1070042
 5203,2018,1125933
-5203,2019,1231464
+5203,2019,1231466
+5203,2020,1012875
 5204,1998,148522
 5204,1999,183112
 5204,2000,444451
@@ -3499,6 +3684,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5204,2017,448077
 5204,2018,443975
 5204,2019,478640
+5204,2020,478640
 5206,1998,18746
 5206,1999,27306
 5206,2000,29011
@@ -3521,6 +3707,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5206,2017,102008
 5206,2018,86630
 5206,2019,77946
+5206,2020,77946
 5207,1998,200497
 5207,1999,227832
 5207,2000,242392
@@ -3543,6 +3730,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5207,2017,686195
 5207,2018,729262
 5207,2019,598720
+5207,2020,598720
 53,1998,1221
 53,1999,1672
 53,2000,1105
@@ -3565,6 +3753,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 53,2017,7016
 53,2018,7589
 53,2019,9460
+53,2020,9460
 5300,1998,1210692
 5300,1999,1912167
 5300,2000,2130616
@@ -3586,7 +3775,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5300,2016,4797580
 5300,2017,5871956
 5300,2018,5395661
-5300,2019,5251829
+5300,2019,5249736
+5300,2020,5262183
 5301,1999,100
 5301,2000,28884
 5301,2001,29372
@@ -3607,7 +3797,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5301,2016,95319
 5301,2017,99636
 5301,2018,131002
-5301,2019,124334
+5301,2019,122617
+5301,2020,125412
 5302,1998,443715
 5302,1999,813556
 5302,2000,1031392
@@ -3629,7 +3820,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5302,2016,1407747
 5302,2017,1590069
 5302,2018,1687964
-5302,2019,1405416
+5302,2019,1405392
+5302,2020,1405392
 5303,1998,185767
 5303,1999,241619
 5303,2000,317451
@@ -3652,6 +3844,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5303,2017,969286
 5303,2018,718864
 5303,2019,601431
+5303,2020,601431
 5304,1998,320622
 5304,1999,599754
 5304,2000,445362
@@ -3674,6 +3867,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5304,2017,2194400
 5304,2018,1930840
 5304,2019,1950326
+5304,2020,1950326
 5305,1998,260588
 5305,1999,257138
 5305,2000,307527
@@ -3695,7 +3889,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5305,2016,986892
 5305,2017,1018565
 5305,2018,926991
-5305,2019,1170322
+5305,2019,1169970
+5305,2020,1179622
 54,1998,136000
 54,1999,135000
 54,2000,142000
@@ -3718,6 +3913,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 54,2017,59019
 54,2018,59351
 54,2019,46609
+54,2020,46609
 5400,1998,3766672
 5400,1999,4579234
 5400,2000,4619212
@@ -3738,8 +3934,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5400,2015,6597445
 5400,2016,6342272
 5400,2017,6348943
-5400,2018,6224532
-5400,2019,6054704
+5400,2018,6225121
+5400,2019,6034778
+5400,2020,5477228
 5401,1998,182972
 5401,1999,215848
 5401,2000,241122
@@ -3760,8 +3957,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5401,2015,903540
 5401,2016,839684
 5401,2017,973182
-5401,2018,954601
-5401,2019,950443
+5401,2018,954602
+5401,2019,956613
+5401,2020,850750
 5402,1998,984100
 5402,1999,1038927
 5402,2000,1024557
@@ -3783,7 +3981,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5402,2016,1300823
 5402,2017,1292934
 5402,2018,1267432
-5402,2019,1140391
+5402,2019,1093025
+5402,2020,909223
 5403,1998,303000
 5403,1999,407459
 5403,2000,416549
@@ -3805,7 +4004,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5403,2016,1143768
 5403,2017,1083744
 5403,2018,1090772
-5403,2019,1089690
+5403,2019,1096128
+5403,2020,973061
 5404,1998,2296600
 5404,1999,2917000
 5404,2000,2936984
@@ -3826,8 +4026,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5404,2015,3131753
 5404,2016,3057997
 5404,2017,2999083
-5404,2018,2911727
-5404,2019,2874180
+5404,2018,2912315
+5404,2019,2889012
+5404,2020,2744194
 55,1998,232
 55,1999,456
 55,2000,45
@@ -3850,6 +4051,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 55,2017,60
 55,2018,70
 55,2019,47
+55,2020,47
 5500,1998,129695
 5500,1999,140343
 5500,2000,127526
@@ -3872,6 +4074,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5500,2017,197706
 5500,2018,172227
 5500,2019,140661
+5500,2020,140661
 5501,1998,124000
 5501,1999,130000
 5501,2000,118000
@@ -3894,6 +4097,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5501,2017,188790
 5501,2018,161434
 5501,2019,128764
+5501,2020,128764
 5502,1998,4447
 5502,1999,8902
 5502,2000,7630
@@ -3916,6 +4120,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5502,2017,6068
 5502,2018,8394
 5502,2019,8452
+5502,2020,8452
 5503,2011,2
 5503,2012,10
 5503,2013,35
@@ -3925,6 +4130,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5503,2017,34
 5503,2018,34
 5503,2019,932
+5503,2020,932
 5504,1998,1248
 5504,1999,1441
 5504,2000,1896
@@ -3947,6 +4153,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5504,2017,2814
 5504,2018,2365
 5504,2019,2513
+5504,2020,2513
 56,2004,22319
 56,2005,22319
 56,2006,26100
@@ -3963,7 +4170,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 56,2017,53693
 56,2018,38202
 56,2019,27475
-5600,2019,0
+56,2020,27475
 57,1999,28800
 57,2000,26800
 57,2001,0
@@ -3984,29 +4191,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 57,2016,42700
 57,2017,45500
 57,2018,46072
-57,2019,52367
-5707,1998,3005800
-5707,1999,3613453
-5707,2000,3692628
-5707,2001,3886407
-5707,2002,4967926
-5707,2003,5343225
-5707,2004,5241440
-5707,2005,5965487
-5707,2006,5940650
-5707,2007,5976328
-5707,2008,5490214
-5707,2009,5022567
-5707,2010,5378891
-5707,2011,5367365
-5707,2012,5165713
-5707,2013,5014970
-5707,2014,5168231
-5707,2015,5103210
-5707,2016,4880889
-5707,2017,4779852
-5707,2018,4682732
-5707,2019,4620294
+57,2019,52400
+57,2020,42800
 58,1998,33414
 58,1999,23521
 58,2000,32300
@@ -4029,6 +4215,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 58,2017,92490
 58,2018,99420
 58,2019,65893
+58,2020,65893
 5801,1998,46576
 5801,1999,94255
 5801,2000,62910
@@ -4051,6 +4238,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5801,2017,526516
 5801,2018,531145
 5801,2019,477045
+5801,2020,477045
 5802,1998,30851
 5802,1999,68957
 5802,2000,72488
@@ -4072,7 +4260,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5802,2016,346852
 5802,2017,345861
 5802,2018,398365
-5802,2019,389886
+5802,2019,388236
+5802,2020,383406
 5803,1998,155987
 5803,1999,206701
 5803,2000,192095
@@ -4095,6 +4284,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5803,2017,1240390
 5803,2018,892933
 5803,2019,1029523
+5803,2020,1029523
 5815,1998,159628
 5815,1999,177277
 5815,2000,161833
@@ -4116,7 +4306,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5815,2016,857519
 5815,2017,1115949
 5815,2018,1032580
-5815,2019,1170179
+5815,2019,1171379
+5815,2020,1165379
 5817,1998,395429
 5817,1999,472787
 5817,2000,334672
@@ -4139,6 +4330,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 5817,2017,1520591
 5817,2018,1619174
 5817,2019,1557519
+5817,2020,1557519
 59,1998,183227
 59,1999,181056
 59,2000,73000
@@ -4161,7 +4353,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 59,2017,208593
 59,2018,274739
 59,2019,329169
+59,2020,329169
 6,2019,2774
+6,2020,2774
 60,2003,18361
 60,2004,22132
 60,2005,20356
@@ -4179,6 +4373,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 60,2017,25097
 60,2018,25261
 60,2019,24003
+60,2020,24003
 61,2004,109
 61,2005,109
 61,2006,109
@@ -4195,6 +4390,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 61,2017,158
 61,2018,551
 61,2019,412
+61,2020,412
 63,1998,14100
 63,1999,8345
 63,2000,8970
@@ -4217,8 +4413,11 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 63,2017,21355
 63,2018,21201
 63,2019,19298
+63,2020,16478
 64,2019,83
+64,2020,83
 65,2019,18
+65,2020,18
 66,1998,1727
 66,1999,4059
 66,2000,4059
@@ -4241,6 +4440,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 66,2017,1844
 66,2018,2544
 66,2019,1137
+66,2020,1137
 67,1998,12400
 67,1999,14000
 67,2000,15327
@@ -4263,6 +4463,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 67,2017,17585
 67,2018,14905
 67,2019,13057
+67,2020,12627
 68,1998,638200
 68,1999,691000
 68,2000,686348
@@ -4285,6 +4486,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 68,2017,668707
 68,2018,666807
 68,2019,652926
+68,2020,560962
 7,1998,234
 7,1999,210
 7,2000,541
@@ -4307,6 +4509,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 7,2017,13266
 7,2018,16185
 7,2019,19008
+7,2020,19008
 70,1998,1168
 70,1999,1355
 70,2000,1755
@@ -4329,7 +4532,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 70,2017,2364
 70,2018,1801
 70,2019,1729
+70,2020,1729
 71,2019,0
+71,2020,0
 72,1998,1722
 72,1999,3265
 72,2000,3888
@@ -4352,6 +4557,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 72,2017,17651
 72,2018,14450
 72,2019,21600
+72,2020,21600
 73,2006,6200
 73,2007,7047
 73,2008,7047
@@ -4366,6 +4572,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 73,2017,12042
 73,2018,10936
 73,2019,10975
+73,2020,11207
 74,1998,750
 74,1999,650
 74,2000,650
@@ -4388,6 +4595,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 74,2017,1394
 74,2018,3941
 74,2019,3281
+74,2020,3281
 75,1998,102
 75,1999,218
 75,2000,122
@@ -4410,6 +4618,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 75,2017,1386
 75,2018,1667
 75,2019,2269
+75,2020,2269
 79,1998,1135000
 79,1999,1217000
 79,2000,1417000
@@ -4430,8 +4639,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 79,2015,1384000
 79,2016,1255000
 79,2017,1278459
-79,2018,1268953
-79,2019,1153728
+79,2018,1268944
+79,2019,1161000
+79,2020,1139438
 8,2009,6
 8,2010,8
 8,2011,1
@@ -4443,6 +4653,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 8,2017,4
 8,2018,4
 8,2019,95
+8,2020,95
 80,2004,7805
 80,2005,9415
 80,2006,9415
@@ -4459,6 +4670,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 80,2017,19400
 80,2018,20780
 80,2019,20570
+80,2020,17190
 81,1998,8995
 81,1999,10215
 81,2000,10215
@@ -4481,8 +4693,11 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 81,2017,36564
 81,2018,44159
 81,2019,63868
+81,2020,63868
 82,2019,143
+82,2020,143
 83,2019,3
+83,2020,3
 84,1999,69000
 84,2000,52478
 84,2001,52261
@@ -4503,7 +4718,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 84,2016,110526
 84,2017,92558
 84,2018,95059
-84,2019,95059
+84,2019,97914
+84,2020,78116
 85,2000,247
 85,2001,227
 85,2002,133
@@ -4524,6 +4740,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 85,2017,183
 85,2018,183
 85,2019,110
+85,2020,110
 86,2013,11
 86,2014,10
 86,2015,10
@@ -4531,7 +4748,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 86,2017,10
 86,2018,10
 86,2019,1
+86,2020,1
 88,2019,530
+88,2020,530
 89,1998,28208
 89,1999,28500
 89,2000,24000
@@ -4554,6 +4773,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 89,2017,57795
 89,2018,58728
 89,2019,52703
+89,2020,52703
 9,1998,43100
 9,1999,48200
 9,2000,40000
@@ -4576,6 +4796,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 9,2017,45739
 9,2018,32330
 9,2019,34329
+9,2020,34329
 90,2004,625
 90,2005,625
 90,2006,625
@@ -4592,6 +4813,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 90,2017,2829
 90,2018,1948
 90,2019,3147
+90,2020,3147
 91,1998,133
 91,1999,133
 91,2000,100
@@ -4614,6 +4836,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 91,2017,517
 91,2018,566
 91,2019,978
+91,2020,978
 93,1998,2354
 93,1999,2146
 93,2000,1500
@@ -4636,7 +4859,9 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 93,2017,9051
 93,2018,9723
 93,2019,6359
+93,2020,6359
 94,2019,37
+94,2020,37
 95,1998,9116
 95,1999,11700
 95,2000,10100
@@ -4659,6 +4884,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 95,2017,11365
 95,2018,22542
 95,2019,18581
+95,2020,18581
 96,1999,295180
 96,2000,299767
 96,2001,255793
@@ -4680,6 +4906,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 96,2017,145904
 96,2018,128965
 96,2019,118184
+96,2020,118184
 97,1998,17900
 97,1999,22800
 97,2000,31200
@@ -4701,7 +4928,8 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 97,2016,101262
 97,2017,105900
 97,2018,99286
-97,2019,99286
+97,2019,92291
+97,2020,92291
 98,1998,0
 98,1999,0
 98,2000,8000
@@ -4724,6 +4952,7 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 98,2017,42056
 98,2018,42056
 98,2019,42056
+98,2020,42056
 99,2000,2320
 99,2001,2210
 99,2002,2179
@@ -4744,3 +4973,4 @@ geo,year,printing_and_writing_papers_uncoated_wood_free_import_quantity_fea2
 99,2017,2539
 99,2018,1471
 99,2019,1169
+99,2020,1006

@@ -18,6 +18,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 1,2017,0
 1,2018,0
 1,2019,0
+1,2020,0
 10,1992,0
 10,1993,0
 10,2013,2893
@@ -27,6 +28,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 10,2017,0
 10,2018,0
 10,2019,0
+10,2020,0
 100,2008,12
 100,2009,8
 100,2010,8
@@ -39,6 +41,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 100,2017,730
 100,2018,730
 100,2019,0
+100,2020,0
 101,1992,16001
 101,1993,12859
 101,1994,4900
@@ -67,6 +70,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 101,2017,0
 101,2018,0
 101,2019,0
+101,2020,0
 102,2003,44
 102,2004,44
 102,2005,0
@@ -84,6 +88,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 102,2017,24
 102,2018,24
 102,2019,24
+102,2020,24
 103,2012,6
 103,2013,6
 103,2014,6
@@ -92,6 +97,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 103,2017,6
 103,2018,6
 103,2019,6
+103,2020,6
 104,1993,0
 104,1994,0
 104,1995,0
@@ -119,6 +125,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 104,2017,0
 104,2018,0
 104,2019,0
+104,2020,0
 105,2000,0
 105,2001,0
 105,2002,0
@@ -139,6 +146,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 105,2017,0
 105,2018,0
 105,2019,0
+105,2020,0
 106,1968,100
 106,1969,200
 106,1971,200
@@ -181,7 +189,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 106,2016,27
 106,2017,100
 106,2018,150
-106,2019,1038
+106,2019,885
+106,2020,163
 108,2003,0
 108,2004,0
 108,2005,0
@@ -199,6 +208,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 108,2017,0
 108,2018,0
 108,2019,0
+108,2020,0
 11,1968,26900
 11,1969,26200
 11,1970,23600
@@ -251,6 +261,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 11,2017,41560
 11,2018,45500
 11,2019,45473
+11,2020,48929
 110,1969,4000
 110,1970,3000
 110,1971,3500
@@ -300,6 +311,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 110,2017,161843
 110,2018,122500
 110,2019,109882
+110,2020,109882
 113,1999,0
 113,2000,0
 113,2001,0
@@ -321,11 +333,13 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 113,2017,0
 113,2018,0
 113,2019,0
+113,2020,0
 114,2015,5
 114,2016,14
 114,2017,14
 114,2018,14
 114,2019,14
+114,2020,14
 115,2006,25
 115,2007,25
 115,2008,25
@@ -340,6 +354,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 115,2017,25
 115,2018,25
 115,2019,25
+115,2020,25
 117,1993,5
 117,1994,0
 117,1995,3600
@@ -367,6 +382,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 117,2017,101
 117,2018,0
 117,2019,0
+117,2020,0
 119,1998,0
 119,1999,0
 119,2000,0
@@ -388,7 +404,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 119,2016,0
 119,2017,777
 119,2018,777
-119,2019,777
+119,2019,10400
+119,2020,300
 120,2009,19
 120,2010,19
 120,2011,19
@@ -400,6 +417,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 120,2017,19
 120,2018,19
 120,2019,19
+120,2020,19
 125,2006,0
 125,2007,0
 125,2008,0
@@ -414,6 +432,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 125,2017,0
 125,2018,0
 125,2019,0
+125,2020,0
 126,1995,0
 126,1996,0
 126,1997,0
@@ -439,6 +458,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 126,2017,0
 126,2018,0
 126,2019,69
+126,2020,72
 128,1998,0
 128,1999,0
 128,2000,0
@@ -461,6 +481,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 128,2017,0
 128,2018,0
 128,2019,0
+128,2020,0
 131,1995,0
 131,1996,0
 131,1997,0
@@ -486,6 +507,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 131,2017,1
 131,2018,1
 131,2019,1
+131,2020,1
 134,2003,0
 134,2004,0
 134,2005,0
@@ -503,6 +525,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 134,2017,0
 134,2018,0
 134,2019,0
+134,2020,0
 138,1992,1
 138,1993,1
 138,1994,0
@@ -531,6 +554,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 138,2017,0
 138,2018,0
 138,2019,0
+138,2020,0
 14,2009,275
 14,2010,10
 14,2011,10
@@ -542,6 +566,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 14,2017,10
 14,2018,10
 14,2019,10
+14,2020,10
 141,2008,98
 141,2009,98
 141,2010,98
@@ -554,6 +579,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 141,2017,98
 141,2018,98
 141,2019,98
+141,2020,98
 143,2008,0
 143,2009,0
 143,2010,0
@@ -566,6 +592,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 143,2017,62
 143,2018,0
 143,2019,0
+143,2020,0
 144,2013,199
 144,2014,199
 144,2015,199
@@ -573,6 +600,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 144,2017,199
 144,2018,199
 144,2019,199
+144,2020,199
 146,2006,0
 146,2007,0
 146,2008,0
@@ -587,7 +615,9 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 146,2017,0
 146,2018,0
 146,2019,0
+146,2020,0
 147,2019,21
+147,2020,21
 149,2010,106
 149,2011,106
 149,2012,106
@@ -598,6 +628,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 149,2017,106
 149,2018,106
 149,2019,106
+149,2020,106
 15,1968,100
 15,1969,100
 15,1970,100
@@ -664,6 +695,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 150,2017,0
 150,2018,100
 150,2019,100
+150,2020,100
 154,2000,0
 154,2001,0
 154,2002,0
@@ -684,6 +716,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 154,2017,0
 154,2018,0
 154,2019,0
+154,2020,0
 156,1968,89400
 156,1969,75000
 156,1970,85900
@@ -736,6 +769,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 156,2017,147575
 156,2018,184914
 156,2019,252229
+156,2020,252229
 159,2012,45
 159,2013,45
 159,2014,45
@@ -744,6 +778,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 159,2017,45
 159,2018,45
 159,2019,45
+159,2020,45
 162,1968,8200
 162,1969,10000
 162,1970,9400
@@ -789,7 +824,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 162,2016,0
 162,2017,2610
 162,2018,200
-162,2019,0
+162,2019,7
+162,2020,6
 165,2012,121
 165,2013,121
 165,2014,121
@@ -798,6 +834,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 165,2017,1
 165,2018,1
 165,2019,1
+165,2020,1
 166,1995,0
 166,1996,0
 166,1997,0
@@ -823,6 +860,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 166,2017,0
 166,2018,0
 166,2019,0
+166,2020,0
 167,1993,11900
 167,1994,1000
 167,1995,3000
@@ -850,13 +888,16 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 167,2017,0
 167,2018,0
 167,2019,0
+167,2020,3
 169,2014,156
 169,2015,156
 169,2016,156
 169,2017,156
 169,2018,156
 169,2019,156
+169,2020,156
 170,2019,644
+170,2020,644
 171,1973,9600
 171,1974,2700
 171,1980,500
@@ -891,6 +932,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 171,2017,0
 171,2018,0
 171,2019,0
+171,2020,0
 173,1992,7030
 173,1993,5500
 173,1994,2100
@@ -918,7 +960,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 173,2016,0
 173,2017,0
 173,2018,0
-173,2019,1
+173,2019,0
+173,2020,0
 174,1968,17400
 174,1969,18500
 174,1970,29400
@@ -971,6 +1014,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 174,2017,0
 174,2018,0
 174,2019,0
+174,2020,0
 175,2012,193
 175,2013,193
 175,2014,193
@@ -979,6 +1023,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 175,2017,193
 175,2018,193
 175,2019,193
+175,2020,193
 183,1998,0
 183,1999,1300
 183,2000,4100
@@ -1001,6 +1046,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 183,2017,0
 183,2018,0
 183,2019,0
+183,2020,0
 184,1993,0
 184,1994,0
 184,1995,0
@@ -1028,6 +1074,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 184,2017,0
 184,2018,0
 184,2019,0
+184,2020,0
 185,1992,65928
 185,1993,132000
 185,1994,148000
@@ -1056,6 +1103,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 185,2017,370698
 185,2018,462005
 185,2019,426000
+185,2020,415000
 186,1998,0
 186,1999,0
 186,2000,32400
@@ -1091,7 +1139,9 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 194,2017,11
 194,2018,11
 194,2019,11
+194,2020,11
 196,2019,0
+196,2020,0
 198,1992,4
 198,1998,0
 198,1999,0
@@ -1115,6 +1165,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 198,2017,0
 198,2018,0
 198,2019,1850
+198,2020,2381
 199,1998,0
 199,1999,41
 199,2000,0
@@ -1133,10 +1184,11 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 199,2013,1
 199,2014,0
 199,2015,0
-199,2016,0
+199,2016,5030
 199,2017,0
 199,2018,0
 199,2019,0
+199,2020,0
 200,1992,0
 200,1994,915
 200,1995,0
@@ -1164,6 +1216,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 200,2017,0
 200,2018,0
 200,2019,1081
+200,2020,1081
 202,1968,75800
 202,1969,94200
 202,1970,73400
@@ -1216,6 +1269,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 202,2017,2117
 202,2018,30
 202,2019,5080
+202,2020,5080
 203,1968,3000
 203,1969,400
 203,1972,200
@@ -1263,6 +1317,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 203,2017,0
 203,2018,0
 203,2019,0
+203,2020,24
 209,1975,90000
 209,1976,180000
 209,1977,123000
@@ -1308,6 +1363,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 209,2017,0
 209,2018,0
 209,2019,646
+209,2020,646
 21,1969,1600
 21,1970,12500
 21,1971,11600
@@ -1359,6 +1415,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 21,2017,4
 21,2018,0
 21,2019,940
+21,2020,940
 210,1968,508300
 210,1969,507100
 210,1970,517300
@@ -1410,7 +1467,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 210,2016,150693
 210,2017,148072
 210,2018,174395
-210,2019,171012
+210,2019,171111
+210,2020,196396
 211,1992,2707
 211,1993,955
 211,1994,200
@@ -1439,6 +1497,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 211,2017,31
 211,2018,114
 211,2019,18
+211,2020,48
 213,2012,0
 213,2013,0
 213,2014,0
@@ -1447,6 +1506,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 213,2017,0
 213,2018,0
 213,2019,0
+213,2020,0
 214,1975,2400
 214,1976,700
 214,1977,700
@@ -1479,6 +1539,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 214,2017,452
 214,2018,357
 214,2019,41
+214,2020,41
 215,2004,10
 215,2005,10
 215,2006,10
@@ -1495,6 +1556,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 215,2017,110
 215,2018,110
 215,2019,110
+215,2020,110
 216,1993,22
 216,1994,0
 216,1995,0
@@ -1522,6 +1584,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 216,2017,20
 216,2018,20
 216,2019,2536
+216,2020,2536
 221,1995,0
 221,1996,0
 221,1997,0
@@ -1547,6 +1610,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 221,2017,0
 221,2018,0
 221,2019,0
+221,2020,0
 222,1993,24
 222,1994,40
 222,1995,0
@@ -1574,6 +1638,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 222,2017,0
 222,2018,0
 222,2019,0
+222,2020,0
 223,1993,0
 223,1998,0
 223,1999,0
@@ -1596,7 +1661,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 223,2016,0
 223,2017,0
 223,2018,0
-223,2019,0
+223,2019,1784
+223,2020,0
 225,1994,0
 225,1995,0
 225,1996,0
@@ -1623,6 +1689,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 225,2017,9
 225,2018,1
 225,2019,2118
+225,2020,2118
 228,1968,276800
 228,1969,127100
 228,1970,148900
@@ -1685,6 +1752,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 229,2017,9
 229,2018,250
 229,2019,12
+229,2020,86
 23,1998,104
 23,1999,104
 23,2000,104
@@ -1707,6 +1775,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 23,2017,4
 23,2018,4
 23,2019,4
+23,2020,4
 230,1995,0
 230,1996,0
 230,1997,200
@@ -1731,7 +1800,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 230,2016,0
 230,2017,0
 230,2018,0
-230,2019,80
+230,2019,21
+230,2020,0
 231,1968,134500
 231,1969,115000
 231,1970,229900
@@ -1784,12 +1854,14 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 231,2017,181000
 231,2018,190488
 231,2019,264833
+231,2020,316720
 235,2014,0
 235,2015,0
 235,2016,0
 235,2017,0
 235,2018,0
 235,2019,0
+235,2020,0
 236,1992,32
 236,1994,0
 236,1995,0
@@ -1817,6 +1889,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 236,2017,0
 236,2018,0
 236,2019,0
+236,2020,0
 237,1997,0
 237,1998,0
 237,1999,0
@@ -1840,12 +1913,14 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 237,2017,0
 237,2018,0
 237,2019,0
+237,2020,0
 248,1968,100
 248,1971,200
 248,1978,1000
 248,1979,1000
 248,1987,0
 251,2019,72
+251,2020,72
 255,2000,12000
 255,2001,5130
 255,2002,10297
@@ -1866,6 +1941,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 255,2017,8562
 255,2018,11840
 255,2019,16261
+255,2020,16261
 256,2001,0
 256,2002,0
 256,2003,0
@@ -1885,6 +1961,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 256,2017,0
 256,2018,0
 256,2019,0
+256,2020,0
 27,1975,2900
 27,1976,9100
 27,1977,11500
@@ -1927,6 +2004,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 27,2017,0
 27,2018,0
 27,2019,0
+27,2020,0
 272,2006,0
 272,2007,0
 272,2008,0
@@ -1941,6 +2019,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 272,2017,0
 272,2018,0
 272,2019,0
+272,2020,0
 273,2006,0
 273,2007,0
 273,2008,0
@@ -1955,12 +2034,14 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 273,2017,0
 273,2018,0
 273,2019,0
+273,2020,0
 3,2014,0
 3,2015,0
 3,2016,0
 3,2017,0
 3,2018,0
 3,2019,0
+3,2020,0
 33,1968,327800
 33,1969,387000
 33,1970,327600
@@ -2013,6 +2094,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 33,2017,247161
 33,2018,270012
 33,2019,263643
+33,2020,254112
 351,1971,1800
 351,1975,2400
 351,1976,2200
@@ -2046,6 +2128,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 351,2017,717
 351,2018,4601
 351,2019,1842
+351,2020,1842
 37,1993,0
 37,1994,0
 37,1995,0
@@ -2073,6 +2156,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 37,2017,0
 37,2018,0
 37,2019,0
+37,2020,0
 38,1993,2
 38,1994,0
 38,1995,0
@@ -2100,6 +2184,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 38,2017,17
 38,2018,17
 38,2019,17
+38,2020,17
 40,1973,65000
 40,1974,80000
 40,1975,52200
@@ -2147,6 +2232,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 40,2017,451770
 40,2018,487817
 40,2019,459829
+40,2020,459829
 41,1971,1800
 41,1976,1500
 41,1987,0
@@ -2178,6 +2264,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 41,2017,265
 41,2018,4193
 41,2019,1705
+41,2020,1705
 44,1993,22
 44,1994,0
 44,1995,0
@@ -2205,6 +2292,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 44,2017,0
 44,2018,0
 44,2019,0
+44,2020,0
 45,1994,0
 45,1995,0
 45,1996,0
@@ -2231,6 +2319,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 45,2017,0
 45,2018,0
 45,2019,0
+45,2020,0
 46,1993,0
 46,1994,0
 46,1995,0
@@ -2258,6 +2347,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 46,2017,0
 46,2018,0
 46,2019,0
+46,2020,0
 50,2000,0
 50,2001,0
 50,2002,0
@@ -2278,6 +2368,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 50,2017,0
 50,2018,0
 50,2019,0
+50,2020,0
 5000,1968,2065300
 5000,1969,1980400
 5000,1970,1882600
@@ -2326,10 +2417,11 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5000,2013,1729824
 5000,2014,1745712
 5000,2015,1694749
-5000,2016,1810143
+5000,2016,1815173
 5000,2017,1809842
-5000,2018,1988509
-5000,2019,2084982
+5000,2018,1988890
+5000,2019,2093620
+5000,2020,2168863
 51,1970,1100
 51,1975,4000
 51,1976,5000
@@ -2390,6 +2482,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5100,2017,2742
 5100,2018,593
 5100,2019,7046
+5100,2020,7046
 5101,1993,0
 5101,1994,0
 5101,1995,0
@@ -2417,6 +2510,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5101,2017,323
 5101,2018,323
 5101,2019,395
+5101,2020,395
 5102,1968,3900
 5102,1969,3200
 5102,1970,600
@@ -2452,6 +2546,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5102,2017,0
 5102,2018,0
 5102,2019,0
+5102,2020,0
 5103,1993,24
 5103,1994,40
 5103,1995,0
@@ -2479,6 +2574,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5103,2017,64
 5103,2018,2
 5103,2019,2
+5103,2020,2
 5104,1968,75800
 5104,1969,94200
 5104,1970,73400
@@ -2531,6 +2627,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5104,2017,2117
 5104,2018,30
 5104,2019,5747
+5104,2020,5747
 5105,2012,238
 5105,2013,238
 5105,2014,238
@@ -2539,6 +2636,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5105,2017,238
 5105,2018,238
 5105,2019,902
+5105,2020,902
 52,1999,0
 52,2000,0
 52,2001,0
@@ -2560,6 +2658,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 52,2017,0
 52,2018,0
 52,2019,0
+52,2020,0
 5200,1968,462300
 5200,1969,503600
 5200,1970,570000
@@ -2612,6 +2711,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5200,2017,880145
 5200,2018,948527
 5200,2019,990070
+5200,2020,1032426
 5203,1968,462300
 5203,1969,502000
 5203,1970,557500
@@ -2664,6 +2764,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5203,2017,428161
 5203,2018,460500
 5203,2019,528476
+5203,2020,570832
 5204,1992,1
 5204,1993,1
 5204,1994,0
@@ -2692,6 +2793,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5204,2017,44
 5204,2018,44
 5204,2019,15
+5204,2020,15
 5206,2009,275
 5206,2010,10
 5206,2011,10
@@ -2703,6 +2805,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5206,2017,10
 5206,2018,10
 5206,2019,10
+5206,2020,10
 5207,1969,1600
 5207,1970,12500
 5207,1971,11600
@@ -2754,6 +2857,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5207,2017,451930
 5207,2018,487973
 5207,2019,461569
+5207,2020,461569
 5300,1969,4000
 5300,1970,3000
 5300,1971,5300
@@ -2803,7 +2907,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5300,2016,174173
 5300,2017,163728
 5300,2018,128160
-5300,2019,117767
+5300,2019,119551
+5300,2020,117767
 5301,1999,0
 5301,2000,0
 5301,2001,0
@@ -2825,6 +2930,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5301,2017,0
 5301,2018,0
 5301,2019,0
+5301,2020,0
 5302,1969,4000
 5302,1970,3000
 5302,1971,5300
@@ -2875,6 +2981,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5302,2017,162759
 5302,2018,127199
 5302,2019,111822
+5302,2020,111822
 5303,1993,2
 5303,1994,0
 5303,1995,0
@@ -2902,6 +3009,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5303,2017,878
 5303,2018,878
 5303,2019,148
+5303,2020,148
 5304,1973,9600
 5304,1974,2700
 5304,1980,500
@@ -2937,6 +3045,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5304,2017,65
 5304,2018,65
 5304,2019,3662
+5304,2020,3662
 5305,1992,0
 5305,1993,0
 5305,1994,0
@@ -2964,7 +3073,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5305,2016,217
 5305,2017,26
 5305,2018,18
-5305,2019,2135
+5305,2019,3919
+5305,2020,2135
 54,1992,300
 54,1993,0
 54,2000,400
@@ -2987,6 +3097,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 54,2017,0
 54,2018,0
 54,2019,0
+54,2020,0
 5400,1968,1433900
 5400,1969,1300400
 5400,1970,1149700
@@ -3035,10 +3146,11 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5400,2013,531460
 5400,2014,538698
 5400,2015,533645
-5400,2016,653627
+5400,2016,658657
 5400,2017,615652
-5400,2018,726315
-5400,2019,717870
+5400,2018,726696
+5400,2019,724724
+5400,2020,759395
 5401,1968,276800
 5401,1969,127100
 5401,1970,150000
@@ -3087,10 +3199,11 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5401,2013,336750
 5401,2014,341460
 5401,2015,342572
-5401,2016,375701
+5401,2016,380731
 5401,2017,370698
 5401,2018,462005
-5401,2019,426081
+5401,2019,426021
+5401,2020,415003
 5402,1968,1109400
 5402,1969,1126700
 5402,1970,945100
@@ -3142,7 +3255,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5402,2016,207359
 5402,2017,183154
 5402,2018,197098
-5402,2019,210985
+5402,2019,220714
+5402,2020,236415
 5403,1968,20600
 5403,1969,19100
 5403,1970,29400
@@ -3194,7 +3308,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5403,2016,307
 5403,2017,2599
 5403,2018,3035
-5403,2019,5773
+5403,2019,2735
+5403,2020,2568
 5404,1968,27100
 5404,1969,27500
 5404,1970,25200
@@ -3245,8 +3360,9 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5404,2015,56796
 5404,2016,70260
 5404,2017,59201
-5404,2018,64177
-5404,2019,75031
+5404,2018,64558
+5404,2019,75254
+5404,2020,105409
 5500,1968,89400
 5500,1969,75000
 5500,1970,85900
@@ -3299,6 +3415,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5500,2017,147575
 5500,2018,184914
 5500,2019,252229
+5500,2020,252229
 5501,1968,89400
 5501,1969,75000
 5501,1970,85900
@@ -3351,6 +3468,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5501,2017,147575
 5501,2018,184914
 5501,2019,252229
+5501,2020,252229
 57,1996,0
 57,1997,0
 57,1998,623
@@ -3375,58 +3493,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 57,2017,0
 57,2018,0
 57,2019,0
-5707,1968,1148800
-5707,1969,1163300
-5707,1970,990300
-5707,1971,822300
-5707,1972,922400
-5707,1973,1156800
-5707,1974,986300
-5707,1975,638700
-5707,1976,649700
-5707,1977,706100
-5707,1978,800400
-5707,1979,828300
-5707,1980,737000
-5707,1981,534000
-5707,1982,467200
-5707,1983,493900
-5707,1984,422200
-5707,1985,384200
-5707,1986,371100
-5707,1987,393200
-5707,1988,361700
-5707,1989,277300
-5707,1990,312000
-5707,1991,295500
-5707,1992,345134
-5707,1993,274849
-5707,1994,298000
-5707,1995,270300
-5707,1996,296300
-5707,1997,275200
-5707,1998,211500
-5707,1999,225841
-5707,2000,178418
-5707,2001,174898
-5707,2002,174093
-5707,2003,164775
-5707,2004,174417
-5707,2005,177238
-5707,2006,189674
-5707,2007,208885
-5707,2008,170546
-5707,2009,146629
-5707,2010,140180
-5707,2011,127497
-5707,2012,151767
-5707,2013,195906
-5707,2014,199569
-5707,2015,191060
-5707,2016,281036
-5707,2017,242304
-5707,2018,263746
-5707,2019,291760
+57,2020,0
 5801,1968,3900
 5801,1969,3200
 5801,1970,600
@@ -3462,6 +3529,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5801,2017,652
 5801,2018,652
 5801,2019,1388
+5801,2020,1388
 5802,1975,90000
 5802,1976,180000
 5802,1977,123000
@@ -3507,6 +3575,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5802,2017,379
 5802,2018,379
 5802,2019,1097
+5802,2020,1097
 5803,1992,0
 5803,1994,915
 5803,1995,0
@@ -3534,6 +3603,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5803,2017,207
 5803,2018,207
 5803,2019,1288
+5803,2020,1288
 5815,1993,0
 5815,1994,0
 5815,1995,0
@@ -3561,6 +3631,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5815,2017,1352
 5815,2018,1352
 5815,2019,1286
+5815,2020,1286
 5817,1968,3900
 5817,1969,3200
 5817,1970,600
@@ -3613,10 +3684,12 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 5817,2017,896
 5817,2018,834
 5817,2019,2852
+5817,2020,2852
 59,2016,2
 59,2017,2
 59,2018,2
 59,2019,2
+59,2020,2
 60,2004,605
 60,2005,605
 60,2006,605
@@ -3633,6 +3706,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 60,2017,40
 60,2018,40
 60,2019,11
+60,2020,11
 63,1992,23
 63,1993,23
 63,1994,11000
@@ -3661,6 +3735,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 63,2017,405
 63,2018,0
 63,2019,224
+63,2020,94
 67,1968,592900
 67,1969,609600
 67,1970,418400
@@ -3713,6 +3788,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 67,2017,31281
 67,2018,21476
 67,2019,38891
+67,2020,39461
 68,1968,100
 68,1969,700
 68,1970,1400
@@ -3756,6 +3832,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 68,2017,48
 68,2018,4
 68,2019,402
+68,2020,32071
 7,1968,3900
 7,1969,3200
 7,1970,600
@@ -3790,6 +3867,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 7,2017,0
 7,2018,0
 7,2019,0
+7,2020,0
 73,2006,0
 73,2007,0
 73,2008,0
@@ -3804,7 +3882,9 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 73,2017,0
 73,2018,0
 73,2019,0
+73,2020,0
 75,2019,664
+75,2020,664
 79,1992,866
 79,1993,4597
 79,1994,1000
@@ -3831,8 +3911,9 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 79,2015,3000
 79,2016,6225
 79,2017,9000
-79,2018,6619
-79,2019,12777
+79,2018,7000
+79,2019,13000
+79,2020,8000
 80,2004,0
 80,2005,0
 80,2006,0
@@ -3849,6 +3930,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 80,2017,0
 80,2018,0
 80,2019,0
+80,2020,0
 84,1998,0
 84,1999,0
 84,2000,0
@@ -3870,7 +3952,8 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 84,2016,0
 84,2017,2499
 84,2018,2885
-84,2019,2885
+84,2019,0
+84,2020,0
 9,1992,114
 9,1993,600
 9,1994,500
@@ -3899,6 +3982,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 9,2017,0
 9,2018,0
 9,2019,0
+9,2020,0
 96,1993,330
 96,1994,0
 96,1995,0
@@ -3926,6 +4010,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 96,2017,0
 96,2018,51
 96,2019,96
+96,2020,96
 97,1992,51
 97,1993,1164
 97,1994,100
@@ -3954,6 +4039,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 97,2017,0
 97,2018,0
 97,2019,0
+97,2020,0
 98,1998,0
 98,1999,0
 98,2000,0
@@ -3976,6 +4062,7 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 98,2017,0
 98,2018,0
 98,2019,0
+98,2020,0
 99,2004,0
 99,2005,0
 99,2006,0
@@ -3992,3 +4079,4 @@ geo,year,chemical_wood_pulp_sulphate_unbleached_export_quantity_fea2
 99,2017,0
 99,2018,0
 99,2019,0
+99,2020,0

@@ -21,7 +21,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 1,2016,2416
 1,2017,3245
 1,2018,3000
-1,2019,3000
+1,2019,3414
+1,2020,2292
 10,1961,26000
 10,1962,19500
 10,1963,19700
@@ -81,6 +82,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 10,2017,3944
 10,2018,7318
 10,2019,5984
+10,2020,5984
 100,1961,6500
 100,1962,5500
 100,1963,5300
@@ -140,6 +142,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 100,2017,17589
 100,2018,22667
 100,2019,19831
+100,2020,19831
 101,1967,4000
 101,1968,7000
 101,1969,5000
@@ -193,6 +196,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 101,2017,46818
 101,2018,44413
 101,2019,47643
+101,2020,47643
 102,1969,18200
 102,1970,16200
 102,1971,72100
@@ -244,6 +248,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 102,2017,5203
 102,2018,6148
 102,2019,2746
+102,2020,2746
 103,1966,1700
 103,1967,1800
 103,1968,1700
@@ -298,6 +303,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 103,2017,168
 103,2018,1996
 103,2019,201
+103,2020,201
 104,1966,41700
 104,1967,62700
 104,1968,75400
@@ -352,6 +358,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 104,2017,39854
 104,2018,40616
 104,2019,40616
+104,2020,40616
 105,1961,31600
 105,1962,32700
 105,1963,36600
@@ -411,6 +418,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 105,2017,8533
 105,2018,5649
 105,2019,4360
+105,2020,4360
 106,1961,27000
 106,1962,27500
 106,1963,36900
@@ -469,7 +477,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 106,2016,67605
 106,2017,80644
 106,2018,67018
-106,2019,66476
+106,2019,65986
+106,2020,59198
 107,1961,400
 107,1962,300
 107,1963,600
@@ -514,6 +523,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 107,2017,291
 107,2018,387
 107,2019,723
+107,2020,723
 108,2000,4787
 108,2001,4787
 108,2002,8100
@@ -533,7 +543,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 108,2016,3176
 108,2017,3176
 108,2018,2927
-108,2019,2477
+108,2019,2478
+108,2020,2875
 109,1969,28000
 109,1970,32000
 109,1971,32300
@@ -585,6 +596,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 109,2017,201
 109,2018,584
 109,2019,581
+109,2020,581
 11,1966,10000
 11,1967,12000
 11,1968,17000
@@ -638,7 +650,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 11,2016,15467
 11,2017,15963
 11,2018,20474
-11,2019,14334
+11,2019,14344
+11,2020,17148
 110,1961,800
 110,1962,960
 110,1963,2310
@@ -698,6 +711,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 110,2017,16789
 110,2018,17356
 110,2019,16989
+110,2020,16989
 112,1961,800
 112,1962,3100
 112,1963,2000
@@ -757,6 +771,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 112,2017,2921
 112,2018,2832
 112,2019,2468
+112,2020,2468
 113,1999,10500
 113,2000,700
 113,2001,500
@@ -777,7 +792,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 113,2016,209
 113,2017,10
 113,2018,50
-113,2019,50
+113,2019,40
+113,2020,800
 114,1961,2900
 114,1962,3400
 114,1963,4700
@@ -837,6 +853,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 114,2017,3481
 114,2018,3305
 114,2019,890
+114,2020,890
 115,1961,1200
 115,1962,1200
 115,1963,1000
@@ -896,6 +913,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 115,2017,1097
 115,2018,970
 115,2019,3515
+115,2020,3515
 116,2008,3163
 116,2009,3165
 116,2010,2919
@@ -908,6 +926,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 116,2017,1927
 116,2018,1927
 116,2019,1927
+116,2020,1927
 117,1973,6400
 117,1974,7900
 117,1975,8600
@@ -954,7 +973,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 117,2016,70000
 117,2017,76335
 117,2018,62118
-117,2019,48549
+117,2019,48546
+117,2020,48546
 118,1964,4400
 118,1965,5200
 118,1966,2300
@@ -1010,6 +1030,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 118,2017,24627
 118,2018,12207
 118,2019,51
+118,2020,51
 119,1992,700
 119,1993,17000
 119,1994,12100
@@ -1037,7 +1058,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 119,2016,305
 119,2017,302
 119,2018,302
-119,2019,302
+119,2019,138
+119,2020,138
 12,1994,1800
 12,1995,1800
 12,1996,2800
@@ -1064,6 +1086,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 12,2017,32
 12,2018,42
 12,2019,40
+12,2020,40
 120,1998,100
 120,1999,100
 120,2000,50
@@ -1086,6 +1109,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 120,2017,435
 120,2018,36
 120,2019,1186
+120,2020,1186
 121,1966,700
 121,1967,2000
 121,1968,2000
@@ -1124,6 +1148,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 121,2017,1920
 121,2018,955
 121,2019,578
+121,2020,578
 122,2009,209
 122,2010,214
 122,2011,256
@@ -1135,6 +1160,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 122,2017,70
 122,2018,70
 122,2019,29
+122,2020,29
 123,1998,30
 123,1999,10
 123,2000,20
@@ -1157,6 +1183,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 123,2017,2
 123,2018,2
 123,2019,2
+123,2020,2
 124,1969,1100
 124,1970,800
 124,1971,800
@@ -1203,6 +1230,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 124,2017,38
 124,2018,84
 124,2019,79
+124,2020,79
 125,2006,0
 125,2007,0
 125,2008,0
@@ -1217,6 +1245,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 125,2017,0
 125,2018,0
 125,2019,0
+125,2020,0
 126,1992,55
 126,1993,554
 126,1994,6000
@@ -1244,8 +1273,10 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 126,2016,4892
 126,2017,7027
 126,2018,5694
-126,2019,6057
+126,2019,6082
+126,2020,4682
 127,2019,6
+127,2020,6
 128,1966,2600
 128,1967,1500
 128,1968,2600
@@ -1300,6 +1331,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 128,2017,269
 128,2018,269
 128,2019,17
+128,2020,17
 129,1961,1100
 129,1962,1100
 129,1963,1200
@@ -1358,6 +1390,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 129,2017,486
 129,2018,46
 129,2019,448
+129,2020,448
 13,1996,3600
 13,1997,8700
 13,1998,6900
@@ -1382,6 +1415,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 13,2017,76
 13,2018,1033
 13,2019,16
+13,2020,16
 130,1998,100
 130,1999,98
 130,2000,490
@@ -1404,6 +1438,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 130,2017,29
 130,2018,45
 130,2019,137
+130,2020,137
 131,1961,27000
 131,1962,34000
 131,1963,36000
@@ -1463,6 +1498,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 131,2017,12142
 131,2018,10939
 131,2019,12464
+131,2020,12464
 132,1992,284
 132,1993,800
 132,1994,101
@@ -1491,6 +1527,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 132,2017,30
 132,2018,30
 132,2019,58
+132,2020,58
 133,1998,300
 133,1999,600
 133,2000,600
@@ -1513,6 +1550,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 133,2017,117
 133,2018,265
 133,2019,55
+133,2020,55
 134,1961,100
 134,1962,100
 134,1963,22
@@ -1572,6 +1610,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 134,2017,154
 134,2018,44
 134,2019,45
+134,2020,45
 135,1982,1100
 135,1983,900
 135,1984,800
@@ -1610,6 +1649,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 135,2017,1800
 135,2018,1800
 135,2019,1800
+135,2020,1800
 136,1998,1408
 136,1999,4800
 136,2000,154
@@ -1632,6 +1672,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 136,2017,26
 136,2018,3
 136,2019,23
+136,2020,23
 137,1998,11400
 137,1999,11500
 137,2000,1200
@@ -1654,6 +1695,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 137,2017,160
 137,2018,68
 137,2019,62
+137,2020,62
 138,1977,4400
 138,1979,27000
 138,1980,72000
@@ -1696,6 +1738,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 138,2017,35348
 138,2018,38339
 138,2019,18279
+138,2020,18279
 14,1969,200
 14,1970,100
 14,1971,200
@@ -1746,6 +1789,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 14,2017,36
 14,2018,41
 14,2019,28
+14,2020,28
 141,1998,30
 141,1999,179
 141,2000,102
@@ -1768,7 +1812,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 141,2017,773
 141,2018,652
 141,2019,826
+141,2020,826
 142,2019,1
+142,2020,1
 143,1961,20900
 143,1962,19800
 143,1963,26700
@@ -1828,6 +1874,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 143,2017,27878
 143,2018,7643
 143,2019,7531
+143,2020,7531
 144,1968,5500
 144,1969,6600
 144,1970,10600
@@ -1871,7 +1918,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 144,2017,477
 144,2018,414
 144,2019,108
+144,2020,108
 145,2019,1
+145,2020,1
 146,1998,8342
 146,1999,8342
 146,2000,8342
@@ -1893,7 +1942,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 146,2016,492
 146,2017,480
 146,2018,473
-146,2019,473
+146,2019,536
+146,2020,437
 147,2000,571
 147,2001,594
 147,2002,40
@@ -1914,6 +1964,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 147,2017,117
 147,2018,117
 147,2019,1884
+147,2020,1884
 149,1998,112
 149,1999,176
 149,2000,176
@@ -1936,6 +1987,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 149,2017,919
 149,2018,1093
 149,2019,239
+149,2020,239
 15,1961,20500
 15,1962,21900
 15,1963,27700
@@ -2027,6 +2079,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 150,2017,25000
 150,2018,26500
 150,2019,14700
+150,2020,14700
 151,1974,1900
 151,1975,800
 151,1976,800
@@ -2086,6 +2139,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 153,2017,987
 153,2018,1192
 153,2019,21
+153,2020,21
 154,1994,100
 154,1995,200
 154,1996,200
@@ -2111,7 +2165,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 154,2016,612
 154,2017,623
 154,2018,610
-154,2019,610
+154,2019,749
+154,2020,577
 155,1998,116
 155,1999,2
 155,2000,30
@@ -2134,6 +2189,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 155,2017,1
 155,2018,5
 155,2019,1
+155,2020,1
 156,1966,12400
 156,1967,8900
 156,1968,13700
@@ -2188,6 +2244,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 156,2017,8418
 156,2018,19913
 156,2019,28592
+156,2020,28592
 157,1966,500
 157,1967,800
 157,1968,400
@@ -2240,6 +2297,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 157,2017,1677
 157,2018,392
 157,2019,751
+157,2020,751
 158,1996,800
 158,1997,1300
 158,1998,1300
@@ -2264,6 +2322,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 158,2017,24
 158,2018,24
 158,2019,0
+158,2020,0
 159,1961,1000
 159,1962,1600
 159,1963,3500
@@ -2323,6 +2382,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 159,2017,3293
 159,2018,7293
 159,2019,2377
+159,2020,2377
 16,1992,23518
 16,1993,14727
 16,1994,32874
@@ -2351,8 +2411,11 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 16,2017,31882
 16,2018,33959
 16,2019,42430
+16,2020,42430
 160,2019,0
+160,2020,0
 161,2019,3
+161,2020,3
 162,1961,5000
 162,1962,5000
 162,1963,6300
@@ -2412,6 +2475,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 162,2017,2712
 162,2018,2439
 162,2019,2078
+162,2020,1896
 165,1970,800
 165,1971,1200
 165,1972,1700
@@ -2461,6 +2525,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 165,2017,4508
 165,2018,6218
 165,2019,6244
+165,2020,6244
 166,1966,800
 166,1967,800
 166,1968,800
@@ -2514,6 +2579,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 166,2017,110
 166,2018,47
 166,2019,39
+166,2020,39
 167,1994,1000
 167,1995,1000
 167,1996,1700
@@ -2540,6 +2606,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 167,2017,35773
 167,2018,31124
 167,2019,34855
+167,2020,36952
 168,1961,400
 168,1962,400
 168,1963,1500
@@ -2595,6 +2662,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 168,2017,3319
 168,2018,2258
 168,2019,2964
+168,2020,2964
 169,1968,800
 169,1969,900
 169,1970,800
@@ -2647,7 +2715,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 169,2017,6310
 169,2018,6595
 169,2019,5357
+169,2020,5357
 17,2019,6
+17,2020,6
 170,1968,4300
 170,1969,4700
 170,1970,8800
@@ -2696,6 +2766,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 170,2017,2476
 170,2018,3142
 170,2019,3359
+170,2020,3359
 171,1961,9200
 171,1962,4800
 171,1963,16200
@@ -2755,6 +2826,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 171,2017,33800
 171,2018,19239
 171,2019,16379
+171,2020,16379
 173,1968,88000
 173,1969,116000
 173,1970,102000
@@ -2806,7 +2878,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 173,2016,55221
 173,2017,59077
 173,2018,60412
-173,2019,52372
+173,2019,53604
+173,2020,48631
 174,1961,1500
 174,1962,1600
 174,1963,1500
@@ -2865,7 +2938,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 174,2016,4564
 174,2017,5414
 174,2018,7567
-174,2019,9898
+174,2019,10219
+174,2020,9502
 175,1971,100
 175,1972,100
 175,1987,300
@@ -2901,6 +2975,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 175,2017,4
 175,2018,3
 175,2019,1
+175,2020,1
 176,1998,94
 176,1999,94
 176,2000,94
@@ -2923,6 +2998,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 176,2017,6
 176,2018,6
 176,2019,10
+176,2020,10
 178,1998,600
 178,1999,600
 178,2000,600
@@ -2945,6 +3021,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 178,2017,5
 178,2018,18
 178,2019,6
+178,2020,6
 179,1998,634
 179,1999,132
 179,2000,87
@@ -2967,6 +3044,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 179,2017,212
 179,2018,130
 179,2019,38
+179,2020,38
 18,1994,132
 18,1995,84
 18,1996,84
@@ -2993,6 +3071,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 18,2017,8
 18,2018,7
 18,2019,8
+18,2020,8
 180,2011,59
 180,2012,5
 180,2013,34
@@ -3002,6 +3081,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 180,2017,5
 180,2018,5
 180,2019,5
+180,2020,5
 181,1961,12200
 181,1962,14500
 181,1963,13400
@@ -3061,6 +3141,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 181,2017,387
 181,2018,704
 181,2019,685
+181,2020,685
 183,1969,35900
 183,1970,44300
 183,1971,51400
@@ -3095,6 +3176,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 183,2017,11499
 183,2018,11931
 183,2019,12438
+183,2020,13868
 184,1981,300
 184,1982,400
 184,1983,600
@@ -3134,6 +3216,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 184,2017,11
 184,2018,11
 184,2019,33
+184,2020,33
 185,1992,47884
 185,1993,39796
 185,1994,21800
@@ -3161,7 +3244,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 185,2016,50732
 185,2017,40922
 185,2018,39469
-185,2019,39469
+185,2019,39869
+185,2020,39869
 186,1992,9500
 186,1993,1900
 186,1994,6000
@@ -3177,6 +3261,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 186,2004,37000
 186,2005,42000
 187,2019,0
+187,2020,0
 188,2009,4
 188,2010,4
 188,2011,4
@@ -3188,6 +3273,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 188,2017,78
 188,2018,78
 188,2019,3
+188,2020,3
 189,1992,15200
 189,1993,11074
 189,1994,8849
@@ -3216,6 +3302,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 189,2017,4
 189,2018,4
 189,2019,8
+189,2020,8
 19,1998,1583
 19,1999,1667
 19,2000,4349
@@ -3238,7 +3325,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 19,2017,269
 19,2018,303
 19,2019,119
+19,2020,119
 190,2019,0
+190,2020,0
 191,1998,4800
 191,1999,4800
 191,2000,4800
@@ -3261,7 +3350,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 191,2017,37
 191,2018,5
 191,2019,5
+191,2020,5
 192,2019,218
+192,2020,218
 193,1998,21
 193,1999,46
 193,2000,46
@@ -3284,6 +3375,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 193,2017,16
 193,2018,16
 193,2019,1
+193,2020,1
 194,2000,48100
 194,2001,57000
 194,2002,57000
@@ -3304,6 +3396,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 194,2017,7581
 194,2018,5907
 194,2019,4024
+194,2020,4024
 195,2000,900
 195,2001,900
 195,2002,900
@@ -3324,6 +3417,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 195,2017,609
 195,2018,621
 195,2019,590
+195,2020,590
 196,1998,134
 196,1999,134
 196,2000,134
@@ -3346,6 +3440,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 196,2017,182
 196,2018,182
 196,2019,413
+196,2020,413
 197,1998,133
 197,1999,95
 197,2000,343
@@ -3368,6 +3463,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 197,2017,77
 197,2018,69
 197,2019,76
+197,2020,76
 198,1997,9000
 198,1998,12000
 198,1999,13000
@@ -3391,6 +3487,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 198,2017,522
 198,2018,559
 198,2019,769
+198,2020,640
 199,1994,15000
 199,1995,19000
 199,1996,18200
@@ -3417,6 +3514,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 199,2017,670
 199,2018,704
 199,2019,726
+199,2020,993
 2,1970,300
 2,1971,500
 2,1972,600
@@ -3467,6 +3565,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 2,2017,216
 2,2018,3693
 2,2019,2
+2,2020,2
 20,2009,167
 20,2010,113
 20,2011,151
@@ -3478,6 +3577,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 20,2017,203
 20,2018,203
 20,2019,146
+20,2020,146
 200,1968,31600
 200,1969,28000
 200,1970,22600
@@ -3530,6 +3630,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 200,2017,11468
 200,2018,11858
 200,2019,12525
+200,2020,12525
 201,1998,2
 201,1999,2
 201,2000,2
@@ -3552,6 +3653,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 201,2017,42
 201,2018,60
 201,2019,26
+201,2020,26
 202,1969,52300
 202,1970,43500
 202,1971,47100
@@ -3603,6 +3705,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 202,2017,14075
 202,2018,11854
 202,2019,9932
+202,2020,9932
 203,1961,800
 203,1962,1600
 203,1963,2500
@@ -3662,6 +3765,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 203,2017,137440
 203,2018,97702
 203,2019,91154
+203,2020,154031
 206,1968,9000
 206,1969,8800
 206,1970,8000
@@ -3712,6 +3816,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 207,2017,56
 207,2018,6
 207,2019,22
+207,2020,22
 208,1998,122
 208,1999,122
 208,2000,122
@@ -3734,6 +3839,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 208,2017,20
 208,2018,20
 208,2019,20
+208,2020,20
 209,2009,94
 209,2010,59
 209,2011,77
@@ -3745,6 +3851,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 209,2017,70
 209,2018,70
 209,2019,90
+209,2020,90
 21,1961,2300
 21,1962,2200
 21,1963,2300
@@ -3804,6 +3911,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 21,2017,14253
 21,2018,14628
 21,2019,14909
+21,2020,14909
 210,1961,14500
 210,1962,14900
 210,1963,17600
@@ -3862,7 +3970,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 210,2016,4300
 210,2017,2236
 210,2018,1548
-210,2019,1079
+210,2019,1869
+210,2020,1323
 211,1961,4700
 211,1962,5800
 211,1963,6800
@@ -3922,6 +4031,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 211,2017,5261
 211,2018,5386
 211,2019,5342
+211,2020,4666
 212,1966,1600
 212,1967,600
 212,1968,1100
@@ -3976,6 +4086,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 212,2017,241
 212,2018,188
 212,2019,94
+212,2020,94
 213,1998,122
 213,1999,122
 213,2000,122
@@ -3998,6 +4109,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 213,2017,0
 213,2018,14
 213,2019,63
+213,2020,63
 214,1961,3200
 214,1962,3800
 214,1963,3700
@@ -4053,6 +4165,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 214,2017,40780
 214,2018,39687
 214,2019,28165
+214,2020,28165
 215,1970,3400
 215,1971,2300
 215,1972,3700
@@ -4097,6 +4210,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 215,2017,800
 215,2018,848
 215,2019,864
+215,2020,864
 216,1961,9400
 216,1962,9900
 216,1963,20100
@@ -4156,6 +4270,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 216,2017,21000
 216,2018,6878
 216,2019,6405
+216,2020,6405
 217,1969,200
 217,1970,100
 217,1971,200
@@ -4205,6 +4320,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 217,2017,15
 217,2018,10
 217,2019,11
+217,2020,11
 219,1998,60
 219,1999,60
 219,2000,99
@@ -4227,6 +4343,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 219,2017,34
 219,2018,12
 219,2019,64
+219,2020,64
 22,1998,192
 22,1999,192
 22,2000,192
@@ -4249,6 +4366,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 22,2017,3
 22,2018,3
 22,2019,32
+22,2020,32
 220,1961,4400
 220,1962,4000
 220,1963,5100
@@ -4307,6 +4425,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 220,2017,277
 220,2018,223
 220,2019,337
+220,2020,337
 221,1981,1000
 221,1982,700
 221,1983,1600
@@ -4346,6 +4465,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 221,2017,458
 221,2018,453
 221,2019,10
+221,2020,10
 222,2000,7800
 222,2001,8900
 222,2002,7800
@@ -4366,6 +4486,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 222,2017,3610
 222,2018,1647
 222,2019,3105
+222,2020,3105
 223,1961,300
 223,1962,400
 223,1963,600
@@ -4417,6 +4538,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 223,2017,53000
 223,2018,54386
 223,2019,46000
+223,2020,49000
 224,2011,53
 224,2012,23
 224,2013,23
@@ -4426,6 +4548,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 224,2017,23
 224,2018,23
 224,2019,5
+224,2020,5
 225,1992,44261
 225,1993,69500
 225,1994,70500
@@ -4454,6 +4577,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 225,2017,15558
 225,2018,20198
 225,2019,6115
+225,2020,6115
 226,1961,100
 226,1962,100
 226,1963,100
@@ -4513,6 +4637,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 226,2017,320
 226,2018,391
 226,2019,116
+226,2020,116
 228,1981,347700
 228,1982,364400
 228,1983,268300
@@ -4572,7 +4697,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 229,2016,152509
 229,2017,136395
 229,2018,138000
-229,2019,129000
+229,2019,121127
+229,2020,25654
 23,1969,100
 23,1970,400
 23,1971,500
@@ -4620,6 +4746,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 23,2017,86
 23,2018,75
 23,2019,76
+23,2020,76
 230,1996,14800
 230,1997,11400
 230,1998,11400
@@ -4643,7 +4770,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 230,2016,65160
 230,2017,35000
 230,2018,29000
-230,2019,22200
+230,2019,22804
+230,2020,22475
 231,1967,28500
 231,1968,17500
 231,1969,20600
@@ -4695,8 +4823,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 231,2015,58238
 231,2016,54380
 231,2017,52403
-231,2018,439229
-231,2019,355267
+231,2018,50000
+231,2019,40000
+231,2020,42068
 233,1996,4700
 233,1997,5500
 233,1998,7400
@@ -4721,6 +4850,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 233,2017,11
 233,2018,6
 233,2019,10
+233,2020,10
 234,1961,1000
 234,1962,1200
 234,1963,800
@@ -4780,6 +4910,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 234,2017,480
 234,2018,474
 234,2019,406
+234,2020,406
 235,1998,5898
 235,1999,5898
 235,2000,553
@@ -4802,6 +4933,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 235,2017,1171
 235,2018,1122
 235,2019,1122
+235,2020,1122
 236,1967,14900
 236,1968,18400
 236,1969,18400
@@ -4855,6 +4987,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 236,2017,1023
 236,2018,541
 236,2019,202
+236,2020,202
 237,1994,27900
 237,1995,47500
 237,1996,37300
@@ -4881,6 +5014,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 237,2017,22771
 237,2018,28694
 237,2019,14513
+237,2020,14513
 238,2000,630
 238,2001,1272
 238,2002,428
@@ -4901,6 +5035,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 238,2017,773
 238,2018,255
 238,2019,729
+238,2020,729
 239,2011,1
 239,2012,1
 239,2013,1
@@ -4910,6 +5045,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 239,2017,1
 239,2018,1
 239,2019,4
+239,2020,4
 244,1968,100
 244,1969,100
 244,1970,300
@@ -4954,6 +5090,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 244,2017,214
 244,2018,326
 244,2019,11
+244,2020,11
 248,1968,18300
 248,1969,23900
 248,1970,59600
@@ -5037,6 +5174,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 249,2017,686
 249,2018,686
 249,2019,1901
+249,2020,1901
 25,1998,100
 25,1999,100
 25,2000,100
@@ -5059,6 +5197,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 25,2017,62
 25,2018,21
 25,2019,5
+25,2020,5
 250,1966,700
 250,1967,500
 250,1968,300
@@ -5103,6 +5242,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 250,2017,212
 250,2018,235
 250,2019,20
+250,2020,20
 251,1970,4700
 251,1971,5400
 251,1972,3400
@@ -5153,6 +5293,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 251,2017,248
 251,2018,285
 251,2019,377
+251,2020,377
 255,2000,160000
 255,2001,165590
 255,2002,234234
@@ -5173,6 +5314,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 255,2017,29219
 255,2018,12771
 255,2019,22554
+255,2020,22554
 256,2000,24856
 256,2001,17560
 256,2002,6437
@@ -5191,8 +5333,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 256,2015,1390
 256,2016,1741
 256,2017,1057
-256,2018,1202
-256,2019,1202
+256,2018,1232
+256,2019,1557
+256,2020,1635
 26,1962,100
 26,1964,150
 26,1965,200
@@ -5250,6 +5393,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 26,2017,112
 26,2018,22
 26,2019,2
+26,2020,2
 27,1961,11500
 27,1962,13000
 27,1963,15400
@@ -5307,8 +5451,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 27,2015,6450
 27,2016,8141
 27,2017,1981
-27,2018,2494
-27,2019,2263
+27,2018,2495
+27,2019,2264
+27,2020,1543
 272,2006,52000
 272,2007,44000
 272,2008,11000
@@ -5323,6 +5468,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 272,2017,4600
 272,2018,4000
 272,2019,5000
+272,2020,5000
 273,2006,640
 273,2007,640
 273,2008,640
@@ -5337,6 +5483,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 273,2017,70
 273,2018,70
 273,2019,70
+273,2020,70
 276,2012,1112
 276,2013,6400
 276,2014,5000
@@ -5345,6 +5492,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 276,2017,1868
 276,2018,1868
 276,2019,798
+276,2020,798
 277,2012,0
 277,2013,1
 277,2014,1
@@ -5353,6 +5501,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 277,2017,1
 277,2018,1
 277,2019,1
+277,2020,1
 279,2011,46
 279,2012,46
 279,2013,46
@@ -5362,6 +5511,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 279,2017,46
 279,2018,46
 279,2019,4
+279,2020,4
 28,2000,1600
 28,2001,2000
 28,2002,1100
@@ -5382,6 +5532,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 28,2017,1082
 28,2018,1472
 28,2019,10811
+28,2020,10811
 281,2011,21
 281,2012,21
 281,2013,21
@@ -5391,6 +5542,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 281,2017,21
 281,2018,21
 281,2019,21
+281,2020,21
 29,1993,244
 29,1994,1200
 29,1995,3700
@@ -5418,12 +5570,14 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 29,2017,157
 29,2018,55
 29,2019,16
+29,2020,16
 299,2014,143
 299,2015,135
 299,2016,78
 299,2017,140
 299,2018,91
 299,2019,201
+299,2020,201
 3,1961,6100
 3,1962,7000
 3,1963,7000
@@ -5483,6 +5637,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 3,2017,23
 3,2018,13
 3,2019,13
+3,2020,13
 32,2001,1100
 32,2002,1800
 32,2003,1800
@@ -5502,6 +5657,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 32,2017,327
 32,2018,492
 32,2019,92
+32,2020,92
 33,1968,73100
 33,1969,51600
 33,1970,47500
@@ -5553,7 +5709,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 33,2016,79317
 33,2017,73336
 33,2018,27996
-33,2019,19468
+33,2019,19408
+33,2020,17417
 35,1970,100
 35,1971,100
 35,1972,100
@@ -5604,6 +5761,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 35,2017,33
 35,2018,30
 35,2019,28
+35,2020,28
 351,1961,50300
 351,1962,59200
 351,1963,60200
@@ -5663,6 +5821,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 351,2017,196790
 351,2018,235215
 351,2019,161356
+351,2020,161356
 36,2009,1
 36,2010,12
 36,2011,4
@@ -5674,6 +5833,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 36,2017,6
 36,2018,6
 36,2019,12
+36,2020,12
 37,1998,140
 37,1999,100
 37,2000,100
@@ -5696,6 +5856,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 37,2017,8
 37,2018,4
 37,2019,10
+37,2020,10
 38,1969,1300
 38,1970,8600
 38,1971,2300
@@ -5747,6 +5908,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 38,2017,2173
 38,2018,820
 38,2019,514
+38,2020,514
 39,1998,265
 39,1999,265
 39,2000,265
@@ -5769,6 +5931,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 39,2017,5
 39,2018,4
 39,2019,0
+39,2020,0
 4,1968,1300
 4,1969,2000
 4,1970,1600
@@ -5821,6 +5984,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 4,2017,3933
 4,2018,1753
 4,2019,1513
+4,2020,1513
 40,1961,1000
 40,1962,1000
 40,1963,2800
@@ -5851,6 +6015,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 40,2017,2836
 40,2018,3043
 40,2019,8990
+40,2020,8990
 41,1987,1101000
 41,1988,651000
 41,1989,673400
@@ -5884,8 +6049,11 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 41,2017,151045
 41,2018,190904
 41,2019,128440
+41,2020,128440
 42,2019,0
+42,2020,0
 43,2019,0
+43,2020,0
 44,1980,14800
 44,1981,23600
 44,1982,21900
@@ -5926,7 +6094,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 44,2017,13904
 44,2018,16006
 44,2019,11476
+44,2020,11476
 45,2019,52
+45,2020,52
 46,2002,300
 46,2003,240
 46,2004,185
@@ -5945,7 +6115,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 46,2017,141
 46,2018,23
 46,2019,164
+46,2020,164
 47,2019,7
+47,2020,7
 48,1961,200
 48,1962,500
 48,1963,1000
@@ -6004,6 +6176,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 48,2017,239
 48,2018,211
 48,2019,184
+48,2020,184
 49,1980,20300
 49,1981,16100
 49,1982,50300
@@ -6044,6 +6217,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 49,2017,805
 49,2018,583
 49,2019,528
+49,2020,528
 50,1966,2000
 50,1967,2000
 50,1968,2600
@@ -6098,6 +6272,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 50,2017,169
 50,2018,665
 50,2019,204
+50,2020,170
 5000,1961,380900
 5000,1962,421060
 5000,1963,485432
@@ -6155,8 +6330,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5000,2015,1776340
 5000,2016,2195181
 5000,2017,1918674
-5000,2018,2080480
-5000,2019,1806137
+5000,2018,1818137
+5000,2019,1614328
+5000,2020,1547575
 51,1961,5000
 51,1962,7100
 51,1963,6200
@@ -6246,6 +6422,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5100,2017,74324
 5100,2018,51565
 5100,2019,48803
+5100,2020,48803
 5101,1961,16300
 5101,1962,19100
 5101,1963,19400
@@ -6305,6 +6482,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5101,2017,7876
 5101,2018,7191
 5101,2019,4999
+5101,2020,4999
 5102,1961,1400
 5102,1962,2100
 5102,1963,1600
@@ -6364,6 +6542,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5102,2017,1041
 5102,2018,1711
 5102,2019,535
+5102,2020,535
 5103,1961,21500
 5103,1962,20800
 5103,1963,27300
@@ -6423,6 +6602,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5103,2017,45661
 5103,2018,20744
 5103,2019,25812
+5103,2020,25812
 5104,1969,52300
 5104,1970,43500
 5104,1971,47100
@@ -6474,6 +6654,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5104,2017,14535
 5104,2018,12314
 5104,2019,12081
+5104,2020,12081
 5105,1961,1400
 5105,1962,1900
 5105,1963,4100
@@ -6533,6 +6714,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5105,2017,5211
 5105,2018,9605
 5105,2019,5376
+5105,2020,5376
 52,1999,1000
 52,2000,2419
 52,2001,1900
@@ -6554,6 +6736,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 52,2017,51
 52,2018,100
 52,2019,900
+52,2020,900
 5200,1961,16800
 5200,1962,33600
 5200,1963,27100
@@ -6611,8 +6794,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5200,2015,212913
 5200,2016,255024
 5200,2017,248095
-5200,2018,600275
-5200,2019,485435
+5200,2018,211046
+5200,2019,170108
+5200,2020,170185
 5203,1967,28500
 5203,1968,90600
 5203,1969,72200
@@ -6664,8 +6848,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5203,2015,129929
 5203,2016,133710
 5203,2017,125756
-5203,2018,467242
-5203,2019,374746
+5203,2018,78013
+5203,2019,59419
+5203,2020,59496
 5204,1961,6100
 5204,1962,8800
 5204,1963,14200
@@ -6725,6 +6910,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5204,2017,60965
 5204,2018,66268
 5204,2019,19935
+5204,2020,19935
 5206,1961,6300
 5206,1962,5700
 5206,1963,6800
@@ -6784,6 +6970,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5206,2017,12750
 5206,2018,13437
 5206,2019,10380
+5206,2020,10380
 5207,1961,4400
 5207,1962,19100
 5207,1963,6100
@@ -6843,6 +7030,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5207,2017,48624
 5207,2018,53328
 5207,2019,80374
+5207,2020,80374
 53,1975,1300
 53,1976,1300
 53,1977,500
@@ -6888,6 +7076,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 53,2017,3
 53,2018,107
 53,2019,37
+53,2020,37
 5300,1961,137300
 5300,1962,152660
 5300,1963,180510
@@ -6946,7 +7135,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5300,2016,758381
 5300,2017,630351
 5300,2018,631719
-5300,2019,502352
+5300,2019,502754
+5300,2020,505452
 5301,1998,6142
 5301,1999,16642
 5301,2000,6284
@@ -6968,7 +7158,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5301,2016,3654
 5301,2017,4377
 5301,2018,4133
-5301,2019,3732
+5301,2019,3723
+5301,2020,4880
 5302,1961,51100
 5302,1962,60160
 5302,1963,62510
@@ -7027,7 +7218,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5302,2016,230490
 5302,2017,292614
 5302,2018,317268
-5302,2019,229647
+5302,2019,229644
+5302,2020,229644
 5303,1961,6500
 5303,1962,5500
 5303,1963,5300
@@ -7087,6 +7279,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5303,2017,62528
 5303,2018,74635
 5303,2019,72072
+5303,2020,72072
 5304,1961,46800
 5304,1962,50000
 5304,1963,73300
@@ -7146,6 +7339,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5304,2017,150731
 5304,2018,124527
 5304,2019,125453
+5304,2020,125453
 5305,1961,32900
 5305,1962,37000
 5305,1963,39400
@@ -7204,7 +7398,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5305,2016,131947
 5305,2017,120101
 5305,2018,111156
-5305,2019,71448
+5305,2019,71862
+5305,2020,73403
 54,1961,44100
 54,1962,38400
 54,1963,38100
@@ -7264,6 +7459,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 54,2017,5705
 54,2018,3440
 54,2019,3666
+54,2020,3666
 5400,1961,159700
 5400,1962,170900
 5400,1963,204122
@@ -7321,8 +7517,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5400,2015,876189
 5400,2016,996602
 5400,2017,948850
-5400,2018,765805
-5400,2019,730247
+5400,2018,892691
+5400,2019,853363
+5400,2020,783835
 5401,1961,16500
 5401,1962,20100
 5401,1963,21600
@@ -7380,8 +7577,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5401,2015,249519
 5401,2016,254799
 5401,2017,197923
-5401,2018,190896
-5401,2019,179917
+5401,2018,190897
+5401,2019,182731
+5401,2020,181603
 5402,1961,66400
 5402,1962,60800
 5402,1963,65500
@@ -7440,7 +7638,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5402,2016,214982
 5402,2017,195765
 5402,2018,193236
-5402,2019,184402
+5402,2019,177180
+5402,2020,79928
 5403,1961,35500
 5403,1962,37800
 5403,1963,47922
@@ -7499,7 +7698,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5403,2016,239338
 5403,2017,238692
 5403,2018,186835
-5403,2019,184101
+5403,2019,180246
+5403,2020,242749
 5404,1961,41300
 5404,1962,52200
 5404,1963,69100
@@ -7557,8 +7757,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5404,2015,279489
 5404,2016,287483
 5404,2017,316470
-5404,2018,194838
-5404,2019,181827
+5404,2018,321723
+5404,2019,313206
+5404,2020,279555
 55,1994,1100
 55,1995,1600
 55,1996,3600
@@ -7585,6 +7786,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 55,2017,67
 55,2018,67
 55,2019,67
+55,2020,67
 5500,1961,26500
 5500,1962,20000
 5500,1963,21300
@@ -7644,6 +7846,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5500,2017,17054
 5500,2018,31116
 5500,2019,39300
+5500,2020,39300
 5501,1961,26000
 5501,1962,19500
 5501,1963,19700
@@ -7703,6 +7906,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5501,2017,12362
 5501,2018,27231
 5501,2019,34579
+5501,2020,34579
 5502,1961,500
 5502,1962,500
 5502,1963,1600
@@ -7762,6 +7966,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5502,2017,4404
 5502,2018,3493
 5502,2019,4588
+5502,2020,4588
 5503,2011,59
 5503,2012,5
 5503,2013,34
@@ -7771,6 +7976,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5503,2017,5
 5503,2018,5
 5503,2019,12
+5503,2020,12
 5504,1968,100
 5504,1969,100
 5504,1970,300
@@ -7815,6 +8021,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5504,2017,283
 5504,2018,387
 5504,2019,121
+5504,2020,121
 56,1977,1800
 56,1978,1800
 56,1979,2600
@@ -7858,7 +8065,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 56,2017,3319
 56,2018,3918
 56,2019,916
-5600,2019,0
+56,2020,916
 57,1999,16600
 57,2000,49700
 57,2001,31200
@@ -7879,66 +8086,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 57,2016,10500
 57,2017,8900
 57,2018,11844
-57,2019,11676
-5707,1961,138900
-5707,1962,146000
-5707,1963,177822
-5707,1964,205700
-5707,1965,226400
-5707,1966,304100
-5707,1967,346000
-5707,1968,772000
-5707,1969,1183500
-5707,1970,1297900
-5707,1971,1261800
-5707,1972,1305700
-5707,1973,1498600
-5707,1974,1484000
-5707,1975,1246900
-5707,1976,1643100
-5707,1977,1412900
-5707,1978,1900800
-5707,1979,2227700
-5707,1980,2174900
-5707,1981,2089000
-5707,1982,2252000
-5707,1983,2562100
-5707,1984,2690800
-5707,1985,2665300
-5707,1986,3021600
-5707,1987,3361200
-5707,1988,4346900
-5707,1989,4460400
-5707,1990,3623300
-5707,1991,2537500
-5707,1992,1557393
-5707,1993,1294949
-5707,1994,1284829
-5707,1995,1079359
-5707,1996,1144300
-5707,1997,1420600
-5707,1998,1551810
-5707,1999,1523907
-5707,2000,1559949
-5707,2001,1885123
-5707,2002,1541062
-5707,2003,1208266
-5707,2004,875914
-5707,2005,677609
-5707,2006,820051
-5707,2007,694033
-5707,2008,846959
-5707,2009,546971
-5707,2010,461174
-5707,2011,601140
-5707,2012,597299
-5707,2013,623308
-5707,2014,579894
-5707,2015,598419
-5707,2016,702395
-5707,2017,711806
-5707,2018,533336
-5707,2019,511849
+57,2019,11700
+57,2020,12900
 58,1961,100
 58,1962,100
 58,1963,200
@@ -7992,6 +8141,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 58,2017,1788
 58,2018,4012
 58,2019,30941
+58,2020,30941
 5801,1961,4000
 5801,1962,5300
 5801,1963,4100
@@ -8051,6 +8201,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5801,2017,43472
 5801,2018,49172
 5801,2019,65061
+5801,2020,65061
 5802,1961,12300
 5802,1962,14600
 5802,1963,13500
@@ -8109,7 +8260,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5802,2016,21916
 5802,2017,20140
 5802,2018,23088
-5802,2019,18886
+5802,2019,19493
+5802,2020,19257
 5803,1961,6800
 5803,1962,6200
 5803,1963,8400
@@ -8169,6 +8321,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5803,2017,29567
 5803,2018,30646
 5803,2019,28351
+5803,2020,28351
 5815,1961,23400
 5815,1962,25700
 5815,1963,25500
@@ -8227,7 +8380,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5815,2016,225157
 5815,2017,91015
 5815,2018,106186
-5815,2019,91131
+5815,2019,91121
+5815,2020,91881
 5817,1961,38800
 5817,1962,43800
 5817,1963,56300
@@ -8287,6 +8441,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 5817,2017,129844
 5817,2018,117269
 5817,2019,108934
+5817,2020,108934
 59,1961,600
 59,1962,1000
 59,1963,600
@@ -8346,7 +8501,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 59,2017,8334
 59,2018,7749
 59,2019,12786
+59,2020,12786
 6,2019,257
+6,2020,257
 60,1961,4800
 60,1962,6900
 60,1963,12500
@@ -8399,6 +8556,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 60,2017,117
 60,2018,174
 60,2019,156
+60,2020,156
 61,2004,48
 61,2005,48
 61,2006,48
@@ -8415,6 +8573,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 61,2017,1
 61,2018,2
 61,2019,8
+61,2020,8
 62,1970,3800
 62,1973,700
 62,1974,600
@@ -8457,8 +8616,11 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 63,2017,154
 63,2018,137
 63,2019,195
+63,2020,211
 64,2019,17
+64,2020,17
 65,2019,0
+65,2020,0
 66,1961,100
 66,1962,100
 66,1963,100
@@ -8513,6 +8675,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 66,2017,35
 66,2018,17
 66,2019,1597
+66,2020,1597
 67,1961,2800
 67,1962,2500
 67,1963,3500
@@ -8572,6 +8735,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 67,2017,1173
 67,2018,1010
 67,2019,1332
+67,2020,1665
 68,1961,16100
 68,1962,24500
 68,1963,34600
@@ -8631,6 +8795,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 68,2017,39196
 68,2018,39343
 68,2019,40709
+68,2020,31032
 7,1961,1400
 7,1962,2100
 7,1963,1600
@@ -8676,6 +8841,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 7,2017,297
 7,2018,903
 7,2019,233
+7,2020,233
 70,1998,837
 70,1999,574
 70,2000,287
@@ -8698,7 +8864,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 70,2017,35
 70,2018,49
 70,2019,39
+70,2020,39
 71,2019,0
+71,2020,0
 72,1998,537
 72,1999,84
 72,2000,94
@@ -8721,6 +8889,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 72,2017,317
 72,2018,503
 72,2019,36
+72,2020,36
 73,1998,2040
 73,1999,2040
 73,2000,2040
@@ -8743,6 +8912,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 73,2017,515
 73,2018,680
 73,2019,1287
+73,2020,984
 74,2001,3000
 74,2002,1400
 74,2003,407
@@ -8762,6 +8932,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 74,2017,34
 74,2018,32
 74,2019,7
+74,2020,7
 75,1998,30
 75,1999,380
 75,2000,822
@@ -8784,6 +8955,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 75,2017,19
 75,2018,53
 75,2019,92
+75,2020,92
 79,1968,215000
 79,1969,422200
 79,1970,473200
@@ -8834,8 +9006,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 79,2015,189000
 79,2016,189000
 79,2017,200774
-79,2018,89162
-79,2019,82986
+79,2018,216017
+79,2019,214000
+79,2020,187820
 8,2009,45
 8,2010,19
 8,2011,24
@@ -8847,6 +9020,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 8,2017,4
 8,2018,4
 8,2019,12
+8,2020,12
 80,2004,2658
 80,2005,2461
 80,2006,2461
@@ -8863,6 +9037,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 80,2017,2020
 80,2018,1780
 80,2019,2110
+80,2020,2230
 81,1968,5000
 81,1969,5900
 81,1970,9000
@@ -8915,7 +9090,9 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 81,2017,684
 81,2018,727
 81,2019,1349
+81,2020,1349
 82,2019,9
+82,2020,9
 84,1976,14500
 84,1977,7800
 84,1978,8000
@@ -8959,7 +9136,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 84,2016,6690
 84,2017,4943
 84,2018,5233
-84,2019,5233
+84,2019,1408
+84,2020,8720
 85,2000,229
 85,2001,236
 85,2002,145
@@ -8980,6 +9158,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 85,2017,17
 85,2018,17
 85,2019,5
+85,2020,5
 86,2013,2
 86,2014,3
 86,2015,3
@@ -8987,6 +9166,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 86,2017,3
 86,2018,3
 86,2019,1
+86,2020,1
 87,1961,1900
 87,1962,1700
 87,1963,1700
@@ -9039,6 +9219,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 87,2017,5961
 87,2018,5961
 87,2019,5961
+87,2020,5961
 89,1961,1100
 89,1962,1400
 89,1963,700
@@ -9097,6 +9278,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 89,2017,46
 89,2018,73
 89,2019,114
+89,2020,114
 9,1962,14600
 9,1966,16800
 9,1967,16900
@@ -9152,6 +9334,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 9,2017,5200
 9,2018,4540
 9,2019,4592
+9,2020,4592
 90,1998,1200
 90,1999,1500
 90,2000,1500
@@ -9174,6 +9357,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 90,2017,3
 90,2018,5
 90,2019,2
+90,2020,2
 91,1971,1400
 91,1972,2900
 91,1973,1100
@@ -9223,6 +9407,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 91,2017,29
 91,2018,38
 91,2019,1
+91,2020,1
 93,1998,400
 93,1999,500
 93,2000,400
@@ -9245,6 +9430,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 93,2017,26
 93,2018,24
 93,2019,14
+93,2020,14
 95,1968,60300
 95,1969,46300
 95,1970,45100
@@ -9289,6 +9475,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 95,2017,23342
 95,2018,26957
 95,2019,336
+95,2020,336
 96,1961,47100
 96,1962,55400
 96,1963,56500
@@ -9348,6 +9535,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 96,2017,4696
 96,2018,4355
 96,2019,4734
+96,2020,4734
 97,1970,1700
 97,1971,1900
 97,1972,60200
@@ -9397,7 +9585,8 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 97,2016,3216
 97,2017,3621
 97,2018,3445
-97,2019,3445
+97,2019,3935
+97,2020,3935
 98,1992,8937
 98,1993,41431
 98,1994,36000
@@ -9426,6 +9615,7 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 98,2017,2239
 98,2018,2239
 98,2019,2239
+98,2020,2239
 99,1998,334
 99,1999,537
 99,2000,1170
@@ -9448,3 +9638,4 @@ geo,year,other_paper_and_paperboard_n_e_s_not_elsewhere_specified_import_quantit
 99,2017,207
 99,2018,50
 99,2019,60
+99,2020,60
