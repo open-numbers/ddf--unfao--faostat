@@ -142,17 +142,17 @@ def process_file(zf, f, domains, flag_cat, geos):
     df = pd.read_csv(data_csv, encoding='latin1', dtype=DEFAULT_DTYPES)
 
     if 'Element' in df.columns:
-        group = df.groupby(['Item', 'Element'])
+        groups = df.groupby(['Item', 'Element'])
     else:
-        group = df.groupby('Item')
+        groups = df.groupby('Item')
 
-    for g, idx in group.groups.items():
+    for g, df_g in groups:
         if 'Area Code' in df.columns:
-            df_ = df.loc[idx][['Area Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            df_ = df_g[['Area Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
         elif 'Country Code' in df.columns:
-            df_ = df.loc[idx][['Country Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            df_ = df_g[['Country Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
         elif 'CountryCode' in df.columns:
-            df_ = df.loc[idx][['CountryCode', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            df_ = df_g[['CountryCode', 'Year', 'Value', 'Unit', 'Flag']].copy()
         else:
             raise KeyError(df.columns)
 
@@ -262,7 +262,7 @@ def process_concepts(concs):
     cdf[cdf.duplicated(subset='concept', keep=False)].sort_values('concept')
     cdf = cdf.drop_duplicates(subset='concept')
 
-    cdf.to_csv(osp.join(out_dir, 'ddf--concepts--continuous.csv'), index=False)
+    cdf.sort_values(by='concept').to_csv(osp.join(out_dir, 'ddf--concepts--continuous.csv'), index=False)
 
     cdf2 = pd.DataFrame([
         ['name', 'string', 'Name', ''],
