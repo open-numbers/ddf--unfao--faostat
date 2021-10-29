@@ -1,17 +1,50 @@
 #-*- coding: utf-8 -*-
 
+import os
+import os.path as osp
 import zipfile
 from io import BytesIO
+from tempfile import mkdtemp, mktemp
 
 import numpy as np
 import pandas as pd
 import requests as r
 from pandas.api.types import CategoricalDtype
 
-from ddf_utils.str import to_concept_id
+from ddf_utils.str import to_concept_id, format_float_digits
 
 source_file = '../source/FAOSTAT.zip'
 out_dir = '../../'
+
+# default dtypes for read_csv, we use categories to reduce memory usage.
+DEFAULT_DTYPES = {
+    'Area Code': 'category',
+    'Country Code': 'category',
+    'CountryCode': 'category',
+    'Area': 'category',
+    'Item Code': 'category',
+    'Item': 'category',
+    'Element Code': 'category',
+    'Element': 'category',
+    'Year': 'int',
+    'Year Code': 'category',
+    'Unit': 'category'}
+
+URL_GROUP = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/areagroup'
+URL_AREA = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/area'
+URL_FLAG = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/flag'
+
+
+def guess_data_filename(zf: zipfile.ZipFile):
+    # Note 2019-12-02: now the zip file contains 2 file, one data csv and the other flags csv.
+    # we only need the data csv.
+    fns = [f.filename for f in zf.filelist if
+	   ('Flags' not in f.filename) and
+           ('Symboles' not in f.filename) and
+           ('ItemCode' not in f.filename)]
+    assert len(fns) == 1, f"there should be only one file. but {fns} found."
+    return fns[0]
+
 
 def scan_skip_files(zf):
     """reads a zipfile object and then reads all zipfiles inside,
@@ -25,21 +58,22 @@ def scan_skip_files(zf):
         # so we skip them.
         if ('Security' in fn or 'Survey' in fn or 'Monthly' in fn or 'Archive' in fn):
             skips.append(fn)
-            #print("skipping file: ", fn)
             continue
         if fn in ['Producción_Cultivos_S_Todos_los_Datos.zip',  # not in English
                   'Employment_Indicators_E_All_Data_(Normalized).zip',   # different layout
                   'Food_Aid_Shipments_WFP_E_All_Data_(Normalized).zip',  # different layout
+                  'Trade_DetailedTradeMatrix_E_All_Data_(Normalized).zip',  # different layout
                   'Environment_Temperature_change_E_All_Data_(Normalized).zip']:  # monthly
             skips.append(fn)
-            #print("skipping file: ", fn)
             continue
         b = BytesIO(zf.read(fn))
+        zf_data_csv = zipfile.ZipFile(b)
+        fn_data_csv = guess_data_filename(zf_data_csv)
+        b_data_csv = BytesIO(zf_data_csv.read(fn_data_csv))
         try:
-            a = next(pd.read_csv(b, encoding='latin1', compression='zip', chunksize=1))
+            next(pd.read_csv(b_data_csv, encoding='latin1', chunksize=1))
         except NotImplementedError:
             skips.append(fn)
-            #print("skipping file: ", fn)
     return skips
 
 
@@ -49,7 +83,7 @@ def ordered_flag_category():
     so we manually pick some important ones and make a ordered
     category, for later usage
     """
-    all_flags = r.get('http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/flag').json()
+    all_flags = r.get(URL_FLAG).json()
     all_flags_names = [x['Flag'] for x in all_flags['data']]
     # when flag is empty(nan), it's official data (best quality)
     important_flags = [np.nan, 'E', 'F', 'Ff', 'A', 'S']
@@ -91,32 +125,34 @@ def get_domains(zf):
     return domains
 
 
-def process_file(zf, f, domains):
+def process_file(zf, f, domains, flag_cat, geos):
     """process a file in zf, create datapoints files and return all concepts"""
     concs = []
-    flag_cat = ordered_flag_category()
-    b = BytesIO(zf.read(f))
-    df = pd.read_csv(b, encoding='latin1', compression='zip')
-
-    try:
-        df['Year'].astype('int')
-    except ValueError:
-        raise ValueError('Can not convert year to int')
-
-    #print(df.columns)
+    # file_contents = zf.read(f)
+    tmpfile = mktemp()
+    with open(tmpfile, 'wb') as tf:
+        with zf.open(f) as z:
+            # print(tmpfile)
+            tf.write(z.read())
+            tf.flush()
+    # load the actual csv from the zipped file.
+    zf2 = zipfile.ZipFile(tmpfile)
+    fn_data_csv = guess_data_filename(zf2)
+    data_csv = BytesIO(zf2.read(fn_data_csv))
+    df = pd.read_csv(data_csv, encoding='latin1', dtype=DEFAULT_DTYPES)
 
     if 'Element' in df.columns:
-        group = df.groupby(['Item', 'Element'])
+        groups = df.groupby(['Item', 'Element'])
     else:
-        group = df.groupby('Item')
+        groups = df.groupby('Item')
 
-    for g, idx in group.groups.items():
+    for g, df_g in groups:
         if 'Area Code' in df.columns:
-            df_ = df.loc[idx][['Area Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            df_ = df_g[['Area Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
         elif 'Country Code' in df.columns:
-            df_ = df.loc[idx][['Country Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            df_ = df_g[['Country Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
         elif 'CountryCode' in df.columns:
-            df_ = df.loc[idx][['CountryCode', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            df_ = df_g[['CountryCode', 'Year', 'Value', 'Unit', 'Flag']].copy()
         else:
             raise KeyError(df.columns)
 
@@ -124,15 +160,14 @@ def process_file(zf, f, domains):
             indicator = g
         else:
             indicator = ' - '.join(g)
-        concept_id = to_concept_id(indicator+' '+domains[f])
+        concept_id = to_concept_id(indicator + ' ' + domains[f])
 
         df_.columns = ['geo', 'year', concept_id, 'unit', 'flag']
 
         df_ = df_.dropna(subset=[concept_id])
 
         # don't include geos not in geo domain
-        # FIXME: automate this
-        df_ = df_[~df_['geo'].isin([57060, 261, 266, 268, 269, 3698])]
+        df_ = df_[df_['geo'].isin(geos)]
 
         if df_.empty:  # no content
             continue
@@ -141,7 +176,6 @@ def process_file(zf, f, domains):
             continue  # don't proceed these indicators
 
         unit = df_['unit'].unique()[0]
-        #print(indicator)
         concs.append({
             'name': indicator,
             'concept': concept_id,
@@ -155,24 +189,30 @@ def process_file(zf, f, domains):
         if df_[df_.duplicated(subset=['geo', 'year'])].shape[0] > 0:
             print('duplicated found in {}'.format(concept_id))
 
-        (df_[['geo', 'year', concept_id]]
-         .to_csv('../../ddf--datapoints--{}--by--geo--year.csv'.format(concept_id),
+        df_ = df_[['geo', 'year', concept_id]]
+        df_[concept_id] = df_[concept_id].map(format_float_digits)
+        df_['geo'] = df_['geo'].astype(str)
+        (df_
+         .sort_values(by=['geo', 'year'])
+         .to_csv(osp.join(out_dir,
+                          'datapoints/ddf--datapoints--{}--by--geo--year.csv'.format(concept_id)),
                  index=False))
 
     return concs
 
 
-def process_files(zf):
+def process_files(zf, geos):
     concs = []
     domains = get_domains(zf)
     skip_files = scan_skip_files(zf)
+    flag_cat = ordered_flag_category()
     for f in zf.filelist:
         if f.filename in skip_files:
             print('skipping file: ', f.filename)
             continue
         print(f.filename)
         try:
-            concs_ = process_file(zf, f.filename, domains)
+            concs_ = process_file(zf, f.filename, domains, flag_cat, geos)
         except (KeyError, ValueError) as e:
             print('failed', end=',')
             print(e)
@@ -182,26 +222,23 @@ def process_files(zf):
 
 
 def process_area_and_groups():
-    url_group = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/areagroup'
-    url_area = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/area'
 
-    areagroup = r.get(url_group).json()
-    area = r.get(url_area).json()
+    areagroup = r.get(URL_GROUP).json()
+    area = r.get(URL_AREA).json()
 
     areaDf = pd.DataFrame.from_records(area['data'])
     areagroupDf = pd.DataFrame.from_records(areagroup['data'])
 
     area_to_group = (areagroupDf.groupby('Country Code')['Country Group Code']
-                    .agg(lambda xs: ','.join(set(xs.values.tolist())))
-                    .reset_index())
+                     .agg(lambda xs: ','.join(sorted(list(set(xs.values.tolist())))))
+                     .reset_index())
 
     areaDf['is--country'] = 'FALSE'
     areaDf['is--country_group'] = 'FALSE'
     areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Code'].values), 'is--country'] = 'TRUE'
     areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Group Code'].values), 'is--country_group'] = 'TRUE'
 
-    entity_cols = areaDf.columns
-    areaDf.columns = ['name', 'geo', 'end_year',
+    areaDf.columns = ['geo', 'name', 'end_year',
                       'iso2_code', 'iso3_code', 'm49_code',
                       'start_year', 'is--country', 'is--country_group']
     areaDf = areaDf[['geo', 'name', 'start_year', 'end_year',
@@ -214,7 +251,9 @@ def process_area_and_groups():
 
     # TODO: not sure why there are duplicates.
     areaDf = areaDf.reset_index().drop_duplicates(subset=['geo'])
-    areaDf.to_csv('../../ddf--entities--geo.csv', index=False)
+    areaDf.to_csv(osp.join(out_dir, 'ddf--entities--geo.csv'), index=False)
+
+    return areaDf
 
 
 def process_concepts(concs):
@@ -223,7 +262,7 @@ def process_concepts(concs):
     cdf[cdf.duplicated(subset='concept', keep=False)].sort_values('concept')
     cdf = cdf.drop_duplicates(subset='concept')
 
-    cdf.to_csv('../../ddf--concepts--continuous.csv', index=False)
+    cdf.sort_values(by='concept').to_csv(osp.join(out_dir, 'ddf--concepts--continuous.csv'), index=False)
 
     cdf2 = pd.DataFrame([
         ['name', 'string', 'Name', ''],
@@ -241,18 +280,18 @@ def process_concepts(concs):
         ['unit', 'string', 'Unit', '']])
     cdf2.columns = ['concept', 'concept_type', 'name', 'domain']
 
-    cdf2.to_csv('../../ddf--concepts--discrete.csv', index=False)
+    cdf2.to_csv(osp.join(out_dir, 'ddf--concepts--discrete.csv'), index=False)
 
 
 def main():
+    print('processing geo entities...')
+    geos = process_area_and_groups()['geo'].values
+    os.makedirs(osp.join(out_dir, 'datapoints'), exist_ok=True)
     zf = zipfile.ZipFile(source_file)
     print('processing datapoints...')
-    concs = process_files(zf)
+    concs = process_files(zf, geos)
     print('processing concepts...')
     process_concepts(concs)
-    print('processing geo entities...')
-    process_area_and_groups()
-
     print('Done')
 
 
