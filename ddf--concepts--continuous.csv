@@ -10,12 +10,22 @@ Abaca - Other uses (non-food),abaca_other_uses_non_food_c_e,tonnes,measure
 Abaca - Production,abaca_production_c_e,tonnes,measure
 Abaca - Stock Variation,abaca_stock_variation_c_e,tonnes,measure
 AFOLU - Direct emissions (N2O),afolu_direct_emissions_n2o_ete,kilotonnes,measure
+AFOLU - Emissions (CH4),afolu_emissions_ch4_eeb,kilotonnes,measure
 AFOLU - Emissions (CH4),afolu_emissions_ch4_ete,kilotonnes,measure
+AFOLU - Emissions (CO2),afolu_emissions_co2_eeb,kilotonnes,measure
 AFOLU - Emissions (CO2),afolu_emissions_co2_ete,kilotonnes,measure
+AFOLU - Emissions (CO2eq) (AR5),afolu_emissions_co2eq_ar5_eeb,kilotonnes,measure
 AFOLU - Emissions (CO2eq) (AR5),afolu_emissions_co2eq_ar5_ete,kilotonnes,measure
 AFOLU - Emissions (CO2eq) from CH4 (AR5),afolu_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 AFOLU - Emissions (CO2eq) from N2O (AR5),afolu_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
+AFOLU - Emissions (F-gases),afolu_emissions_f_gases_eeb,kilotonnes,measure
+AFOLU - Emissions (N2O),afolu_emissions_n2o_eeb,kilotonnes,measure
 AFOLU - Emissions (N2O),afolu_emissions_n2o_ete,kilotonnes,measure
+AFOLU - Emissions Share (CH4),afolu_emissions_share_ch4_eeb,%,measure
+AFOLU - Emissions Share (CO2),afolu_emissions_share_co2_eeb,%,measure
+AFOLU - Emissions Share (CO2eq) (AR5),afolu_emissions_share_co2eq_ar5_eeb,%,measure
+AFOLU - Emissions Share (F-gases),afolu_emissions_share_f_gases_eeb,%,measure
+AFOLU - Emissions Share (N2O),afolu_emissions_share_n2o_eeb,%,measure
 AFOLU - Indirect emissions (N2O),afolu_indirect_emissions_n2o_ete,kilotonnes,measure
 Agave fibres nes - Area harvested,agave_fibres_nes_area_harvested_pcl,ha,measure
 Agave fibres nes - Gross per capita Production Index Number (2014-2016 = 100),agave_fibres_nes_gross_per_capita_production_index_number_2014_2016_100_pie,index,measure
@@ -33,20 +43,6 @@ Agave fibres nes - Production,agave_fibres_nes_production_pcl,tonnes,measure
 Agave fibres nes - Yield,agave_fibres_nes_yield_pcl,hg/ha,measure
 Agricultural land - Area,agricultural_land_area_ile,1000 ha,measure
 Agricultural land - Share in Land area,agricultural_land_share_in_land_area_ele1,%,measure
-Agricultural land use - CH4 emissions,agricultural_land_use_ch4_emissions_eeb,gigagrams,measure
-Agricultural land use - CO2 emissions,agricultural_land_use_co2_emissions_eeb,gigagrams,measure
-Agricultural land use - Emissions (CO2eq) (AR4),agricultural_land_use_emissions_co2eq_ar4_eeb,gigagrams,measure
-Agricultural land use - Emissions (CO2eq) (AR5),agricultural_land_use_emissions_co2eq_ar5_eeb,gigagrams,measure
-Agricultural land use - Emissions (CO2eq) (SAR),agricultural_land_use_emissions_co2eq_sar_eeb,gigagrams,measure
-Agricultural land use - F-gases emissions,agricultural_land_use_f_gases_emissions_eeb,gigagrams,measure
-Agricultural land use - N2O emissions,agricultural_land_use_n2o_emissions_eeb,gigagrams,measure
-Agricultural land use - Share of total CH4 emissions,agricultural_land_use_share_of_total_ch4_emissions_eeb,%,measure
-Agricultural land use - Share of total CO2 emissions,agricultural_land_use_share_of_total_co2_emissions_eeb,%,measure
-Agricultural land use - Share of total emissions (AR4),agricultural_land_use_share_of_total_emissions_ar4_eeb,%,measure
-Agricultural land use - Share of total emissions (AR5),agricultural_land_use_share_of_total_emissions_ar5_eeb,%,measure
-Agricultural land use - Share of total emissions (SAR),agricultural_land_use_share_of_total_emissions_sar_eeb,%,measure
-Agricultural land use - Share of  total F-gases emissions,agricultural_land_use_share_of_total_f_gases_emissions_eeb,%,measure
-Agricultural land use - Share of total N2O emissions,agricultural_land_use_share_of_total_n2o_emissions_eeb,%,measure
 Agricultural machinery nes (trade) - Export Value,agricultural_machinery_nes_trade_export_value_ime1,1000 US$,measure
 Agricultural machinery nes (trade) - Import Value,agricultural_machinery_nes_trade_import_value_ime1,1000 US$,measure
 Agricultural Products - Export Quantity Index (2014-2016 = 100),agricultural_products_export_quantity_index_2014_2016_100_tie,index,measure
@@ -80,20 +76,6 @@ Agricultural tractors - In Use,agricultural_tractors_in_use_ime1,No,measure
 "Agricultural tractors, total - Import Quantity",agricultural_tractors_total_import_quantity_ime1,No,measure
 "Agricultural tractors, total - Import Value",agricultural_tractors_total_import_value_ime1,1000 US$,measure
 "Agricultural tractors, total - In Use",agricultural_tractors_total_in_use_ime1,No,measure
-Agriculture and related land use - CH4 emissions,agriculture_and_related_land_use_ch4_emissions_eeb,gigagrams,measure
-Agriculture and related land use - CO2 emissions,agriculture_and_related_land_use_co2_emissions_eeb,gigagrams,measure
-Agriculture and related land use - Emissions (CO2eq) (AR4),agriculture_and_related_land_use_emissions_co2eq_ar4_eeb,gigagrams,measure
-Agriculture and related land use - Emissions (CO2eq) (AR5),agriculture_and_related_land_use_emissions_co2eq_ar5_eeb,gigagrams,measure
-Agriculture and related land use - Emissions (CO2eq) (SAR),agriculture_and_related_land_use_emissions_co2eq_sar_eeb,gigagrams,measure
-Agriculture and related land use - F-gases emissions,agriculture_and_related_land_use_f_gases_emissions_eeb,gigagrams,measure
-Agriculture and related land use - N2O emissions,agriculture_and_related_land_use_n2o_emissions_eeb,gigagrams,measure
-Agriculture and related land use - Share of total CH4 emissions,agriculture_and_related_land_use_share_of_total_ch4_emissions_eeb,%,measure
-Agriculture and related land use - Share of total CO2 emissions,agriculture_and_related_land_use_share_of_total_co2_emissions_eeb,%,measure
-Agriculture and related land use - Share of total emissions (AR4),agriculture_and_related_land_use_share_of_total_emissions_ar4_eeb,%,measure
-Agriculture and related land use - Share of total emissions (AR5),agriculture_and_related_land_use_share_of_total_emissions_ar5_eeb,%,measure
-Agriculture and related land use - Share of total emissions (SAR),agriculture_and_related_land_use_share_of_total_emissions_sar_eeb,%,measure
-Agriculture and related land use - Share of  total F-gases emissions,agriculture_and_related_land_use_share_of_total_f_gases_emissions_eeb,%,measure
-Agriculture and related land use - Share of total N2O emissions,agriculture_and_related_land_use_share_of_total_n2o_emissions_eeb,%,measure
 Agriculture area actually irrigated - Area,agriculture_area_actually_irrigated_area_ile,1000 ha,measure
 Agriculture area actually irrigated - Share in Agricultural land,agriculture_area_actually_irrigated_share_in_agricultural_land_ele1,%,measure
 Agriculture area certified organic - Area,agriculture_area_certified_organic_area_ile,1000 ha,measure
@@ -154,20 +136,6 @@ Agriculture - Producer Price Index (2014-2016 = 100),agriculture_producer_price_
 "Agriculture, Recurrent (General Government) - Value US$",agriculture_recurrent_general_government_value_us_ige,millions,measure
 "Agriculture research spending - Share of Value Added (Agriculture, Forestry and Fishing)",agriculture_research_spending_share_of_value_added_agriculture_forestry_and_fishing_aee,%,measure
 "Agriculture research spending - Spending, total",agriculture_research_spending_spending_total_aee,million PPP (constant 2011 prices),measure
-Agriculture total - CH4 emissions,agriculture_total_ch4_emissions_eeb,gigagrams,measure
-Agriculture total - CO2 emissions,agriculture_total_co2_emissions_eeb,gigagrams,measure
-Agriculture total - Emissions (CO2eq) (AR4),agriculture_total_emissions_co2eq_ar4_eeb,gigagrams,measure
-Agriculture total - Emissions (CO2eq) (AR5),agriculture_total_emissions_co2eq_ar5_eeb,gigagrams,measure
-Agriculture total - Emissions (CO2eq) (SAR),agriculture_total_emissions_co2eq_sar_eeb,gigagrams,measure
-Agriculture total - F-gases emissions,agriculture_total_f_gases_emissions_eeb,gigagrams,measure
-Agriculture total - N2O emissions,agriculture_total_n2o_emissions_eeb,gigagrams,measure
-Agriculture total - Share of total CH4 emissions,agriculture_total_share_of_total_ch4_emissions_eeb,%,measure
-Agriculture total - Share of total CO2 emissions,agriculture_total_share_of_total_co2_emissions_eeb,%,measure
-Agriculture total - Share of total emissions (AR4),agriculture_total_share_of_total_emissions_ar4_eeb,%,measure
-Agriculture total - Share of total emissions (AR5),agriculture_total_share_of_total_emissions_ar5_eeb,%,measure
-Agriculture total - Share of total emissions (SAR),agriculture_total_share_of_total_emissions_sar_eeb,%,measure
-Agriculture total - Share of  total F-gases emissions,agriculture_total_share_of_total_f_gases_emissions_eeb,%,measure
-Agriculture total - Share of total N2O emissions,agriculture_total_share_of_total_n2o_emissions_eeb,%,measure
 Alachlor - Export Quantity,alachlor_export_quantity_ipt,tonnes,measure
 Alachlor - Export Value,alachlor_export_value_ipt,1000 US$,measure
 Alachlor - Import Quantity,alachlor_import_quantity_ipt,tonnes,measure
@@ -307,6 +275,26 @@ All Crops - Emissions (N2O),all_crops_emissions_n2o_eab,kilotonnes,measure
 All Crops - Emissions (N2O),all_crops_emissions_n2o_eac,kilotonnes,measure
 All Crops - Indirect emissions (N2O) (Crop residues),all_crops_indirect_emissions_n2o_crop_residues_eac,kilotonnes,measure
 All Crops - Residues (Crop residues),all_crops_residues_crop_residues_eac,kg of nutrients,measure
+All sectors with LULUCF - Emissions (CH4),all_sectors_with_lulucf_emissions_ch4_eeb,kilotonnes,measure
+All sectors with LULUCF - Emissions (CO2),all_sectors_with_lulucf_emissions_co2_eeb,kilotonnes,measure
+All sectors with LULUCF - Emissions (CO2eq) (AR5),all_sectors_with_lulucf_emissions_co2eq_ar5_eeb,kilotonnes,measure
+All sectors with LULUCF - Emissions (F-gases),all_sectors_with_lulucf_emissions_f_gases_eeb,kilotonnes,measure
+All sectors with LULUCF - Emissions (N2O),all_sectors_with_lulucf_emissions_n2o_eeb,kilotonnes,measure
+All sectors with LULUCF - Emissions Share (CH4),all_sectors_with_lulucf_emissions_share_ch4_eeb,%,measure
+All sectors with LULUCF - Emissions Share (CO2),all_sectors_with_lulucf_emissions_share_co2_eeb,%,measure
+All sectors with LULUCF - Emissions Share (CO2eq) (AR5),all_sectors_with_lulucf_emissions_share_co2eq_ar5_eeb,%,measure
+All sectors with LULUCF - Emissions Share (F-gases),all_sectors_with_lulucf_emissions_share_f_gases_eeb,%,measure
+All sectors with LULUCF - Emissions Share (N2O),all_sectors_with_lulucf_emissions_share_n2o_eeb,%,measure
+All sectors without LULUCF - Emissions (CH4),all_sectors_without_lulucf_emissions_ch4_eeb,kilotonnes,measure
+All sectors without LULUCF - Emissions (CO2),all_sectors_without_lulucf_emissions_co2_eeb,kilotonnes,measure
+All sectors without LULUCF - Emissions (CO2eq) (AR5),all_sectors_without_lulucf_emissions_co2eq_ar5_eeb,kilotonnes,measure
+All sectors without LULUCF - Emissions (F-gases),all_sectors_without_lulucf_emissions_f_gases_eeb,kilotonnes,measure
+All sectors without LULUCF - Emissions (N2O),all_sectors_without_lulucf_emissions_n2o_eeb,kilotonnes,measure
+All sectors without LULUCF - Emissions Share (CH4),all_sectors_without_lulucf_emissions_share_ch4_eeb,%,measure
+All sectors without LULUCF - Emissions Share (CO2),all_sectors_without_lulucf_emissions_share_co2_eeb,%,measure
+All sectors without LULUCF - Emissions Share (CO2eq) (AR5),all_sectors_without_lulucf_emissions_share_co2eq_ar5_eeb,%,measure
+All sectors without LULUCF - Emissions Share (F-gases),all_sectors_without_lulucf_emissions_share_f_gases_eeb,%,measure
+All sectors without LULUCF - Emissions Share (N2O),all_sectors_without_lulucf_emissions_share_n2o_eeb,%,measure
 Almonds shelled - Calories/Year,almonds_shelled_calories_year_scl,million kcal,measure
 Almonds shelled - Export Quantity,almonds_shelled_export_quantity_scl,tonnes,measure
 Almonds shelled - Export Quantity,almonds_shelled_export_quantity_tce,tonnes,measure
@@ -5063,6 +5051,11 @@ DNOC and its salts - Export Quantity,dnoc_and_its_salts_export_quantity_ipt,tonn
 DNOC and its salts - Export Value,dnoc_and_its_salts_export_value_ipt,1000 US$,measure
 DNOC and its salts - Import Quantity,dnoc_and_its_salts_import_quantity_ipt,tonnes,measure
 DNOC and its salts - Import Value,dnoc_and_its_salts_import_value_ipt,1000 US$,measure
+Domestic wastewater - CH4 emissions,domestic_wastewater_ch4_emissions_eaw,gigagrams,measure
+Domestic wastewater - Emissions (CO2eq) (AR4),domestic_wastewater_emissions_co2eq_ar4_eaw,gigagrams,measure
+Domestic wastewater - Emissions (CO2eq) (AR5),domestic_wastewater_emissions_co2eq_ar5_eaw,gigagrams,measure
+Domestic wastewater - Emissions (CO2eq) (SAR),domestic_wastewater_emissions_co2eq_sar_eaw,gigagrams,measure
+Domestic wastewater - N2O emissions,domestic_wastewater_n2o_emissions_eaw,gigagrams,measure
 Drained organic soils - Area,drained_organic_soils_area_edo,ha,measure
 Drained organic soils (CO2) - Emissions (CO2),drained_organic_soils_co2_emissions_co2_ete,kilotonnes,measure
 Drained organic soils (CO2) - Emissions (CO2eq) (AR5),drained_organic_soils_co2_emissions_co2eq_ar5_ete,kilotonnes,measure
@@ -5372,31 +5365,47 @@ Electricity - Emissions (CO2),electricity_emissions_co2_eae,kilotonnes,measure
 Electricity - Emissions (N2O),electricity_emissions_n2o_eae,kilotonnes,measure
 Electricity - Use in agriculture,electricity_use_in_agriculture_eae,Terajoule,measure
 Emissions on agricultural land - Direct emissions (N2O),emissions_on_agricultural_land_direct_emissions_n2o_ete,kilotonnes,measure
+Emissions on agricultural land - Emissions (CH4),emissions_on_agricultural_land_emissions_ch4_eeb,kilotonnes,measure
 Emissions on agricultural land - Emissions (CH4),emissions_on_agricultural_land_emissions_ch4_ete,kilotonnes,measure
+Emissions on agricultural land - Emissions (CO2),emissions_on_agricultural_land_emissions_co2_eeb,kilotonnes,measure
 Emissions on agricultural land - Emissions (CO2),emissions_on_agricultural_land_emissions_co2_ete,kilotonnes,measure
+Emissions on agricultural land - Emissions (CO2eq) (AR5),emissions_on_agricultural_land_emissions_co2eq_ar5_eeb,kilotonnes,measure
 Emissions on agricultural land - Emissions (CO2eq) (AR5),emissions_on_agricultural_land_emissions_co2eq_ar5_ete,kilotonnes,measure
 Emissions on agricultural land - Emissions (CO2eq) from CH4 (AR5),emissions_on_agricultural_land_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 Emissions on agricultural land - Emissions (CO2eq) from N2O (AR5),emissions_on_agricultural_land_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
+Emissions on agricultural land - Emissions (F-gases),emissions_on_agricultural_land_emissions_f_gases_eeb,kilotonnes,measure
+Emissions on agricultural land - Emissions (N2O),emissions_on_agricultural_land_emissions_n2o_eeb,kilotonnes,measure
 Emissions on agricultural land - Emissions (N2O),emissions_on_agricultural_land_emissions_n2o_ete,kilotonnes,measure
+Emissions on agricultural land - Emissions Share (CH4),emissions_on_agricultural_land_emissions_share_ch4_eeb,%,measure
+Emissions on agricultural land - Emissions Share (CO2),emissions_on_agricultural_land_emissions_share_co2_eeb,%,measure
+Emissions on agricultural land - Emissions Share (CO2eq) (AR5),emissions_on_agricultural_land_emissions_share_co2eq_ar5_eeb,%,measure
+Emissions on agricultural land - Emissions Share (F-gases),emissions_on_agricultural_land_emissions_share_f_gases_eeb,%,measure
+Emissions on agricultural land - Emissions Share (N2O),emissions_on_agricultural_land_emissions_share_n2o_eeb,%,measure
 Emissions on agricultural land - Indirect emissions (N2O),emissions_on_agricultural_land_indirect_emissions_n2o_ete,kilotonnes,measure
 Endosulfan - Export Quantity,endosulfan_export_quantity_ipt,tonnes,measure
 Endosulfan - Export Value,endosulfan_export_value_ipt,1000 US$,measure
 Endosulfan - Import Quantity,endosulfan_import_quantity_ipt,tonnes,measure
 Endosulfan - Import Value,endosulfan_import_value_ipt,1000 US$,measure
-Energy - CH4 emissions,energy_ch4_emissions_eeb,gigagrams,measure
-Energy - CO2 emissions,energy_co2_emissions_eeb,gigagrams,measure
-Energy - Emissions (CO2eq) (AR4),energy_emissions_co2eq_ar4_eeb,gigagrams,measure
-Energy - Emissions (CO2eq) (AR5),energy_emissions_co2eq_ar5_eeb,gigagrams,measure
-Energy - Emissions (CO2eq) (SAR),energy_emissions_co2eq_sar_eeb,gigagrams,measure
-Energy - F-gases emissions,energy_f_gases_emissions_eeb,gigagrams,measure
-Energy - N2O emissions,energy_n2o_emissions_eeb,gigagrams,measure
-Energy - Share of total CH4 emissions,energy_share_of_total_ch4_emissions_eeb,%,measure
-Energy - Share of total CO2 emissions,energy_share_of_total_co2_emissions_eeb,%,measure
-Energy - Share of total emissions (AR4),energy_share_of_total_emissions_ar4_eeb,%,measure
-Energy - Share of total emissions (AR5),energy_share_of_total_emissions_ar5_eeb,%,measure
-Energy - Share of total emissions (SAR),energy_share_of_total_emissions_sar_eeb,%,measure
-Energy - Share of  total F-gases emissions,energy_share_of_total_f_gases_emissions_eeb,%,measure
-Energy - Share of total N2O emissions,energy_share_of_total_n2o_emissions_eeb,%,measure
+Energy - Emissions (CH4),energy_emissions_ch4_eeb,kilotonnes,measure
+Energy - Emissions (CO2),energy_emissions_co2_eeb,kilotonnes,measure
+Energy - Emissions (CO2eq) (AR5),energy_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Energy - Emissions (F-gases),energy_emissions_f_gases_eeb,kilotonnes,measure
+Energy - Emissions (N2O),energy_emissions_n2o_eeb,kilotonnes,measure
+Energy - Emissions Share (CH4),energy_emissions_share_ch4_eeb,%,measure
+Energy - Emissions Share (CO2),energy_emissions_share_co2_eeb,%,measure
+Energy - Emissions Share (CO2eq) (AR5),energy_emissions_share_co2eq_ar5_eeb,%,measure
+Energy - Emissions Share (F-gases),energy_emissions_share_f_gases_eeb,%,measure
+Energy - Emissions Share (N2O),energy_emissions_share_n2o_eeb,%,measure
+Energy - food systems - Emissions (CH4),energy_food_systems_emissions_ch4_eeb,kilotonnes,measure
+Energy - food systems - Emissions (CO2),energy_food_systems_emissions_co2_eeb,kilotonnes,measure
+Energy - food systems - Emissions (CO2eq) (AR5),energy_food_systems_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Energy - food systems - Emissions (F-gases),energy_food_systems_emissions_f_gases_eeb,kilotonnes,measure
+Energy - food systems - Emissions (N2O),energy_food_systems_emissions_n2o_eeb,kilotonnes,measure
+Energy - food systems - Emissions Share (CH4),energy_food_systems_emissions_share_ch4_eeb,%,measure
+Energy - food systems - Emissions Share (CO2),energy_food_systems_emissions_share_co2_eeb,%,measure
+Energy - food systems - Emissions Share (CO2eq) (AR5),energy_food_systems_emissions_share_co2eq_ar5_eeb,%,measure
+Energy - food systems - Emissions Share (F-gases),energy_food_systems_emissions_share_f_gases_eeb,%,measure
+Energy - food systems - Emissions Share (N2O),energy_food_systems_emissions_share_n2o_eeb,%,measure
 Energy used in fishery - Emissions (CH4),energy_used_in_fishery_emissions_ch4_eae,kilotonnes,measure
 Energy used in fishery - Emissions (CO2),energy_used_in_fishery_emissions_co2_eae,kilotonnes,measure
 Energy used in fishery - Emissions (N2O),energy_used_in_fishery_emissions_n2o_eae,kilotonnes,measure
@@ -5425,12 +5434,22 @@ Evaporat&Condensed Milk - Production,evaporat_condensed_milk_production_pcl,tonn
 Exclusive Economic Zone (EEZ) - Area,exclusive_economic_zone_eez_area_ile,1000 ha,measure
 Farm buildings & farmyards - Area,farm_buildings_farmyards_area_ile,1000 ha,measure
 Farm-gate emissions - Direct emissions (N2O),farm_gate_emissions_direct_emissions_n2o_ete,kilotonnes,measure
+Farm-gate emissions - Emissions (CH4),farm_gate_emissions_emissions_ch4_eeb,kilotonnes,measure
 Farm-gate emissions - Emissions (CH4),farm_gate_emissions_emissions_ch4_ete,kilotonnes,measure
+Farm-gate emissions - Emissions (CO2),farm_gate_emissions_emissions_co2_eeb,kilotonnes,measure
 Farm-gate emissions - Emissions (CO2),farm_gate_emissions_emissions_co2_ete,kilotonnes,measure
+Farm-gate emissions - Emissions (CO2eq) (AR5),farm_gate_emissions_emissions_co2eq_ar5_eeb,kilotonnes,measure
 Farm-gate emissions - Emissions (CO2eq) (AR5),farm_gate_emissions_emissions_co2eq_ar5_ete,kilotonnes,measure
 Farm-gate emissions - Emissions (CO2eq) from CH4 (AR5),farm_gate_emissions_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 Farm-gate emissions - Emissions (CO2eq) from N2O (AR5),farm_gate_emissions_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
+Farm-gate emissions - Emissions (F-gases),farm_gate_emissions_emissions_f_gases_eeb,kilotonnes,measure
+Farm-gate emissions - Emissions (N2O),farm_gate_emissions_emissions_n2o_eeb,kilotonnes,measure
 Farm-gate emissions - Emissions (N2O),farm_gate_emissions_emissions_n2o_ete,kilotonnes,measure
+Farm-gate emissions - Emissions Share (CH4),farm_gate_emissions_emissions_share_ch4_eeb,%,measure
+Farm-gate emissions - Emissions Share (CO2),farm_gate_emissions_emissions_share_co2_eeb,%,measure
+Farm-gate emissions - Emissions Share (CO2eq) (AR5),farm_gate_emissions_emissions_share_co2eq_ar5_eeb,%,measure
+Farm-gate emissions - Emissions Share (F-gases),farm_gate_emissions_emissions_share_f_gases_eeb,%,measure
+Farm-gate emissions - Emissions Share (N2O),farm_gate_emissions_emissions_share_n2o_eeb,%,measure
 Farm-gate emissions - Indirect emissions (N2O),farm_gate_emissions_indirect_emissions_n2o_ete,kilotonnes,measure
 "Fat, buffaloes - Calories/Year",fat_buffaloes_calories_year_scl,million kcal,measure
 "Fat, buffaloes - Fat supply quantity (g/capita/day)",fat_buffaloes_fat_supply_quantity_g_capita_day_scl,g/capita/day,measure
@@ -5815,6 +5834,14 @@ Feed supplements - Import Value,feed_supplements_import_value_tce,1000 US$,measu
 "Feed, vegetable products nes - Import Value Base Period Quantity",feed_vegetable_products_nes_import_value_base_period_quantity_tie,1000 $,measure
 "Feed, vegetable products nes - Import Value Index (2014-2016 = 100)",feed_vegetable_products_nes_import_value_index_2014_2016_100_tie,index,measure
 "Feed, vegetable products nes - Import Value",feed_vegetable_products_nes_import_value_tce,1000 US$,measure
+Fertilizers Manufacturing - Emissions (CO2),fertilizers_manufacturing_emissions_co2_eeb,kilotonnes,measure
+Fertilizers Manufacturing - Emissions (CO2eq) (AR5),fertilizers_manufacturing_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Fertilizers Manufacturing - Emissions (F-gases),fertilizers_manufacturing_emissions_f_gases_eeb,kilotonnes,measure
+Fertilizers Manufacturing - Emissions (N2O),fertilizers_manufacturing_emissions_n2o_eeb,kilotonnes,measure
+Fertilizers Manufacturing - Emissions Share (CO2),fertilizers_manufacturing_emissions_share_co2_eeb,%,measure
+Fertilizers Manufacturing - Emissions Share (CO2eq) (AR5),fertilizers_manufacturing_emissions_share_co2eq_ar5_eeb,%,measure
+Fertilizers Manufacturing - Emissions Share (F-gases),fertilizers_manufacturing_emissions_share_f_gases_eeb,%,measure
+Fertilizers Manufacturing - Emissions Share (N2O),fertilizers_manufacturing_emissions_share_n2o_eeb,%,measure
 Fertilizers n.e.c. - Agricultural Use,fertilizers_n_e_c_agricultural_use_ife2,tonnes,measure
 Fertilizers n.e.c. - Export Quantity,fertilizers_n_e_c_export_quantity_ife2,tonnes,measure
 Fertilizers n.e.c. - Export Value,fertilizers_n_e_c_export_value_ife2,1000 US$,measure
@@ -6502,6 +6529,26 @@ Food - Gross Production Value (constant 2014-2016 thousand SLC),food_gross_produ
 Food - Gross Production Value (constant 2014-2016 thousand US$),food_gross_production_value_constant_2014_2016_thousand_us_vop,1000 US$,measure
 Food - Gross Production Value (current thousand SLC),food_gross_production_value_current_thousand_slc_vop,1000 SLC,measure
 Food - Gross Production Value (current thousand US$),food_gross_production_value_current_thousand_us_vop,1000 US$,measure
+Food Household Consumption - Emissions (CH4),food_household_consumption_emissions_ch4_eeb,kilotonnes,measure
+Food Household Consumption - Emissions (CO2),food_household_consumption_emissions_co2_eeb,kilotonnes,measure
+Food Household Consumption - Emissions (CO2eq) (AR5),food_household_consumption_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food Household Consumption - Emissions (F-gases),food_household_consumption_emissions_f_gases_eeb,kilotonnes,measure
+Food Household Consumption - Emissions (N2O),food_household_consumption_emissions_n2o_eeb,kilotonnes,measure
+Food Household Consumption - Emissions Share (CH4),food_household_consumption_emissions_share_ch4_eeb,%,measure
+Food Household Consumption - Emissions Share (CO2),food_household_consumption_emissions_share_co2_eeb,%,measure
+Food Household Consumption - Emissions Share (CO2eq) (AR5),food_household_consumption_emissions_share_co2eq_ar5_eeb,%,measure
+Food Household Consumption - Emissions Share (F-gases),food_household_consumption_emissions_share_f_gases_eeb,%,measure
+Food Household Consumption - Emissions Share (N2O),food_household_consumption_emissions_share_n2o_eeb,%,measure
+Food Packaging - Emissions (CH4),food_packaging_emissions_ch4_eeb,kilotonnes,measure
+Food Packaging - Emissions (CO2),food_packaging_emissions_co2_eeb,kilotonnes,measure
+Food Packaging - Emissions (CO2eq) (AR5),food_packaging_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food Packaging - Emissions (F-gases),food_packaging_emissions_f_gases_eeb,kilotonnes,measure
+Food Packaging - Emissions (N2O),food_packaging_emissions_n2o_eeb,kilotonnes,measure
+Food Packaging - Emissions Share (CH4),food_packaging_emissions_share_ch4_eeb,%,measure
+Food Packaging - Emissions Share (CO2),food_packaging_emissions_share_co2_eeb,%,measure
+Food Packaging - Emissions Share (CO2eq) (AR5),food_packaging_emissions_share_co2eq_ar5_eeb,%,measure
+Food Packaging - Emissions Share (F-gases),food_packaging_emissions_share_f_gases_eeb,%,measure
+Food Packaging - Emissions Share (N2O),food_packaging_emissions_share_n2o_eeb,%,measure
 Food prep nes - Calories/Year,food_prep_nes_calories_year_scl,million kcal,measure
 Food prep nes - Export Quantity,food_prep_nes_export_quantity_scl,tonnes,measure
 Food prep nes - Export Quantity,food_prep_nes_export_quantity_tce,tonnes,measure
@@ -6541,6 +6588,66 @@ Food prep nes - Tourist consumption,food_prep_nes_tourist_consumption_scl,tonnes
 "Food preparations, flour, malt extract - Stock Variation",food_preparations_flour_malt_extract_stock_variation_scl,tonnes,measure
 "Food preparations, flour, malt extract - Tourist consumption",food_preparations_flour_malt_extract_tourist_consumption_scl,tonnes,measure
 Food price inflation,food_price_inflation_cea,%,measure
+Food Processing - Emissions (CH4),food_processing_emissions_ch4_eeb,kilotonnes,measure
+Food Processing - Emissions (CO2),food_processing_emissions_co2_eeb,kilotonnes,measure
+Food Processing - Emissions (CO2eq) (AR5),food_processing_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food Processing - Emissions (F-gases),food_processing_emissions_f_gases_eeb,kilotonnes,measure
+Food Processing - Emissions (N2O),food_processing_emissions_n2o_eeb,kilotonnes,measure
+Food Processing - Emissions Share (CH4),food_processing_emissions_share_ch4_eeb,%,measure
+Food Processing - Emissions Share (CO2),food_processing_emissions_share_co2_eeb,%,measure
+Food Processing - Emissions Share (CO2eq) (AR5),food_processing_emissions_share_co2eq_ar5_eeb,%,measure
+Food Processing - Emissions Share (F-gases),food_processing_emissions_share_f_gases_eeb,%,measure
+Food Processing - Emissions Share (N2O),food_processing_emissions_share_n2o_eeb,%,measure
+Food Retail - Emissions (CH4),food_retail_emissions_ch4_eeb,kilotonnes,measure
+Food Retail - Emissions (CO2),food_retail_emissions_co2_eeb,kilotonnes,measure
+Food Retail - Emissions (CO2eq) (AR5),food_retail_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food Retail - Emissions (F-gases),food_retail_emissions_f_gases_eeb,kilotonnes,measure
+Food Retail - Emissions (N2O),food_retail_emissions_n2o_eeb,kilotonnes,measure
+Food Retail - Emissions Share (CH4),food_retail_emissions_share_ch4_eeb,%,measure
+Food Retail - Emissions Share (CO2),food_retail_emissions_share_co2_eeb,%,measure
+Food Retail - Emissions Share (CO2eq) (AR5),food_retail_emissions_share_co2eq_ar5_eeb,%,measure
+Food Retail - Emissions Share (F-gases),food_retail_emissions_share_f_gases_eeb,%,measure
+Food Retail - Emissions Share (N2O),food_retail_emissions_share_n2o_eeb,%,measure
+Food systems - Emissions (CH4),food_systems_emissions_ch4_eeb,kilotonnes,measure
+Food systems - Emissions (CO2),food_systems_emissions_co2_eeb,kilotonnes,measure
+Food systems - Emissions (CO2eq) (AR5),food_systems_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food systems - Emissions (F-gases),food_systems_emissions_f_gases_eeb,kilotonnes,measure
+Food systems - Emissions (N2O),food_systems_emissions_n2o_eeb,kilotonnes,measure
+Food systems - Emissions Share (CH4),food_systems_emissions_share_ch4_eeb,%,measure
+Food systems - Emissions Share (CO2),food_systems_emissions_share_co2_eeb,%,measure
+Food systems - Emissions Share (CO2eq) (AR5),food_systems_emissions_share_co2eq_ar5_eeb,%,measure
+Food systems - Emissions Share (F-gases),food_systems_emissions_share_f_gases_eeb,%,measure
+Food systems - Emissions Share (N2O),food_systems_emissions_share_n2o_eeb,%,measure
+Food Transport - Emissions (CH4),food_transport_emissions_ch4_eeb,kilotonnes,measure
+Food Transport - Emissions (CO2),food_transport_emissions_co2_eeb,kilotonnes,measure
+Food Transport - Emissions (CO2eq) (AR5),food_transport_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food Transport - Emissions (F-gases),food_transport_emissions_f_gases_eeb,kilotonnes,measure
+Food Transport - Emissions (N2O),food_transport_emissions_n2o_eeb,kilotonnes,measure
+Food Transport - Emissions Share (CH4),food_transport_emissions_share_ch4_eeb,%,measure
+Food Transport - Emissions Share (CO2),food_transport_emissions_share_co2_eeb,%,measure
+Food Transport - Emissions Share (CO2eq) (AR5),food_transport_emissions_share_co2eq_ar5_eeb,%,measure
+Food Transport - Emissions Share (F-gases),food_transport_emissions_share_f_gases_eeb,%,measure
+Food Transport - Emissions Share (N2O),food_transport_emissions_share_n2o_eeb,%,measure
+Food Transport - International Bunkers - Emissions (CH4),food_transport_international_bunkers_emissions_ch4_eeb,kilotonnes,measure
+Food Transport - International Bunkers - Emissions (CO2),food_transport_international_bunkers_emissions_co2_eeb,kilotonnes,measure
+Food Transport - International Bunkers - Emissions (CO2eq) (AR5),food_transport_international_bunkers_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food Transport - International Bunkers - Emissions (F-gases),food_transport_international_bunkers_emissions_f_gases_eeb,kilotonnes,measure
+Food Transport - International Bunkers - Emissions (N2O),food_transport_international_bunkers_emissions_n2o_eeb,kilotonnes,measure
+Food Transport - International Bunkers - Emissions Share (CH4),food_transport_international_bunkers_emissions_share_ch4_eeb,%,measure
+Food Transport - International Bunkers - Emissions Share (CO2),food_transport_international_bunkers_emissions_share_co2_eeb,%,measure
+Food Transport - International Bunkers - Emissions Share (CO2eq) (AR5),food_transport_international_bunkers_emissions_share_co2eq_ar5_eeb,%,measure
+Food Transport - International Bunkers - Emissions Share (F-gases),food_transport_international_bunkers_emissions_share_f_gases_eeb,%,measure
+Food Transport - International Bunkers - Emissions Share (N2O),food_transport_international_bunkers_emissions_share_n2o_eeb,%,measure
+Food Waste Disposal - Emissions (CH4),food_waste_disposal_emissions_ch4_eeb,kilotonnes,measure
+Food Waste Disposal - Emissions (CO2),food_waste_disposal_emissions_co2_eeb,kilotonnes,measure
+Food Waste Disposal - Emissions (CO2eq) (AR5),food_waste_disposal_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Food Waste Disposal - Emissions (F-gases),food_waste_disposal_emissions_f_gases_eeb,kilotonnes,measure
+Food Waste Disposal - Emissions (N2O),food_waste_disposal_emissions_n2o_eeb,kilotonnes,measure
+Food Waste Disposal - Emissions Share (CH4),food_waste_disposal_emissions_share_ch4_eeb,%,measure
+Food Waste Disposal - Emissions Share (CO2),food_waste_disposal_emissions_share_co2_eeb,%,measure
+Food Waste Disposal - Emissions Share (CO2eq) (AR5),food_waste_disposal_emissions_share_co2eq_ar5_eeb,%,measure
+Food Waste Disposal - Emissions Share (F-gases),food_waste_disposal_emissions_share_f_gases_eeb,%,measure
+Food Waste Disposal - Emissions Share (N2O),food_waste_disposal_emissions_share_n2o_eeb,%,measure
 Food wastes - Export Quantity Index (2014-2016 = 100),food_wastes_export_quantity_index_2014_2016_100_tie,index,measure
 Food wastes - Export Quantity,food_wastes_export_quantity_tce,tonnes,measure
 Food wastes - Export Unit/Value Index (2014-2016 = 100),food_wastes_export_unit_value_index_2014_2016_100_tie,index,measure
@@ -8211,20 +8318,10 @@ Ice cream and edible ice - Proteins/Year,ice_cream_and_edible_ice_proteins_year_
 Ice cream and edible ice - Residuals,ice_cream_and_edible_ice_residuals_scl,tonnes,measure
 Ice cream and edible ice - Stock Variation,ice_cream_and_edible_ice_stock_variation_scl,tonnes,measure
 Ice cream and edible ice - Tourist consumption,ice_cream_and_edible_ice_tourist_consumption_scl,tonnes,measure
-Industrial processes and product use - CH4 emissions,industrial_processes_and_product_use_ch4_emissions_eeb,gigagrams,measure
-Industrial processes and product use - CO2 emissions,industrial_processes_and_product_use_co2_emissions_eeb,gigagrams,measure
-Industrial processes and product use - Emissions (CO2eq) (AR4),industrial_processes_and_product_use_emissions_co2eq_ar4_eeb,gigagrams,measure
-Industrial processes and product use - Emissions (CO2eq) (AR5),industrial_processes_and_product_use_emissions_co2eq_ar5_eeb,gigagrams,measure
-Industrial processes and product use - Emissions (CO2eq) (SAR),industrial_processes_and_product_use_emissions_co2eq_sar_eeb,gigagrams,measure
-Industrial processes and product use - F-gases emissions,industrial_processes_and_product_use_f_gases_emissions_eeb,gigagrams,measure
-Industrial processes and product use - N2O emissions,industrial_processes_and_product_use_n2o_emissions_eeb,gigagrams,measure
-Industrial processes and product use - Share of total CH4 emissions,industrial_processes_and_product_use_share_of_total_ch4_emissions_eeb,%,measure
-Industrial processes and product use - Share of total CO2 emissions,industrial_processes_and_product_use_share_of_total_co2_emissions_eeb,%,measure
-Industrial processes and product use - Share of total emissions (AR4),industrial_processes_and_product_use_share_of_total_emissions_ar4_eeb,%,measure
-Industrial processes and product use - Share of total emissions (AR5),industrial_processes_and_product_use_share_of_total_emissions_ar5_eeb,%,measure
-Industrial processes and product use - Share of total emissions (SAR),industrial_processes_and_product_use_share_of_total_emissions_sar_eeb,%,measure
-Industrial processes and product use - Share of  total F-gases emissions,industrial_processes_and_product_use_share_of_total_f_gases_emissions_eeb,%,measure
-Industrial processes and product use - Share of total N2O emissions,industrial_processes_and_product_use_share_of_total_n2o_emissions_eeb,%,measure
+Incineration - CO2 emissions,incineration_co2_emissions_eaw,gigagrams,measure
+Incineration - Emissions (CO2eq) (AR4),incineration_emissions_co2eq_ar4_eaw,gigagrams,measure
+Incineration - Emissions (CO2eq) (AR5),incineration_emissions_co2eq_ar5_eaw,gigagrams,measure
+Incineration - Emissions (CO2eq) (SAR),incineration_emissions_co2eq_sar_eaw,gigagrams,measure
 "Industrial roundwood, coniferous (export/import) - Export Quantity",industrial_roundwood_coniferous_export_import_export_quantity_fea2,m3,measure
 "Industrial roundwood, coniferous (export/import) - Export Value",industrial_roundwood_coniferous_export_import_export_value_fea2,1000 US$,measure
 "Industrial roundwood, coniferous (export/import) - Import Quantity",industrial_roundwood_coniferous_export_import_import_quantity_fea2,m3,measure
@@ -8252,6 +8349,11 @@ Industrial roundwood - Import Value,industrial_roundwood_import_value_fea2,1000 
 "Industrial roundwood, non-coniferous tropical (export/import) - Import Quantity",industrial_roundwood_non_coniferous_tropical_export_import_import_quantity_fea2,m3,measure
 "Industrial roundwood, non-coniferous tropical (export/import) - Import Value",industrial_roundwood_non_coniferous_tropical_export_import_import_value_fea2,1000 US$,measure
 Industrial roundwood - Production,industrial_roundwood_production_fea2,m3,measure
+Industrial wastewater - CH4 emissions,industrial_wastewater_ch4_emissions_eaw,gigagrams,measure
+Industrial wastewater - Emissions (CO2eq) (AR4),industrial_wastewater_emissions_co2eq_ar4_eaw,gigagrams,measure
+Industrial wastewater - Emissions (CO2eq) (AR5),industrial_wastewater_emissions_co2eq_ar5_eaw,gigagrams,measure
+Industrial wastewater - Emissions (CO2eq) (SAR),industrial_wastewater_emissions_co2eq_sar_eaw,gigagrams,measure
+Industrial wastewater - N2O emissions,industrial_wastewater_n2o_emissions_eaw,gigagrams,measure
 Infant food - Calories/Year,infant_food_calories_year_scl,million kcal,measure
 Infant food - Domestic supply quantity,infant_food_domestic_supply_quantity_fea,1000 tonnes,measure
 Infant food - Domestic supply quantity,infant_food_domestic_supply_quantity_fea1,1000 tonnes,measure
@@ -8330,27 +8432,57 @@ Insecticides  Organo-phosphates - Agricultural Use,insecticides_organo_phospha
 Insecticides  Other - Agricultural Use,insecticides_other_agricultural_use_ipu,tonnes,measure
 Insecticides  Pyrethroids - Agricultural Use,insecticides_pyrethroids_agricultural_use_ipu,tonnes,measure
 Insecticides  Seed Treatments - Agricultural Use,insecticides_seed_treatments_agricultural_use_ipu,tonnes,measure
-International Bunkers - CH4 emissions,international_bunkers_ch4_emissions_eeb,gigagrams,measure
-International Bunkers - CO2 emissions,international_bunkers_co2_emissions_eeb,gigagrams,measure
-International Bunkers - Emissions (CO2eq) (AR4),international_bunkers_emissions_co2eq_ar4_eeb,gigagrams,measure
-International Bunkers - Emissions (CO2eq) (AR5),international_bunkers_emissions_co2eq_ar5_eeb,gigagrams,measure
-International Bunkers - Emissions (CO2eq) (SAR),international_bunkers_emissions_co2eq_sar_eeb,gigagrams,measure
-International Bunkers - F-gases emissions,international_bunkers_f_gases_emissions_eeb,gigagrams,measure
-International Bunkers - N2O emissions,international_bunkers_n2o_emissions_eeb,gigagrams,measure
-International Bunkers - Share of total CH4 emissions,international_bunkers_share_of_total_ch4_emissions_eeb,%,measure
-International Bunkers - Share of total CO2 emissions,international_bunkers_share_of_total_co2_emissions_eeb,%,measure
-International Bunkers - Share of total emissions (AR4),international_bunkers_share_of_total_emissions_ar4_eeb,%,measure
-International Bunkers - Share of total emissions (AR5),international_bunkers_share_of_total_emissions_ar5_eeb,%,measure
-International Bunkers - Share of total emissions (SAR),international_bunkers_share_of_total_emissions_sar_eeb,%,measure
-International Bunkers - Share of  total F-gases emissions,international_bunkers_share_of_total_f_gases_emissions_eeb,%,measure
-International Bunkers - Share of total N2O emissions,international_bunkers_share_of_total_n2o_emissions_eeb,%,measure
+International bunkers - Emissions (CH4),international_bunkers_emissions_ch4_eeb,kilotonnes,measure
+International bunkers - Emissions (CO2),international_bunkers_emissions_co2_eeb,kilotonnes,measure
+International bunkers - Emissions (CO2eq) (AR5),international_bunkers_emissions_co2eq_ar5_eeb,kilotonnes,measure
+International bunkers - Emissions (F-gases),international_bunkers_emissions_f_gases_eeb,kilotonnes,measure
+International bunkers - Emissions (N2O),international_bunkers_emissions_n2o_eeb,kilotonnes,measure
+International bunkers - Emissions Share (CH4),international_bunkers_emissions_share_ch4_eeb,%,measure
+International bunkers - Emissions Share (CO2),international_bunkers_emissions_share_co2_eeb,%,measure
+International bunkers - Emissions Share (CO2eq) (AR5),international_bunkers_emissions_share_co2eq_ar5_eeb,%,measure
+International bunkers - Emissions Share (F-gases),international_bunkers_emissions_share_f_gases_eeb,%,measure
+International bunkers - Emissions Share (N2O),international_bunkers_emissions_share_n2o_eeb,%,measure
+International bunkers - food systems - Emissions (CH4),international_bunkers_food_systems_emissions_ch4_eeb,kilotonnes,measure
+International bunkers - food systems - Emissions (CO2),international_bunkers_food_systems_emissions_co2_eeb,kilotonnes,measure
+International bunkers - food systems - Emissions (CO2eq) (AR5),international_bunkers_food_systems_emissions_co2eq_ar5_eeb,kilotonnes,measure
+International bunkers - food systems - Emissions (F-gases),international_bunkers_food_systems_emissions_f_gases_eeb,kilotonnes,measure
+International bunkers - food systems - Emissions (N2O),international_bunkers_food_systems_emissions_n2o_eeb,kilotonnes,measure
+International bunkers - food systems - Emissions Share (CH4),international_bunkers_food_systems_emissions_share_ch4_eeb,%,measure
+International bunkers - food systems - Emissions Share (CO2),international_bunkers_food_systems_emissions_share_co2_eeb,%,measure
+International bunkers - food systems - Emissions Share (CO2eq) (AR5),international_bunkers_food_systems_emissions_share_co2eq_ar5_eeb,%,measure
+International bunkers - food systems - Emissions Share (F-gases),international_bunkers_food_systems_emissions_share_f_gases_eeb,%,measure
+International bunkers - food systems - Emissions Share (N2O),international_bunkers_food_systems_emissions_share_n2o_eeb,%,measure
 IPCC Agriculture - Direct emissions (N2O),ipcc_agriculture_direct_emissions_n2o_ete,kilotonnes,measure
+IPCC Agriculture - Emissions (CH4),ipcc_agriculture_emissions_ch4_eeb,kilotonnes,measure
 IPCC Agriculture - Emissions (CH4),ipcc_agriculture_emissions_ch4_ete,kilotonnes,measure
+IPCC Agriculture - Emissions (CO2),ipcc_agriculture_emissions_co2_eeb,kilotonnes,measure
+IPCC Agriculture - Emissions (CO2eq) (AR5),ipcc_agriculture_emissions_co2eq_ar5_eeb,kilotonnes,measure
 IPCC Agriculture - Emissions (CO2eq) (AR5),ipcc_agriculture_emissions_co2eq_ar5_ete,kilotonnes,measure
 IPCC Agriculture - Emissions (CO2eq) from CH4 (AR5),ipcc_agriculture_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 IPCC Agriculture - Emissions (CO2eq) from N2O (AR5),ipcc_agriculture_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
+IPCC Agriculture - Emissions (F-gases),ipcc_agriculture_emissions_f_gases_eeb,kilotonnes,measure
+IPCC Agriculture - Emissions (N2O),ipcc_agriculture_emissions_n2o_eeb,kilotonnes,measure
 IPCC Agriculture - Emissions (N2O),ipcc_agriculture_emissions_n2o_ete,kilotonnes,measure
+IPCC Agriculture - Emissions Share (CH4),ipcc_agriculture_emissions_share_ch4_eeb,%,measure
+IPCC Agriculture - Emissions Share (CO2),ipcc_agriculture_emissions_share_co2_eeb,%,measure
+IPCC Agriculture - Emissions Share (CO2eq) (AR5),ipcc_agriculture_emissions_share_co2eq_ar5_eeb,%,measure
+IPCC Agriculture - Emissions Share (F-gases),ipcc_agriculture_emissions_share_f_gases_eeb,%,measure
+IPCC Agriculture - Emissions Share (N2O),ipcc_agriculture_emissions_share_n2o_eeb,%,measure
 IPCC Agriculture - Indirect emissions (N2O),ipcc_agriculture_indirect_emissions_n2o_ete,kilotonnes,measure
+IPPU - Emissions (CH4),ippu_emissions_ch4_eeb,kilotonnes,measure
+IPPU - Emissions (CO2),ippu_emissions_co2_eeb,kilotonnes,measure
+IPPU - Emissions (CO2eq) (AR5),ippu_emissions_co2eq_ar5_eeb,kilotonnes,measure
+IPPU - Emissions (F-gases),ippu_emissions_f_gases_eeb,kilotonnes,measure
+IPPU - Emissions (N2O),ippu_emissions_n2o_eeb,kilotonnes,measure
+IPPU - Emissions Share (CH4),ippu_emissions_share_ch4_eeb,%,measure
+IPPU - Emissions Share (CO2),ippu_emissions_share_co2_eeb,%,measure
+IPPU - Emissions Share (CO2eq) (AR5),ippu_emissions_share_co2eq_ar5_eeb,%,measure
+IPPU - Emissions Share (F-gases),ippu_emissions_share_f_gases_eeb,%,measure
+IPPU - Emissions Share (N2O),ippu_emissions_share_n2o_eeb,%,measure
+IPPU - food systems - Emissions (CO2eq) (AR5),ippu_food_systems_emissions_co2eq_ar5_eeb,kilotonnes,measure
+IPPU - food systems - Emissions (F-gases),ippu_food_systems_emissions_f_gases_eeb,kilotonnes,measure
+IPPU - food systems - Emissions Share (CO2eq) (AR5),ippu_food_systems_emissions_share_co2eq_ar5_eeb,%,measure
+IPPU - food systems - Emissions Share (F-gases),ippu_food_systems_emissions_share_f_gases_eeb,%,measure
 Isoglucose - Calories/Year,isoglucose_calories_year_scl,million kcal,measure
 Isoglucose - Export Quantity,isoglucose_export_quantity_scl,tonnes,measure
 Isoglucose - Fat supply quantity (g/capita/day),isoglucose_fat_supply_quantity_g_capita_day_scl,g/capita/day,measure
@@ -8977,12 +9109,22 @@ Land under permanent crops - Share in Agricultural land,land_under_permanent_cro
 Land under protective cover - Area,land_under_protective_cover_area_ile,1000 ha,measure
 Land under temp. meadows and pastures - Area,land_under_temp_meadows_and_pastures_area_ile,1000 ha,measure
 Land under temporary crops - Area,land_under_temporary_crops_area_ile,1000 ha,measure
+Land Use change - Emissions (CH4),land_use_change_emissions_ch4_eeb,kilotonnes,measure
 Land Use change - Emissions (CH4),land_use_change_emissions_ch4_ete,kilotonnes,measure
+Land Use change - Emissions (CO2),land_use_change_emissions_co2_eeb,kilotonnes,measure
 Land Use change - Emissions (CO2),land_use_change_emissions_co2_ete,kilotonnes,measure
+Land Use change - Emissions (CO2eq) (AR5),land_use_change_emissions_co2eq_ar5_eeb,kilotonnes,measure
 Land Use change - Emissions (CO2eq) (AR5),land_use_change_emissions_co2eq_ar5_ete,kilotonnes,measure
 Land Use change - Emissions (CO2eq) from CH4 (AR5),land_use_change_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 Land Use change - Emissions (CO2eq) from N2O (AR5),land_use_change_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
+Land Use change - Emissions (F-gases),land_use_change_emissions_f_gases_eeb,kilotonnes,measure
+Land Use change - Emissions (N2O),land_use_change_emissions_n2o_eeb,kilotonnes,measure
 Land Use change - Emissions (N2O),land_use_change_emissions_n2o_ete,kilotonnes,measure
+Land Use change - Emissions Share (CH4),land_use_change_emissions_share_ch4_eeb,%,measure
+Land Use change - Emissions Share (CO2),land_use_change_emissions_share_co2_eeb,%,measure
+Land Use change - Emissions Share (CO2eq) (AR5),land_use_change_emissions_share_co2eq_ar5_eeb,%,measure
+Land Use change - Emissions Share (F-gases),land_use_change_emissions_share_f_gases_eeb,%,measure
+Land Use change - Emissions Share (N2O),land_use_change_emissions_share_n2o_eeb,%,measure
 Land used for aquaculture - Area,land_used_for_aquaculture_area_ile,1000 ha,measure
 Land with temporary fallow - Area,land_with_temporary_fallow_area_ile,1000 ha,measure
 Lard - Calories/Year,lard_calories_year_scl,million kcal,measure
@@ -9323,12 +9465,32 @@ Llamas - Stocks,llamas_stocks_eam,Head,measure
 Llamas - Stocks,llamas_stocks_eam1,Head,measure
 Llamas - Stocks,llamas_stocks_eam2,Head,measure
 Llamas - Stocks,llamas_stocks_ele2,Head,measure
+LULUCF - Emissions (CH4),lulucf_emissions_ch4_eeb,kilotonnes,measure
 LULUCF - Emissions (CH4),lulucf_emissions_ch4_ete,kilotonnes,measure
+LULUCF - Emissions (CO2),lulucf_emissions_co2_eeb,kilotonnes,measure
 LULUCF - Emissions (CO2),lulucf_emissions_co2_ete,kilotonnes,measure
+LULUCF - Emissions (CO2eq) (AR5),lulucf_emissions_co2eq_ar5_eeb,kilotonnes,measure
 LULUCF - Emissions (CO2eq) (AR5),lulucf_emissions_co2eq_ar5_ete,kilotonnes,measure
 LULUCF - Emissions (CO2eq) from CH4 (AR5),lulucf_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 LULUCF - Emissions (CO2eq) from N2O (AR5),lulucf_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
+LULUCF - Emissions (F-gases),lulucf_emissions_f_gases_eeb,kilotonnes,measure
+LULUCF - Emissions (N2O),lulucf_emissions_n2o_eeb,kilotonnes,measure
 LULUCF - Emissions (N2O),lulucf_emissions_n2o_ete,kilotonnes,measure
+LULUCF - Emissions Share (CH4),lulucf_emissions_share_ch4_eeb,%,measure
+LULUCF - Emissions Share (CO2),lulucf_emissions_share_co2_eeb,%,measure
+LULUCF - Emissions Share (CO2eq) (AR5),lulucf_emissions_share_co2eq_ar5_eeb,%,measure
+LULUCF - Emissions Share (F-gases),lulucf_emissions_share_f_gases_eeb,%,measure
+LULUCF - Emissions Share (N2O),lulucf_emissions_share_n2o_eeb,%,measure
+LULUCF - food systems - Emissions (CH4),lulucf_food_systems_emissions_ch4_eeb,kilotonnes,measure
+LULUCF - food systems - Emissions (CO2),lulucf_food_systems_emissions_co2_eeb,kilotonnes,measure
+LULUCF - food systems - Emissions (CO2eq) (AR5),lulucf_food_systems_emissions_co2eq_ar5_eeb,kilotonnes,measure
+LULUCF - food systems - Emissions (F-gases),lulucf_food_systems_emissions_f_gases_eeb,kilotonnes,measure
+LULUCF - food systems - Emissions (N2O),lulucf_food_systems_emissions_n2o_eeb,kilotonnes,measure
+LULUCF - food systems - Emissions Share (CH4),lulucf_food_systems_emissions_share_ch4_eeb,%,measure
+LULUCF - food systems - Emissions Share (CO2),lulucf_food_systems_emissions_share_co2_eeb,%,measure
+LULUCF - food systems - Emissions Share (CO2eq) (AR5),lulucf_food_systems_emissions_share_co2eq_ar5_eeb,%,measure
+LULUCF - food systems - Emissions Share (F-gases),lulucf_food_systems_emissions_share_f_gases_eeb,%,measure
+LULUCF - food systems - Emissions Share (N2O),lulucf_food_systems_emissions_share_n2o_eeb,%,measure
 Lupins - Area harvested,lupins_area_harvested_pcl,ha,measure
 Lupins - Calories/Year,lupins_calories_year_scl,million kcal,measure
 Lupins - Export Quantity,lupins_export_quantity_scl,tonnes,measure
@@ -13591,6 +13753,16 @@ Olives - Residuals,olives_residuals_scl,tonnes,measure
 Olives - Stock Variation,olives_stock_variation_scl,tonnes,measure
 Olives - Tourist consumption,olives_tourist_consumption_scl,tonnes,measure
 Olives - Yield,olives_yield_pcl,hg/ha,measure
+On-farm electricity use - Emissions (CH4),on_farm_electricity_use_emissions_ch4_eeb,kilotonnes,measure
+On-farm electricity use - Emissions (CO2),on_farm_electricity_use_emissions_co2_eeb,kilotonnes,measure
+On-farm electricity use - Emissions (CO2eq) (AR5),on_farm_electricity_use_emissions_co2eq_ar5_eeb,kilotonnes,measure
+On-farm electricity use - Emissions (F-gases),on_farm_electricity_use_emissions_f_gases_eeb,kilotonnes,measure
+On-farm electricity use - Emissions (N2O),on_farm_electricity_use_emissions_n2o_eeb,kilotonnes,measure
+On-farm electricity use - Emissions Share (CH4),on_farm_electricity_use_emissions_share_ch4_eeb,%,measure
+On-farm electricity use - Emissions Share (CO2),on_farm_electricity_use_emissions_share_co2_eeb,%,measure
+On-farm electricity use - Emissions Share (CO2eq) (AR5),on_farm_electricity_use_emissions_share_co2eq_ar5_eeb,%,measure
+On-farm electricity use - Emissions Share (F-gases),on_farm_electricity_use_emissions_share_f_gases_eeb,%,measure
+On-farm electricity use - Emissions Share (N2O),on_farm_electricity_use_emissions_share_n2o_eeb,%,measure
 On-farm energy use - Emissions (CH4),on_farm_energy_use_emissions_ch4_ete,kilotonnes,measure
 On-farm energy use - Emissions (CO2),on_farm_energy_use_emissions_co2_ete,kilotonnes,measure
 On-farm energy use - Emissions (CO2eq) (AR5),on_farm_energy_use_emissions_co2eq_ar5_ete,kilotonnes,measure
@@ -13811,6 +13983,16 @@ Other Agricultural tractors (two-axle tractors) - Export Value,other_agricultura
 Other Agricultural tractors (two-axle tractors) - Import Quantity,other_agricultural_tractors_two_axle_tractors_import_quantity_ime1,No,measure
 Other Agricultural tractors (two-axle tractors) - Import Value,other_agricultural_tractors_two_axle_tractors_import_value_ime1,1000 US$,measure
 Other Agricultural tractors (two-axle tractors) - In Use,other_agricultural_tractors_two_axle_tractors_in_use_ime1,No,measure
+Other - Emissions (CH4),other_emissions_ch4_eeb,kilotonnes,measure
+Other - Emissions (CO2),other_emissions_co2_eeb,kilotonnes,measure
+Other - Emissions (CO2eq) (AR5),other_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Other - Emissions (F-gases),other_emissions_f_gases_eeb,kilotonnes,measure
+Other - Emissions (N2O),other_emissions_n2o_eeb,kilotonnes,measure
+Other - Emissions Share (CH4),other_emissions_share_ch4_eeb,%,measure
+Other - Emissions Share (CO2),other_emissions_share_co2_eeb,%,measure
+Other - Emissions Share (CO2eq) (AR5),other_emissions_share_co2eq_ar5_eeb,%,measure
+Other - Emissions Share (F-gases),other_emissions_share_f_gases_eeb,%,measure
+Other - Emissions Share (N2O),other_emissions_share_n2o_eeb,%,measure
 Other fibreboard - Export Quantity,other_fibreboard_export_quantity_fea2,m3,measure
 Other fibreboard - Export Value,other_fibreboard_export_value_fea2,1000 US$,measure
 Other fibreboard - Import Quantity,other_fibreboard_import_quantity_fea2,m3,measure
@@ -13875,20 +14057,6 @@ Other Meat - Import Value Base Period Price,other_meat_import_value_base_period_
 Other Meat - Import Value Base Period Quantity,other_meat_import_value_base_period_quantity_tie,1000 $,measure
 Other Meat - Import Value Index (2014-2016 = 100),other_meat_import_value_index_2014_2016_100_tie,index,measure
 Other Meat - Import Value,other_meat_import_value_tce,1000 US$,measure
-Other n.e.c. - CH4 emissions,other_n_e_c_ch4_emissions_eeb,gigagrams,measure
-Other n.e.c. - CO2 emissions,other_n_e_c_co2_emissions_eeb,gigagrams,measure
-Other n.e.c. - Emissions (CO2eq) (AR4),other_n_e_c_emissions_co2eq_ar4_eeb,gigagrams,measure
-Other n.e.c. - Emissions (CO2eq) (AR5),other_n_e_c_emissions_co2eq_ar5_eeb,gigagrams,measure
-Other n.e.c. - Emissions (CO2eq) (SAR),other_n_e_c_emissions_co2eq_sar_eeb,gigagrams,measure
-Other n.e.c. - F-gases emissions,other_n_e_c_f_gases_emissions_eeb,gigagrams,measure
-Other n.e.c. - N2O emissions,other_n_e_c_n2o_emissions_eeb,gigagrams,measure
-Other n.e.c. - Share of total CH4 emissions,other_n_e_c_share_of_total_ch4_emissions_eeb,%,measure
-Other n.e.c. - Share of total CO2 emissions,other_n_e_c_share_of_total_co2_emissions_eeb,%,measure
-Other n.e.c. - Share of total emissions (AR4),other_n_e_c_share_of_total_emissions_ar4_eeb,%,measure
-Other n.e.c. - Share of total emissions (AR5),other_n_e_c_share_of_total_emissions_ar5_eeb,%,measure
-Other n.e.c. - Share of total emissions (SAR),other_n_e_c_share_of_total_emissions_sar_eeb,%,measure
-Other n.e.c. - Share of  total F-gases emissions,other_n_e_c_share_of_total_f_gases_emissions_eeb,%,measure
-Other n.e.c. - Share of total N2O emissions,other_n_e_c_share_of_total_n2o_emissions_eeb,%,measure
 "Other nitrogenous fertilizers, n.e.c. - Agricultural Use",other_nitrogenous_fertilizers_n_e_c_agricultural_use_ife2,tonnes,measure
 "Other nitrogenous fertilizers, n.e.c. - Export Quantity",other_nitrogenous_fertilizers_n_e_c_export_quantity_ife2,tonnes,measure
 "Other nitrogenous fertilizers, n.e.c. - Export Value",other_nitrogenous_fertilizers_n_e_c_export_value_ife2,1000 US$,measure
@@ -15217,6 +15385,16 @@ Poultry Meat - Residuals,poultry_meat_residuals_fea1,1000 tonnes,measure
 Poultry Meat - Stock Variation,poultry_meat_stock_variation_fea,1000 tonnes,measure
 Poultry Meat - Stock Variation,poultry_meat_stock_variation_fea1,1000 tonnes,measure
 Poultry Meat - Tourist consumption,poultry_meat_tourist_consumption_fea1,1000 tonnes,measure
+Pre- and post- production - Emissions (CH4),pre_and_post_production_emissions_ch4_eeb,kilotonnes,measure
+Pre- and post- production - Emissions (CO2),pre_and_post_production_emissions_co2_eeb,kilotonnes,measure
+Pre- and post- production - Emissions (CO2eq) (AR5),pre_and_post_production_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Pre- and post- production - Emissions (F-gases),pre_and_post_production_emissions_f_gases_eeb,kilotonnes,measure
+Pre- and post- production - Emissions (N2O),pre_and_post_production_emissions_n2o_eeb,kilotonnes,measure
+Pre- and post- production - Emissions Share (CH4),pre_and_post_production_emissions_share_ch4_eeb,%,measure
+Pre- and post- production - Emissions Share (CO2),pre_and_post_production_emissions_share_co2_eeb,%,measure
+Pre- and post- production - Emissions Share (CO2eq) (AR5),pre_and_post_production_emissions_share_co2eq_ar5_eeb,%,measure
+Pre- and post- production - Emissions Share (F-gases),pre_and_post_production_emissions_share_f_gases_eeb,%,measure
+Pre- and post- production - Emissions Share (N2O),pre_and_post_production_emissions_share_n2o_eeb,%,measure
 Primary Forest - Area,primary_forest_area_ile,1000 ha,measure
 "Printing and writing papers, coated - Export Quantity",printing_and_writing_papers_coated_export_quantity_fea2,tonnes,measure
 "Printing and writing papers, coated - Export Value",printing_and_writing_papers_coated_export_value_fea2,1000 US$,measure
@@ -16671,6 +16849,10 @@ Soil nutrient budget - Cropland nutrient flow,soil_nutrient_budget_cropland_nutr
 Soil nutrient budget - Cropland nutrient flow per unit area,soil_nutrient_budget_cropland_nutrient_flow_per_unit_area_esn,kg/ha,measure
 Soil working equipment (trade) - Export Value,soil_working_equipment_trade_export_value_ime1,1000 US$,measure
 Soil working equipment (trade) - Import Value,soil_working_equipment_trade_import_value_ime1,1000 US$,measure
+Solid food waste - CH4 emissions,solid_food_waste_ch4_emissions_eaw,gigagrams,measure
+Solid food waste - Emissions (CO2eq) (AR4),solid_food_waste_emissions_co2eq_ar4_eaw,gigagrams,measure
+Solid food waste - Emissions (CO2eq) (AR5),solid_food_waste_emissions_co2eq_ar5_eaw,gigagrams,measure
+Solid food waste - Emissions (CO2eq) (SAR),solid_food_waste_emissions_co2eq_sar_eaw,gigagrams,measure
 Sorghum and products - Domestic supply quantity,sorghum_and_products_domestic_supply_quantity_fea,1000 tonnes,measure
 Sorghum and products - Domestic supply quantity,sorghum_and_products_domestic_supply_quantity_fea1,1000 tonnes,measure
 Sorghum and products - Export Quantity,sorghum_and_products_export_quantity_fea,1000 tonnes,measure
@@ -18589,34 +18771,6 @@ Tomatoes - Yield,tomatoes_yield_pcl,hg/ha,measure
 Total Credit - Value Local Currency,total_credit_value_local_currency_ice2,millions,measure
 "Total Credit - Value US$, 2015 prices",total_credit_value_us_2015_prices_ice2,millions,measure
 Total Credit - Value US$,total_credit_value_us_ice2,millions,measure
-Total emissions with agricultural land use - CH4 emissions,total_emissions_with_agricultural_land_use_ch4_emissions_eeb,gigagrams,measure
-Total emissions with agricultural land use - CO2 emissions,total_emissions_with_agricultural_land_use_co2_emissions_eeb,gigagrams,measure
-Total emissions with agricultural land use - Emissions (CO2eq) (AR4),total_emissions_with_agricultural_land_use_emissions_co2eq_ar4_eeb,gigagrams,measure
-Total emissions with agricultural land use - Emissions (CO2eq) (AR5),total_emissions_with_agricultural_land_use_emissions_co2eq_ar5_eeb,gigagrams,measure
-Total emissions with agricultural land use - Emissions (CO2eq) (SAR),total_emissions_with_agricultural_land_use_emissions_co2eq_sar_eeb,gigagrams,measure
-Total emissions with agricultural land use - F-gases emissions,total_emissions_with_agricultural_land_use_f_gases_emissions_eeb,gigagrams,measure
-Total emissions with agricultural land use - N2O emissions,total_emissions_with_agricultural_land_use_n2o_emissions_eeb,gigagrams,measure
-Total emissions with agricultural land use - Share of total CH4 emissions,total_emissions_with_agricultural_land_use_share_of_total_ch4_emissions_eeb,%,measure
-Total emissions with agricultural land use - Share of total CO2 emissions,total_emissions_with_agricultural_land_use_share_of_total_co2_emissions_eeb,%,measure
-Total emissions with agricultural land use - Share of total emissions (AR4),total_emissions_with_agricultural_land_use_share_of_total_emissions_ar4_eeb,%,measure
-Total emissions with agricultural land use - Share of total emissions (AR5),total_emissions_with_agricultural_land_use_share_of_total_emissions_ar5_eeb,%,measure
-Total emissions with agricultural land use - Share of total emissions (SAR),total_emissions_with_agricultural_land_use_share_of_total_emissions_sar_eeb,%,measure
-Total emissions with agricultural land use - Share of  total F-gases emissions,total_emissions_with_agricultural_land_use_share_of_total_f_gases_emissions_eeb,%,measure
-Total emissions with agricultural land use - Share of total N2O emissions,total_emissions_with_agricultural_land_use_share_of_total_n2o_emissions_eeb,%,measure
-Total emissions without land use - CH4 emissions,total_emissions_without_land_use_ch4_emissions_eeb,gigagrams,measure
-Total emissions without land use - CO2 emissions,total_emissions_without_land_use_co2_emissions_eeb,gigagrams,measure
-Total emissions without land use - Emissions (CO2eq) (AR4),total_emissions_without_land_use_emissions_co2eq_ar4_eeb,gigagrams,measure
-Total emissions without land use - Emissions (CO2eq) (AR5),total_emissions_without_land_use_emissions_co2eq_ar5_eeb,gigagrams,measure
-Total emissions without land use - Emissions (CO2eq) (SAR),total_emissions_without_land_use_emissions_co2eq_sar_eeb,gigagrams,measure
-Total emissions without land use - F-gases emissions,total_emissions_without_land_use_f_gases_emissions_eeb,gigagrams,measure
-Total emissions without land use - N2O emissions,total_emissions_without_land_use_n2o_emissions_eeb,gigagrams,measure
-Total emissions without land use - Share of total CH4 emissions,total_emissions_without_land_use_share_of_total_ch4_emissions_eeb,%,measure
-Total emissions without land use - Share of total CO2 emissions,total_emissions_without_land_use_share_of_total_co2_emissions_eeb,%,measure
-Total emissions without land use - Share of total emissions (AR4),total_emissions_without_land_use_share_of_total_emissions_ar4_eeb,%,measure
-Total emissions without land use - Share of total emissions (AR5),total_emissions_without_land_use_share_of_total_emissions_ar5_eeb,%,measure
-Total emissions without land use - Share of total emissions (SAR),total_emissions_without_land_use_share_of_total_emissions_sar_eeb,%,measure
-Total emissions without land use - Share of  total F-gases emissions,total_emissions_without_land_use_share_of_total_f_gases_emissions_eeb,%,measure
-Total emissions without land use - Share of total N2O emissions,total_emissions_without_land_use_share_of_total_n2o_emissions_eeb,%,measure
 Total Energy - Emissions (CH4),total_energy_emissions_ch4_eae,kilotonnes,measure
 Total Energy - Emissions (CO2),total_energy_emissions_co2_eae,kilotonnes,measure
 Total Energy - Emissions (N2O),total_energy_emissions_n2o_eae,kilotonnes,measure
@@ -18642,11 +18796,21 @@ Total fibre furnish - Import Value,total_fibre_furnish_import_value_fea2,1000 US
 Total fibre furnish - Production,total_fibre_furnish_production_fea2,tonnes,measure
 Total Merchandise Trade - Export Value,total_merchandise_trade_export_value_tce,1000 US$,measure
 Total Merchandise Trade - Import Value,total_merchandise_trade_import_value_tce,1000 US$,measure
+Total  waste from food systems - CH4 emissions,total_waste_from_food_systems_ch4_emissions_eaw,gigagrams,measure
+Total  waste from food systems - CO2 emissions,total_waste_from_food_systems_co2_emissions_eaw,gigagrams,measure
+Total  waste from food systems - Emissions (CO2eq) (AR4),total_waste_from_food_systems_emissions_co2eq_ar4_eaw,gigagrams,measure
+Total  waste from food systems - Emissions (CO2eq) (AR5),total_waste_from_food_systems_emissions_co2eq_ar5_eaw,gigagrams,measure
+Total  waste from food systems - Emissions (CO2eq) (SAR),total_waste_from_food_systems_emissions_co2eq_sar_eaw,gigagrams,measure
+Total  waste from food systems - N2O emissions,total_waste_from_food_systems_n2o_emissions_eaw,gigagrams,measure
 Track-laying tractors (crawlers) - Export Quantity,track_laying_tractors_crawlers_export_quantity_ime1,No,measure
 Track-laying tractors (crawlers) - Export Value,track_laying_tractors_crawlers_export_value_ime1,1000 US$,measure
 Track-laying tractors (crawlers) - Import Quantity,track_laying_tractors_crawlers_import_quantity_ime1,No,measure
 Track-laying tractors (crawlers) - Import Value,track_laying_tractors_crawlers_import_value_ime1,1000 US$,measure
 Track-laying tractors (crawlers) - In Use,track_laying_tractors_crawlers_in_use_ime1,No,measure
+Transport - CH4 emissions,transport_ch4_emissions_ete1,kilotonnes,measure
+Transport - CO2 emissions,transport_co2_emissions_ete1,kilotonnes,measure
+Transport - Emissions (CO2eq) (AR5),transport_emissions_co2eq_ar5_ete1,kilotonnes,measure
+Transport - N2O emissions,transport_n2o_emissions_ete1,kilotonnes,measure
 Tree-covered areas - Area from CCI_LC,tree_covered_areas_area_from_cci_lc_ele,1000 ha,measure
 Tree-covered areas - Area from MODIS,tree_covered_areas_area_from_modis_ele,1000 ha,measure
 Treenuts - Domestic supply quantity,treenuts_domestic_supply_quantity_fea,1000 tonnes,measure
@@ -19485,20 +19649,26 @@ Wafers - Tourist consumption,wafers_tourist_consumption_scl,tonnes,measure
 "Walnuts, with shell - Stock Variation",walnuts_with_shell_stock_variation_scl,tonnes,measure
 "Walnuts, with shell - Tourist consumption",walnuts_with_shell_tourist_consumption_scl,tonnes,measure
 "Walnuts, with shell - Yield",walnuts_with_shell_yield_pcl,hg/ha,measure
-Waste - CH4 emissions,waste_ch4_emissions_eeb,gigagrams,measure
-Waste - CO2 emissions,waste_co2_emissions_eeb,gigagrams,measure
-Waste - Emissions (CO2eq) (AR4),waste_emissions_co2eq_ar4_eeb,gigagrams,measure
-Waste - Emissions (CO2eq) (AR5),waste_emissions_co2eq_ar5_eeb,gigagrams,measure
-Waste - Emissions (CO2eq) (SAR),waste_emissions_co2eq_sar_eeb,gigagrams,measure
-Waste - F-gases emissions,waste_f_gases_emissions_eeb,gigagrams,measure
-Waste - N2O emissions,waste_n2o_emissions_eeb,gigagrams,measure
-Waste - Share of total CH4 emissions,waste_share_of_total_ch4_emissions_eeb,%,measure
-Waste - Share of total CO2 emissions,waste_share_of_total_co2_emissions_eeb,%,measure
-Waste - Share of total emissions (AR4),waste_share_of_total_emissions_ar4_eeb,%,measure
-Waste - Share of total emissions (AR5),waste_share_of_total_emissions_ar5_eeb,%,measure
-Waste - Share of total emissions (SAR),waste_share_of_total_emissions_sar_eeb,%,measure
-Waste - Share of  total F-gases emissions,waste_share_of_total_f_gases_emissions_eeb,%,measure
-Waste - Share of total N2O emissions,waste_share_of_total_n2o_emissions_eeb,%,measure
+Waste - Emissions (CH4),waste_emissions_ch4_eeb,kilotonnes,measure
+Waste - Emissions (CO2),waste_emissions_co2_eeb,kilotonnes,measure
+Waste - Emissions (CO2eq) (AR5),waste_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Waste - Emissions (F-gases),waste_emissions_f_gases_eeb,kilotonnes,measure
+Waste - Emissions (N2O),waste_emissions_n2o_eeb,kilotonnes,measure
+Waste - Emissions Share (CH4),waste_emissions_share_ch4_eeb,%,measure
+Waste - Emissions Share (CO2),waste_emissions_share_co2_eeb,%,measure
+Waste - Emissions Share (CO2eq) (AR5),waste_emissions_share_co2eq_ar5_eeb,%,measure
+Waste - Emissions Share (F-gases),waste_emissions_share_f_gases_eeb,%,measure
+Waste - Emissions Share (N2O),waste_emissions_share_n2o_eeb,%,measure
+Waste - food systems - Emissions (CH4),waste_food_systems_emissions_ch4_eeb,kilotonnes,measure
+Waste - food systems - Emissions (CO2),waste_food_systems_emissions_co2_eeb,kilotonnes,measure
+Waste - food systems - Emissions (CO2eq) (AR5),waste_food_systems_emissions_co2eq_ar5_eeb,kilotonnes,measure
+Waste - food systems - Emissions (F-gases),waste_food_systems_emissions_f_gases_eeb,kilotonnes,measure
+Waste - food systems - Emissions (N2O),waste_food_systems_emissions_n2o_eeb,kilotonnes,measure
+Waste - food systems - Emissions Share (CH4),waste_food_systems_emissions_share_ch4_eeb,%,measure
+Waste - food systems - Emissions Share (CO2),waste_food_systems_emissions_share_co2_eeb,%,measure
+Waste - food systems - Emissions Share (CO2eq) (AR5),waste_food_systems_emissions_share_co2eq_ar5_eeb,%,measure
+Waste - food systems - Emissions Share (F-gases),waste_food_systems_emissions_share_f_gases_eeb,%,measure
+Waste - food systems - Emissions Share (N2O),waste_food_systems_emissions_share_n2o_eeb,%,measure
 Watermelons - Area harvested,watermelons_area_harvested_pcl,ha,measure
 Watermelons - Calories/Year,watermelons_calories_year_scl,million kcal,measure
 Watermelons - Export Quantity,watermelons_export_quantity_scl,tonnes,measure
