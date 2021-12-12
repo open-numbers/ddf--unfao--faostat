@@ -159,8 +159,8 @@ Alcohol non food - Import Quantity,alcohol_non_food_import_quantity_scl,tonnes,m
 "Alcohol, Non-Food - Losses",alcohol_non_food_losses_c_e,tonnes,measure
 "Alcohol, Non-Food - Losses",alcohol_non_food_losses_fea,1000 tonnes,measure
 Alcohol non food - Opening stocks,alcohol_non_food_opening_stocks_scl,tonnes,measure
-"Alcohol, Non-Food - Other uses",alcohol_non_food_other_uses_fea,1000 tonnes,measure
 "Alcohol, Non-Food - Other uses (non-food)",alcohol_non_food_other_uses_non_food_c_e,tonnes,measure
+"Alcohol, Non-Food - Other uses (non-food)",alcohol_non_food_other_uses_non_food_fea,1000 tonnes,measure
 "Alcohol, Non-Food - Other uses (non-food)",alcohol_non_food_other_uses_non_food_fea1,1000 tonnes,measure
 Alcohol non food - Other uses (non-food),alcohol_non_food_other_uses_non_food_scl,tonnes,measure
 "Alcohol, Non-Food - Production",alcohol_non_food_production_c_e,tonnes,measure
@@ -209,8 +209,8 @@ Alcoholic Beverages - Import Value,alcoholic_beverages_import_value_tce,1000 US$
 Alcoholic Beverages - Losses,alcoholic_beverages_losses_c_e,tonnes,measure
 Alcoholic Beverages - Losses,alcoholic_beverages_losses_fea,1000 tonnes,measure
 Alcoholic Beverages - Losses,alcoholic_beverages_losses_fea1,1000 tonnes,measure
-Alcoholic Beverages - Other uses,alcoholic_beverages_other_uses_fea,1000 tonnes,measure
 Alcoholic Beverages - Other uses (non-food),alcoholic_beverages_other_uses_non_food_c_e,tonnes,measure
+Alcoholic Beverages - Other uses (non-food),alcoholic_beverages_other_uses_non_food_fea,1000 tonnes,measure
 Alcoholic Beverages - Other uses (non-food),alcoholic_beverages_other_uses_non_food_fea1,1000 tonnes,measure
 Alcoholic Beverages - Processing,alcoholic_beverages_processing_c_e,tonnes,measure
 Alcoholic Beverages - Processing,alcoholic_beverages_processing_fea,1000 tonnes,measure
@@ -402,7 +402,7 @@ Animal fats - Import Quantity,animal_fats_import_quantity_fea,1000 tonnes,measur
 Animal fats - Import Quantity,animal_fats_import_quantity_fea1,1000 tonnes,measure
 Animal fats - Losses,animal_fats_losses_fea,1000 tonnes,measure
 Animal fats - Losses,animal_fats_losses_fea1,1000 tonnes,measure
-Animal fats - Other uses,animal_fats_other_uses_fea,1000 tonnes,measure
+Animal fats - Other uses (non-food),animal_fats_other_uses_non_food_fea,1000 tonnes,measure
 Animal fats - Other uses (non-food),animal_fats_other_uses_non_food_fea1,1000 tonnes,measure
 Animal fats - Processing,animal_fats_processing_fea,1000 tonnes,measure
 Animal fats - Processing,animal_fats_processing_fea1,1000 tonnes,measure
@@ -483,7 +483,7 @@ Apples and products - Import Quantity,apples_and_products_import_quantity_fea,10
 Apples and products - Import Quantity,apples_and_products_import_quantity_fea1,1000 tonnes,measure
 Apples and products - Losses,apples_and_products_losses_fea,1000 tonnes,measure
 Apples and products - Losses,apples_and_products_losses_fea1,1000 tonnes,measure
-Apples and products - Other uses,apples_and_products_other_uses_fea,1000 tonnes,measure
+Apples and products - Other uses (non-food),apples_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Apples and products - Other uses (non-food),apples_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Apples and products - Processing,apples_and_products_processing_fea,1000 tonnes,measure
 Apples and products - Processing,apples_and_products_processing_fea1,1000 tonnes,measure
@@ -612,7 +612,7 @@ Apricots - Yield,apricots_yield_pcl,hg/ha,measure
 "Aquatic Animals, Others - Food supply quantity (kg/capita/yr)",aquatic_animals_others_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Aquatic Animals, Others - Import Quantity",aquatic_animals_others_import_quantity_fea,1000 tonnes,measure
 "Aquatic Animals, Others - Import Quantity",aquatic_animals_others_import_quantity_fea1,1000 tonnes,measure
-"Aquatic Animals, Others - Other uses",aquatic_animals_others_other_uses_fea,1000 tonnes,measure
+"Aquatic Animals, Others - Other uses (non-food)",aquatic_animals_others_other_uses_non_food_fea,1000 tonnes,measure
 "Aquatic Animals, Others - Other uses (non-food)",aquatic_animals_others_other_uses_non_food_fea1,1000 tonnes,measure
 "Aquatic Animals, Others - Production",aquatic_animals_others_production_fea,1000 tonnes,measure
 "Aquatic Animals, Others - Production",aquatic_animals_others_production_fea1,1000 tonnes,measure
@@ -638,7 +638,7 @@ Aquatic Plants - Food supply quantity (kg/capita/yr),aquatic_plants_food_supply_
 Aquatic Plants - Food supply quantity (kg/capita/yr),aquatic_plants_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Aquatic Plants - Import Quantity,aquatic_plants_import_quantity_fea,1000 tonnes,measure
 Aquatic Plants - Import Quantity,aquatic_plants_import_quantity_fea1,1000 tonnes,measure
-Aquatic Plants - Other uses,aquatic_plants_other_uses_fea,1000 tonnes,measure
+Aquatic Plants - Other uses (non-food),aquatic_plants_other_uses_non_food_fea,1000 tonnes,measure
 Aquatic Plants - Other uses (non-food),aquatic_plants_other_uses_non_food_fea1,1000 tonnes,measure
 Aquatic Plants - Production,aquatic_plants_production_fea,1000 tonnes,measure
 Aquatic Plants - Production,aquatic_plants_production_fea1,1000 tonnes,measure
@@ -662,13 +662,12 @@ Aquatic Plants - Stock Variation,aquatic_plants_stock_variation_fea1,1000 tonnes
 "Aquatic Products, Other - Food supply quantity (kg/capita/yr)",aquatic_products_other_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Aquatic Products, Other - Import Quantity",aquatic_products_other_import_quantity_fea,1000 tonnes,measure
 "Aquatic Products, Other - Import Quantity",aquatic_products_other_import_quantity_fea1,1000 tonnes,measure
-"Aquatic Products, Other - Other uses",aquatic_products_other_other_uses_fea,1000 tonnes,measure
+"Aquatic Products, Other - Other uses (non-food)",aquatic_products_other_other_uses_non_food_fea,1000 tonnes,measure
 "Aquatic Products, Other - Other uses (non-food)",aquatic_products_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Aquatic Products, Other - Production",aquatic_products_other_production_fea,1000 tonnes,measure
 "Aquatic Products, Other - Production",aquatic_products_other_production_fea1,1000 tonnes,measure
 "Aquatic Products, Other - Protein supply quantity (g/capita/day)",aquatic_products_other_protein_supply_quantity_g_capita_day_fea,g/capita/day,measure
 "Aquatic Products, Other - Protein supply quantity (g/capita/day)",aquatic_products_other_protein_supply_quantity_g_capita_day_fea1,g/capita/day,measure
-"Aquatic Products, Other - Seed",aquatic_products_other_seed_fea,1000 tonnes,measure
 "Aquatic Products, Other - Seed",aquatic_products_other_seed_fea1,1000 tonnes,measure
 "Aquatic Products, Other - Stock Variation",aquatic_products_other_stock_variation_fea,1000 tonnes,measure
 "Aquatic Products, Other - Stock Variation",aquatic_products_other_stock_variation_fea1,1000 tonnes,measure
@@ -998,7 +997,7 @@ Bananas non-Cavendish - Producer Price (LCU/tonne),bananas_non_cavendish_produce
 Bananas non-Cavendish - Producer Price (SLC/tonne),bananas_non_cavendish_producer_price_slc_tonne_pea2,SLC,measure
 Bananas non-Cavendish - Producer Price (USD/tonne),bananas_non_cavendish_producer_price_usd_tonne_pea2,USD,measure
 Bananas - Opening stocks,bananas_opening_stocks_scl,tonnes,measure
-Bananas - Other uses,bananas_other_uses_fea,1000 tonnes,measure
+Bananas - Other uses (non-food),bananas_other_uses_non_food_fea,1000 tonnes,measure
 Bananas - Other uses (non-food),bananas_other_uses_non_food_fea1,1000 tonnes,measure
 Bananas - Other uses (non-food),bananas_other_uses_non_food_scl,tonnes,measure
 Bananas - Processed,bananas_processed_scl,tonnes,measure
@@ -1042,7 +1041,7 @@ Barley and products - Import Quantity,barley_and_products_import_quantity_fea,10
 Barley and products - Import Quantity,barley_and_products_import_quantity_fea1,1000 tonnes,measure
 Barley and products - Losses,barley_and_products_losses_fea,1000 tonnes,measure
 Barley and products - Losses,barley_and_products_losses_fea1,1000 tonnes,measure
-Barley and products - Other uses,barley_and_products_other_uses_fea,1000 tonnes,measure
+Barley and products - Other uses (non-food),barley_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Barley and products - Other uses (non-food),barley_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Barley and products - Processing,barley_and_products_processing_fea,1000 tonnes,measure
 Barley and products - Processing,barley_and_products_processing_fea1,1000 tonnes,measure
@@ -1254,7 +1253,7 @@ Beans - Import Quantity,beans_import_quantity_fea,1000 tonnes,measure
 Beans - Import Quantity,beans_import_quantity_fea1,1000 tonnes,measure
 Beans - Losses,beans_losses_fea,1000 tonnes,measure
 Beans - Losses,beans_losses_fea1,1000 tonnes,measure
-Beans - Other uses,beans_other_uses_fea,1000 tonnes,measure
+Beans - Other uses (non-food),beans_other_uses_non_food_fea,1000 tonnes,measure
 Beans - Other uses (non-food),beans_other_uses_non_food_fea1,1000 tonnes,measure
 Beans - Processing,beans_processing_fea1,1000 tonnes,measure
 Beans - Production,beans_production_fea,1000 tonnes,measure
@@ -1365,7 +1364,7 @@ Beer of sorghum - Proteins/Year,beer_of_sorghum_proteins_year_scl,tonnes,measure
 Beer of sorghum - Residuals,beer_of_sorghum_residuals_scl,tonnes,measure
 Beer of sorghum - Stock Variation,beer_of_sorghum_stock_variation_scl,tonnes,measure
 Beer of sorghum - Tourist consumption,beer_of_sorghum_tourist_consumption_scl,tonnes,measure
-Beer - Other uses,beer_other_uses_fea,1000 tonnes,measure
+Beer - Other uses (non-food),beer_other_uses_non_food_fea,1000 tonnes,measure
 Beer - Other uses (non-food),beer_other_uses_non_food_fea1,1000 tonnes,measure
 Beer - Production,beer_production_fea,1000 tonnes,measure
 Beer - Production,beer_production_fea1,1000 tonnes,measure
@@ -1439,7 +1438,7 @@ Berries nes - Yield,berries_nes_yield_pcl,hg/ha,measure
 "Beverages, Alcoholic - Food supply quantity (kg/capita/yr)",beverages_alcoholic_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Beverages, Alcoholic - Import Quantity",beverages_alcoholic_import_quantity_fea,1000 tonnes,measure
 "Beverages, Alcoholic - Import Quantity",beverages_alcoholic_import_quantity_fea1,1000 tonnes,measure
-"Beverages, Alcoholic - Other uses",beverages_alcoholic_other_uses_fea,1000 tonnes,measure
+"Beverages, Alcoholic - Other uses (non-food)",beverages_alcoholic_other_uses_non_food_fea,1000 tonnes,measure
 "Beverages, Alcoholic - Other uses (non-food)",beverages_alcoholic_other_uses_non_food_fea1,1000 tonnes,measure
 "Beverages, Alcoholic - Production",beverages_alcoholic_production_fea,1000 tonnes,measure
 "Beverages, Alcoholic - Production",beverages_alcoholic_production_fea1,1000 tonnes,measure
@@ -1492,7 +1491,7 @@ Beverages - Export Value,beverages_export_value_tce,1000 US$,measure
 "Beverages, Fermented - Import Quantity",beverages_fermented_import_quantity_fea1,1000 tonnes,measure
 "Beverages, Fermented - Losses",beverages_fermented_losses_fea,1000 tonnes,measure
 "Beverages, Fermented - Losses",beverages_fermented_losses_fea1,1000 tonnes,measure
-"Beverages, Fermented - Other uses",beverages_fermented_other_uses_fea,1000 tonnes,measure
+"Beverages, Fermented - Other uses (non-food)",beverages_fermented_other_uses_non_food_fea,1000 tonnes,measure
 "Beverages, Fermented - Other uses (non-food)",beverages_fermented_other_uses_non_food_fea1,1000 tonnes,measure
 "Beverages, Fermented - Production",beverages_fermented_production_fea,1000 tonnes,measure
 "Beverages, Fermented - Production",beverages_fermented_production_fea1,1000 tonnes,measure
@@ -1619,7 +1618,7 @@ Bovine Meat - Import Value Index (2014-2016 = 100),bovine_meat_import_value_inde
 Bovine Meat - Import Value,bovine_meat_import_value_tce,1000 US$,measure
 Bovine Meat - Losses,bovine_meat_losses_fea,1000 tonnes,measure
 Bovine Meat - Losses,bovine_meat_losses_fea1,1000 tonnes,measure
-Bovine Meat - Other uses,bovine_meat_other_uses_fea,1000 tonnes,measure
+Bovine Meat - Other uses (non-food),bovine_meat_other_uses_non_food_fea,1000 tonnes,measure
 Bovine Meat - Other uses (non-food),bovine_meat_other_uses_non_food_fea1,1000 tonnes,measure
 Bovine Meat - Processing,bovine_meat_processing_fea,1000 tonnes,measure
 Bovine Meat - Processing,bovine_meat_processing_fea1,1000 tonnes,measure
@@ -2068,7 +2067,7 @@ Butter and Ghee - Production,butter_and_ghee_production_pcl,tonnes,measure
 "Butter, Ghee - Import Quantity",butter_ghee_import_quantity_fea1,1000 tonnes,measure
 "Butter, Ghee - Losses",butter_ghee_losses_fea,1000 tonnes,measure
 "Butter, Ghee - Losses",butter_ghee_losses_fea1,1000 tonnes,measure
-"Butter, Ghee - Other uses",butter_ghee_other_uses_fea,1000 tonnes,measure
+"Butter, Ghee - Other uses (non-food)",butter_ghee_other_uses_non_food_fea,1000 tonnes,measure
 "Butter, Ghee - Other uses (non-food)",butter_ghee_other_uses_non_food_fea1,1000 tonnes,measure
 "Butter, Ghee - Production",butter_ghee_production_fea,1000 tonnes,measure
 "Butter, Ghee - Production",butter_ghee_production_fea1,1000 tonnes,measure
@@ -2638,7 +2637,7 @@ Cassava and products - Import Quantity,cassava_and_products_import_quantity_fea,
 Cassava and products - Import Quantity,cassava_and_products_import_quantity_fea1,1000 tonnes,measure
 Cassava and products - Losses,cassava_and_products_losses_fea,1000 tonnes,measure
 Cassava and products - Losses,cassava_and_products_losses_fea1,1000 tonnes,measure
-Cassava and products - Other uses,cassava_and_products_other_uses_fea,1000 tonnes,measure
+Cassava and products - Other uses (non-food),cassava_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Cassava and products - Other uses (non-food),cassava_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Cassava and products - Processing,cassava_and_products_processing_fea,1000 tonnes,measure
 Cassava and products - Processing,cassava_and_products_processing_fea1,1000 tonnes,measure
@@ -2934,7 +2933,7 @@ Cephalopods - Food supply quantity (kg/capita/yr),cephalopods_food_supply_quanti
 Cephalopods - Food supply quantity (kg/capita/yr),cephalopods_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Cephalopods - Import Quantity,cephalopods_import_quantity_fea,1000 tonnes,measure
 Cephalopods - Import Quantity,cephalopods_import_quantity_fea1,1000 tonnes,measure
-Cephalopods - Other uses,cephalopods_other_uses_fea,1000 tonnes,measure
+Cephalopods - Other uses (non-food),cephalopods_other_uses_non_food_fea,1000 tonnes,measure
 Cephalopods - Other uses (non-food),cephalopods_other_uses_non_food_fea1,1000 tonnes,measure
 Cephalopods - Production,cephalopods_production_fea,1000 tonnes,measure
 Cephalopods - Production,cephalopods_production_fea1,1000 tonnes,measure
@@ -3041,7 +3040,7 @@ Cereals - Excluding Beer - Import Quantity,cereals_excluding_beer_import_quantit
 Cereals - Excluding Beer - Import Quantity,cereals_excluding_beer_import_quantity_fea1,1000 tonnes,measure
 Cereals - Excluding Beer - Losses,cereals_excluding_beer_losses_fea,1000 tonnes,measure
 Cereals - Excluding Beer - Losses,cereals_excluding_beer_losses_fea1,1000 tonnes,measure
-Cereals - Excluding Beer - Other uses,cereals_excluding_beer_other_uses_fea,1000 tonnes,measure
+Cereals - Excluding Beer - Other uses (non-food),cereals_excluding_beer_other_uses_non_food_fea,1000 tonnes,measure
 Cereals - Excluding Beer - Other uses (non-food),cereals_excluding_beer_other_uses_non_food_fea1,1000 tonnes,measure
 Cereals - Excluding Beer - Processing,cereals_excluding_beer_processing_fea,1000 tonnes,measure
 Cereals - Excluding Beer - Processing,cereals_excluding_beer_processing_fea1,1000 tonnes,measure
@@ -3124,7 +3123,7 @@ Cereals nes - Yield,cereals_nes_yield_pcl,hg/ha,measure
 "Cereals, Other - Import Quantity",cereals_other_import_quantity_fea1,1000 tonnes,measure
 "Cereals, Other - Losses",cereals_other_losses_fea,1000 tonnes,measure
 "Cereals, Other - Losses",cereals_other_losses_fea1,1000 tonnes,measure
-"Cereals, Other - Other uses",cereals_other_other_uses_fea,1000 tonnes,measure
+"Cereals, Other - Other uses (non-food)",cereals_other_other_uses_non_food_fea,1000 tonnes,measure
 "Cereals, Other - Other uses (non-food)",cereals_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Cereals, Other - Processing",cereals_other_processing_fea,1000 tonnes,measure
 "Cereals, Other - Processing",cereals_other_processing_fea1,1000 tonnes,measure
@@ -3791,7 +3790,7 @@ Cinnamon (cannella) - Yield,cinnamon_cannella_yield_pcl,hg/ha,measure
 "Citrus, Other - Import Quantity",citrus_other_import_quantity_fea1,1000 tonnes,measure
 "Citrus, Other - Losses",citrus_other_losses_fea,1000 tonnes,measure
 "Citrus, Other - Losses",citrus_other_losses_fea1,1000 tonnes,measure
-"Citrus, Other - Other uses",citrus_other_other_uses_fea,1000 tonnes,measure
+"Citrus, Other - Other uses (non-food)",citrus_other_other_uses_non_food_fea,1000 tonnes,measure
 "Citrus, Other - Other uses (non-food)",citrus_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Citrus, Other - Processing",citrus_other_processing_fea,1000 tonnes,measure
 "Citrus, Other - Processing",citrus_other_processing_fea1,1000 tonnes,measure
@@ -3850,7 +3849,7 @@ Cloves - Loss,cloves_loss_scl,tonnes,measure
 Cloves - Losses,cloves_losses_fea,1000 tonnes,measure
 Cloves - Losses,cloves_losses_fea1,1000 tonnes,measure
 Cloves - Opening stocks,cloves_opening_stocks_scl,tonnes,measure
-Cloves - Other uses,cloves_other_uses_fea,1000 tonnes,measure
+Cloves - Other uses (non-food),cloves_other_uses_non_food_fea,1000 tonnes,measure
 Cloves - Other uses (non-food),cloves_other_uses_non_food_fea1,1000 tonnes,measure
 Cloves - Other uses (non-food),cloves_other_uses_non_food_scl,tonnes,measure
 Cloves - Producer Price Index (2014-2016 = 100),cloves_producer_price_index_2014_2016_100_pea2,,measure
@@ -3899,7 +3898,7 @@ Cocoa Beans and products - Import Quantity,cocoa_beans_and_products_import_quant
 Cocoa Beans and products - Import Quantity,cocoa_beans_and_products_import_quantity_fea1,1000 tonnes,measure
 Cocoa Beans and products - Losses,cocoa_beans_and_products_losses_fea,1000 tonnes,measure
 Cocoa Beans and products - Losses,cocoa_beans_and_products_losses_fea1,1000 tonnes,measure
-Cocoa Beans and products - Other uses,cocoa_beans_and_products_other_uses_fea,1000 tonnes,measure
+Cocoa Beans and products - Other uses (non-food),cocoa_beans_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Cocoa Beans and products - Other uses (non-food),cocoa_beans_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Cocoa Beans and products - Processing,cocoa_beans_and_products_processing_fea,1000 tonnes,measure
 Cocoa Beans and products - Processing,cocoa_beans_and_products_processing_fea1,1000 tonnes,measure
@@ -4068,7 +4067,7 @@ Coconut Oil - Import Quantity,coconut_oil_import_quantity_fea,1000 tonnes,measur
 Coconut Oil - Import Quantity,coconut_oil_import_quantity_fea1,1000 tonnes,measure
 Coconut Oil - Losses,coconut_oil_losses_fea,1000 tonnes,measure
 Coconut Oil - Losses,coconut_oil_losses_fea1,1000 tonnes,measure
-Coconut Oil - Other uses,coconut_oil_other_uses_fea,1000 tonnes,measure
+Coconut Oil - Other uses (non-food),coconut_oil_other_uses_non_food_fea,1000 tonnes,measure
 Coconut Oil - Other uses (non-food),coconut_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Coconut Oil - Processing,coconut_oil_processing_fea,1000 tonnes,measure
 Coconut Oil - Processing,coconut_oil_processing_fea1,1000 tonnes,measure
@@ -4159,7 +4158,7 @@ Coconuts - Incl Copra - Import Quantity,coconuts_incl_copra_import_quantity_fea,
 Coconuts - Incl Copra - Import Quantity,coconuts_incl_copra_import_quantity_fea1,1000 tonnes,measure
 Coconuts - Incl Copra - Losses,coconuts_incl_copra_losses_fea,1000 tonnes,measure
 Coconuts - Incl Copra - Losses,coconuts_incl_copra_losses_fea1,1000 tonnes,measure
-Coconuts - Incl Copra - Other uses,coconuts_incl_copra_other_uses_fea,1000 tonnes,measure
+Coconuts - Incl Copra - Other uses (non-food),coconuts_incl_copra_other_uses_non_food_fea,1000 tonnes,measure
 Coconuts - Incl Copra - Other uses (non-food),coconuts_incl_copra_other_uses_non_food_fea1,1000 tonnes,measure
 Coconuts - Incl Copra - Processing,coconuts_incl_copra_processing_fea,1000 tonnes,measure
 Coconuts - Incl Copra - Processing,coconuts_incl_copra_processing_fea1,1000 tonnes,measure
@@ -4209,7 +4208,7 @@ Coffee and products - Import Quantity,coffee_and_products_import_quantity_fea,10
 Coffee and products - Import Quantity,coffee_and_products_import_quantity_fea1,1000 tonnes,measure
 Coffee and products - Losses,coffee_and_products_losses_fea,1000 tonnes,measure
 Coffee and products - Losses,coffee_and_products_losses_fea1,1000 tonnes,measure
-Coffee and products - Other uses,coffee_and_products_other_uses_fea,1000 tonnes,measure
+Coffee and products - Other uses (non-food),coffee_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Coffee and products - Other uses (non-food),coffee_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Coffee and products - Processing,coffee_and_products_processing_fea,1000 tonnes,measure
 Coffee and products - Processing,coffee_and_products_processing_fea1,1000 tonnes,measure
@@ -4519,7 +4518,7 @@ Cottonseed Oil - Import Quantity,cottonseed_oil_import_quantity_fea,1000 tonnes,
 Cottonseed Oil - Import Quantity,cottonseed_oil_import_quantity_fea1,1000 tonnes,measure
 Cottonseed Oil - Losses,cottonseed_oil_losses_fea,1000 tonnes,measure
 Cottonseed Oil - Losses,cottonseed_oil_losses_fea1,1000 tonnes,measure
-Cottonseed Oil - Other uses,cottonseed_oil_other_uses_fea,1000 tonnes,measure
+Cottonseed Oil - Other uses (non-food),cottonseed_oil_other_uses_non_food_fea,1000 tonnes,measure
 Cottonseed Oil - Other uses (non-food),cottonseed_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Cottonseed Oil - Processing,cottonseed_oil_processing_fea,1000 tonnes,measure
 Cottonseed Oil - Processing,cottonseed_oil_processing_fea1,1000 tonnes,measure
@@ -4532,8 +4531,8 @@ Cottonseed Oil - Stock Variation,cottonseed_oil_stock_variation_fea,1000 tonnes,
 Cottonseed Oil - Stock Variation,cottonseed_oil_stock_variation_fea1,1000 tonnes,measure
 Cottonseed Oil - Tourist consumption,cottonseed_oil_tourist_consumption_fea1,1000 tonnes,measure
 Cottonseed - Opening stocks,cottonseed_opening_stocks_scl,tonnes,measure
-Cottonseed - Other uses,cottonseed_other_uses_fea,1000 tonnes,measure
 Cottonseed - Other uses (non-food),cottonseed_other_uses_non_food_c_e,tonnes,measure
+Cottonseed - Other uses (non-food),cottonseed_other_uses_non_food_fea,1000 tonnes,measure
 Cottonseed - Other uses (non-food),cottonseed_other_uses_non_food_fea1,1000 tonnes,measure
 Cottonseed - Other uses (non-food),cottonseed_other_uses_non_food_scl,tonnes,measure
 Cottonseed - Processed,cottonseed_processed_scl,tonnes,measure
@@ -4671,7 +4670,7 @@ Cream - Import Quantity,cream_import_quantity_fea,1000 tonnes,measure
 Cream - Import Quantity,cream_import_quantity_fea1,1000 tonnes,measure
 Cream - Losses,cream_losses_fea,1000 tonnes,measure
 Cream - Losses,cream_losses_fea1,1000 tonnes,measure
-Cream - Other uses,cream_other_uses_fea,1000 tonnes,measure
+Cream - Other uses (non-food),cream_other_uses_non_food_fea,1000 tonnes,measure
 Cream - Other uses (non-food),cream_other_uses_non_food_fea1,1000 tonnes,measure
 Cream - Processing,cream_processing_fea,1000 tonnes,measure
 Cream - Processing,cream_processing_fea1,1000 tonnes,measure
@@ -4784,7 +4783,7 @@ Crustaceans - Food supply quantity (kg/capita/yr),crustaceans_food_supply_quanti
 Crustaceans - Food supply quantity (kg/capita/yr),crustaceans_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Crustaceans - Import Quantity,crustaceans_import_quantity_fea,1000 tonnes,measure
 Crustaceans - Import Quantity,crustaceans_import_quantity_fea1,1000 tonnes,measure
-Crustaceans - Other uses,crustaceans_other_uses_fea,1000 tonnes,measure
+Crustaceans - Other uses (non-food),crustaceans_other_uses_non_food_fea,1000 tonnes,measure
 Crustaceans - Other uses (non-food),crustaceans_other_uses_non_food_fea1,1000 tonnes,measure
 Crustaceans - Production,crustaceans_production_fea,1000 tonnes,measure
 Crustaceans - Production,crustaceans_production_fea1,1000 tonnes,measure
@@ -4943,7 +4942,7 @@ Dates - Loss,dates_loss_scl,tonnes,measure
 Dates - Losses,dates_losses_fea,1000 tonnes,measure
 Dates - Losses,dates_losses_fea1,1000 tonnes,measure
 Dates - Opening stocks,dates_opening_stocks_scl,tonnes,measure
-Dates - Other uses,dates_other_uses_fea,1000 tonnes,measure
+Dates - Other uses (non-food),dates_other_uses_non_food_fea,1000 tonnes,measure
 Dates - Other uses (non-food),dates_other_uses_non_food_fea1,1000 tonnes,measure
 Dates - Other uses (non-food),dates_other_uses_non_food_scl,tonnes,measure
 Dates - Processed,dates_processed_scl,tonnes,measure
@@ -5001,7 +5000,7 @@ Demersal Fish - Food supply quantity (kg/capita/yr),demersal_fish_food_supply_qu
 Demersal Fish - Food supply quantity (kg/capita/yr),demersal_fish_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Demersal Fish - Import Quantity,demersal_fish_import_quantity_fea,1000 tonnes,measure
 Demersal Fish - Import Quantity,demersal_fish_import_quantity_fea1,1000 tonnes,measure
-Demersal Fish - Other uses,demersal_fish_other_uses_fea,1000 tonnes,measure
+Demersal Fish - Other uses (non-food),demersal_fish_other_uses_non_food_fea,1000 tonnes,measure
 Demersal Fish - Other uses (non-food),demersal_fish_other_uses_non_food_fea1,1000 tonnes,measure
 Demersal Fish - Production,demersal_fish_production_fea,1000 tonnes,measure
 Demersal Fish - Production,demersal_fish_production_fea1,1000 tonnes,measure
@@ -5343,7 +5342,7 @@ Eggs - Losses,eggs_losses_fea1,1000 tonnes,measure
 "Eggs, other bird, in shell - Stock Variation",eggs_other_bird_in_shell_stock_variation_scl,tonnes,measure
 "Eggs, other bird, in shell - Tourist consumption",eggs_other_bird_in_shell_tourist_consumption_scl,tonnes,measure
 "Eggs, other bird, in shell - Yield",eggs_other_bird_in_shell_yield_pcl,100mg/An,measure
-Eggs - Other uses,eggs_other_uses_fea,1000 tonnes,measure
+Eggs - Other uses (non-food),eggs_other_uses_non_food_fea,1000 tonnes,measure
 Eggs - Other uses (non-food),eggs_other_uses_non_food_fea1,1000 tonnes,measure
 Eggs Primary - Laying,eggs_primary_laying_pcl,1000 Head,measure
 Eggs Primary - Producer Price Index (2014-2016 = 100),eggs_primary_producer_price_index_2014_2016_100_pea2,,measure
@@ -5729,7 +5728,7 @@ Fats and Oils (excluding Butter) - Import Value,fats_and_oils_excluding_butter_i
 "Fats, Animals, Raw - Import Quantity",fats_animals_raw_import_quantity_fea1,1000 tonnes,measure
 "Fats, Animals, Raw - Losses",fats_animals_raw_losses_fea,1000 tonnes,measure
 "Fats, Animals, Raw - Losses",fats_animals_raw_losses_fea1,1000 tonnes,measure
-"Fats, Animals, Raw - Other uses",fats_animals_raw_other_uses_fea,1000 tonnes,measure
+"Fats, Animals, Raw - Other uses (non-food)",fats_animals_raw_other_uses_non_food_fea,1000 tonnes,measure
 "Fats, Animals, Raw - Other uses (non-food)",fats_animals_raw_other_uses_non_food_fea1,1000 tonnes,measure
 "Fats, Animals, Raw - Processing",fats_animals_raw_processing_fea,1000 tonnes,measure
 "Fats, Animals, Raw - Processing",fats_animals_raw_processing_fea1,1000 tonnes,measure
@@ -5967,7 +5966,7 @@ Fires in organic soils - Emissions (CO2eq) from CH4 (AR5),fires_in_organic_soils
 "Fish, Body Oil - Food supply quantity (kg/capita/yr)",fish_body_oil_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Fish, Body Oil - Import Quantity",fish_body_oil_import_quantity_fea,1000 tonnes,measure
 "Fish, Body Oil - Import Quantity",fish_body_oil_import_quantity_fea1,1000 tonnes,measure
-"Fish, Body Oil - Other uses",fish_body_oil_other_uses_fea,1000 tonnes,measure
+"Fish, Body Oil - Other uses (non-food)",fish_body_oil_other_uses_non_food_fea,1000 tonnes,measure
 "Fish, Body Oil - Other uses (non-food)",fish_body_oil_other_uses_non_food_fea1,1000 tonnes,measure
 "Fish, Body Oil - Production",fish_body_oil_production_fea,1000 tonnes,measure
 "Fish, Body Oil - Production",fish_body_oil_production_fea1,1000 tonnes,measure
@@ -5991,7 +5990,7 @@ Fires in organic soils - Emissions (CO2eq) from CH4 (AR5),fires_in_organic_soils
 "Fish, Liver Oil - Food supply quantity (kg/capita/yr)",fish_liver_oil_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Fish, Liver Oil - Import Quantity",fish_liver_oil_import_quantity_fea,1000 tonnes,measure
 "Fish, Liver Oil - Import Quantity",fish_liver_oil_import_quantity_fea1,1000 tonnes,measure
-"Fish, Liver Oil - Other uses",fish_liver_oil_other_uses_fea,1000 tonnes,measure
+"Fish, Liver Oil - Other uses (non-food)",fish_liver_oil_other_uses_non_food_fea,1000 tonnes,measure
 "Fish, Liver Oil - Other uses (non-food)",fish_liver_oil_other_uses_non_food_fea1,1000 tonnes,measure
 "Fish, Liver Oil - Production",fish_liver_oil_production_fea,1000 tonnes,measure
 "Fish, Liver Oil - Production",fish_liver_oil_production_fea1,1000 tonnes,measure
@@ -6015,7 +6014,7 @@ Fires in organic soils - Emissions (CO2eq) from CH4 (AR5),fires_in_organic_soils
 "Fish, Seafood - Food supply quantity (kg/capita/yr)",fish_seafood_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Fish, Seafood - Import Quantity",fish_seafood_import_quantity_fea,1000 tonnes,measure
 "Fish, Seafood - Import Quantity",fish_seafood_import_quantity_fea1,1000 tonnes,measure
-"Fish, Seafood - Other uses",fish_seafood_other_uses_fea,1000 tonnes,measure
+"Fish, Seafood - Other uses (non-food)",fish_seafood_other_uses_non_food_fea,1000 tonnes,measure
 "Fish, Seafood - Other uses (non-food)",fish_seafood_other_uses_non_food_fea1,1000 tonnes,measure
 "Fish, Seafood - Production",fish_seafood_production_fea,1000 tonnes,measure
 "Fish, Seafood - Production",fish_seafood_production_fea1,1000 tonnes,measure
@@ -6732,7 +6731,7 @@ Freshwater Fish - Food supply quantity (kg/capita/yr),freshwater_fish_food_suppl
 Freshwater Fish - Food supply quantity (kg/capita/yr),freshwater_fish_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Freshwater Fish - Import Quantity,freshwater_fish_import_quantity_fea,1000 tonnes,measure
 Freshwater Fish - Import Quantity,freshwater_fish_import_quantity_fea1,1000 tonnes,measure
-Freshwater Fish - Other uses,freshwater_fish_other_uses_fea,1000 tonnes,measure
+Freshwater Fish - Other uses (non-food),freshwater_fish_other_uses_non_food_fea,1000 tonnes,measure
 Freshwater Fish - Other uses (non-food),freshwater_fish_other_uses_non_food_fea1,1000 tonnes,measure
 Freshwater Fish - Production,freshwater_fish_production_fea,1000 tonnes,measure
 Freshwater Fish - Production,freshwater_fish_production_fea1,1000 tonnes,measure
@@ -7088,7 +7087,7 @@ Fruits - Excluding Wine - Import Quantity,fruits_excluding_wine_import_quantity_
 Fruits - Excluding Wine - Import Quantity,fruits_excluding_wine_import_quantity_fea1,1000 tonnes,measure
 Fruits - Excluding Wine - Losses,fruits_excluding_wine_losses_fea,1000 tonnes,measure
 Fruits - Excluding Wine - Losses,fruits_excluding_wine_losses_fea1,1000 tonnes,measure
-Fruits - Excluding Wine - Other uses,fruits_excluding_wine_other_uses_fea,1000 tonnes,measure
+Fruits - Excluding Wine - Other uses (non-food),fruits_excluding_wine_other_uses_non_food_fea,1000 tonnes,measure
 Fruits - Excluding Wine - Other uses (non-food),fruits_excluding_wine_other_uses_non_food_fea1,1000 tonnes,measure
 Fruits - Excluding Wine - Processing,fruits_excluding_wine_processing_fea,1000 tonnes,measure
 Fruits - Excluding Wine - Processing,fruits_excluding_wine_processing_fea1,1000 tonnes,measure
@@ -7118,34 +7117,34 @@ Fruits - Excluding Wine - Tourist consumption,fruits_excluding_wine_tourist_cons
 "Fruits, nuts, peel, sugar preserved - Residuals",fruits_nuts_peel_sugar_preserved_residuals_scl,tonnes,measure
 "Fruits, nuts, peel, sugar preserved - Stock Variation",fruits_nuts_peel_sugar_preserved_stock_variation_scl,tonnes,measure
 "Fruits, nuts, peel, sugar preserved - Tourist consumption",fruits_nuts_peel_sugar_preserved_tourist_consumption_scl,tonnes,measure
-"Fruits, Other - Domestic supply quantity",fruits_other_domestic_supply_quantity_fea,1000 tonnes,measure
+"Fruits, other - Domestic supply quantity",fruits_other_domestic_supply_quantity_fea,1000 tonnes,measure
 "Fruits, Other - Domestic supply quantity",fruits_other_domestic_supply_quantity_fea1,1000 tonnes,measure
-"Fruits, Other - Export Quantity",fruits_other_export_quantity_fea,1000 tonnes,measure
+"Fruits, other - Export Quantity",fruits_other_export_quantity_fea,1000 tonnes,measure
 "Fruits, Other - Export Quantity",fruits_other_export_quantity_fea1,1000 tonnes,measure
-"Fruits, Other - Fat supply quantity (g/capita/day)",fruits_other_fat_supply_quantity_g_capita_day_fea,g/capita/day,measure
+"Fruits, other - Fat supply quantity (g/capita/day)",fruits_other_fat_supply_quantity_g_capita_day_fea,g/capita/day,measure
 "Fruits, Other - Fat supply quantity (g/capita/day)",fruits_other_fat_supply_quantity_g_capita_day_fea1,g/capita/day,measure
-"Fruits, Other - Feed",fruits_other_feed_fea,1000 tonnes,measure
+"Fruits, other - Feed",fruits_other_feed_fea,1000 tonnes,measure
 "Fruits, Other - Feed",fruits_other_feed_fea1,1000 tonnes,measure
-"Fruits, Other - Food",fruits_other_food_fea,1000 tonnes,measure
+"Fruits, other - Food",fruits_other_food_fea,1000 tonnes,measure
 "Fruits, Other - Food",fruits_other_food_fea1,1000 tonnes,measure
-"Fruits, Other - Food supply (kcal/capita/day)",fruits_other_food_supply_kcal_capita_day_fea,kcal/capita/day,measure
+"Fruits, other - Food supply (kcal/capita/day)",fruits_other_food_supply_kcal_capita_day_fea,kcal/capita/day,measure
 "Fruits, Other - Food supply (kcal/capita/day)",fruits_other_food_supply_kcal_capita_day_fea1,kcal/capita/day,measure
-"Fruits, Other - Food supply quantity (kg/capita/yr)",fruits_other_food_supply_quantity_kg_capita_yr_fea,kg,measure
+"Fruits, other - Food supply quantity (kg/capita/yr)",fruits_other_food_supply_quantity_kg_capita_yr_fea,kg,measure
 "Fruits, Other - Food supply quantity (kg/capita/yr)",fruits_other_food_supply_quantity_kg_capita_yr_fea1,kg,measure
-"Fruits, Other - Import Quantity",fruits_other_import_quantity_fea,1000 tonnes,measure
+"Fruits, other - Import Quantity",fruits_other_import_quantity_fea,1000 tonnes,measure
 "Fruits, Other - Import Quantity",fruits_other_import_quantity_fea1,1000 tonnes,measure
-"Fruits, Other - Losses",fruits_other_losses_fea,1000 tonnes,measure
+"Fruits, other - Losses",fruits_other_losses_fea,1000 tonnes,measure
 "Fruits, Other - Losses",fruits_other_losses_fea1,1000 tonnes,measure
-"Fruits, Other - Other uses",fruits_other_other_uses_fea,1000 tonnes,measure
+"Fruits, other - Other uses (non-food)",fruits_other_other_uses_non_food_fea,1000 tonnes,measure
 "Fruits, Other - Other uses (non-food)",fruits_other_other_uses_non_food_fea1,1000 tonnes,measure
-"Fruits, Other - Processing",fruits_other_processing_fea,1000 tonnes,measure
+"Fruits, other - Processing",fruits_other_processing_fea,1000 tonnes,measure
 "Fruits, Other - Processing",fruits_other_processing_fea1,1000 tonnes,measure
-"Fruits, Other - Production",fruits_other_production_fea,1000 tonnes,measure
+"Fruits, other - Production",fruits_other_production_fea,1000 tonnes,measure
 "Fruits, Other - Production",fruits_other_production_fea1,1000 tonnes,measure
-"Fruits, Other - Protein supply quantity (g/capita/day)",fruits_other_protein_supply_quantity_g_capita_day_fea,g/capita/day,measure
+"Fruits, other - Protein supply quantity (g/capita/day)",fruits_other_protein_supply_quantity_g_capita_day_fea,g/capita/day,measure
 "Fruits, Other - Protein supply quantity (g/capita/day)",fruits_other_protein_supply_quantity_g_capita_day_fea1,g/capita/day,measure
 "Fruits, Other - Residuals",fruits_other_residuals_fea1,1000 tonnes,measure
-"Fruits, Other - Stock Variation",fruits_other_stock_variation_fea,1000 tonnes,measure
+"Fruits, other - Stock Variation",fruits_other_stock_variation_fea,1000 tonnes,measure
 "Fruits, Other - Stock Variation",fruits_other_stock_variation_fea1,1000 tonnes,measure
 "Fruits, Other - Tourist consumption",fruits_other_tourist_consumption_fea1,1000 tonnes,measure
 Fuel oil - Emissions (CH4),fuel_oil_emissions_ch4_eae,kilotonnes,measure
@@ -7530,7 +7529,7 @@ Grapefruit and products - Import Quantity,grapefruit_and_products_import_quantit
 Grapefruit and products - Import Quantity,grapefruit_and_products_import_quantity_fea1,1000 tonnes,measure
 Grapefruit and products - Losses,grapefruit_and_products_losses_fea,1000 tonnes,measure
 Grapefruit and products - Losses,grapefruit_and_products_losses_fea1,1000 tonnes,measure
-Grapefruit and products - Other uses,grapefruit_and_products_other_uses_fea,1000 tonnes,measure
+Grapefruit and products - Other uses (non-food),grapefruit_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Grapefruit and products - Other uses (non-food),grapefruit_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Grapefruit and products - Processing,grapefruit_and_products_processing_fea,1000 tonnes,measure
 Grapefruit and products - Processing,grapefruit_and_products_processing_fea1,1000 tonnes,measure
@@ -7597,7 +7596,7 @@ Grapes and products (excl wine) - Import Quantity,grapes_and_products_excl_wine_
 Grapes and products (excl wine) - Import Quantity,grapes_and_products_excl_wine_import_quantity_fea1,1000 tonnes,measure
 Grapes and products (excl wine) - Losses,grapes_and_products_excl_wine_losses_fea,1000 tonnes,measure
 Grapes and products (excl wine) - Losses,grapes_and_products_excl_wine_losses_fea1,1000 tonnes,measure
-Grapes and products (excl wine) - Other uses,grapes_and_products_excl_wine_other_uses_fea,1000 tonnes,measure
+Grapes and products (excl wine) - Other uses (non-food),grapes_and_products_excl_wine_other_uses_non_food_fea,1000 tonnes,measure
 Grapes and products (excl wine) - Other uses (non-food),grapes_and_products_excl_wine_other_uses_non_food_fea1,1000 tonnes,measure
 Grapes and products (excl wine) - Processing,grapes_and_products_excl_wine_processing_fea,1000 tonnes,measure
 Grapes and products (excl wine) - Processing,grapes_and_products_excl_wine_processing_fea1,1000 tonnes,measure
@@ -7793,7 +7792,7 @@ Groundnut Oil - Import Quantity,groundnut_oil_import_quantity_fea,1000 tonnes,me
 Groundnut Oil - Import Quantity,groundnut_oil_import_quantity_fea1,1000 tonnes,measure
 Groundnut Oil - Losses,groundnut_oil_losses_fea,1000 tonnes,measure
 Groundnut Oil - Losses,groundnut_oil_losses_fea1,1000 tonnes,measure
-Groundnut Oil - Other uses,groundnut_oil_other_uses_fea,1000 tonnes,measure
+Groundnut Oil - Other uses (non-food),groundnut_oil_other_uses_non_food_fea,1000 tonnes,measure
 Groundnut Oil - Other uses (non-food),groundnut_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Groundnut Oil - Processing,groundnut_oil_processing_fea,1000 tonnes,measure
 Groundnut Oil - Processing,groundnut_oil_processing_fea1,1000 tonnes,measure
@@ -7850,7 +7849,7 @@ Groundnuts (Shelled Eq) - Food supply (kcal/capita/day),groundnuts_shelled_eq_fo
 Groundnuts (Shelled Eq) - Food supply quantity (kg/capita/yr),groundnuts_shelled_eq_food_supply_quantity_kg_capita_yr_fea,kg,measure
 Groundnuts (Shelled Eq) - Import Quantity,groundnuts_shelled_eq_import_quantity_fea,1000 tonnes,measure
 Groundnuts (Shelled Eq) - Losses,groundnuts_shelled_eq_losses_fea,1000 tonnes,measure
-Groundnuts (Shelled Eq) - Other uses,groundnuts_shelled_eq_other_uses_fea,1000 tonnes,measure
+Groundnuts (Shelled Eq) - Other uses (non-food),groundnuts_shelled_eq_other_uses_non_food_fea,1000 tonnes,measure
 Groundnuts (Shelled Eq) - Processing,groundnuts_shelled_eq_processing_fea,1000 tonnes,measure
 Groundnuts (Shelled Eq) - Production,groundnuts_shelled_eq_production_fea,1000 tonnes,measure
 Groundnuts (Shelled Eq) - Protein supply quantity (g/capita/day),groundnuts_shelled_eq_protein_supply_quantity_g_capita_day_fea,g/capita/day,measure
@@ -8205,7 +8204,7 @@ Honey - Losses,honey_losses_fea1,1000 tonnes,measure
 "Honey, natural - Stock Variation",honey_natural_stock_variation_scl,tonnes,measure
 "Honey, natural - Tourist consumption",honey_natural_tourist_consumption_scl,tonnes,measure
 "Honey, natural - Yield",honey_natural_yield_pcl,hg,measure
-Honey - Other uses,honey_other_uses_fea,1000 tonnes,measure
+Honey - Other uses (non-food),honey_other_uses_non_food_fea,1000 tonnes,measure
 Honey - Other uses (non-food),honey_other_uses_non_food_fea1,1000 tonnes,measure
 Honey - Processing,honey_processing_fea,1000 tonnes,measure
 Honey - Processing,honey_processing_fea1,1000 tonnes,measure
@@ -8392,7 +8391,7 @@ Infant food - Import Value Index (2014-2016 = 100),infant_food_import_value_inde
 Infant food - Import Value,infant_food_import_value_tce,1000 US$,measure
 Infant food - Losses,infant_food_losses_fea,1000 tonnes,measure
 Infant food - Opening stocks,infant_food_opening_stocks_scl,tonnes,measure
-Infant food - Other uses,infant_food_other_uses_fea,1000 tonnes,measure
+Infant food - Other uses (non-food),infant_food_other_uses_non_food_fea,1000 tonnes,measure
 Infant food - Other uses (non-food),infant_food_other_uses_non_food_fea1,1000 tonnes,measure
 Infant food - Other uses (non-food),infant_food_other_uses_non_food_scl,tonnes,measure
 Infant food - Production,infant_food_production_fea,1000 tonnes,measure
@@ -9267,7 +9266,7 @@ Lemons and limes - Yield,lemons_and_limes_yield_pcl,hg/ha,measure
 "Lemons, Limes and products - Import Quantity",lemons_limes_and_products_import_quantity_fea1,1000 tonnes,measure
 "Lemons, Limes and products - Losses",lemons_limes_and_products_losses_fea,1000 tonnes,measure
 "Lemons, Limes and products - Losses",lemons_limes_and_products_losses_fea1,1000 tonnes,measure
-"Lemons, Limes and products - Other uses",lemons_limes_and_products_other_uses_fea,1000 tonnes,measure
+"Lemons, Limes and products - Other uses (non-food)",lemons_limes_and_products_other_uses_non_food_fea,1000 tonnes,measure
 "Lemons, Limes and products - Other uses (non-food)",lemons_limes_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 "Lemons, Limes and products - Processing",lemons_limes_and_products_processing_fea,1000 tonnes,measure
 "Lemons, Limes and products - Processing",lemons_limes_and_products_processing_fea1,1000 tonnes,measure
@@ -9562,7 +9561,7 @@ Maize and products - Import Quantity,maize_and_products_import_quantity_fea,1000
 Maize and products - Import Quantity,maize_and_products_import_quantity_fea1,1000 tonnes,measure
 Maize and products - Losses,maize_and_products_losses_fea,1000 tonnes,measure
 Maize and products - Losses,maize_and_products_losses_fea1,1000 tonnes,measure
-Maize and products - Other uses,maize_and_products_other_uses_fea,1000 tonnes,measure
+Maize and products - Other uses (non-food),maize_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Maize and products - Other uses (non-food),maize_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Maize and products - Processing,maize_and_products_processing_fea,1000 tonnes,measure
 Maize and products - Processing,maize_and_products_processing_fea1,1000 tonnes,measure
@@ -9613,7 +9612,7 @@ Maize Germ Oil - Import Quantity,maize_germ_oil_import_quantity_fea,1000 tonnes,
 Maize Germ Oil - Import Quantity,maize_germ_oil_import_quantity_fea1,1000 tonnes,measure
 Maize Germ Oil - Losses,maize_germ_oil_losses_fea,1000 tonnes,measure
 Maize Germ Oil - Losses,maize_germ_oil_losses_fea1,1000 tonnes,measure
-Maize Germ Oil - Other uses,maize_germ_oil_other_uses_fea,1000 tonnes,measure
+Maize Germ Oil - Other uses (non-food),maize_germ_oil_other_uses_non_food_fea,1000 tonnes,measure
 Maize Germ Oil - Other uses (non-food),maize_germ_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Maize Germ Oil - Processing,maize_germ_oil_processing_fea,1000 tonnes,measure
 Maize Germ Oil - Processing,maize_germ_oil_processing_fea1,1000 tonnes,measure
@@ -9920,7 +9919,7 @@ Maple sugar and syrups - Tourist consumption,maple_sugar_and_syrups_tourist_cons
 "Marine Fish, Other - Food supply quantity (kg/capita/yr)",marine_fish_other_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Marine Fish, Other - Import Quantity",marine_fish_other_import_quantity_fea,1000 tonnes,measure
 "Marine Fish, Other - Import Quantity",marine_fish_other_import_quantity_fea1,1000 tonnes,measure
-"Marine Fish, Other - Other uses",marine_fish_other_other_uses_fea,1000 tonnes,measure
+"Marine Fish, Other - Other uses (non-food)",marine_fish_other_other_uses_non_food_fea,1000 tonnes,measure
 "Marine Fish, Other - Other uses (non-food)",marine_fish_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Marine Fish, Other - Production",marine_fish_other_production_fea,1000 tonnes,measure
 "Marine Fish, Other - Production",marine_fish_other_production_fea1,1000 tonnes,measure
@@ -10007,7 +10006,7 @@ Meat and Meat Preparations - Import Value,meat_and_meat_preparations_import_valu
 "Meat, Aquatic Mammals - Food supply (kcal/capita/day)",meat_aquatic_mammals_food_supply_kcal_capita_day_fea1,kcal/capita/day,measure
 "Meat, Aquatic Mammals - Food supply quantity (kg/capita/yr)",meat_aquatic_mammals_food_supply_quantity_kg_capita_yr_fea,kg,measure
 "Meat, Aquatic Mammals - Food supply quantity (kg/capita/yr)",meat_aquatic_mammals_food_supply_quantity_kg_capita_yr_fea1,kg,measure
-"Meat, Aquatic Mammals - Other uses",meat_aquatic_mammals_other_uses_fea,1000 tonnes,measure
+"Meat, Aquatic Mammals - Other uses (non-food)",meat_aquatic_mammals_other_uses_non_food_fea,1000 tonnes,measure
 "Meat, Aquatic Mammals - Other uses (non-food)",meat_aquatic_mammals_other_uses_non_food_fea1,1000 tonnes,measure
 "Meat, Aquatic Mammals - Production",meat_aquatic_mammals_production_fea,1000 tonnes,measure
 "Meat, Aquatic Mammals - Production",meat_aquatic_mammals_production_fea1,1000 tonnes,measure
@@ -10870,7 +10869,7 @@ Meat nes - Yield/Carcass Weight,meat_nes_yield_carcass_weight_pcl,hg/An,measure
 "Meat, Other - Import Quantity",meat_other_import_quantity_fea1,1000 tonnes,measure
 "Meat, Other - Losses",meat_other_losses_fea,1000 tonnes,measure
 "Meat, Other - Losses",meat_other_losses_fea1,1000 tonnes,measure
-"Meat, Other - Other uses",meat_other_other_uses_fea,1000 tonnes,measure
+"Meat, Other - Other uses (non-food)",meat_other_other_uses_non_food_fea,1000 tonnes,measure
 "Meat, Other - Other uses (non-food)",meat_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Meat, Other - Processing",meat_other_processing_fea,1000 tonnes,measure
 "Meat, Other - Processing",meat_other_processing_fea1,1000 tonnes,measure
@@ -10904,7 +10903,7 @@ Meat nes - Yield/Carcass Weight,meat_nes_yield_carcass_weight_pcl,hg/An,measure
 "Meat, Other - Stock Variation",meat_other_stock_variation_fea,1000 tonnes,measure
 "Meat, Other - Stock Variation",meat_other_stock_variation_fea1,1000 tonnes,measure
 "Meat, Other - Tourist consumption",meat_other_tourist_consumption_fea1,1000 tonnes,measure
-Meat - Other uses,meat_other_uses_fea,1000 tonnes,measure
+Meat - Other uses (non-food),meat_other_uses_non_food_fea,1000 tonnes,measure
 Meat - Other uses (non-food),meat_other_uses_non_food_fea1,1000 tonnes,measure
 "Meat, pig - Calories/Year",meat_pig_calories_year_scl,million kcal,measure
 "Meat, pig - Emissions (CO2eq)",meat_pig_emissions_co2eq_eei,gigagrams,measure
@@ -11265,7 +11264,7 @@ Milk - Excluding Butter - Import Quantity,milk_excluding_butter_import_quantity_
 Milk - Excluding Butter - Import Quantity,milk_excluding_butter_import_quantity_fea1,1000 tonnes,measure
 Milk - Excluding Butter - Losses,milk_excluding_butter_losses_fea,1000 tonnes,measure
 Milk - Excluding Butter - Losses,milk_excluding_butter_losses_fea1,1000 tonnes,measure
-Milk - Excluding Butter - Other uses,milk_excluding_butter_other_uses_fea,1000 tonnes,measure
+Milk - Excluding Butter - Other uses (non-food),milk_excluding_butter_other_uses_non_food_fea,1000 tonnes,measure
 Milk - Excluding Butter - Other uses (non-food),milk_excluding_butter_other_uses_non_food_fea1,1000 tonnes,measure
 Milk - Excluding Butter - Processing,milk_excluding_butter_processing_fea,1000 tonnes,measure
 Milk - Excluding Butter - Processing,milk_excluding_butter_processing_fea1,1000 tonnes,measure
@@ -11714,7 +11713,7 @@ Millet and products - Import Quantity,millet_and_products_import_quantity_fea,10
 Millet and products - Import Quantity,millet_and_products_import_quantity_fea1,1000 tonnes,measure
 Millet and products - Losses,millet_and_products_losses_fea,1000 tonnes,measure
 Millet and products - Losses,millet_and_products_losses_fea1,1000 tonnes,measure
-Millet and products - Other uses,millet_and_products_other_uses_fea,1000 tonnes,measure
+Millet and products - Other uses (non-food),millet_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Millet and products - Other uses (non-food),millet_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Millet and products - Processing,millet_and_products_processing_fea,1000 tonnes,measure
 Millet and products - Processing,millet_and_products_processing_fea1,1000 tonnes,measure
@@ -11786,7 +11785,7 @@ Miscellaneous - Food supply quantity (kg/capita/yr),miscellaneous_food_supply_qu
 Miscellaneous - Import Quantity,miscellaneous_import_quantity_fea,1000 tonnes,measure
 Miscellaneous - Import Quantity,miscellaneous_import_quantity_fea1,1000 tonnes,measure
 Miscellaneous - Losses,miscellaneous_losses_fea,1000 tonnes,measure
-Miscellaneous - Other uses,miscellaneous_other_uses_fea,1000 tonnes,measure
+Miscellaneous - Other uses (non-food),miscellaneous_other_uses_non_food_fea,1000 tonnes,measure
 Miscellaneous - Other uses (non-food),miscellaneous_other_uses_non_food_fea1,1000 tonnes,measure
 Miscellaneous - Production,miscellaneous_production_fea,1000 tonnes,measure
 Miscellaneous - Production,miscellaneous_production_fea1,1000 tonnes,measure
@@ -11855,7 +11854,7 @@ Molasses - Tourist consumption,molasses_tourist_consumption_scl,tonnes,measure
 "Molluscs, Other - Food supply quantity (kg/capita/yr)",molluscs_other_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 "Molluscs, Other - Import Quantity",molluscs_other_import_quantity_fea,1000 tonnes,measure
 "Molluscs, Other - Import Quantity",molluscs_other_import_quantity_fea1,1000 tonnes,measure
-"Molluscs, Other - Other uses",molluscs_other_other_uses_fea,1000 tonnes,measure
+"Molluscs, Other - Other uses (non-food)",molluscs_other_other_uses_non_food_fea,1000 tonnes,measure
 "Molluscs, Other - Other uses (non-food)",molluscs_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Molluscs, Other - Production",molluscs_other_production_fea,1000 tonnes,measure
 "Molluscs, Other - Production",molluscs_other_production_fea1,1000 tonnes,measure
@@ -12082,7 +12081,7 @@ Mutton & Goat Meat - Import Quantity,mutton_goat_meat_import_quantity_fea,1000 t
 Mutton & Goat Meat - Import Quantity,mutton_goat_meat_import_quantity_fea1,1000 tonnes,measure
 Mutton & Goat Meat - Losses,mutton_goat_meat_losses_fea,1000 tonnes,measure
 Mutton & Goat Meat - Losses,mutton_goat_meat_losses_fea1,1000 tonnes,measure
-Mutton & Goat Meat - Other uses,mutton_goat_meat_other_uses_fea,1000 tonnes,measure
+Mutton & Goat Meat - Other uses (non-food),mutton_goat_meat_other_uses_non_food_fea,1000 tonnes,measure
 Mutton & Goat Meat - Other uses (non-food),mutton_goat_meat_other_uses_non_food_fea1,1000 tonnes,measure
 Mutton & Goat Meat - Production,mutton_goat_meat_production_fea,1000 tonnes,measure
 Mutton & Goat Meat - Production,mutton_goat_meat_production_fea1,1000 tonnes,measure
@@ -12242,7 +12241,7 @@ Nuts and products - Import Quantity,nuts_and_products_import_quantity_fea,1000 t
 Nuts and products - Import Quantity,nuts_and_products_import_quantity_fea1,1000 tonnes,measure
 Nuts and products - Losses,nuts_and_products_losses_fea,1000 tonnes,measure
 Nuts and products - Losses,nuts_and_products_losses_fea1,1000 tonnes,measure
-Nuts and products - Other uses,nuts_and_products_other_uses_fea,1000 tonnes,measure
+Nuts and products - Other uses (non-food),nuts_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Nuts and products - Other uses (non-food),nuts_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Nuts and products - Processing,nuts_and_products_processing_fea,1000 tonnes,measure
 Nuts and products - Production,nuts_and_products_production_fea,1000 tonnes,measure
@@ -12380,7 +12379,7 @@ Oats - Loss,oats_loss_scl,tonnes,measure
 Oats - Losses,oats_losses_fea,1000 tonnes,measure
 Oats - Losses,oats_losses_fea1,1000 tonnes,measure
 Oats - Opening stocks,oats_opening_stocks_scl,tonnes,measure
-Oats - Other uses,oats_other_uses_fea,1000 tonnes,measure
+Oats - Other uses (non-food),oats_other_uses_non_food_fea,1000 tonnes,measure
 Oats - Other uses (non-food),oats_other_uses_non_food_fea1,1000 tonnes,measure
 Oats - Other uses (non-food),oats_other_uses_non_food_scl,tonnes,measure
 Oats - Processed,oats_processed_scl,tonnes,measure
@@ -12529,7 +12528,7 @@ Offals - Domestic supply quantity,offals_domestic_supply_quantity_fea1,1000 tonn
 "Offals, Edible - Import Quantity",offals_edible_import_quantity_fea1,1000 tonnes,measure
 "Offals, Edible - Losses",offals_edible_losses_fea,1000 tonnes,measure
 "Offals, Edible - Losses",offals_edible_losses_fea1,1000 tonnes,measure
-"Offals, Edible - Other uses",offals_edible_other_uses_fea,1000 tonnes,measure
+"Offals, Edible - Other uses (non-food)",offals_edible_other_uses_non_food_fea,1000 tonnes,measure
 "Offals, Edible - Other uses (non-food)",offals_edible_other_uses_non_food_fea1,1000 tonnes,measure
 "Offals, Edible - Processing",offals_edible_processing_fea1,1000 tonnes,measure
 "Offals, Edible - Production",offals_edible_production_fea,1000 tonnes,measure
@@ -12673,7 +12672,7 @@ Offals nes - Stock Variation,offals_nes_stock_variation_scl,tonnes,measure
 Offals nes - Tourist consumption,offals_nes_tourist_consumption_scl,tonnes,measure
 "Offals, other camelids - Export Value",offals_other_camelids_export_value_tce,1000 US$,measure
 "Offals, other camelids - Import Value",offals_other_camelids_import_value_tce,1000 US$,measure
-Offals - Other uses,offals_other_uses_fea,1000 tonnes,measure
+Offals - Other uses (non-food),offals_other_uses_non_food_fea,1000 tonnes,measure
 Offals - Other uses (non-food),offals_other_uses_non_food_fea1,1000 tonnes,measure
 "Offals, pigs, edible - Calories/Year",offals_pigs_edible_calories_year_scl,million kcal,measure
 "Offals, pigs, edible - Export Quantity",offals_pigs_edible_export_quantity_scl,tonnes,measure
@@ -13460,7 +13459,7 @@ Oilcrops - Losses,oilcrops_losses_fea1,1000 tonnes,measure
 "Oilcrops Oil, Other - Import Quantity",oilcrops_oil_other_import_quantity_fea1,1000 tonnes,measure
 "Oilcrops Oil, Other - Losses",oilcrops_oil_other_losses_fea,1000 tonnes,measure
 "Oilcrops Oil, Other - Losses",oilcrops_oil_other_losses_fea1,1000 tonnes,measure
-"Oilcrops Oil, Other - Other uses",oilcrops_oil_other_other_uses_fea,1000 tonnes,measure
+"Oilcrops Oil, Other - Other uses (non-food)",oilcrops_oil_other_other_uses_non_food_fea,1000 tonnes,measure
 "Oilcrops Oil, Other - Other uses (non-food)",oilcrops_oil_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Oilcrops Oil, Other - Processing",oilcrops_oil_other_processing_fea,1000 tonnes,measure
 "Oilcrops Oil, Other - Processing",oilcrops_oil_other_processing_fea1,1000 tonnes,measure
@@ -13490,7 +13489,7 @@ Oilcrops - Losses,oilcrops_losses_fea1,1000 tonnes,measure
 "Oilcrops, Other - Import Quantity",oilcrops_other_import_quantity_fea1,1000 tonnes,measure
 "Oilcrops, Other - Losses",oilcrops_other_losses_fea,1000 tonnes,measure
 "Oilcrops, Other - Losses",oilcrops_other_losses_fea1,1000 tonnes,measure
-"Oilcrops, Other - Other uses",oilcrops_other_other_uses_fea,1000 tonnes,measure
+"Oilcrops, Other - Other uses (non-food)",oilcrops_other_other_uses_non_food_fea,1000 tonnes,measure
 "Oilcrops, Other - Other uses (non-food)",oilcrops_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Oilcrops, Other - Processing",oilcrops_other_processing_fea,1000 tonnes,measure
 "Oilcrops, Other - Processing",oilcrops_other_processing_fea1,1000 tonnes,measure
@@ -13504,8 +13503,8 @@ Oilcrops - Losses,oilcrops_losses_fea1,1000 tonnes,measure
 "Oilcrops, Other - Stock Variation",oilcrops_other_stock_variation_fea,1000 tonnes,measure
 "Oilcrops, Other - Stock Variation",oilcrops_other_stock_variation_fea1,1000 tonnes,measure
 "Oilcrops, Other - Tourist consumption",oilcrops_other_tourist_consumption_fea1,1000 tonnes,measure
-Oilcrops - Other uses,oilcrops_other_uses_fea,1000 tonnes,measure
 Oilcrops - Other uses (non-food),oilcrops_other_uses_non_food_c_e,tonnes,measure
+Oilcrops - Other uses (non-food),oilcrops_other_uses_non_food_fea,1000 tonnes,measure
 Oilcrops - Other uses (non-food),oilcrops_other_uses_non_food_fea1,1000 tonnes,measure
 Oilcrops - Processing,oilcrops_processing_c_e,tonnes,measure
 Oilcrops - Processing,oilcrops_processing_fea,1000 tonnes,measure
@@ -13655,7 +13654,7 @@ Olive Oil - Food supply quantity (kg/capita/yr),olive_oil_food_supply_quantity_k
 Olive Oil - Food supply quantity (kg/capita/yr),olive_oil_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Olive Oil - Import Quantity,olive_oil_import_quantity_fea,1000 tonnes,measure
 Olive Oil - Import Quantity,olive_oil_import_quantity_fea1,1000 tonnes,measure
-Olive Oil - Other uses,olive_oil_other_uses_fea,1000 tonnes,measure
+Olive Oil - Other uses (non-food),olive_oil_other_uses_non_food_fea,1000 tonnes,measure
 Olive Oil - Other uses (non-food),olive_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Olive Oil - Processing,olive_oil_processing_fea1,1000 tonnes,measure
 Olive Oil - Production,olive_oil_production_fea,1000 tonnes,measure
@@ -13705,7 +13704,7 @@ Olives (including preserved) - Import Quantity,olives_including_preserved_import
 Olives (including preserved) - Import Quantity,olives_including_preserved_import_quantity_fea1,1000 tonnes,measure
 Olives (including preserved) - Losses,olives_including_preserved_losses_fea,1000 tonnes,measure
 Olives (including preserved) - Losses,olives_including_preserved_losses_fea1,1000 tonnes,measure
-Olives (including preserved) - Other uses,olives_including_preserved_other_uses_fea,1000 tonnes,measure
+Olives (including preserved) - Other uses (non-food),olives_including_preserved_other_uses_non_food_fea,1000 tonnes,measure
 Olives (including preserved) - Other uses (non-food),olives_including_preserved_other_uses_non_food_fea1,1000 tonnes,measure
 Olives (including preserved) - Processing,olives_including_preserved_processing_fea,1000 tonnes,measure
 Olives (including preserved) - Processing,olives_including_preserved_processing_fea1,1000 tonnes,measure
@@ -13835,7 +13834,7 @@ Onions - Import Quantity,onions_import_quantity_fea,1000 tonnes,measure
 Onions - Import Quantity,onions_import_quantity_fea1,1000 tonnes,measure
 Onions - Losses,onions_losses_fea,1000 tonnes,measure
 Onions - Losses,onions_losses_fea1,1000 tonnes,measure
-Onions - Other uses,onions_other_uses_fea,1000 tonnes,measure
+Onions - Other uses (non-food),onions_other_uses_non_food_fea,1000 tonnes,measure
 Onions - Other uses (non-food),onions_other_uses_non_food_fea1,1000 tonnes,measure
 Onions - Processing,onions_processing_fea,1000 tonnes,measure
 Onions - Processing,onions_processing_fea1,1000 tonnes,measure
@@ -13941,7 +13940,7 @@ Oranges - Loss,oranges_loss_scl,tonnes,measure
 "Oranges, Mandarines - Import Quantity",oranges_mandarines_import_quantity_fea1,1000 tonnes,measure
 "Oranges, Mandarines - Losses",oranges_mandarines_losses_fea,1000 tonnes,measure
 "Oranges, Mandarines - Losses",oranges_mandarines_losses_fea1,1000 tonnes,measure
-"Oranges, Mandarines - Other uses",oranges_mandarines_other_uses_fea,1000 tonnes,measure
+"Oranges, Mandarines - Other uses (non-food)",oranges_mandarines_other_uses_non_food_fea,1000 tonnes,measure
 "Oranges, Mandarines - Other uses (non-food)",oranges_mandarines_other_uses_non_food_fea1,1000 tonnes,measure
 "Oranges, Mandarines - Processing",oranges_mandarines_processing_fea,1000 tonnes,measure
 "Oranges, Mandarines - Processing",oranges_mandarines_processing_fea1,1000 tonnes,measure
@@ -14145,8 +14144,8 @@ Palm kernels - Losses,palm_kernels_losses_c_e,tonnes,measure
 Palm kernels - Losses,palm_kernels_losses_fea,1000 tonnes,measure
 Palm kernels - Losses,palm_kernels_losses_fea1,1000 tonnes,measure
 Palm kernels - Opening stocks,palm_kernels_opening_stocks_scl,tonnes,measure
-Palm kernels - Other uses,palm_kernels_other_uses_fea,1000 tonnes,measure
 Palm kernels - Other uses (non-food),palm_kernels_other_uses_non_food_c_e,tonnes,measure
+Palm kernels - Other uses (non-food),palm_kernels_other_uses_non_food_fea,1000 tonnes,measure
 Palm kernels - Other uses (non-food),palm_kernels_other_uses_non_food_fea1,1000 tonnes,measure
 Palm kernels - Other uses (non-food),palm_kernels_other_uses_non_food_scl,tonnes,measure
 Palm kernels - Processed,palm_kernels_processed_scl,tonnes,measure
@@ -14194,7 +14193,7 @@ Palm Oil - Import Quantity,palm_oil_import_quantity_fea,1000 tonnes,measure
 Palm Oil - Import Quantity,palm_oil_import_quantity_fea1,1000 tonnes,measure
 Palm Oil - Losses,palm_oil_losses_fea,1000 tonnes,measure
 Palm Oil - Losses,palm_oil_losses_fea1,1000 tonnes,measure
-Palm Oil - Other uses,palm_oil_other_uses_fea,1000 tonnes,measure
+Palm Oil - Other uses (non-food),palm_oil_other_uses_non_food_fea,1000 tonnes,measure
 Palm Oil - Other uses (non-food),palm_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Palm Oil - Processing,palm_oil_processing_fea,1000 tonnes,measure
 Palm Oil - Processing,palm_oil_processing_fea1,1000 tonnes,measure
@@ -14231,7 +14230,7 @@ Palmkernel Oil - Import Quantity,palmkernel_oil_import_quantity_fea,1000 tonnes,
 Palmkernel Oil - Import Quantity,palmkernel_oil_import_quantity_fea1,1000 tonnes,measure
 Palmkernel Oil - Losses,palmkernel_oil_losses_fea,1000 tonnes,measure
 Palmkernel Oil - Losses,palmkernel_oil_losses_fea1,1000 tonnes,measure
-Palmkernel Oil - Other uses,palmkernel_oil_other_uses_fea,1000 tonnes,measure
+Palmkernel Oil - Other uses (non-food),palmkernel_oil_other_uses_non_food_fea,1000 tonnes,measure
 Palmkernel Oil - Other uses (non-food),palmkernel_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Palmkernel Oil - Processing,palmkernel_oil_processing_fea,1000 tonnes,measure
 Palmkernel Oil - Processing,palmkernel_oil_processing_fea1,1000 tonnes,measure
@@ -14538,7 +14537,7 @@ Peas - Import Quantity,peas_import_quantity_fea,1000 tonnes,measure
 Peas - Import Quantity,peas_import_quantity_fea1,1000 tonnes,measure
 Peas - Losses,peas_losses_fea,1000 tonnes,measure
 Peas - Losses,peas_losses_fea1,1000 tonnes,measure
-Peas - Other uses,peas_other_uses_fea,1000 tonnes,measure
+Peas - Other uses (non-food),peas_other_uses_non_food_fea,1000 tonnes,measure
 Peas - Other uses (non-food),peas_other_uses_non_food_fea1,1000 tonnes,measure
 Peas - Processing,peas_processing_fea,1000 tonnes,measure
 Peas - Processing,peas_processing_fea1,1000 tonnes,measure
@@ -14573,7 +14572,7 @@ Pelagic Fish - Food supply quantity (kg/capita/yr),pelagic_fish_food_supply_quan
 Pelagic Fish - Food supply quantity (kg/capita/yr),pelagic_fish_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Pelagic Fish - Import Quantity,pelagic_fish_import_quantity_fea,1000 tonnes,measure
 Pelagic Fish - Import Quantity,pelagic_fish_import_quantity_fea1,1000 tonnes,measure
-Pelagic Fish - Other uses,pelagic_fish_other_uses_fea,1000 tonnes,measure
+Pelagic Fish - Other uses (non-food),pelagic_fish_other_uses_non_food_fea,1000 tonnes,measure
 Pelagic Fish - Other uses (non-food),pelagic_fish_other_uses_non_food_fea1,1000 tonnes,measure
 Pelagic Fish - Production,pelagic_fish_production_fea,1000 tonnes,measure
 Pelagic Fish - Production,pelagic_fish_production_fea1,1000 tonnes,measure
@@ -14603,7 +14602,7 @@ Pepper - Import Quantity,pepper_import_quantity_fea,1000 tonnes,measure
 Pepper - Import Quantity,pepper_import_quantity_fea1,1000 tonnes,measure
 Pepper - Losses,pepper_losses_fea,1000 tonnes,measure
 Pepper - Losses,pepper_losses_fea1,1000 tonnes,measure
-Pepper - Other uses,pepper_other_uses_fea,1000 tonnes,measure
+Pepper - Other uses (non-food),pepper_other_uses_non_food_fea,1000 tonnes,measure
 Pepper - Other uses (non-food),pepper_other_uses_non_food_fea1,1000 tonnes,measure
 Pepper (piper spp.) - Area harvested,pepper_piper_spp_area_harvested_pcl,ha,measure
 Pepper (piper spp.) - Calories/Year,pepper_piper_spp_calories_year_scl,million kcal,measure
@@ -14797,7 +14796,7 @@ Pigmeat - Import Value Index (2014-2016 = 100),pigmeat_import_value_index_2014_2
 Pigmeat - Import Value,pigmeat_import_value_tce,1000 US$,measure
 Pigmeat - Losses,pigmeat_losses_fea,1000 tonnes,measure
 Pigmeat - Losses,pigmeat_losses_fea1,1000 tonnes,measure
-Pigmeat - Other uses,pigmeat_other_uses_fea,1000 tonnes,measure
+Pigmeat - Other uses (non-food),pigmeat_other_uses_non_food_fea,1000 tonnes,measure
 Pigmeat - Other uses (non-food),pigmeat_other_uses_non_food_fea1,1000 tonnes,measure
 Pigmeat - Processing,pigmeat_processing_fea,1000 tonnes,measure
 Pigmeat - Processing,pigmeat_processing_fea1,1000 tonnes,measure
@@ -14835,7 +14834,7 @@ Pimento - Import Quantity,pimento_import_quantity_fea,1000 tonnes,measure
 Pimento - Import Quantity,pimento_import_quantity_fea1,1000 tonnes,measure
 Pimento - Losses,pimento_losses_fea,1000 tonnes,measure
 Pimento - Losses,pimento_losses_fea1,1000 tonnes,measure
-Pimento - Other uses,pimento_other_uses_fea,1000 tonnes,measure
+Pimento - Other uses (non-food),pimento_other_uses_non_food_fea,1000 tonnes,measure
 Pimento - Other uses (non-food),pimento_other_uses_non_food_fea1,1000 tonnes,measure
 Pimento - Production,pimento_production_fea,1000 tonnes,measure
 Pimento - Production,pimento_production_fea1,1000 tonnes,measure
@@ -14861,7 +14860,7 @@ Pineapples and products - Import Quantity,pineapples_and_products_import_quantit
 Pineapples and products - Import Quantity,pineapples_and_products_import_quantity_fea1,1000 tonnes,measure
 Pineapples and products - Losses,pineapples_and_products_losses_fea,1000 tonnes,measure
 Pineapples and products - Losses,pineapples_and_products_losses_fea1,1000 tonnes,measure
-Pineapples and products - Other uses,pineapples_and_products_other_uses_fea,1000 tonnes,measure
+Pineapples and products - Other uses (non-food),pineapples_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Pineapples and products - Other uses (non-food),pineapples_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Pineapples and products - Processing,pineapples_and_products_processing_fea,1000 tonnes,measure
 Pineapples and products - Processing,pineapples_and_products_processing_fea1,1000 tonnes,measure
@@ -15045,7 +15044,7 @@ Plantains - Import Quantity,plantains_import_quantity_fea,1000 tonnes,measure
 Plantains - Import Quantity,plantains_import_quantity_fea1,1000 tonnes,measure
 Plantains - Losses,plantains_losses_fea,1000 tonnes,measure
 Plantains - Losses,plantains_losses_fea1,1000 tonnes,measure
-Plantains - Other uses,plantains_other_uses_fea,1000 tonnes,measure
+Plantains - Other uses (non-food),plantains_other_uses_non_food_fea,1000 tonnes,measure
 Plantains - Other uses (non-food),plantains_other_uses_non_food_fea1,1000 tonnes,measure
 Plantains - Processing,plantains_processing_fea,1000 tonnes,measure
 Plantains - Processing,plantains_processing_fea1,1000 tonnes,measure
@@ -15220,7 +15219,7 @@ Potatoes and products - Import Quantity,potatoes_and_products_import_quantity_fe
 Potatoes and products - Import Quantity,potatoes_and_products_import_quantity_fea1,1000 tonnes,measure
 Potatoes and products - Losses,potatoes_and_products_losses_fea,1000 tonnes,measure
 Potatoes and products - Losses,potatoes_and_products_losses_fea1,1000 tonnes,measure
-Potatoes and products - Other uses,potatoes_and_products_other_uses_fea,1000 tonnes,measure
+Potatoes and products - Other uses (non-food),potatoes_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Potatoes and products - Other uses (non-food),potatoes_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Potatoes and products - Processing,potatoes_and_products_processing_fea,1000 tonnes,measure
 Potatoes and products - Processing,potatoes_and_products_processing_fea1,1000 tonnes,measure
@@ -15373,7 +15372,7 @@ Poultry Meat - Import Value Index (2014-2016 = 100),poultry_meat_import_value_in
 Poultry Meat - Import Value,poultry_meat_import_value_tce,1000 US$,measure
 Poultry Meat - Losses,poultry_meat_losses_fea,1000 tonnes,measure
 Poultry Meat - Losses,poultry_meat_losses_fea1,1000 tonnes,measure
-Poultry Meat - Other uses,poultry_meat_other_uses_fea,1000 tonnes,measure
+Poultry Meat - Other uses (non-food),poultry_meat_other_uses_non_food_fea,1000 tonnes,measure
 Poultry Meat - Other uses (non-food),poultry_meat_other_uses_non_food_fea1,1000 tonnes,measure
 Poultry Meat - Processing,poultry_meat_processing_fea,1000 tonnes,measure
 Poultry Meat - Processing,poultry_meat_processing_fea1,1000 tonnes,measure
@@ -15524,7 +15523,7 @@ Pulses nes - Yield,pulses_nes_yield_pcl,hg/ha,measure
 "Pulses, Other and products - Import Quantity",pulses_other_and_products_import_quantity_fea1,1000 tonnes,measure
 "Pulses, Other and products - Losses",pulses_other_and_products_losses_fea,1000 tonnes,measure
 "Pulses, Other and products - Losses",pulses_other_and_products_losses_fea1,1000 tonnes,measure
-"Pulses, Other and products - Other uses",pulses_other_and_products_other_uses_fea,1000 tonnes,measure
+"Pulses, Other and products - Other uses (non-food)",pulses_other_and_products_other_uses_non_food_fea,1000 tonnes,measure
 "Pulses, Other and products - Other uses (non-food)",pulses_other_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 "Pulses, Other and products - Processing",pulses_other_and_products_processing_fea,1000 tonnes,measure
 "Pulses, Other and products - Processing",pulses_other_and_products_processing_fea1,1000 tonnes,measure
@@ -15538,7 +15537,7 @@ Pulses nes - Yield,pulses_nes_yield_pcl,hg/ha,measure
 "Pulses, Other and products - Stock Variation",pulses_other_and_products_stock_variation_fea,1000 tonnes,measure
 "Pulses, Other and products - Stock Variation",pulses_other_and_products_stock_variation_fea1,1000 tonnes,measure
 "Pulses, Other and products - Tourist consumption",pulses_other_and_products_tourist_consumption_fea1,1000 tonnes,measure
-Pulses - Other uses,pulses_other_uses_fea,1000 tonnes,measure
+Pulses - Other uses (non-food),pulses_other_uses_non_food_fea,1000 tonnes,measure
 Pulses - Other uses (non-food),pulses_other_uses_non_food_fea1,1000 tonnes,measure
 Pulses - Processing,pulses_processing_fea,1000 tonnes,measure
 Pulses - Processing,pulses_processing_fea1,1000 tonnes,measure
@@ -15769,7 +15768,7 @@ Rape and Mustard Oil - Import Quantity,rape_and_mustard_oil_import_quantity_fea,
 Rape and Mustard Oil - Import Quantity,rape_and_mustard_oil_import_quantity_fea1,1000 tonnes,measure
 Rape and Mustard Oil - Losses,rape_and_mustard_oil_losses_fea,1000 tonnes,measure
 Rape and Mustard Oil - Losses,rape_and_mustard_oil_losses_fea1,1000 tonnes,measure
-Rape and Mustard Oil - Other uses,rape_and_mustard_oil_other_uses_fea,1000 tonnes,measure
+Rape and Mustard Oil - Other uses (non-food),rape_and_mustard_oil_other_uses_non_food_fea,1000 tonnes,measure
 Rape and Mustard Oil - Other uses (non-food),rape_and_mustard_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Rape and Mustard Oil - Processing,rape_and_mustard_oil_processing_fea,1000 tonnes,measure
 Rape and Mustard Oil - Processing,rape_and_mustard_oil_processing_fea1,1000 tonnes,measure
@@ -15805,8 +15804,8 @@ Rape and Mustardseed - Import Quantity,rape_and_mustardseed_import_quantity_fea1
 Rape and Mustardseed - Losses,rape_and_mustardseed_losses_c_e,tonnes,measure
 Rape and Mustardseed - Losses,rape_and_mustardseed_losses_fea,1000 tonnes,measure
 Rape and Mustardseed - Losses,rape_and_mustardseed_losses_fea1,1000 tonnes,measure
-Rape and Mustardseed - Other uses,rape_and_mustardseed_other_uses_fea,1000 tonnes,measure
 Rape and Mustardseed - Other uses (non-food),rape_and_mustardseed_other_uses_non_food_c_e,tonnes,measure
+Rape and Mustardseed - Other uses (non-food),rape_and_mustardseed_other_uses_non_food_fea,1000 tonnes,measure
 Rape and Mustardseed - Other uses (non-food),rape_and_mustardseed_other_uses_non_food_fea1,1000 tonnes,measure
 Rape and Mustardseed - Processing,rape_and_mustardseed_processing_c_e,tonnes,measure
 Rape and Mustardseed - Processing,rape_and_mustardseed_processing_fea,1000 tonnes,measure
@@ -15990,7 +15989,7 @@ Rice (Milled Equivalent) - Food supply (kcal/capita/day),rice_milled_equivalent_
 Rice (Milled Equivalent) - Food supply quantity (kg/capita/yr),rice_milled_equivalent_food_supply_quantity_kg_capita_yr_fea,kg,measure
 Rice (Milled Equivalent) - Import Quantity,rice_milled_equivalent_import_quantity_fea,1000 tonnes,measure
 Rice (Milled Equivalent) - Losses,rice_milled_equivalent_losses_fea,1000 tonnes,measure
-Rice (Milled Equivalent) - Other uses,rice_milled_equivalent_other_uses_fea,1000 tonnes,measure
+Rice (Milled Equivalent) - Other uses (non-food),rice_milled_equivalent_other_uses_non_food_fea,1000 tonnes,measure
 Rice (Milled Equivalent) - Processing,rice_milled_equivalent_processing_fea,1000 tonnes,measure
 Rice (Milled Equivalent) - Production,rice_milled_equivalent_production_fea,1000 tonnes,measure
 Rice (Milled Equivalent) - Protein supply quantity (g/capita/day),rice_milled_equivalent_protein_supply_quantity_g_capita_day_fea,g/capita/day,measure
@@ -16110,7 +16109,7 @@ Ricebran Oil - Food supply quantity (kg/capita/yr),ricebran_oil_food_supply_quan
 Ricebran Oil - Food supply quantity (kg/capita/yr),ricebran_oil_food_supply_quantity_kg_capita_yr_fea1,kg,measure
 Ricebran Oil - Import Quantity,ricebran_oil_import_quantity_fea,1000 tonnes,measure
 Ricebran Oil - Import Quantity,ricebran_oil_import_quantity_fea1,1000 tonnes,measure
-Ricebran Oil - Other uses,ricebran_oil_other_uses_fea,1000 tonnes,measure
+Ricebran Oil - Other uses (non-food),ricebran_oil_other_uses_non_food_fea,1000 tonnes,measure
 Ricebran Oil - Other uses (non-food),ricebran_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Ricebran Oil - Processing,ricebran_oil_processing_fea1,1000 tonnes,measure
 Ricebran Oil - Production,ricebran_oil_production_fea,1000 tonnes,measure
@@ -16239,7 +16238,7 @@ Roots and tubers nes - Yield,roots_and_tubers_nes_yield_pcl,hg/ha,measure
 "Roots, Other - Import Quantity",roots_other_import_quantity_fea1,1000 tonnes,measure
 "Roots, Other - Losses",roots_other_losses_fea,1000 tonnes,measure
 "Roots, Other - Losses",roots_other_losses_fea1,1000 tonnes,measure
-"Roots, Other - Other uses",roots_other_other_uses_fea,1000 tonnes,measure
+"Roots, Other - Other uses (non-food)",roots_other_other_uses_non_food_fea,1000 tonnes,measure
 "Roots, Other - Other uses (non-food)",roots_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Roots, Other - Processing",roots_other_processing_fea,1000 tonnes,measure
 "Roots, Other - Production",roots_other_production_fea,1000 tonnes,measure
@@ -16323,7 +16322,7 @@ Rye and products - Import Quantity,rye_and_products_import_quantity_fea,1000 ton
 Rye and products - Import Quantity,rye_and_products_import_quantity_fea1,1000 tonnes,measure
 Rye and products - Losses,rye_and_products_losses_fea,1000 tonnes,measure
 Rye and products - Losses,rye_and_products_losses_fea1,1000 tonnes,measure
-Rye and products - Other uses,rye_and_products_other_uses_fea,1000 tonnes,measure
+Rye and products - Other uses (non-food),rye_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Rye and products - Other uses (non-food),rye_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Rye and products - Processing,rye_and_products_processing_fea,1000 tonnes,measure
 Rye and products - Processing,rye_and_products_processing_fea1,1000 tonnes,measure
@@ -16558,7 +16557,7 @@ Sesame seed - Loss,sesame_seed_loss_scl,tonnes,measure
 Sesame seed - Losses,sesame_seed_losses_fea,1000 tonnes,measure
 Sesame seed - Losses,sesame_seed_losses_fea1,1000 tonnes,measure
 Sesame seed - Opening stocks,sesame_seed_opening_stocks_scl,tonnes,measure
-Sesame seed - Other uses,sesame_seed_other_uses_fea,1000 tonnes,measure
+Sesame seed - Other uses (non-food),sesame_seed_other_uses_non_food_fea,1000 tonnes,measure
 Sesame seed - Other uses (non-food),sesame_seed_other_uses_non_food_fea1,1000 tonnes,measure
 Sesame seed - Other uses (non-food),sesame_seed_other_uses_non_food_scl,tonnes,measure
 Sesame seed - Processed,sesame_seed_processed_scl,tonnes,measure
@@ -16611,7 +16610,7 @@ Sesameseed Oil - Import Quantity,sesameseed_oil_import_quantity_fea,1000 tonnes,
 Sesameseed Oil - Import Quantity,sesameseed_oil_import_quantity_fea1,1000 tonnes,measure
 Sesameseed Oil - Losses,sesameseed_oil_losses_fea,1000 tonnes,measure
 Sesameseed Oil - Losses,sesameseed_oil_losses_fea1,1000 tonnes,measure
-Sesameseed Oil - Other uses,sesameseed_oil_other_uses_fea,1000 tonnes,measure
+Sesameseed Oil - Other uses (non-food),sesameseed_oil_other_uses_non_food_fea,1000 tonnes,measure
 Sesameseed Oil - Other uses (non-food),sesameseed_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Sesameseed Oil - Processing,sesameseed_oil_processing_fea,1000 tonnes,measure
 Sesameseed Oil - Processing,sesameseed_oil_processing_fea1,1000 tonnes,measure
@@ -16871,7 +16870,7 @@ Sorghum and products - Import Quantity,sorghum_and_products_import_quantity_fea,
 Sorghum and products - Import Quantity,sorghum_and_products_import_quantity_fea1,1000 tonnes,measure
 Sorghum and products - Losses,sorghum_and_products_losses_fea,1000 tonnes,measure
 Sorghum and products - Losses,sorghum_and_products_losses_fea1,1000 tonnes,measure
-Sorghum and products - Other uses,sorghum_and_products_other_uses_fea,1000 tonnes,measure
+Sorghum and products - Other uses (non-food),sorghum_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Sorghum and products - Other uses (non-food),sorghum_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Sorghum and products - Processing,sorghum_and_products_processing_fea,1000 tonnes,measure
 Sorghum and products - Processing,sorghum_and_products_processing_fea1,1000 tonnes,measure
@@ -17001,7 +17000,7 @@ Soyabean Oil - Import Quantity,soyabean_oil_import_quantity_fea,1000 tonnes,meas
 Soyabean Oil - Import Quantity,soyabean_oil_import_quantity_fea1,1000 tonnes,measure
 Soyabean Oil - Losses,soyabean_oil_losses_fea,1000 tonnes,measure
 Soyabean Oil - Losses,soyabean_oil_losses_fea1,1000 tonnes,measure
-Soyabean Oil - Other uses,soyabean_oil_other_uses_fea,1000 tonnes,measure
+Soyabean Oil - Other uses (non-food),soyabean_oil_other_uses_non_food_fea,1000 tonnes,measure
 Soyabean Oil - Other uses (non-food),soyabean_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Soyabean Oil - Processing,soyabean_oil_processing_fea,1000 tonnes,measure
 Soyabean Oil - Processing,soyabean_oil_processing_fea1,1000 tonnes,measure
@@ -17031,7 +17030,7 @@ Soyabeans - Import Quantity,soyabeans_import_quantity_fea,1000 tonnes,measure
 Soyabeans - Import Quantity,soyabeans_import_quantity_fea1,1000 tonnes,measure
 Soyabeans - Losses,soyabeans_losses_fea,1000 tonnes,measure
 Soyabeans - Losses,soyabeans_losses_fea1,1000 tonnes,measure
-Soyabeans - Other uses,soyabeans_other_uses_fea,1000 tonnes,measure
+Soyabeans - Other uses (non-food),soyabeans_other_uses_non_food_fea,1000 tonnes,measure
 Soyabeans - Other uses (non-food),soyabeans_other_uses_non_food_fea1,1000 tonnes,measure
 Soyabeans - Processing,soyabeans_processing_fea,1000 tonnes,measure
 Soyabeans - Processing,soyabeans_processing_fea1,1000 tonnes,measure
@@ -17177,7 +17176,7 @@ Spices nes - Yield,spices_nes_yield_pcl,hg/ha,measure
 "Spices, Other - Import Quantity",spices_other_import_quantity_fea1,1000 tonnes,measure
 "Spices, Other - Losses",spices_other_losses_fea,1000 tonnes,measure
 "Spices, Other - Losses",spices_other_losses_fea1,1000 tonnes,measure
-"Spices, Other - Other uses",spices_other_other_uses_fea,1000 tonnes,measure
+"Spices, Other - Other uses (non-food)",spices_other_other_uses_non_food_fea,1000 tonnes,measure
 "Spices, Other - Other uses (non-food)",spices_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Spices, Other - Production",spices_other_production_fea,1000 tonnes,measure
 "Spices, Other - Production",spices_other_production_fea1,1000 tonnes,measure
@@ -17187,7 +17186,7 @@ Spices nes - Yield,spices_nes_yield_pcl,hg/ha,measure
 "Spices, Other - Stock Variation",spices_other_stock_variation_fea,1000 tonnes,measure
 "Spices, Other - Stock Variation",spices_other_stock_variation_fea1,1000 tonnes,measure
 "Spices, Other - Tourist consumption",spices_other_tourist_consumption_fea1,1000 tonnes,measure
-Spices - Other uses,spices_other_uses_fea,1000 tonnes,measure
+Spices - Other uses (non-food),spices_other_uses_non_food_fea,1000 tonnes,measure
 Spices - Other uses (non-food),spices_other_uses_non_food_fea1,1000 tonnes,measure
 Spices - Production,spices_production_fea,1000 tonnes,measure
 Spices - Production,spices_production_fea1,1000 tonnes,measure
@@ -17344,7 +17343,7 @@ Starchy Roots - Import Quantity,starchy_roots_import_quantity_fea,1000 tonnes,me
 Starchy Roots - Import Quantity,starchy_roots_import_quantity_fea1,1000 tonnes,measure
 Starchy Roots - Losses,starchy_roots_losses_fea,1000 tonnes,measure
 Starchy Roots - Losses,starchy_roots_losses_fea1,1000 tonnes,measure
-Starchy Roots - Other uses,starchy_roots_other_uses_fea,1000 tonnes,measure
+Starchy Roots - Other uses (non-food),starchy_roots_other_uses_non_food_fea,1000 tonnes,measure
 Starchy Roots - Other uses (non-food),starchy_roots_other_uses_non_food_fea1,1000 tonnes,measure
 Starchy Roots - Processing,starchy_roots_processing_fea,1000 tonnes,measure
 Starchy Roots - Processing,starchy_roots_processing_fea1,1000 tonnes,measure
@@ -17376,7 +17375,7 @@ Stimulants - Import Quantity,stimulants_import_quantity_fea,1000 tonnes,measure
 Stimulants - Import Quantity,stimulants_import_quantity_fea1,1000 tonnes,measure
 Stimulants - Losses,stimulants_losses_fea,1000 tonnes,measure
 Stimulants - Losses,stimulants_losses_fea1,1000 tonnes,measure
-Stimulants - Other uses,stimulants_other_uses_fea,1000 tonnes,measure
+Stimulants - Other uses (non-food),stimulants_other_uses_non_food_fea,1000 tonnes,measure
 Stimulants - Other uses (non-food),stimulants_other_uses_non_food_fea1,1000 tonnes,measure
 Stimulants - Processing,stimulants_processing_fea,1000 tonnes,measure
 Stimulants - Processing,stimulants_processing_fea1,1000 tonnes,measure
@@ -17514,7 +17513,7 @@ Sugar beet - Loss,sugar_beet_loss_scl,tonnes,measure
 Sugar beet - Losses,sugar_beet_losses_fea,1000 tonnes,measure
 Sugar beet - Losses,sugar_beet_losses_fea1,1000 tonnes,measure
 Sugar beet - Opening stocks,sugar_beet_opening_stocks_scl,tonnes,measure
-Sugar beet - Other uses,sugar_beet_other_uses_fea,1000 tonnes,measure
+Sugar beet - Other uses (non-food),sugar_beet_other_uses_non_food_fea,1000 tonnes,measure
 Sugar beet - Other uses (non-food),sugar_beet_other_uses_non_food_fea1,1000 tonnes,measure
 Sugar beet - Other uses (non-food),sugar_beet_other_uses_non_food_scl,tonnes,measure
 Sugar beet - Processed,sugar_beet_processed_scl,tonnes,measure
@@ -17582,7 +17581,7 @@ Sugar cane - Loss,sugar_cane_loss_scl,tonnes,measure
 Sugar cane - Losses,sugar_cane_losses_fea,1000 tonnes,measure
 Sugar cane - Losses,sugar_cane_losses_fea1,1000 tonnes,measure
 Sugar cane - Opening stocks,sugar_cane_opening_stocks_scl,tonnes,measure
-Sugar cane - Other uses,sugar_cane_other_uses_fea,1000 tonnes,measure
+Sugar cane - Other uses (non-food),sugar_cane_other_uses_non_food_fea,1000 tonnes,measure
 Sugar cane - Other uses (non-food),sugar_cane_other_uses_non_food_fea1,1000 tonnes,measure
 Sugar cane - Other uses (non-food),sugar_cane_other_uses_non_food_scl,tonnes,measure
 Sugar cane - Processed,sugar_cane_processed_scl,tonnes,measure
@@ -17696,7 +17695,7 @@ Sugar crops nes - Residuals,sugar_crops_nes_residuals_scl,tonnes,measure
 Sugar crops nes - Stock Variation,sugar_crops_nes_stock_variation_scl,tonnes,measure
 Sugar crops nes - Tourist consumption,sugar_crops_nes_tourist_consumption_scl,tonnes,measure
 Sugar crops nes - Yield,sugar_crops_nes_yield_pcl,hg/ha,measure
-Sugar Crops - Other uses,sugar_crops_other_uses_fea,1000 tonnes,measure
+Sugar Crops - Other uses (non-food),sugar_crops_other_uses_non_food_fea,1000 tonnes,measure
 Sugar Crops - Other uses (non-food),sugar_crops_other_uses_non_food_fea1,1000 tonnes,measure
 Sugar Crops Primary - Area harvested,sugar_crops_primary_area_harvested_pcl,ha,measure
 Sugar Crops Primary - Export Quantity,sugar_crops_primary_export_quantity_tce,tonnes,measure
@@ -17787,7 +17786,7 @@ Sugar non-centrifugal - Loss,sugar_non_centrifugal_loss_scl,tonnes,measure
 Sugar non-centrifugal - Losses,sugar_non_centrifugal_losses_fea,1000 tonnes,measure
 Sugar non-centrifugal - Losses,sugar_non_centrifugal_losses_fea1,1000 tonnes,measure
 Sugar non-centrifugal - Opening stocks,sugar_non_centrifugal_opening_stocks_scl,tonnes,measure
-Sugar non-centrifugal - Other uses,sugar_non_centrifugal_other_uses_fea,1000 tonnes,measure
+Sugar non-centrifugal - Other uses (non-food),sugar_non_centrifugal_other_uses_non_food_fea,1000 tonnes,measure
 Sugar non-centrifugal - Other uses (non-food),sugar_non_centrifugal_other_uses_non_food_fea1,1000 tonnes,measure
 Sugar non-centrifugal - Other uses (non-food),sugar_non_centrifugal_other_uses_non_food_scl,tonnes,measure
 Sugar non-centrifugal - Processed,sugar_non_centrifugal_processed_scl,tonnes,measure
@@ -17858,7 +17857,7 @@ Sugar (Raw Equivalent) - Import Quantity,sugar_raw_equivalent_import_quantity_fe
 Sugar (Raw Equivalent) - Import Quantity,sugar_raw_equivalent_import_quantity_fea1,1000 tonnes,measure
 Sugar (Raw Equivalent) - Losses,sugar_raw_equivalent_losses_fea,1000 tonnes,measure
 Sugar (Raw Equivalent) - Losses,sugar_raw_equivalent_losses_fea1,1000 tonnes,measure
-Sugar (Raw Equivalent) - Other uses,sugar_raw_equivalent_other_uses_fea,1000 tonnes,measure
+Sugar (Raw Equivalent) - Other uses (non-food),sugar_raw_equivalent_other_uses_non_food_fea,1000 tonnes,measure
 Sugar (Raw Equivalent) - Other uses (non-food),sugar_raw_equivalent_other_uses_non_food_fea1,1000 tonnes,measure
 Sugar (Raw Equivalent) - Processing,sugar_raw_equivalent_processing_fea,1000 tonnes,measure
 Sugar (Raw Equivalent) - Processing,sugar_raw_equivalent_processing_fea1,1000 tonnes,measure
@@ -17920,7 +17919,7 @@ Sugar & Sweeteners - Import Quantity,sugar_sweeteners_import_quantity_fea,1000 t
 Sugar & Sweeteners - Import Quantity,sugar_sweeteners_import_quantity_fea1,1000 tonnes,measure
 Sugar & Sweeteners - Losses,sugar_sweeteners_losses_fea,1000 tonnes,measure
 Sugar & Sweeteners - Losses,sugar_sweeteners_losses_fea1,1000 tonnes,measure
-Sugar & Sweeteners - Other uses,sugar_sweeteners_other_uses_fea,1000 tonnes,measure
+Sugar & Sweeteners - Other uses (non-food),sugar_sweeteners_other_uses_non_food_fea,1000 tonnes,measure
 Sugar & Sweeteners - Other uses (non-food),sugar_sweeteners_other_uses_non_food_fea1,1000 tonnes,measure
 Sugar & Sweeteners - Processing,sugar_sweeteners_processing_fea,1000 tonnes,measure
 Sugar & Sweeteners - Processing,sugar_sweeteners_processing_fea1,1000 tonnes,measure
@@ -17985,7 +17984,7 @@ Sunflower seed - Loss,sunflower_seed_loss_scl,tonnes,measure
 Sunflower seed - Losses,sunflower_seed_losses_fea,1000 tonnes,measure
 Sunflower seed - Losses,sunflower_seed_losses_fea1,1000 tonnes,measure
 Sunflower seed - Opening stocks,sunflower_seed_opening_stocks_scl,tonnes,measure
-Sunflower seed - Other uses,sunflower_seed_other_uses_fea,1000 tonnes,measure
+Sunflower seed - Other uses (non-food),sunflower_seed_other_uses_non_food_fea,1000 tonnes,measure
 Sunflower seed - Other uses (non-food),sunflower_seed_other_uses_non_food_fea1,1000 tonnes,measure
 Sunflower seed - Other uses (non-food),sunflower_seed_other_uses_non_food_scl,tonnes,measure
 Sunflower seed - Processed,sunflower_seed_processed_scl,tonnes,measure
@@ -18039,7 +18038,7 @@ Sunflowerseed Oil - Import Quantity,sunflowerseed_oil_import_quantity_fea,1000 t
 Sunflowerseed Oil - Import Quantity,sunflowerseed_oil_import_quantity_fea1,1000 tonnes,measure
 Sunflowerseed Oil - Losses,sunflowerseed_oil_losses_fea,1000 tonnes,measure
 Sunflowerseed Oil - Losses,sunflowerseed_oil_losses_fea1,1000 tonnes,measure
-Sunflowerseed Oil - Other uses,sunflowerseed_oil_other_uses_fea,1000 tonnes,measure
+Sunflowerseed Oil - Other uses (non-food),sunflowerseed_oil_other_uses_non_food_fea,1000 tonnes,measure
 Sunflowerseed Oil - Other uses (non-food),sunflowerseed_oil_other_uses_non_food_fea1,1000 tonnes,measure
 Sunflowerseed Oil - Processing,sunflowerseed_oil_processing_fea,1000 tonnes,measure
 Sunflowerseed Oil - Processing,sunflowerseed_oil_processing_fea1,1000 tonnes,measure
@@ -18145,7 +18144,7 @@ Sweet potatoes - Loss,sweet_potatoes_loss_scl,tonnes,measure
 Sweet potatoes - Losses,sweet_potatoes_losses_fea,1000 tonnes,measure
 Sweet potatoes - Losses,sweet_potatoes_losses_fea1,1000 tonnes,measure
 Sweet potatoes - Opening stocks,sweet_potatoes_opening_stocks_scl,tonnes,measure
-Sweet potatoes - Other uses,sweet_potatoes_other_uses_fea,1000 tonnes,measure
+Sweet potatoes - Other uses (non-food),sweet_potatoes_other_uses_non_food_fea,1000 tonnes,measure
 Sweet potatoes - Other uses (non-food),sweet_potatoes_other_uses_non_food_fea1,1000 tonnes,measure
 Sweet potatoes - Other uses (non-food),sweet_potatoes_other_uses_non_food_scl,tonnes,measure
 Sweet potatoes - Processed,sweet_potatoes_processed_scl,tonnes,measure
@@ -18192,7 +18191,7 @@ Sweet potatoes - Yield,sweet_potatoes_yield_pcl,hg/ha,measure
 "Sweeteners, Other - Import Quantity",sweeteners_other_import_quantity_fea1,1000 tonnes,measure
 "Sweeteners, Other - Losses",sweeteners_other_losses_fea,1000 tonnes,measure
 "Sweeteners, Other - Losses",sweeteners_other_losses_fea1,1000 tonnes,measure
-"Sweeteners, Other - Other uses",sweeteners_other_other_uses_fea,1000 tonnes,measure
+"Sweeteners, Other - Other uses (non-food)",sweeteners_other_other_uses_non_food_fea,1000 tonnes,measure
 "Sweeteners, Other - Other uses (non-food)",sweeteners_other_other_uses_non_food_fea1,1000 tonnes,measure
 "Sweeteners, Other - Processing",sweeteners_other_processing_fea,1000 tonnes,measure
 "Sweeteners, Other - Processing",sweeteners_other_processing_fea1,1000 tonnes,measure
@@ -18516,7 +18515,7 @@ Tea (including mate) - Import Quantity,tea_including_mate_import_quantity_fea,10
 Tea (including mate) - Import Quantity,tea_including_mate_import_quantity_fea1,1000 tonnes,measure
 Tea (including mate) - Losses,tea_including_mate_losses_fea,1000 tonnes,measure
 Tea (including mate) - Losses,tea_including_mate_losses_fea1,1000 tonnes,measure
-Tea (including mate) - Other uses,tea_including_mate_other_uses_fea,1000 tonnes,measure
+Tea (including mate) - Other uses (non-food),tea_including_mate_other_uses_non_food_fea,1000 tonnes,measure
 Tea (including mate) - Other uses (non-food),tea_including_mate_other_uses_non_food_fea1,1000 tonnes,measure
 Tea (including mate) - Production,tea_including_mate_production_fea,1000 tonnes,measure
 Tea (including mate) - Production,tea_including_mate_production_fea1,1000 tonnes,measure
@@ -18668,7 +18667,7 @@ Tomatoes and products - Import Quantity,tomatoes_and_products_import_quantity_fe
 Tomatoes and products - Import Quantity,tomatoes_and_products_import_quantity_fea1,1000 tonnes,measure
 Tomatoes and products - Losses,tomatoes_and_products_losses_fea,1000 tonnes,measure
 Tomatoes and products - Losses,tomatoes_and_products_losses_fea1,1000 tonnes,measure
-Tomatoes and products - Other uses,tomatoes_and_products_other_uses_fea,1000 tonnes,measure
+Tomatoes and products - Other uses (non-food),tomatoes_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Tomatoes and products - Other uses (non-food),tomatoes_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Tomatoes and products - Processing,tomatoes_and_products_processing_fea,1000 tonnes,measure
 Tomatoes and products - Processing,tomatoes_and_products_processing_fea1,1000 tonnes,measure
@@ -18829,7 +18828,7 @@ Treenuts - Import Quantity,treenuts_import_quantity_fea,1000 tonnes,measure
 Treenuts - Import Quantity,treenuts_import_quantity_fea1,1000 tonnes,measure
 Treenuts - Losses,treenuts_losses_fea,1000 tonnes,measure
 Treenuts - Losses,treenuts_losses_fea1,1000 tonnes,measure
-Treenuts - Other uses,treenuts_other_uses_fea,1000 tonnes,measure
+Treenuts - Other uses (non-food),treenuts_other_uses_non_food_fea,1000 tonnes,measure
 Treenuts - Other uses (non-food),treenuts_other_uses_non_food_fea1,1000 tonnes,measure
 Treenuts - Processing,treenuts_processing_fea,1000 tonnes,measure
 Treenuts - Production,treenuts_production_fea,1000 tonnes,measure
@@ -19121,7 +19120,7 @@ Vegetable Oils - Import Quantity,vegetable_oils_import_quantity_fea,1000 tonnes,
 Vegetable Oils - Import Quantity,vegetable_oils_import_quantity_fea1,1000 tonnes,measure
 Vegetable Oils - Losses,vegetable_oils_losses_fea,1000 tonnes,measure
 Vegetable Oils - Losses,vegetable_oils_losses_fea1,1000 tonnes,measure
-Vegetable Oils - Other uses,vegetable_oils_other_uses_fea,1000 tonnes,measure
+Vegetable Oils - Other uses (non-food),vegetable_oils_other_uses_non_food_fea,1000 tonnes,measure
 Vegetable Oils - Other uses (non-food),vegetable_oils_other_uses_non_food_fea1,1000 tonnes,measure
 Vegetable Oils - Processing,vegetable_oils_processing_fea,1000 tonnes,measure
 Vegetable Oils - Processing,vegetable_oils_processing_fea1,1000 tonnes,measure
@@ -19372,39 +19371,39 @@ Vegetables in vinegar - Tourist consumption,vegetables_in_vinegar_tourist_consum
 Vegetables - Losses,vegetables_losses_fea,1000 tonnes,measure
 Vegetables - Losses,vegetables_losses_fea1,1000 tonnes,measure
 "Vegetables&Melons, Total - Producer Price Index (2014-2016 = 100)",vegetables_melons_total_producer_price_index_2014_2016_100_pea2,,measure
-"Vegetables, Other - Domestic supply quantity",vegetables_other_domestic_supply_quantity_fea,1000 tonnes,measure
+"Vegetables, other - Domestic supply quantity",vegetables_other_domestic_supply_quantity_fea,1000 tonnes,measure
 "Vegetables, Other - Domestic supply quantity",vegetables_other_domestic_supply_quantity_fea1,1000 tonnes,measure
-"Vegetables, Other - Export Quantity",vegetables_other_export_quantity_fea,1000 tonnes,measure
+"Vegetables, other - Export Quantity",vegetables_other_export_quantity_fea,1000 tonnes,measure
 "Vegetables, Other - Export Quantity",vegetables_other_export_quantity_fea1,1000 tonnes,measure
-"Vegetables, Other - Fat supply quantity (g/capita/day)",vegetables_other_fat_supply_quantity_g_capita_day_fea,g/capita/day,measure
+"Vegetables, other - Fat supply quantity (g/capita/day)",vegetables_other_fat_supply_quantity_g_capita_day_fea,g/capita/day,measure
 "Vegetables, Other - Fat supply quantity (g/capita/day)",vegetables_other_fat_supply_quantity_g_capita_day_fea1,g/capita/day,measure
-"Vegetables, Other - Feed",vegetables_other_feed_fea,1000 tonnes,measure
+"Vegetables, other - Feed",vegetables_other_feed_fea,1000 tonnes,measure
 "Vegetables, Other - Feed",vegetables_other_feed_fea1,1000 tonnes,measure
-"Vegetables, Other - Food",vegetables_other_food_fea,1000 tonnes,measure
+"Vegetables, other - Food",vegetables_other_food_fea,1000 tonnes,measure
 "Vegetables, Other - Food",vegetables_other_food_fea1,1000 tonnes,measure
-"Vegetables, Other - Food supply (kcal/capita/day)",vegetables_other_food_supply_kcal_capita_day_fea,kcal/capita/day,measure
+"Vegetables, other - Food supply (kcal/capita/day)",vegetables_other_food_supply_kcal_capita_day_fea,kcal/capita/day,measure
 "Vegetables, Other - Food supply (kcal/capita/day)",vegetables_other_food_supply_kcal_capita_day_fea1,kcal/capita/day,measure
-"Vegetables, Other - Food supply quantity (kg/capita/yr)",vegetables_other_food_supply_quantity_kg_capita_yr_fea,kg,measure
+"Vegetables, other - Food supply quantity (kg/capita/yr)",vegetables_other_food_supply_quantity_kg_capita_yr_fea,kg,measure
 "Vegetables, Other - Food supply quantity (kg/capita/yr)",vegetables_other_food_supply_quantity_kg_capita_yr_fea1,kg,measure
-"Vegetables, Other - Import Quantity",vegetables_other_import_quantity_fea,1000 tonnes,measure
+"Vegetables, other - Import Quantity",vegetables_other_import_quantity_fea,1000 tonnes,measure
 "Vegetables, Other - Import Quantity",vegetables_other_import_quantity_fea1,1000 tonnes,measure
-"Vegetables, Other - Losses",vegetables_other_losses_fea,1000 tonnes,measure
+"Vegetables, other - Losses",vegetables_other_losses_fea,1000 tonnes,measure
 "Vegetables, Other - Losses",vegetables_other_losses_fea1,1000 tonnes,measure
-"Vegetables, Other - Other uses",vegetables_other_other_uses_fea,1000 tonnes,measure
+"Vegetables, other - Other uses (non-food)",vegetables_other_other_uses_non_food_fea,1000 tonnes,measure
 "Vegetables, Other - Other uses (non-food)",vegetables_other_other_uses_non_food_fea1,1000 tonnes,measure
-"Vegetables, Other - Processing",vegetables_other_processing_fea,1000 tonnes,measure
+"Vegetables, other - Processing",vegetables_other_processing_fea,1000 tonnes,measure
 "Vegetables, Other - Processing",vegetables_other_processing_fea1,1000 tonnes,measure
-"Vegetables, Other - Production",vegetables_other_production_fea,1000 tonnes,measure
+"Vegetables, other - Production",vegetables_other_production_fea,1000 tonnes,measure
 "Vegetables, Other - Production",vegetables_other_production_fea1,1000 tonnes,measure
-"Vegetables, Other - Protein supply quantity (g/capita/day)",vegetables_other_protein_supply_quantity_g_capita_day_fea,g/capita/day,measure
+"Vegetables, other - Protein supply quantity (g/capita/day)",vegetables_other_protein_supply_quantity_g_capita_day_fea,g/capita/day,measure
 "Vegetables, Other - Protein supply quantity (g/capita/day)",vegetables_other_protein_supply_quantity_g_capita_day_fea1,g/capita/day,measure
 "Vegetables, Other - Residuals",vegetables_other_residuals_fea1,1000 tonnes,measure
-"Vegetables, Other - Seed",vegetables_other_seed_fea,1000 tonnes,measure
+"Vegetables, other - Seed",vegetables_other_seed_fea,1000 tonnes,measure
 "Vegetables, Other - Seed",vegetables_other_seed_fea1,1000 tonnes,measure
-"Vegetables, Other - Stock Variation",vegetables_other_stock_variation_fea,1000 tonnes,measure
+"Vegetables, other - Stock Variation",vegetables_other_stock_variation_fea,1000 tonnes,measure
 "Vegetables, Other - Stock Variation",vegetables_other_stock_variation_fea1,1000 tonnes,measure
 "Vegetables, Other - Tourist consumption",vegetables_other_tourist_consumption_fea1,1000 tonnes,measure
-Vegetables - Other uses,vegetables_other_uses_fea,1000 tonnes,measure
+Vegetables - Other uses (non-food),vegetables_other_uses_non_food_fea,1000 tonnes,measure
 Vegetables - Other uses (non-food),vegetables_other_uses_non_food_fea1,1000 tonnes,measure
 "Vegetables, preserved, frozen - Calories/Year",vegetables_preserved_frozen_calories_year_scl,million kcal,measure
 "Vegetables, preserved, frozen - Export Quantity",vegetables_preserved_frozen_export_quantity_scl,tonnes,measure
@@ -19733,7 +19732,7 @@ Wheat and products - Import Quantity,wheat_and_products_import_quantity_fea,1000
 Wheat and products - Import Quantity,wheat_and_products_import_quantity_fea1,1000 tonnes,measure
 Wheat and products - Losses,wheat_and_products_losses_fea,1000 tonnes,measure
 Wheat and products - Losses,wheat_and_products_losses_fea1,1000 tonnes,measure
-Wheat and products - Other uses,wheat_and_products_other_uses_fea,1000 tonnes,measure
+Wheat and products - Other uses (non-food),wheat_and_products_other_uses_non_food_fea,1000 tonnes,measure
 Wheat and products - Other uses (non-food),wheat_and_products_other_uses_non_food_fea1,1000 tonnes,measure
 Wheat and products - Processing,wheat_and_products_processing_fea,1000 tonnes,measure
 Wheat and products - Processing,wheat_and_products_processing_fea1,1000 tonnes,measure
@@ -19928,7 +19927,7 @@ Wine - Loss,wine_loss_scl,tonnes,measure
 Wine - Losses,wine_losses_fea,1000 tonnes,measure
 Wine - Losses,wine_losses_fea1,1000 tonnes,measure
 Wine - Opening stocks,wine_opening_stocks_scl,tonnes,measure
-Wine - Other uses,wine_other_uses_fea,1000 tonnes,measure
+Wine - Other uses (non-food),wine_other_uses_non_food_fea,1000 tonnes,measure
 Wine - Other uses (non-food),wine_other_uses_non_food_fea1,1000 tonnes,measure
 Wine - Other uses (non-food),wine_other_uses_non_food_scl,tonnes,measure
 Wine - Processed,wine_processed_scl,tonnes,measure
@@ -20116,7 +20115,7 @@ Yams - Loss,yams_loss_scl,tonnes,measure
 Yams - Losses,yams_losses_fea,1000 tonnes,measure
 Yams - Losses,yams_losses_fea1,1000 tonnes,measure
 Yams - Opening stocks,yams_opening_stocks_scl,tonnes,measure
-Yams - Other uses,yams_other_uses_fea,1000 tonnes,measure
+Yams - Other uses (non-food),yams_other_uses_non_food_fea,1000 tonnes,measure
 Yams - Other uses (non-food),yams_other_uses_non_food_fea1,1000 tonnes,measure
 Yams - Other uses (non-food),yams_other_uses_non_food_scl,tonnes,measure
 Yams - Producer Price Index (2014-2016 = 100),yams_producer_price_index_2014_2016_100_pea2,,measure
