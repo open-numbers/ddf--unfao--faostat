@@ -6996,6 +6996,7 @@ Forest fires - Burned Area,forest_fires_burned_area_elu,ha,measure
 Forest fires - Emissions (CH4),forest_fires_emissions_ch4_elu,kilotonnes,measure
 Forest fires - Emissions (CH4),forest_fires_emissions_ch4_ete,kilotonnes,measure
 Forest fires - Emissions (CO2),forest_fires_emissions_co2_elu,kilotonnes,measure
+Forest fires - Emissions (CO2),forest_fires_emissions_co2_ete,kilotonnes,measure
 Forest fires - Emissions (CO2eq) (AR5),forest_fires_emissions_co2eq_ar5_ete,kilotonnes,measure
 Forest fires - Emissions (CO2eq) from CH4 (AR5),forest_fires_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 Forest fires - Emissions (CO2eq) from N2O (AR5),forest_fires_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
@@ -17319,6 +17320,7 @@ Savanna fires - Burned Area,savanna_fires_burned_area_elu,ha,measure
 Savanna fires - Emissions (CH4),savanna_fires_emissions_ch4_elu,kilotonnes,measure
 Savanna fires - Emissions (CH4),savanna_fires_emissions_ch4_ete,kilotonnes,measure
 Savanna fires - Emissions (CO2),savanna_fires_emissions_co2_elu,kilotonnes,measure
+Savanna fires - Emissions (CO2),savanna_fires_emissions_co2_ete,kilotonnes,measure
 Savanna fires - Emissions (CO2eq) (AR5),savanna_fires_emissions_co2eq_ar5_ete,kilotonnes,measure
 Savanna fires - Emissions (CO2eq) from CH4 (AR5),savanna_fires_emissions_co2eq_from_ch4_ar5_ete,kilotonnes,measure
 Savanna fires - Emissions (CO2eq) from N2O (AR5),savanna_fires_emissions_co2eq_from_n2o_ar5_ete,kilotonnes,measure
