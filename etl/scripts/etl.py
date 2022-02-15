@@ -3,8 +3,11 @@
 import os
 import os.path as osp
 import zipfile
+import decimal
+import re
 from io import BytesIO
 from tempfile import mkdtemp, mktemp
+from importlib_metadata import metadata
 
 import numpy as np
 import pandas as pd
@@ -14,6 +17,7 @@ from pandas.api.types import CategoricalDtype
 from ddf_utils.str import to_concept_id, format_float_digits
 
 source_file = '../source/FAOSTAT.zip'
+metadata_file = '../source/dataset_list.csv'
 out_dir = '../../'
 
 # default dtypes for read_csv, we use categories to reduce memory usage.
@@ -96,33 +100,35 @@ def ordered_flag_category():
     return flag_cat
 
 
-def get_domains(zf):
-    """create a abbreviate(domain) for each file in the zipfile
+def get_dataset_prefix(zf, md):
+    """create dataset prefix for every zip files in the source zip file
+
+    The prefix are from the "DatasetCode" in metadata
+
+    Note: some dataset doesn't exist in metadata file. We manually gave 
+    Them a code instead.
     """
-    datasets = []
+    md['filename'] = md['FileLocation'].map(lambda x: x.split('/')[-1])
+    md_ = md.set_index('filename')
+    datasets = dict()
+    manual_settings = {
+        'Emissions_Agriculture_Waste_Disposal_E_All_Data_(Normalized).zip': 'GMEA',
+         'Environment_Transport_E_All_Data_(Normalized).zip': 'GMET', 
+         'SDG_BulkDownloads_E_All_Data_(Normalized).zip': 'GMSB'}
+    not_in_metadata_list = list()
+    
     for f in zf.filelist:
         n = f.filename
-        ns = n.split('_')[:3]
-        count = 0
-        d = []
-        for x in ns:
-            if x == '':
-                continue
-            d.append(x[0].upper())
-            count = count + 1
-            if count > 3:
-                break
-        d = ''.join(d)
-
-        i = 1
-        d_ = d
-        while d_ in datasets:
-            d_ = '{}{}'.format(d, i)
-            i = i + 1
-        datasets.append(d_)
-    fns = [x.filename for x in zf.filelist]
-    domains = dict(zip(fns, datasets))
-    return domains
+        if n in md_.index:
+            datasets[n] = md_.loc[n, 'DatasetCode']
+        elif n in manual_settings:
+            datasets[n] = manual_settings[n]
+        else:
+            not_in_metadata_list.append(n)
+    if len(not_in_metadata_list) > 0:
+        print(not_in_metadata_list)
+        raise ValueError("some file do not have dataset code in metadata, please add it in settings")
+    return datasets
 
 
 def process_file(zf, f, domains, flag_cat, geos):
@@ -145,23 +151,32 @@ def process_file(zf, f, domains, flag_cat, geos):
         groups = df.groupby(['Item', 'Element'])
     else:
         groups = df.groupby('Item')
-
+    
     for g, df_g in groups:
         if 'Area Code' in df.columns:
-            df_ = df_g[['Area Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            country_col = 'Area Code'
         elif 'Country Code' in df.columns:
-            df_ = df_g[['Country Code', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            country_col = 'Country Code'
         elif 'CountryCode' in df.columns:
-            df_ = df_g[['CountryCode', 'Year', 'Value', 'Unit', 'Flag']].copy()
+            country_col = 'CountryCode'
         else:
+            print("Error: column layout not supportted")
             raise KeyError(df.columns)
+
+        df_ = df_g[[country_col, 'Year', 'Value', 'Unit', 'Flag', 'Item Code']].copy()
 
         if isinstance(g, str):
             indicator = g
         else:
             indicator = ' - '.join(g)
-        concept_id = to_concept_id(indicator + ' ' + domains[f])
 
+        item_code = df_['Item Code'].unique()[0]
+        if re.match('[a-zA-Z].*', item_code):
+            concept_id = to_concept_id(item_code + ' ' + domains[f])
+        else:
+            concept_id = to_concept_id(indicator + ' ' + domains[f])
+
+        df_ = df_.drop(columns=['Item Code'])
         df_.columns = ['geo', 'year', concept_id, 'unit', 'flag']
 
         df_ = df_.dropna(subset=[concept_id])
@@ -190,7 +205,10 @@ def process_file(zf, f, domains, flag_cat, geos):
             print('duplicated found in {}'.format(concept_id))
 
         df_ = df_[['geo', 'year', concept_id]]
-        df_[concept_id] = df_[concept_id].map(format_float_digits)
+        try:
+            df_[concept_id] = df_[concept_id].map(format_float_digits)
+        except decimal.InvalidOperation:
+            print(f"{concept_id} values seems not decimals")
         df_['geo'] = df_['geo'].astype(str)
         (df_
          .sort_values(by=['geo', 'year'])
@@ -203,7 +221,8 @@ def process_file(zf, f, domains, flag_cat, geos):
 
 def process_files(zf, geos):
     concs = []
-    domains = get_domains(zf)
+    md = pd.read_csv(metadata_file)
+    domains = get_dataset_prefix(zf, md)
     skip_files = scan_skip_files(zf)
     flag_cat = ordered_flag_category()
     for f in zf.filelist:
