@@ -32,7 +32,8 @@ DEFAULT_DTYPES = {
     'Element': 'category',
     'Year': 'int',
     'Year Code': 'category',
-    'Unit': 'category'}
+    'Unit': 'category'
+}
 
 URL_GROUP = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/areagroup'
 URL_AREA = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/area'
@@ -42,10 +43,10 @@ URL_FLAG = 'http://fenixservices.fao.org/faostat/api/v1/en/definitions/types/fla
 def guess_data_filename(zf: zipfile.ZipFile):
     # Note 2019-12-02: now the zip file contains 2 file, one data csv and the other flags csv.
     # we only need the data csv.
-    fns = [f.filename for f in zf.filelist if
-	   ('Flags' not in f.filename) and
-           ('Symboles' not in f.filename) and
-           ('ItemCode' not in f.filename)]
+    fns = [
+        f.filename for f in zf.filelist if ('Flags' not in f.filename) and (
+            'Symboles' not in f.filename) and ('ItemCode' not in f.filename)
+    ]
     assert len(fns) == 1, f"there should be only one file. but {fns} found."
     return fns[0]
 
@@ -60,14 +61,17 @@ def scan_skip_files(zf):
         fn = f.filename
         # Food security/Survey/Monthly/Archive data have different column layout
         # so we skip them.
-        if ('Security' in fn or 'Survey' in fn or 'Monthly' in fn or 'Archive' in fn):
+        if ('Security' in fn or 'Survey' in fn or 'Monthly' in fn
+                or 'Archive' in fn):
             skips.append(fn)
             continue
-        if fn in ['Producción_Cultivos_S_Todos_los_Datos.zip',  # not in English
-                  'Employment_Indicators_E_All_Data_(Normalized).zip',   # different layout
-                  'Food_Aid_Shipments_WFP_E_All_Data_(Normalized).zip',  # different layout
-                  'Trade_DetailedTradeMatrix_E_All_Data_(Normalized).zip',  # different layout
-                  'Environment_Temperature_change_E_All_Data_(Normalized).zip']:  # monthly
+        if fn in [
+                'Producción_Cultivos_S_Todos_los_Datos.zip',  # not in English
+                'Employment_Indicators_E_All_Data_(Normalized).zip',  # different layout
+                'Food_Aid_Shipments_WFP_E_All_Data_(Normalized).zip',  # different layout
+                'Trade_DetailedTradeMatrix_E_All_Data_(Normalized).zip',  # different layout
+                'Environment_Temperature_change_E_All_Data_(Normalized).zip'  # monthly
+        ]:
             skips.append(fn)
             continue
         b = BytesIO(zf.read(fn))
@@ -94,7 +98,8 @@ def ordered_flag_category():
     # but nan is not supported as a category value in pandas, so we change it
     important_flags[0] = '_'
 
-    flags_order = pd.Series([*important_flags, *all_flags_names]).drop_duplicates().values.tolist()
+    flags_order = pd.Series([*important_flags, *all_flags_names
+                             ]).drop_duplicates().values.tolist()
     flag_cat = CategoricalDtype(flags_order, ordered=True)
 
     return flag_cat
@@ -105,18 +110,20 @@ def get_dataset_prefix(zf, md):
 
     The prefix are from the "DatasetCode" in metadata
 
-    Note: some dataset doesn't exist in metadata file. We manually gave 
+    Note: some dataset doesn't exist in metadata file. We manually gave
     Them a code instead.
     """
     md['filename'] = md['FileLocation'].map(lambda x: x.split('/')[-1])
     md_ = md.set_index('filename')
     datasets = dict()
     manual_settings = {
-        'Emissions_Agriculture_Waste_Disposal_E_All_Data_(Normalized).zip': 'GMEA',
-         'Environment_Transport_E_All_Data_(Normalized).zip': 'GMET', 
-         'SDG_BulkDownloads_E_All_Data_(Normalized).zip': 'GMSB'}
+        'Emissions_Agriculture_Waste_Disposal_E_All_Data_(Normalized).zip':
+        'GMEA',
+        'Environment_Transport_E_All_Data_(Normalized).zip': 'GMET',
+        'SDG_BulkDownloads_E_All_Data_(Normalized).zip': 'GMSB'
+    }
     not_in_metadata_list = list()
-    
+
     for f in zf.filelist:
         n = f.filename
         if n in md_.index:
@@ -127,7 +134,9 @@ def get_dataset_prefix(zf, md):
             not_in_metadata_list.append(n)
     if len(not_in_metadata_list) > 0:
         print(not_in_metadata_list)
-        raise ValueError("some file do not have dataset code in metadata, please add it in settings")
+        raise ValueError(
+            "some file do not have dataset code in metadata, please add it in settings"
+        )
     return datasets
 
 
@@ -147,11 +156,20 @@ def process_file(zf, f, domains, flag_cat, geos):
     data_csv = BytesIO(zf2.read(fn_data_csv))
     df = pd.read_csv(data_csv, encoding='latin1', dtype=DEFAULT_DTYPES)
 
+    def starts_with_char(x):
+        return re.match('[a-zA-Z].*', x)
+
+    def is_good_length(x):
+        return len(x) < 80
+
+    def add_domain(x):
+        return ' '.join([domains[f], x])
+
     if 'Element' in df.columns:
-        groups = df.groupby(['Item', 'Element'])
+        groups = df.groupby(['Item Code', 'Element Code'])
     else:
-        groups = df.groupby('Item')
-    
+        groups = df.groupby('Item Code')
+
     for g, df_g in groups:
         if 'Area Code' in df.columns:
             country_col = 'Area Code'
@@ -163,20 +181,31 @@ def process_file(zf, f, domains, flag_cat, geos):
             print("Error: column layout not supportted")
             raise KeyError(df.columns)
 
-        df_ = df_g[[country_col, 'Year', 'Value', 'Unit', 'Flag', 'Item Code']].copy()
+        df_ = df_g[[country_col, 'Year', 'Value', 'Unit', 'Flag']].copy()
+        item_name = df_g.iloc[0]['Item']
 
-        if isinstance(g, str):
-            indicator = g
-        else:
-            indicator = ' - '.join(g)
+        if isinstance(g, tuple):  # groupby item code and element code
+            element_name = df_g.iloc[0]['Element']
+            item_code = str(g[0])
+            if starts_with_char(item_code) and is_good_length(item_code):
+                concept_fullname = ' - '.join([item_code, element_name])
+            elif is_good_length(item_name):
+                concept_fullname = ' - '.join([item_name, element_name])
+            else:
+                concept_fullname = ' - '.join([item_code, element_name])
+            indicator = ' - '.join([item_name, element_name])
+        else:  # only group by item code
+            item_code = str(g)
+            if starts_with_char(item_code) and is_good_length(item_code):
+                concept_fullname = item_code
+            elif is_good_length(item_name):
+                concept_fullname = item_name
+            else:
+                concept_fullname = item_code
+            indicator = item_name
 
-        item_code = df_['Item Code'].unique()[0]
-        if re.match('[a-zA-Z].*', item_code):
-            concept_id = to_concept_id(item_code + ' ' + domains[f])
-        else:
-            concept_id = to_concept_id(indicator + ' ' + domains[f])
+        concept_id = to_concept_id(add_domain(concept_fullname))
 
-        df_ = df_.drop(columns=['Item Code'])
         df_.columns = ['geo', 'year', concept_id, 'unit', 'flag']
 
         df_ = df_.dropna(subset=[concept_id])
@@ -191,15 +220,12 @@ def process_file(zf, f, domains, flag_cat, geos):
             continue  # don't proceed these indicators
 
         unit = df_['unit'].unique()[0]
-        concs.append({
-            'name': indicator,
-            'concept': concept_id,
-            'unit': unit
-        })
+        concs.append({'name': indicator, 'concept': concept_id, 'unit': unit})
 
         df_['flag'] = df_['flag'].fillna('_')
         df_['flag'] = df_['flag'].astype(flag_cat)
-        df_ = df_.sort_values(by='flag').drop_duplicates(subset=['geo', 'year'], keep='first')
+        df_ = df_.sort_values(by='flag').drop_duplicates(
+            subset=['geo', 'year'], keep='first')
 
         if df_[df_.duplicated(subset=['geo', 'year'])].shape[0] > 0:
             print('duplicated found in {}'.format(concept_id))
@@ -210,11 +236,16 @@ def process_file(zf, f, domains, flag_cat, geos):
         except decimal.InvalidOperation:
             print(f"{concept_id} values seems not decimals")
         df_['geo'] = df_['geo'].astype(str)
-        (df_
-         .sort_values(by=['geo', 'year'])
-         .to_csv(osp.join(out_dir,
-                          'datapoints/ddf--datapoints--{}--by--geo--year.csv'.format(concept_id)),
+        os.makedirs(osp.join(out_dir, 'datapoints', domains[f]), exist_ok=True)
+        (df_.sort_values(by=['geo', 'year'])
+         .to_csv(osp.join(
+             out_dir, 'datapoints', domains[f],
+             'ddf--datapoints--{}--by--geo--year.csv'.format(concept_id)),
                  index=False))
+
+    # finally remove the temp file
+    del(zf2)
+    os.remove(tmpfile)
 
     return concs
 
@@ -248,25 +279,31 @@ def process_area_and_groups():
     areaDf = pd.DataFrame.from_records(area['data'])
     areagroupDf = pd.DataFrame.from_records(areagroup['data'])
 
-    area_to_group = (areagroupDf.groupby('Country Code')['Country Group Code']
-                     .agg(lambda xs: ','.join(sorted(list(set(xs.values.tolist())))))
-                     .reset_index())
+    area_to_group = (areagroupDf.groupby('Country Code')
+                     ['Country Group Code'].agg(lambda xs: ','.join(
+                         sorted(list(set(xs.values.tolist()))))).reset_index())
 
     areaDf['is--country'] = 'FALSE'
     areaDf['is--country_group'] = 'FALSE'
-    areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Code'].values), 'is--country'] = 'TRUE'
-    areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Group Code'].values), 'is--country_group'] = 'TRUE'
+    areaDf.loc[areaDf['Country Code'].isin(areagroupDf['Country Code'].values),
+               'is--country'] = 'TRUE'
+    areaDf.loc[
+        areaDf['Country Code'].isin(areagroupDf['Country Group Code'].values),
+        'is--country_group'] = 'TRUE'
 
-    areaDf.columns = ['geo', 'name', 'end_year',
-                      'iso2_code', 'iso3_code', 'm49_code',
-                      'start_year', 'is--country', 'is--country_group']
-    areaDf = areaDf[['geo', 'name', 'start_year', 'end_year',
-                     'iso2_code', 'iso3_code', 'm49_code',
-                     'is--country', 'is--country_group']]
+    areaDf.columns = [
+        'geo', 'name', 'end_year', 'iso2_code', 'iso3_code', 'm49_code',
+        'start_year', 'is--country', 'is--country_group'
+    ]
+    areaDf = areaDf[[
+        'geo', 'name', 'start_year', 'end_year', 'iso2_code', 'iso3_code',
+        'm49_code', 'is--country', 'is--country_group'
+    ]]
 
     areaDf = areaDf.set_index('geo')
     area_to_group = area_to_group.set_index('Country Code')
-    areaDf['country_groups'] = area_to_group.reindex(areaDf.index)['Country Group Code']
+    areaDf['country_groups'] = area_to_group.reindex(
+        areaDf.index)['Country Group Code']
 
     # TODO: not sure why there are duplicates.
     areaDf = areaDf.reset_index().drop_duplicates(subset=['geo'])
@@ -281,22 +318,23 @@ def process_concepts(concs):
     cdf[cdf.duplicated(subset='concept', keep=False)].sort_values('concept')
     cdf = cdf.drop_duplicates(subset='concept')
 
-    cdf.sort_values(by='concept').to_csv(osp.join(out_dir, 'ddf--concepts--continuous.csv'), index=False)
+    cdf.sort_values(by='concept').to_csv(osp.join(
+        out_dir, 'ddf--concepts--continuous.csv'),
+                                         index=False)
 
-    cdf2 = pd.DataFrame([
-        ['name', 'string', 'Name', ''],
-        ['geo', 'entity_domain', 'Geo domain', ''],
-        ['country', 'entity_set', 'Country', 'geo'],
-        ['country_group', 'entity_set', 'Country Group', 'geo'],
-        ['country_groups', 'string', 'Country Groups', ''],
-        ['year', 'time', 'Year', ''],
-        ['iso2_code', 'string', 'ISO2 Code', ''],
-        ['iso3_code', 'string', 'ISO3 Code', ''],
-        ['m49_code', 'string', 'M49 Code', ''],
-        ['start_year', 'string', 'Start Year', ''],
-        ['end_year', 'string', 'End Year', ''],
-        ['domain', 'string', 'Domain', ''],
-        ['unit', 'string', 'Unit', '']])
+    cdf2 = pd.DataFrame(
+        [['name', 'string', 'Name', ''],
+         ['geo', 'entity_domain', 'Geo domain', ''],
+         ['country', 'entity_set', 'Country', 'geo'],
+         ['country_group', 'entity_set', 'Country Group', 'geo'],
+         ['country_groups', 'string', 'Country Groups', ''],
+         ['year', 'time', 'Year', ''],
+         ['iso2_code', 'string', 'ISO2 Code', ''],
+         ['iso3_code', 'string', 'ISO3 Code', ''],
+         ['m49_code', 'string', 'M49 Code', ''],
+         ['start_year', 'string', 'Start Year', ''],
+         ['end_year', 'string', 'End Year', ''],
+         ['domain', 'string', 'Domain', ''], ['unit', 'string', 'Unit', '']])
     cdf2.columns = ['concept', 'concept_type', 'name', 'domain']
 
     cdf2.to_csv(osp.join(out_dir, 'ddf--concepts--discrete.csv'), index=False)
