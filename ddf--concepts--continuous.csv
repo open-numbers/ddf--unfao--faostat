@@ -215,36 +215,38 @@ Wool (Clean Eq.) - Other uses (non-food),cb_wool_clean_eq_other_uses_non_food,to
 Wool (Clean Eq.) - Processing,cb_wool_clean_eq_processing,tonnes,measure
 Wool (Clean Eq.) - Production,cb_wool_clean_eq_production,tonnes,measure
 Wool (Clean Eq.) - Stock Variation,cb_wool_clean_eq_stock_variation,tonnes,measure
-"Gross Fixed Capital Formation as a share of Value Added (Agriculture, Forestry and Fishing) - Ratio",cisp_22029_ratio,,measure
-"Gross Fixed Capital Formation as a share of Value Added (Agriculture, Forestry and Fishing) - Ratio, 2010 prices",cisp_22029_ratio_2010_prices,,measure
-"Agriculture, forestry, fishing (Central Government) - Agriculture orientation index",cisp_agriculture_forestry_fishing_central_government_agriculture_orientation_index,index,measure
 "Agriculture, forestry, fishing (Central Government) - Annual growth US$",cisp_agriculture_forestry_fishing_central_government_annual_growth_us,%,measure
-"Agriculture, forestry, fishing (Central Government) - Annual growth, US$, 2010 prices",cisp_agriculture_forestry_fishing_central_government_annual_growth_us_2010_prices,%,measure
-"Agriculture, forestry, fishing (Central Government) - Share of Total",cisp_agriculture_forestry_fishing_central_government_share_of_total,%,measure
+"Agriculture, forestry, fishing (Central Government) - Annual growth US$, 2015 prices",cisp_agriculture_forestry_fishing_central_government_annual_growth_us_2015_prices,%,measure
 "Agriculture, forestry, fishing (Central Government) - Value US$",cisp_agriculture_forestry_fishing_central_government_value_us,millions,measure
-"Agriculture, forestry, fishing (Central Government) - Value US$, 2010 prices",cisp_agriculture_forestry_fishing_central_government_value_us_2010_prices,millions,measure
-"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index",cisp_credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index,index,measure
+"Agriculture, forestry, fishing (Central Government) - Value US$, 2015 prices",cisp_agriculture_forestry_fishing_central_government_value_us_2015_prices,millions,measure
+"Credit to Agriculture, Forestry and Fishing - Agriculture orientation index US$",cisp_credit_to_agriculture_forestry_and_fishing_agriculture_orientation_index_us,index,measure
 "Credit to Agriculture, Forestry and Fishing - Annual growth US$",cisp_credit_to_agriculture_forestry_and_fishing_annual_growth_us,%,measure
-"Credit to Agriculture, Forestry and Fishing - Share of Total",cisp_credit_to_agriculture_forestry_and_fishing_share_of_total,%,measure
+"Credit to Agriculture, Forestry and Fishing - Annual growth US$, 2015 prices",cisp_credit_to_agriculture_forestry_and_fishing_annual_growth_us_2015_prices,%,measure
+"Credit to Agriculture, Forestry and Fishing - Share of Total US$",cisp_credit_to_agriculture_forestry_and_fishing_share_of_total_us,%,measure
 "Credit to Agriculture, Forestry and Fishing - Value US$",cisp_credit_to_agriculture_forestry_and_fishing_value_us,millions,measure
-"DFA Commitment to Agriculture, Forestry and Fishing - Agriculture orientation index",cisp_dfa_commitment_to_agriculture_forestry_and_fishing_agriculture_orientation_index,index,measure
-"DFA Commitment to Agriculture, Forestry and Fishing - Annual growth US$",cisp_dfa_commitment_to_agriculture_forestry_and_fishing_annual_growth_us,%,measure
-"DFA Commitment to Agriculture, Forestry and Fishing - Share of Total",cisp_dfa_commitment_to_agriculture_forestry_and_fishing_share_of_total,%,measure
-"DFA Commitment to Agriculture, Forestry and Fishing - Value US$",cisp_dfa_commitment_to_agriculture_forestry_and_fishing_value_us,millions,measure
+"Credit to Agriculture, Forestry and Fishing - Value US$, 2015 prices",cisp_credit_to_agriculture_forestry_and_fishing_value_us_2015_prices,millions,measure
+"DFA Disbursement to Agriculture, Forestry and Fishing - Agriculture orientation index US$",cisp_dfa_disbursement_to_agriculture_forestry_and_fishing_agriculture_orientation_index_us,index,measure
+"DFA Disbursement to Agriculture, Forestry and Fishing - Annual growth US$",cisp_dfa_disbursement_to_agriculture_forestry_and_fishing_annual_growth_us,%,measure
+"DFA Disbursement to Agriculture, Forestry and Fishing - Share of Total US$",cisp_dfa_disbursement_to_agriculture_forestry_and_fishing_share_of_total_us,%,measure
+"DFA Disbursement to Agriculture, Forestry and Fishing - Value US$",cisp_dfa_disbursement_to_agriculture_forestry_and_fishing_value_us,millions,measure
+"DFA Disbursement to Agriculture, Forestry and Fishing - Value US$, 2019 prices",cisp_dfa_disbursement_to_agriculture_forestry_and_fishing_value_us_2019_prices,millions,measure
 "FDI inflows to Agriculture, Forestry and Fishing - Annual growth US$",cisp_fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us,%,measure
-"FDI inflows to Agriculture, Forestry and Fishing - Annual growth, US$, 2010 prices",cisp_fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_2010_prices,%,measure
+"FDI inflows to Agriculture, Forestry and Fishing - Annual growth US$, 2015 prices",cisp_fdi_inflows_to_agriculture_forestry_and_fishing_annual_growth_us_2015_prices,%,measure
+"FDI inflows to Agriculture, Forestry and Fishing - Share of Total US$",cisp_fdi_inflows_to_agriculture_forestry_and_fishing_share_of_total_us,%,measure
 "FDI inflows to Agriculture, Forestry and Fishing - Value US$",cisp_fdi_inflows_to_agriculture_forestry_and_fishing_value_us,millions,measure
-"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2010 prices",cisp_fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2010_prices,millions,measure
-"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index,index,measure
-"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Total",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_total,%,measure
+"FDI inflows to Agriculture, Forestry and Fishing - Value US$, 2015 prices",cisp_fdi_inflows_to_agriculture_forestry_and_fishing_value_us_2015_prices,millions,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Agriculture orientation index US$",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_agriculture_orientation_index_us,index,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Annual growth US$",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_annual_growth_us,%,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Annual growth US$, 2015 prices",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_annual_growth_us_2015_prices,%,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Total US$",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_total_us,%,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Share of Value Added US$",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_share_of_value_added_us,%,measure
 "Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us,millions,measure
-Gross Fixed Capital Formation to GDP ratio - Ratio,cisp_gross_fixed_capital_formation_to_gdp_ratio_ratio,,measure
-"Gross Fixed Capital Formation to GDP ratio - Ratio, 2010 prices",cisp_gross_fixed_capital_formation_to_gdp_ratio_ratio_2010_prices,,measure
+"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing) - Value US$, 2015 prices",cisp_gross_fixed_capital_formation_agriculture_forestry_and_fishing_value_us_2015_prices,millions,measure
 "Value Added (Agriculture, Forestry and Fishing) - Annual growth US$",cisp_value_added_agriculture_forestry_and_fishing_annual_growth_us,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Annual growth, US$, 2010 prices",cisp_value_added_agriculture_forestry_and_fishing_annual_growth_us_2010_prices,%,measure
-"Value Added (Agriculture, Forestry and Fishing) - Share of Total",cisp_value_added_agriculture_forestry_and_fishing_share_of_total,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Annual growth US$, 2015 prices",cisp_value_added_agriculture_forestry_and_fishing_annual_growth_us_2015_prices,%,measure
+"Value Added (Agriculture, Forestry and Fishing) - Share of Total US$",cisp_value_added_agriculture_forestry_and_fishing_share_of_total_us,%,measure
 "Value Added (Agriculture, Forestry and Fishing) - Value US$",cisp_value_added_agriculture_forestry_and_fishing_value_us,millions,measure
-"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2010 prices",cisp_value_added_agriculture_forestry_and_fishing_value_us_2010_prices,millions,measure
+"Value Added (Agriculture, Forestry and Fishing) - Value US$, 2015 prices",cisp_value_added_agriculture_forestry_and_fishing_value_us_2015_prices,millions,measure
 "Consumer Prices, Food Indices (2015 = 100)",cp_consumer_prices_food_indices_2015_100,,measure
 "Consumer Prices, General Indices (2015 = 100)",cp_consumer_prices_general_indices_2015_100,,measure
 Food price inflation,cp_food_price_inflation,%,measure
@@ -5013,98 +5015,6 @@ Turkeys - Emissions (N2O),gm_turkeys_emissions_n2o,kilotonnes,measure
 Turkeys - Indirect emissions (N2O) (Manure management),gm_turkeys_indirect_emissions_n2o_manure_management,kilotonnes,measure
 Turkeys - Manure treated (N content),gm_turkeys_manure_treated_n_content,kg,measure
 Turkeys - Stocks,gm_turkeys_stocks,Head,measure
-Domestic wastewater - CH4 emissions,gmea_domestic_wastewater_ch4_emissions,gigagrams,measure
-Domestic wastewater - Emissions (CO2eq) (AR4),gmea_domestic_wastewater_emissions_co2eq_ar4,gigagrams,measure
-Domestic wastewater - Emissions (CO2eq) (AR5),gmea_domestic_wastewater_emissions_co2eq_ar5,gigagrams,measure
-Domestic wastewater - Emissions (CO2eq) (SAR),gmea_domestic_wastewater_emissions_co2eq_sar,gigagrams,measure
-Domestic wastewater - N2O emissions,gmea_domestic_wastewater_n2o_emissions,gigagrams,measure
-Incineration - CO2 emissions,gmea_incineration_co2_emissions,gigagrams,measure
-Incineration - Emissions (CO2eq) (AR4),gmea_incineration_emissions_co2eq_ar4,gigagrams,measure
-Incineration - Emissions (CO2eq) (AR5),gmea_incineration_emissions_co2eq_ar5,gigagrams,measure
-Incineration - Emissions (CO2eq) (SAR),gmea_incineration_emissions_co2eq_sar,gigagrams,measure
-Industrial wastewater - CH4 emissions,gmea_industrial_wastewater_ch4_emissions,gigagrams,measure
-Industrial wastewater - Emissions (CO2eq) (AR4),gmea_industrial_wastewater_emissions_co2eq_ar4,gigagrams,measure
-Industrial wastewater - Emissions (CO2eq) (AR5),gmea_industrial_wastewater_emissions_co2eq_ar5,gigagrams,measure
-Industrial wastewater - Emissions (CO2eq) (SAR),gmea_industrial_wastewater_emissions_co2eq_sar,gigagrams,measure
-Industrial wastewater - N2O emissions,gmea_industrial_wastewater_n2o_emissions,gigagrams,measure
-Solid food waste - CH4 emissions,gmea_solid_food_waste_ch4_emissions,gigagrams,measure
-Solid food waste - Emissions (CO2eq) (AR4),gmea_solid_food_waste_emissions_co2eq_ar4,gigagrams,measure
-Solid food waste - Emissions (CO2eq) (AR5),gmea_solid_food_waste_emissions_co2eq_ar5,gigagrams,measure
-Solid food waste - Emissions (CO2eq) (SAR),gmea_solid_food_waste_emissions_co2eq_sar,gigagrams,measure
-Total  waste from food systems - CH4 emissions,gmea_total_waste_from_food_systems_ch4_emissions,gigagrams,measure
-Total  waste from food systems - CO2 emissions,gmea_total_waste_from_food_systems_co2_emissions,gigagrams,measure
-Total  waste from food systems - Emissions (CO2eq) (AR4),gmea_total_waste_from_food_systems_emissions_co2eq_ar4,gigagrams,measure
-Total  waste from food systems - Emissions (CO2eq) (AR5),gmea_total_waste_from_food_systems_emissions_co2eq_ar5,gigagrams,measure
-Total  waste from food systems - Emissions (CO2eq) (SAR),gmea_total_waste_from_food_systems_emissions_co2eq_sar,gigagrams,measure
-Total  waste from food systems - N2O emissions,gmea_total_waste_from_food_systems_n2o_emissions,gigagrams,measure
-Transport - CH4 emissions,gmet_transport_ch4_emissions,kilotonnes,measure
-Transport - CO2 emissions,gmet_transport_co2_emissions,kilotonnes,measure
-Transport - Emissions (CO2eq) (AR5),gmet_transport_emissions_co2eq_ar5,kilotonnes,measure
-Transport - N2O emissions,gmet_transport_n2o_emissions,kilotonnes,measure
-"2.c.1 Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies: Total (%) - Value",gmsb_240231_value,%,measure
-"2.c.1 Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies: High food prices (%) - Value",gmsb_240232_value,%,measure
-"2.c.1 Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies: Moderately high food prices (%) - Value",gmsb_240233_value,%,measure
-"5.a.1(a) Percentage of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (female) - Value",gmsb_5_a_1_a_f_value,%,measure
-"5.a.1(a) Percentage of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (male) - Value",gmsb_5_a_1_a_m_value,%,measure
-"5.a.1(a) Percentage of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex - Value",gmsb_5_a_1_a_value,%,measure
-"5.a.1(b) Share of women among owners or rights-bearers of agricultural land, by type of tenure - Value",gmsb_5_a_1_b_value,%,measure
-6.4.1 Industrial Water Use Efficiency [US$/m3] - Value,gmsb_6_4_1_industrial_water_use_efficiency_us_m3_value,US$/m3,measure
-6.4.1 Irrigated Agriculture Water Use Efficiency [US$/m3] - Value,gmsb_6_4_1_irrigated_agriculture_water_use_efficiency_us_m3_value,US$/m3,measure
-6.4.1 Services Water Use Efficiency [US$/m3] - Value,gmsb_6_4_1_services_water_use_efficiency_us_m3_value,US$/m3,measure
-6.4.1 Total Water Use Efficiency [US$/m3] - Value,gmsb_6_4_1_total_water_use_efficiency_us_m3_value,US$/m3,measure
-"2.c.1 Indicator of Food Price Anomalies (IFPA), applied to the Consumer Food Price Index - Value",gmsb_ag_fpa_cfpi_value,index,measure
-"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Maize - Value",gmsb_ag_fpa_comm_maz_value,index,measure
-"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Millet - Value",gmsb_ag_fpa_comm_mil_value,index,measure
-"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Rice - Value",gmsb_ag_fpa_comm_ric_value,index,measure
-"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Sorghum - Value",gmsb_ag_fpa_comm_sor_value,index,measure
-"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Wheat - Value",gmsb_ag_fpa_comm_whe_value,index,measure
-15.1.1 Forest area as a proportion of total land area (%) - Value,gmsb_ag_lnd_frst_value,%,measure
-15.2.1 Above-ground biomass stock in forest (tonnes per hectare) - Value,gmsb_ag_lnd_frstbiop_value,tonnes per ha,measure
-15.2.1 Forest area under an independently verified forest management certification scheme (thousands of hectares) - Value,gmsb_ag_lnd_frstcert_value,1000 ha,measure
-15.2.1 Forest area annual net change rate (%) - Value,gmsb_ag_lnd_frstchg_value,%,measure
-15.2.1 Proportion of forest area under a long-term management plan (%) - Value,gmsb_ag_lnd_frstmgt_value,%,measure
-15.1.1 Forest area (thousands of hectares) - Value,gmsb_ag_lnd_frstn_value,1000 ha,measure
-15.2.1 Proportion of forest area within legally established protected areas (%) - Value,gmsb_ag_lnd_frstprct_value,%,measure
-15.1.1 Land area (thousands of hectares) - Value,gmsb_ag_lnd_totl_value,1000 ha,measure
-2.a.1 Agriculture value added share of GDP (%) - Value,gmsb_ag_prd_agvas_value,%,measure
-2.1.2 Prevalence of moderate or severe food insecurity (%) - Value,gmsb_ag_prd_fiesmsi_value,%,measure
-2.1.2 Population in moderate or severe food insecurity (thousands of people) - Value,gmsb_ag_prd_fiesmsin_value,1000 persons,measure
-2.1.2 Prevalence of severe food insecurity (%) (female) - Value,gmsb_ag_prd_fiessi_f_value,%,measure
-2.1.2 Prevalence of severe food insecurity (%) (male) - Value,gmsb_ag_prd_fiessi_m_value,%,measure
-2.1.2 Prevalence of severe food insecurity (%) - Value,gmsb_ag_prd_fiessi_value,%,measure
-2.1.2 Population in severe food insecurity (thousands of people) - Value,gmsb_ag_prd_fiessin_value,1000 persons,measure
-2.a.1 Agriculture orientation index for government expenditures - Value,gmsb_ag_prd_ortind_value,index,measure
-2.a.1 Agriculture share of Government Expenditure (%) - Value,gmsb_ag_xpd_agsgb_value,%,measure
-14.7.1 Sustainable fisheries as a proportion of GDP - Value,gmsb_en_scp_fshgdp_value,%,measure
-2.5.1.b Number of local breeds for which sufficient genetic resources are stored for reconstitution - Value,gmsb_er_grf_animrcnt_value,Number,measure
-2.5.1.a Plant genetic resources accessions stored ex situ (number) - Value,gmsb_er_grf_plntstor_value,Number,measure
-14.4.1 Proportion of fish stocks within biologically sustainable levels (not overexploited) (%) - Value,gmsb_er_h2o_fwtl_value,%,measure
-6.4.2 Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%) - Value,gmsb_er_h2o_stress_value,%,measure
-15.4.2 Mountain Green Cover Index: Elevation 1 - Value,gmsb_er_mtn_grncvi_1_value,%,measure
-15.4.2 Mountain Green Cover Index: Elevation 2 - Value,gmsb_er_mtn_grncvi_2_value,%,measure
-15.4.2 Mountain Green Cover Index: Elevation 3 - Value,gmsb_er_mtn_grncvi_3_value,%,measure
-15.4.2 Mountain Green Cover Index: Elevation 4 - Value,gmsb_er_mtn_grncvi_4_value,%,measure
-15.4.2 Mountain Green Cover Index: Elevation 5 - Value,gmsb_er_mtn_grncvi_5_value,%,measure
-15.4.2 Mountain Green Cover Index: Elevation 6 - Value,gmsb_er_mtn_grncvi_6_value,%,measure
-15.4.2 Mountain Green Cover Index: Elevation All - Value,gmsb_er_mtn_grncvi_a_value,%,measure
-14.b.1 Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest) - Value,gmsb_er_reg_ssfrar_value,Number,measure
-"14.6.1 Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest) - Value",gmsb_er_reg_unfcim_value,Number,measure
-2.5.2 Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%) - Value,gmsb_er_rsk_lbreds_value,%,measure
-"2.3.1 Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (female) - Value",gmsb_pd_agr_lsfp_f_value,PPP (constant 2011 prices),measure
-"2.3.1 Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (male) - Value",gmsb_pd_agr_lsfp_m_value,PPP (constant 2011 prices),measure
-"2.3.1 Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) - Value",gmsb_pd_agr_lsfp_value,PPP (constant 2011 prices),measure
-"2.3.1 Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (female) - Value",gmsb_pd_agr_ssfp_f_value,PPP (constant 2011 prices),measure
-"2.3.1 Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (male) - Value",gmsb_pd_agr_ssfp_m_value,PPP (constant 2011 prices),measure
-"2.3.1 Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) - Value",gmsb_pd_agr_ssfp_value,PPP (constant 2011 prices),measure
-5.a.2 Degree to which the legal framework (including customary law) guarantees womens equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees) - Value,gmsb_sg_lgl_lndfemod_value,Score,measure
-"2.3.2 Average income of large-scale food producers, PPP (constant 2011 international $) (female) - Value",gmsb_si_agr_lsfp_f_value,PPP (constant 2011 prices),measure
-"2.3.2 Average income of large-scale food producers, PPP (constant 2011 international $) (male) - Value",gmsb_si_agr_lsfp_m_value,PPP (constant 2011 prices),measure
-"2.3.2 Average income of large-scale food producers, PPP (constant 2011 international $) - Value",gmsb_si_agr_lsfp_value,PPP (constant 2011 prices),measure
-"2.3.2 Average income of small-scale food producers, PPP (constant 2011 international $) (female) - Value",gmsb_si_agr_ssfp_f_value,PPP (constant 2011 prices),measure
-"2.3.2 Average income of small-scale food producers, PPP (constant 2011 international $) (male) - Value",gmsb_si_agr_ssfp_m_value,PPP (constant 2011 prices),measure
-"2.3.2 Average income of small-scale food producers, PPP (constant 2011 international $) - Value",gmsb_si_agr_ssfp_value,PPP (constant 2011 prices),measure
-2.1.1 Prevalence of undernourishment (%) - Value,gmsb_sn_itk_defc_value,%,measure
-2.1.1 Number of undernourished people (millions) - Value,gmsb_sn_itk_defcn_value,millions,measure
 Coal - Emissions (CH4),gn_coal_emissions_ch4,kilotonnes,measure
 Coal - Emissions (CO2),gn_coal_emissions_co2,kilotonnes,measure
 Coal - Emissions (N2O),gn_coal_emissions_n2o,kilotonnes,measure
@@ -5493,6 +5403,10 @@ Synthetic Fertilizers - Emissions (CO2eq) (AR5),gt_synthetic_fertilizers_emissio
 Synthetic Fertilizers - Emissions (CO2eq) from N2O (AR5),gt_synthetic_fertilizers_emissions_co2eq_from_n2o_ar5,kilotonnes,measure
 Synthetic Fertilizers - Emissions (N2O),gt_synthetic_fertilizers_emissions_n2o,kilotonnes,measure
 Synthetic Fertilizers - Indirect emissions (N2O),gt_synthetic_fertilizers_indirect_emissions_n2o,kilotonnes,measure
+Transport - CH4 emissions,gtr_transport_ch4_emissions,kilotonnes,measure
+Transport - CO2 emissions,gtr_transport_co2_emissions,kilotonnes,measure
+Transport - Emissions (CO2eq) (AR5),gtr_transport_emissions_co2eq_ar5,kilotonnes,measure
+Transport - N2O emissions,gtr_transport_n2o_emissions,kilotonnes,measure
 All Animals - Direct emissions (N2O) (Manure applied),gu_all_animals_direct_emissions_n2o_manure_applied,kilotonnes,measure
 All Animals - Emissions (N2O),gu_all_animals_emissions_n2o,kilotonnes,measure
 All Animals - Indirect emissions (N2O) (Manure applied),gu_all_animals_indirect_emissions_n2o_manure_applied,kilotonnes,measure
@@ -5720,6 +5634,30 @@ Grassland organic soils - Area,gv_grassland_organic_soils_area,ha,measure
 Grassland organic soils - Emissions (CO2),gv_grassland_organic_soils_emissions_co2,kilotonnes,measure
 Grassland organic soils - Emissions (N2O),gv_grassland_organic_soils_emissions_n2o,kilotonnes,measure
 Grassland organic soils - Net stock change (C),gv_grassland_organic_soils_net_stock_change_c,kilotonnes,measure
+Domestic wastewater - CH4 emissions,gw_domestic_wastewater_ch4_emissions,gigagrams,measure
+Domestic wastewater - Emissions (CO2eq) (AR4),gw_domestic_wastewater_emissions_co2eq_ar4,gigagrams,measure
+Domestic wastewater - Emissions (CO2eq) (AR5),gw_domestic_wastewater_emissions_co2eq_ar5,gigagrams,measure
+Domestic wastewater - Emissions (CO2eq) (SAR),gw_domestic_wastewater_emissions_co2eq_sar,gigagrams,measure
+Domestic wastewater - N2O emissions,gw_domestic_wastewater_n2o_emissions,gigagrams,measure
+Incineration - CO2 emissions,gw_incineration_co2_emissions,gigagrams,measure
+Incineration - Emissions (CO2eq) (AR4),gw_incineration_emissions_co2eq_ar4,gigagrams,measure
+Incineration - Emissions (CO2eq) (AR5),gw_incineration_emissions_co2eq_ar5,gigagrams,measure
+Incineration - Emissions (CO2eq) (SAR),gw_incineration_emissions_co2eq_sar,gigagrams,measure
+Industrial wastewater - CH4 emissions,gw_industrial_wastewater_ch4_emissions,gigagrams,measure
+Industrial wastewater - Emissions (CO2eq) (AR4),gw_industrial_wastewater_emissions_co2eq_ar4,gigagrams,measure
+Industrial wastewater - Emissions (CO2eq) (AR5),gw_industrial_wastewater_emissions_co2eq_ar5,gigagrams,measure
+Industrial wastewater - Emissions (CO2eq) (SAR),gw_industrial_wastewater_emissions_co2eq_sar,gigagrams,measure
+Industrial wastewater - N2O emissions,gw_industrial_wastewater_n2o_emissions,gigagrams,measure
+Solid food waste - CH4 emissions,gw_solid_food_waste_ch4_emissions,gigagrams,measure
+Solid food waste - Emissions (CO2eq) (AR4),gw_solid_food_waste_emissions_co2eq_ar4,gigagrams,measure
+Solid food waste - Emissions (CO2eq) (AR5),gw_solid_food_waste_emissions_co2eq_ar5,gigagrams,measure
+Solid food waste - Emissions (CO2eq) (SAR),gw_solid_food_waste_emissions_co2eq_sar,gigagrams,measure
+Total  waste from food systems - CH4 emissions,gw_total_waste_from_food_systems_ch4_emissions,gigagrams,measure
+Total  waste from food systems - CO2 emissions,gw_total_waste_from_food_systems_co2_emissions,gigagrams,measure
+Total  waste from food systems - Emissions (CO2eq) (AR4),gw_total_waste_from_food_systems_emissions_co2eq_ar4,gigagrams,measure
+Total  waste from food systems - Emissions (CO2eq) (AR5),gw_total_waste_from_food_systems_emissions_co2eq_ar5,gigagrams,measure
+Total  waste from food systems - Emissions (CO2eq) (SAR),gw_total_waste_from_food_systems_emissions_co2eq_sar,gigagrams,measure
+Total  waste from food systems - N2O emissions,gw_total_waste_from_food_systems_n2o_emissions,gigagrams,measure
 Nutrient nitrogen N (total) - Agricultural Use in nutrients,gy_nutrient_nitrogen_n_total_agricultural_use_in_nutrients,kg of nutrients,measure
 Nutrient nitrogen N (total) - Direct emissions (N2O) (Synthetic fertilizers),gy_nutrient_nitrogen_n_total_direct_emissions_n2o_synthetic_fertilizers,kilotonnes,measure
 Nutrient nitrogen N (total) - Emissions (N2O),gy_nutrient_nitrogen_n_total_emissions_n2o,kilotonnes,measure
@@ -17942,6 +17880,70 @@ Yoghurt - Protein supply quantity (g/capita/day),scl_yoghurt_protein_supply_quan
 Yoghurt - Proteins/Year,scl_yoghurt_proteins_year,tonnes,measure
 Yoghurt - Residuals,scl_yoghurt_residuals,tonnes,measure
 Yoghurt - Tourist consumption,scl_yoghurt_tourist_consumption,tonnes,measure
+"2.c.1 Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies: Total (%) - Value",sdgb_240231_value,%,measure
+"2.c.1 Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies: High food prices (%) - Value",sdgb_240232_value,%,measure
+"2.c.1 Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies: Moderately high food prices (%) - Value",sdgb_240233_value,%,measure
+"5.a.1(a) Percentage of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (female) - Value",sdgb_5_a_1_a_f_value,%,measure
+"5.a.1(a) Percentage of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (male) - Value",sdgb_5_a_1_a_m_value,%,measure
+"5.a.1(a) Percentage of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex - Value",sdgb_5_a_1_a_value,%,measure
+"5.a.1(b) Share of women among owners or rights-bearers of agricultural land, by type of tenure - Value",sdgb_5_a_1_b_value,%,measure
+6.4.1 Industrial Water Use Efficiency [US$/m3] - Value,sdgb_6_4_1_industrial_water_use_efficiency_us_m3_value,US$/m3,measure
+6.4.1 Irrigated Agriculture Water Use Efficiency [US$/m3] - Value,sdgb_6_4_1_irrigated_agriculture_water_use_efficiency_us_m3_value,US$/m3,measure
+6.4.1 Services Water Use Efficiency [US$/m3] - Value,sdgb_6_4_1_services_water_use_efficiency_us_m3_value,US$/m3,measure
+6.4.1 Total Water Use Efficiency [US$/m3] - Value,sdgb_6_4_1_total_water_use_efficiency_us_m3_value,US$/m3,measure
+"2.c.1 Indicator of Food Price Anomalies (IFPA), applied to the Consumer Food Price Index - Value",sdgb_ag_fpa_cfpi_value,index,measure
+"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Maize - Value",sdgb_ag_fpa_comm_maz_value,index,measure
+"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Millet - Value",sdgb_ag_fpa_comm_mil_value,index,measure
+"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Rice - Value",sdgb_ag_fpa_comm_ric_value,index,measure
+"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Sorghum - Value",sdgb_ag_fpa_comm_sor_value,index,measure
+"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Wheat - Value",sdgb_ag_fpa_comm_whe_value,index,measure
+15.1.1 Forest area as a proportion of total land area (%) - Value,sdgb_ag_lnd_frst_value,%,measure
+15.2.1 Above-ground biomass stock in forest (tonnes per hectare) - Value,sdgb_ag_lnd_frstbiop_value,tonnes per ha,measure
+15.2.1 Forest area under an independently verified forest management certification scheme (thousands of hectares) - Value,sdgb_ag_lnd_frstcert_value,1000 ha,measure
+15.2.1 Forest area annual net change rate (%) - Value,sdgb_ag_lnd_frstchg_value,%,measure
+15.2.1 Proportion of forest area under a long-term management plan (%) - Value,sdgb_ag_lnd_frstmgt_value,%,measure
+15.1.1 Forest area (thousands of hectares) - Value,sdgb_ag_lnd_frstn_value,1000 ha,measure
+15.2.1 Proportion of forest area within legally established protected areas (%) - Value,sdgb_ag_lnd_frstprct_value,%,measure
+15.1.1 Land area (thousands of hectares) - Value,sdgb_ag_lnd_totl_value,1000 ha,measure
+2.a.1 Agriculture value added share of GDP (%) - Value,sdgb_ag_prd_agvas_value,%,measure
+2.1.2 Prevalence of moderate or severe food insecurity (%) - Value,sdgb_ag_prd_fiesmsi_value,%,measure
+2.1.2 Population in moderate or severe food insecurity (thousands of people) - Value,sdgb_ag_prd_fiesmsin_value,1000 persons,measure
+2.1.2 Prevalence of severe food insecurity (%) (female) - Value,sdgb_ag_prd_fiessi_f_value,%,measure
+2.1.2 Prevalence of severe food insecurity (%) (male) - Value,sdgb_ag_prd_fiessi_m_value,%,measure
+2.1.2 Prevalence of severe food insecurity (%) - Value,sdgb_ag_prd_fiessi_value,%,measure
+2.1.2 Population in severe food insecurity (thousands of people) - Value,sdgb_ag_prd_fiessin_value,1000 persons,measure
+2.a.1 Agriculture orientation index for government expenditures - Value,sdgb_ag_prd_ortind_value,index,measure
+2.a.1 Agriculture share of Government Expenditure (%) - Value,sdgb_ag_xpd_agsgb_value,%,measure
+14.7.1 Sustainable fisheries as a proportion of GDP - Value,sdgb_en_scp_fshgdp_value,%,measure
+2.5.1.b Number of local breeds for which sufficient genetic resources are stored for reconstitution - Value,sdgb_er_grf_animrcnt_value,Number,measure
+2.5.1.a Plant genetic resources accessions stored ex situ (number) - Value,sdgb_er_grf_plntstor_value,Number,measure
+14.4.1 Proportion of fish stocks within biologically sustainable levels (not overexploited) (%) - Value,sdgb_er_h2o_fwtl_value,%,measure
+6.4.2 Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%) - Value,sdgb_er_h2o_stress_value,%,measure
+15.4.2 Mountain Green Cover Index: Elevation 1 - Value,sdgb_er_mtn_grncvi_1_value,%,measure
+15.4.2 Mountain Green Cover Index: Elevation 2 - Value,sdgb_er_mtn_grncvi_2_value,%,measure
+15.4.2 Mountain Green Cover Index: Elevation 3 - Value,sdgb_er_mtn_grncvi_3_value,%,measure
+15.4.2 Mountain Green Cover Index: Elevation 4 - Value,sdgb_er_mtn_grncvi_4_value,%,measure
+15.4.2 Mountain Green Cover Index: Elevation 5 - Value,sdgb_er_mtn_grncvi_5_value,%,measure
+15.4.2 Mountain Green Cover Index: Elevation 6 - Value,sdgb_er_mtn_grncvi_6_value,%,measure
+15.4.2 Mountain Green Cover Index: Elevation All - Value,sdgb_er_mtn_grncvi_a_value,%,measure
+14.b.1 Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest) - Value,sdgb_er_reg_ssfrar_value,Number,measure
+"14.6.1 Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest) - Value",sdgb_er_reg_unfcim_value,Number,measure
+2.5.2 Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%) - Value,sdgb_er_rsk_lbreds_value,%,measure
+"2.3.1 Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (female) - Value",sdgb_pd_agr_lsfp_f_value,PPP (constant 2011 prices),measure
+"2.3.1 Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (male) - Value",sdgb_pd_agr_lsfp_m_value,PPP (constant 2011 prices),measure
+"2.3.1 Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) - Value",sdgb_pd_agr_lsfp_value,PPP (constant 2011 prices),measure
+"2.3.1 Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (female) - Value",sdgb_pd_agr_ssfp_f_value,PPP (constant 2011 prices),measure
+"2.3.1 Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) (male) - Value",sdgb_pd_agr_ssfp_m_value,PPP (constant 2011 prices),measure
+"2.3.1 Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) - Value",sdgb_pd_agr_ssfp_value,PPP (constant 2011 prices),measure
+5.a.2 Degree to which the legal framework (including customary law) guarantees womens equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees) - Value,sdgb_sg_lgl_lndfemod_value,Score,measure
+"2.3.2 Average income of large-scale food producers, PPP (constant 2011 international $) (female) - Value",sdgb_si_agr_lsfp_f_value,PPP (constant 2011 prices),measure
+"2.3.2 Average income of large-scale food producers, PPP (constant 2011 international $) (male) - Value",sdgb_si_agr_lsfp_m_value,PPP (constant 2011 prices),measure
+"2.3.2 Average income of large-scale food producers, PPP (constant 2011 international $) - Value",sdgb_si_agr_lsfp_value,PPP (constant 2011 prices),measure
+"2.3.2 Average income of small-scale food producers, PPP (constant 2011 international $) (female) - Value",sdgb_si_agr_ssfp_f_value,PPP (constant 2011 prices),measure
+"2.3.2 Average income of small-scale food producers, PPP (constant 2011 international $) (male) - Value",sdgb_si_agr_ssfp_m_value,PPP (constant 2011 prices),measure
+"2.3.2 Average income of small-scale food producers, PPP (constant 2011 international $) - Value",sdgb_si_agr_ssfp_value,PPP (constant 2011 prices),measure
+2.1.1 Prevalence of undernourishment (%) - Value,sdgb_sn_itk_defc_value,%,measure
+2.1.1 Number of undernourished people (millions) - Value,sdgb_sn_itk_defcn_value,millions,measure
 Agricultural Products - Export Value,tcl_agricultural_products_export_value,1000 US$,measure
 Agricultural Products - Import Value,tcl_agricultural_products_import_value,1000 US$,measure
 Alcoholic Beverages - Export Quantity,tcl_alcoholic_beverages_export_quantity,tonnes,measure
