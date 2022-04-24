@@ -85,7 +85,7 @@ geo,name,start_year,end_year,iso2_code,iso3_code,m49_code,is--country,is--countr
 72,Djibouti,,262,DJ,DJI,,TRUE,FALSE,"420,5000,5100,5101,5801,5810,5815,5817,5849,5859"
 55,Dominica,,212,DM,DMA,,TRUE,FALSE,"5000,5200,5205,5206,5803,5817,5849,9011"
 56,Dominican Republic,,214,DO,DOM,,TRUE,FALSE,"5000,5200,5205,5206,5803,5817,5849,9011"
-5854,East Asia (excluding China),,,,,,FALSE,TRUE,
+5854,East Asia (excluding China),,911,,,,FALSE,TRUE,
 5101,Eastern Africa,,014,,,,FALSE,TRUE,
 5302,Eastern Asia,,030,,,,FALSE,TRUE,
 5829,Eastern Asia (excluding Japan and China),,223,,,,FALSE,TRUE,

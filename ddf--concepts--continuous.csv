@@ -17891,8 +17891,9 @@ Yoghurt - Tourist consumption,scl_yoghurt_tourist_consumption,tonnes,measure
 6.4.1 Irrigated Agriculture Water Use Efficiency [US$/m3] - Value,sdgb_6_4_1_irrigated_agriculture_water_use_efficiency_us_m3_value,US$/m3,measure
 6.4.1 Services Water Use Efficiency [US$/m3] - Value,sdgb_6_4_1_services_water_use_efficiency_us_m3_value,US$/m3,measure
 6.4.1 Total Water Use Efficiency [US$/m3] - Value,sdgb_6_4_1_total_water_use_efficiency_us_m3_value,US$/m3,measure
+12.3.1 Food Loss Percentage (%) - Value,sdgb_ag_fls_idx_value,%,measure
 "2.c.1 Indicator of Food Price Anomalies (IFPA), applied to the Consumer Food Price Index - Value",sdgb_ag_fpa_cfpi_value,index,measure
-"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Maize - Value",sdgb_ag_fpa_comm_maz_value,index,measure
+"2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Maize - Value",sdgb_ag_fpa_comm_mai_value,index,measure
 "2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Millet - Value",sdgb_ag_fpa_comm_mil_value,index,measure
 "2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Rice - Value",sdgb_ag_fpa_comm_ric_value,index,measure
 "2.c.1 Indicator of Food Price Anomalies (IFPA), by type of product: Sorghum - Value",sdgb_ag_fpa_comm_sor_value,index,measure
@@ -17906,12 +17907,16 @@ Yoghurt - Tourist consumption,scl_yoghurt_tourist_consumption,tonnes,measure
 15.2.1 Proportion of forest area within legally established protected areas (%) - Value,sdgb_ag_lnd_frstprct_value,%,measure
 15.1.1 Land area (thousands of hectares) - Value,sdgb_ag_lnd_totl_value,1000 ha,measure
 2.a.1 Agriculture value added share of GDP (%) - Value,sdgb_ag_prd_agvas_value,%,measure
-2.1.2 Prevalence of moderate or severe food insecurity (%) - Value,sdgb_ag_prd_fiesmsi_value,%,measure
-2.1.2 Population in moderate or severe food insecurity (thousands of people) - Value,sdgb_ag_prd_fiesmsin_value,1000 persons,measure
-2.1.2 Prevalence of severe food insecurity (%) (female) - Value,sdgb_ag_prd_fiessi_f_value,%,measure
-2.1.2 Prevalence of severe food insecurity (%) (male) - Value,sdgb_ag_prd_fiessi_m_value,%,measure
-2.1.2 Prevalence of severe food insecurity (%) - Value,sdgb_ag_prd_fiessi_value,%,measure
-2.1.2 Population in severe food insecurity (thousands of people) - Value,sdgb_ag_prd_fiessin_value,1000 persons,measure
+2.1.2 Prevalence of moderate or severe food insecurity (%) (female) - Value,sdgb_ag_prd_fiesms_f_value,%,measure
+2.1.2 Prevalence of moderate or severe food insecurity (%) (male) - Value,sdgb_ag_prd_fiesms_m_value,%,measure
+2.1.2 Prevalence of moderate or severe food insecurity (%) - Value,sdgb_ag_prd_fiesms_value,%,measure
+2.1.2 Population in moderate or severe food insecurity (thousands of people) - Value,sdgb_ag_prd_fiesmsn_value,1000 persons,measure
+2.1.2 Prevalence of severe food insecurity (%) (female) - Value,sdgb_ag_prd_fiess_f_value,%,measure
+2.1.2 Prevalence of severe food insecurity (%) (male) - Value,sdgb_ag_prd_fiess_m_value,%,measure
+2.1.2 Prevalence of severe food insecurity (%) - Value,sdgb_ag_prd_fiess_value,%,measure
+2.1.2 Population in severe food insecurity (thousands of people) (female) - Value,sdgb_ag_prd_fiessn_f_value,1000 persons,measure
+2.1.2 Population in severe food insecurity (thousands of people) (male) - Value,sdgb_ag_prd_fiessn_m_value,1000 persons,measure
+2.1.2 Population in severe food insecurity (thousands of people) - Value,sdgb_ag_prd_fiessn_value,1000 persons,measure
 2.a.1 Agriculture orientation index for government expenditures - Value,sdgb_ag_prd_ortind_value,index,measure
 2.a.1 Agriculture share of Government Expenditure (%) - Value,sdgb_ag_xpd_agsgb_value,%,measure
 14.7.1 Sustainable fisheries as a proportion of GDP - Value,sdgb_en_scp_fshgdp_value,%,measure
