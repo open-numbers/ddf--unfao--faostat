@@ -6,6 +6,7 @@ import zipfile
 import decimal
 import re
 import json
+import tempfile
 
 import numpy as np
 import pandas as pd
@@ -142,9 +143,15 @@ def process_dataset_file(filename, dataset_code, flag_cat, geos):
             # Get the data CSV filename
             fn_data_csv = guess_data_filename(zf)
 
-            # Read the CSV data
-            with zf.open(fn_data_csv) as csv_file:
-                df = pd.read_csv(csv_file, encoding="latin1", dtype=DEFAULT_DTYPES)  # type: ignore
+            # Extract CSV to temporary file
+            with tempfile.NamedTemporaryFile(mode='w+b', suffix='.csv', delete=False) as temp_file:
+                temp_csv_path = temp_file.name
+                with zf.open(fn_data_csv) as csv_file:
+                    temp_file.write(csv_file.read())
+
+        try:
+            # Read the CSV data from temporary file
+            df = pd.read_csv(temp_csv_path, encoding="latin1", dtype=DEFAULT_DTYPES)  # type: ignore
 
             # Process the data similar to the original process_file function
             def starts_with_char(x):
@@ -245,8 +252,16 @@ def process_dataset_file(filename, dataset_code, flag_cat, geos):
 
                 (df_.sort_values(by=["geo", "year"]).to_csv(output_file, index=False))
 
+        finally:
+            # Clean up temporary file
+            if 'temp_csv_path' in locals() and osp.exists(temp_csv_path):
+                os.unlink(temp_csv_path)
+
     except Exception as e:
         print(f"Failed to process {filename}: {str(e)}")
+        # Clean up temporary file in case of exception
+        if 'temp_csv_path' in locals() and osp.exists(temp_csv_path):
+            os.unlink(temp_csv_path)
 
     return concs
 
