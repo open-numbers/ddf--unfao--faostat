@@ -1,0 +1,5 @@
+# Ignore all zip files in the sources directory
+*.zip
+
+# But keep the directory structure
+!.gitignore

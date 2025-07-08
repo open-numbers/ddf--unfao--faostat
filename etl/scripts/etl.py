@@ -41,7 +41,8 @@ URL_FLAG = "https://faostatservices.fao.org/api/v1/en/definitions/types/flag"
 
 
 def guess_data_filename(zf: zipfile.ZipFile):
-    # Note 2019-12-02: now the zip file contains 2 file, one data csv and the other flags csv.
+    # Note 2019-12-02: now the zip file contains more than one files.
+    # including data csv and other metadata csvs.
     # we only need the data csv.
     fns = [
         f.filename
@@ -53,8 +54,8 @@ def guess_data_filename(zf: zipfile.ZipFile):
         and ("Element" not in f.filename)
         and ("Releases" not in f.filename)
         and ("Sources" not in f.filename)
-        and ("Indicators" not in f.filename)
         and ("Purposes" not in f.filename)
+        and ("Currencys" not in f.filename)
     ]
     assert len(fns) == 1, f"there should be only one file. but {fns} found."
     return fns[0]
@@ -143,11 +144,16 @@ def process_dataset_file(filename, dataset_code, flag_cat, geos):
             # Get the data CSV filename
             fn_data_csv = guess_data_filename(zf)
 
-            # Extract CSV to temporary file
+            # Extract CSV to temporary file using chunked reading/writing
+            chunk_size = 1024 * 1024 * 1024  # 1GB chunks
             with tempfile.NamedTemporaryFile(mode='w+b', suffix='.csv', delete=False) as temp_file:
                 temp_csv_path = temp_file.name
                 with zf.open(fn_data_csv) as csv_file:
-                    temp_file.write(csv_file.read())
+                    while True:
+                        chunk = csv_file.read(chunk_size)
+                        if not chunk:
+                            break
+                        temp_file.write(chunk)
 
         try:
             # Read the CSV data from temporary file
@@ -164,9 +170,9 @@ def process_dataset_file(filename, dataset_code, flag_cat, geos):
                 return " ".join([dataset_code, x])
 
             if "Element" in df.columns:
-                groups = df.groupby(["Item Code", "Element Code"])
+                groups = df.groupby(["Item Code", "Element Code"], observed=True)
             else:
-                groups = df.groupby("Item Code")
+                groups = df.groupby("Item Code", observed=True)
 
             for g, df_g in groups:
                 if "Area Code" in df.columns:
